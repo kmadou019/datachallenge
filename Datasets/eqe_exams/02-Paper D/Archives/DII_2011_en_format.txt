@@ -1,0 +1,206 @@
+Candidate's answer 
+ 
+ 
+ 
+To the director of Axbruch GmbH: 
+ 
+General notes 
+ 
+ 
+ 
+Your German patent application DE-Ax (filed 30.10.2009) contains a long list of suitable 
+oils and a list of potential additives. The specific selection of silicon oil and a viscosity 
+index improver must be considered ‘novel’ over DE-Ax, and PCT-Ax can therefore not 
+benefit from the priority of DE-Ax for that subject-matter (cfr. G2/98). 
+I strongly suggest to add a priority claim to USP-Ax (01.02.2010) to your PCT 
+application to cover that subject-matter. Such a priority claim may be added under Rule 
+26bis.1 PCT up to 4 months from filing: 2 November 2010 + 4 months = 2 March 2011 
+That is tomorrow, so we must take urgent action. 
+ 
+The priority claim to DE-Ax is valid, because PCT-Ax was filed within the priority period, 
+which was extended by 3 days due to closing days of the receiving office. 
+If you don’t add the priority claim to USP-Ax, the standardization of 01.02.2010 will 
+become prior art for the application to the extent that its subject-matter doesn’t benefit 
+from the priority of DE-Ax, as explained above. 
+This may not be a problem, if the members of the standardization body are all bound by 
+a confidentiality agreement, but you still risk running into other intervening prior art of 
+which you are currently unaware. 
+Note that it is perfectly allowed to claim priority from a US provisional application (cfr. 
+Notice Pres. EPO 26.09.1996, OJ EPO ‘96/81). I assume that the declaration of 
+assignment filed by the inventors for this application includes the assignment of the right 
+to claim priority (at least in Europe). That is not automatically the case (T62/05). 
+I noted that you are active in standardization. Please make sure to strictly follow the 
+standardization body’s regulations on disclosure of intellectual property, because failure 
+to do so may affect the enforceability of your patents in certain countries. 
+The additional search fee you were invited to pay under R.40.1 PCT with respect to 
+claim 4 of PCT-Ax could have been paid within a period of 1 month from the dispatch of 
+the invitation: 23.01.2011 + 1 month = 23.02.2011. 
+ 
+You paid by debit order automatically upon receipt of the invitation, while there were 
+insufficient funds in your account. Your payments will still be considered in time, if you 
+replenished your account within 1 month from being informed of the deficit (26 January 
+2011 + 1 month = 26.02.2011) and paid an administrative fee of 30% of the uncovered 
+amount (see ADA 6.5, 6.6) within the same time limit. 
+Having failed to comply with the latter condition, the invention of claim 4 will remain 
+unsearched, and its subject matter cannot be reintroduced in the European phase 
+(R164(2), R137(5)). 
+ 
+
+
+The priority claim in EP-PAN1 to JPU-PAN1 appears valid. Although the claimed 
+invention is also disclosed in the earlier application JPU-PAN2 (not the triangular 
+embodiment), this earlier application was filed by Pankataya Japan K.K., which is 
+neither the original applicant of EP-PAN1, nor its predecessor in title. Hence, at the time 
+of filing EP-PAN1, JPU-PAN1 should be considered the “first application” in the sense of 
+the Paris Convention for the concerned subject matter for the applicant Pankataya 
+Nederland B.V. 
+The fact that EP-PAN1 and JP-PAN2 were later assigned to Pankataya Japan K.K. 
+does not affect the conclusion. 
+The fact that one applicant has economic ties with the other is also irrelevant, because 
+both are separate legal persons (T5/05). 
+ 
+1) JP-PAN1 and JPU-PAN2 were both published before the priority dates of PCT-
+Ax, and are therefore comprised in the state of the art (A54(2)). 
+ 
+JPU-PAN2 discloses all the features of clam 1 of PCT-Ax. Although JPU-PAN2 
+mentions several alternatives for the additives of the silicon based lubricant, the 
+mere selection of one such candidate does not confer novelty to the claim. 
+Hence, claim 1 is not new. 
+ 
+JPU-PAN2 discloses that the axle decreases in diameter towards each end. 
+Hence claim 2 is not new. 
+ 
+JPU-PAN2 discloses that the axle has end sections that are pentagonal in cross-
+section. Hence claim 3 is not new.  
+JPU-PAN1 pr JPU-PAN2 can be considered the closest prior art for claim 4. 
+Neither JPU-PAN2 nor JPU-PAN1 discloses axle end sections having a cross-
+shaped cross section. 
+The technical effect of the cross-shaped cross section is that other components 
+of the bicycle that interact with the axle unit can be made lighter. There is no hint 
+in common knowledge or the available prior art that this effect can be obtained by 
+a cross-shaped cross-section. Hence, claim 4 is novel and presents an inventive 
+step over the available prior art. 
+ 
+As the subject-matter of clam 4 has not been (and will not be) searched in the 
+international phase, I recommend filing a divisional application claiming the 
+subject matter of clam 4. In order to be able to file a divisional application under 
+A76/R36 EPC, the parent application (PCT-Ax) must enter the European phase 
+(GL A-IV 1.1.1.1). Entry into European phase may explicitly be requested at any 
+time before the expiry of 31 months from the earliest priority date (A23(2)PCT), 
+i.e. 30.10.2009 + 31 months = 30.05.2012. 
+ 
+To avoid having the standardization disclosure of 01.02.2010 as prior art, a 
+priority claim to USP-Ax must first be added to PCT-Ax as described above. 
+ 
+
+
+2) EP-PAN1 appears to contain a valid priority claim to JPU-PAN1. JPU-PAN2, 
+which was published after the relevant priority date, is therefore no prior art for 
+EP-PAN1. There is no point in raising it in a third-party observation  
+under art. 115. 
+As no earlier prior art is known to us, we must conclude that Pankataya will 
+obtain patent protection in Europe for the invention, as disclosed in JPU-PAN1: 
+(1) – axle unit with seal S, the axle decreasing in diameter toward each end 
+(2): 1+ axle unit with lubricant comprising silicone oil with an additive from the 
+group of viscosity index improver, emulsifier, and anti-foaming agent 
+(3): 1+ axle has pentagonal end sections. 
+ 
+The broadest forms of the invention (1 and 2 above) clearly pose a threat to your 
+business, your invention (present claim 4 of PCT-Ax) is a dependent invention. 
+You will thus have to obtain a license from Pankataya to commercialize your 
+invention. 
+However, since your invention is technically superior and will be standardized, 
+Pankataya will probably be interested in obtaining a license from you as well. 
+This may be an interesting cross-licensing opportunity. 
+ 
+ 
+3) Yes, you should appeal. 
+The main request (rejecting the opposition) was not allowed because the claimed 
+brake lever and/or the claimed brake system were anticipated by EP-PAN2. 
+ 
+On the basis of the available information, it seems justified to consider the lever 
+anticipated by EP-PAN2. However, EP-PAN2 does not contain an enabled 
+disclosure of a brake system. The brake system describes in EP-PAN23 is 
+impossible to make. It is not allowed to base a novelty objection on a non-
+enabled embodiment (T206/83, T26/85). In my opinion, a claim to a bicycle brake 
+system including the brake lever of the invention must be considered novel over 
+EP-PAN2, even without the disclaimer. As EP-PAN2 is state of the art under art 
+54(3) EPC, inventive step doesn’t come into play. 
+ 
+The objection that the subject matter of the claim of EP-Ax is insufficiently 
+disclosed may not be raised in appeal against the claim mentioned above without 
+your permission, because it constitutes a new ground (G10/91). 
+ 
+However, if the objection of insufficiency is addressed, it may be1 necessary to 
+limit the claim to brake systems of the type having at least one disc brake, a 
+limitation for which there is explicit support in the description. The fact that there 
+
+                                                        
+1 This is not necessarily the case, because the inclusion of non-working embodiments in a claim is of no 
+harm if there is a large number of conceivable alternatives and the disclosure provides criteria to find 
+appropriate alternatives with reasonable effort (T238/88, T292/85, T301/87) 
+I assume that it is straightforward for a skilled person to combine the lever of the invention with a variety 
+of known brakes and to find out if it works. This straightforwardness can excuse the lack of elaboration on 
+the brake system in the description.  
+ 
+
+
+is no picture in the application is not relevant. 
+ 
+Although it would be ideal if you could simply disclaim brake systems with 
+hydraulic rim brakes and the brake lever, such a limitation is not disclosed in the 
+application as filed. The case law of the Boards of Appeal allows undisclosed 
+disclaimers only in a very limited number of situations and avoiding non-workable 
+embodiments is not among them. (G1/03). 
+ 
+Note that if you don’t appeal, you will be a party as of right in the appeal 
+proceedings (A107). In that case, the opponent and sole appellant will be 
+protected by the prohibition of “reformatio in peius”, and can only keep the patent 
+as amended or be worse off. If you want to have a chance to defend the patent 
+as granted, you must file a separate notice of appeal and statement of grounds. 
+(G9/92) 
+ 
+ 
+4) The following types of brake systems are mentioned: 
+ 
+A – DISC BRAKES with MECHANICAL ACTUATION 
+  
+- not anticipated 
+  
+- disc brakes are explicitly mentioned in the description 
+  
+- mechanical actuation is not mentioned 
+ 
+B – DIS BRAKES with HYDRAULIC ACTUATION 
+  
+- not anticipated 
+  
+- disc brakes are explicitly mentioned in the description 
+  
+- hydraulic actuation is not mentioned 
+ 
+C – RIM BRAKES with MECHANICAL ACTUATION 
+  
+- not anticipated 
+  
+- not explicitly mentioned in the application 
+ 
+D – RIM BRAKES with HYDRAULIC ACTUATION 
+  
+- disclosed in EP-PAN2 (non-working disclosure) 
+  
+- impossible to make 
+ 
+The broadest possible claim would be the original system claim (A + B + C + D). 
+This claim covers the non-working embodiment D. 
+ 
+A sensible fall-back position (auxiliary request) would be a claim limited to 
+systems with disc brakes. This limitation is disclosed in the application. The 
+resulting claim covers A+B and can be carried out by a person skilled in the art. 
+ 
+ 
+ 
+ 
+
+
+

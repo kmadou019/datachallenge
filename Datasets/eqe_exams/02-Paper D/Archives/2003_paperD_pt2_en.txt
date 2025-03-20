@@ -1,0 +1,981 @@
+2003/DII/e 
+ 
+
+EUROPEAN QUALIFYING EXAMINATION 2003 
+
+ 
+
+PAPER D  -  PART II 
+
+ 
+
+ 
+
+ 
+
+This paper comprises: 
+
+ 
+
+ 
+
+* 
+Client�s letter followed by four (4) questions 
+2003/DII/e/1 - 4  
+
+ 
+ 
+
+ 
+ 
+
+* 
+Annex : Calendars for 2002 and 2003 with 
+2003/DII/e/5 - 6 
+
+ 
+indication of the days on which at least one 
+
+ 
+of the EPO filing offices is not open for the 
+
+ 
+receipt of documents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+45% of the marks available for paper D are awarded for part I, 
+
+55% for part II. 
+ 
+ 
+
+
+- 1 - 
+ 
+
+2003/DII/e/1 
+…/…
+ 
+
+You are a European patent attorney and today you receive the following letter from a 
+
+new client, the Dutch company “PP” (for Plug & Pray), which you will represent in 
+
+proceedings before the EPO. 
+
+ 
+
+“We are a manufacturer of high voltage, high frequency (HVHF) plugs. Our only markets  
+
+are Europe and the USA.  
+
+ 
+
+Over the last three years our R&D department has been developing a new generation of 
+
+HVHF plugs. Usually the contacts of these plugs have a circular cross-section. However 
+
+our developers found out that the product life can be extended significantly by using 
+
+contacts of triangular cross-section. 
+
+ 
+
+On 01.03.2001, we filed a first patent application US1 with the USPTO, because the 
+
+USA is the most important market for us and we are very sensitive with regard to patent 
+
+infringement lawsuits. US1 describes and claims an HVHF plug with contacts of 
+
+triangular cross-section.     
+
+ 
+
+A few months later our developers discovered that contacts of square cross section also 
+
+extend product life in comparison to traditional plugs. Accordingly, on 01.11.2001, we 
+
+filed a further US patent application US2 as a continuation-in-part (CIP) of US1. US1 
+
+was withdrawn shortly after the filing of US2. US2 describes and claims the same 
+
+subject-matter as US1. In addition US2 describes and claims a plug with contacts of 
+
+square cross-section. A US patent was granted in February 2003 for our US2 application 
+
+as filed. 
+
+
+- 2 - 
+ 
+
+2003/DII/e/2 
+…/…
+ 
+
+As we also need patent protection in Europe, we filed a European patent application 
+
+EP1 with the EPO, designating all the contracting states and claiming priority of US2. 
+
+We filed the following documents: description, claims, abstract, drawing, a designation of 
+
+inventor, a declaration of priority and a certified copy of US2, as well as a cheque for the 
+
+amount of the filing fee and the search fee. EP1 was mailed to the EPO by a regular 
+
+registered letter on 29.10.2002 by national post services. The notice of receipt from the 
+
+EPO indicates that the documents of EP1 were received by the EPO on 08.11.2002.  
+
+ 
+
+EP1 describes and claims the same subject-matter as US2. In addition, EP1 describes 
+
+and claims a plug with contacts of pentagonal cross-section, because in the meantime 
+
+we found that such a pentagonal cross-section also extends product life. In fact our 
+
+developers found that the surprising effect of having product life extended for HVHF 
+
+plugs is achieved only if the plug contacts have a triangular, square or pentagonal cross-
+
+section. We had a discussion on the unity of invention of EP1, but to us it was clear that 
+
+the claimed three alternative solutions are in fact equivalent solutions to the same 
+
+problem and are linked by the same inventive concept. Therefore we filed a single 
+
+application for these three solutions. As we do not know yet which one of the three 
+
+solutions is commercially the most promising, we would like to have patent protection for 
+
+all the three solutions. Last month we started advertising our plugs with contacts of 
+
+triangular or square cross-section. 
+
+ 
+
+We thought we were in a good position, until last week, when we received a warning 
+
+letter from our French competitor LBP (for “La Bonne Prise”). Therein they informed us 
+
+that their European patent EP2 discloses and claims HVHF plugs with contacts of 
+
+triangular or square cross-section. EP2 was granted for DE, ES, FR and GB.
+
+
+- 3 - 
+ 
+
+2003/DII/e/3 
+…/…
+ 
+
+LBP sells products in USA and in DE, ES, FR and GB. In the past LBP has only filed 
+
+patent applications for these five countries. From the patent publication of EP2, which 
+
+was attached to the warning letter, we could see that the mention of the grant of EP2 
+
+was published on 06.11.2002. The letter further indicated that EP2 was granted without 
+
+a prior publication of the application and that the short time between filing and grant was 
+
+due to a request for accelerated prosecution. EP2 was filed on 14.11.2001 and claims 
+
+priority of FR1, a French patent application of LBP with a filing date of 06.06.2001. We 
+
+have made investigations and have found that FR1 only describes and claims plugs with 
+
+contacts of triangular cross-section. 
+
+ 
+
+In order to resolve the situation quickly, we have a meeting at the end of next week with 
+
+LBP to discuss a possible settlement. 
+
+ 
+
+We made some preparations for this meeting and we found that LBP filed another 
+
+European patent application EP3. EP3 was filed without claiming any priority on 
+
+15.03.2001. EP3 discloses and claims a shielding system for HVHF plugs. DE, ES, FR  
+
+and GB were designated. The search report of EP3 was published on 24.09.2002 and 
+
+contains only one reference, a German document, which is cited as an “A” document. 
+
+We made a file inspection of EP3 and we found that a first communication had been 
+
+issued in which it was indicated that grant would be possible if LBP were to amend the 
+
+application in order to overcome certain clarity objections.  
+
+ 
+
+Please note that we filed on 01.10.2000, together with our Spanish subsidiary as joint 
+
+applicants, a Spanish patent application ES1, disclosing and claiming two shielding 
+
+systems for HVHF plugs. One of these two shielding systems, S1, corresponds exactly 
+
+to the one disclosed in EP3. The second shielding system, S2, is completely different. 
+
+On 15.01.2003, the Spanish Patent Office granted a patent for ES1 without 
+
+amendments. 
+
+
+- 4 - 
+ 
+
+2003/DII/e/4 
+…/…
+ 
+
+At the end of the priority period, we were convinced of the commercial interest in S2, but 
+
+we were sceptical concerning S1. Therefore, we filed on 01.10.2001, also as joint 
+
+applicants, a PCT application PCT1 (in order to postpone costs) and a European patent 
+
+application EP4, both claiming priority of ES1. EP4 describes and claims only S2, and 
+
+PCT1 describes and claims only S1. The abstracts of EP4 and PCT1 have the same 
+
+content as the abstract of ES1 which describes both shielding systems.  
+
+ 
+
+We filed PCT1 in Spanish including all possible designations, and paid the filing, search 
+
+and designation fees.  
+
+ 
+
+On 10.04.2002 PCT1 and EP4 were each published with search report. Although the 
+
+search report of PCT1 indicated that the claimed subject matter was clearly patentable, 
+
+we decided that S2 was of more interest to us than S1. Therefore, we have not taken 
+
+any action with respect to PCT1 after its filing.” 
+
+ 
+
+ 
+
+1)  What is the patent situation with regard to the HVHF plugs ? 
+
+ 
+
+2)  What is the patent situation with regard to the shielding systems ? 
+
+ 
+
+3)  Give your analysis of the negotiation position of PP for the meeting with LBP 
+
+next week. 
+
+ 
+
+4)  If the meeting with LBP is not successful, what can be done by PP against 
+
+LBP’s patent portfolio and what can PP do to improve its position? 
+
+
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+
+1
+2
+3
+4
+5
+1
+2
+1
+2
+
+6
+7
+8
+9
+10
+11
+12
+3
+4
+5
+6
+7
+8
+9
+3
+4
+5
+6
+7
+8
+9
+
+13
+14
+15
+16
+17
+18
+19
+10
+11
+12
+13
+14
+15
+16
+10
+11
+12
+13
+14
+15
+16
+
+20
+21
+22
+23
+24
+25
+26
+17
+18
+19
+20
+21
+22
+23
+17
+18
+19
+20
+21
+22
+23
+
+27
+28
+29
+30
+31
+24
+25
+26
+27
+28
+24
+25
+26
+27
+28
+29
+30
+
+31
+
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+
+7
+8
+9
+10
+11
+12
+13
+5
+6
+7
+8
+9
+10
+11
+2
+3
+4
+5
+6
+7
+8
+
+14
+15
+16
+17
+18
+19
+20
+12
+13
+14
+15
+16
+17
+18
+9
+10
+11
+12
+13
+14 15
+
+21
+22
+23
+24
+25
+26
+27
+19
+20
+21
+22
+23
+24
+25
+16
+17
+18
+19
+20
+21 22
+
+28
+29
+30
+26
+27
+28
+29
+30
+31
+23
+24
+25
+26
+27
+28 29
+
+30
+
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+2
+3
+4
+5
+6
+7
+
+7
+8
+9
+10
+11
+12
+13
+4
+5
+6
+7
+8
+9
+10
+8
+9
+10
+11
+12
+13
+14
+
+14
+15
+16
+17
+18
+19
+20
+11
+12
+13
+14
+15
+16
+17
+15
+16
+17
+18
+19
+20
+21
+
+21
+22
+23
+24
+25
+26
+27
+18
+19
+20
+21
+22
+23
+24
+22
+23
+24
+25
+26
+27
+28
+
+28
+29
+30
+31
+25
+26
+27
+28
+29
+30
+31
+29
+30
+31
+
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+S
+M
+T
+W
+T
+F
+S
+
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+4
+5
+6
+7
+
+6
+7
+8
+9
+10
+11
+12
+3
+4
+5
+6
+7
+8
+9
+8
+9
+10
+11
+12
+13
+14
+
+13
+14
+15
+16
+17
+18
+19
+10
+11
+12
+13
+14
+15
+16
+15
+16
+17
+18
+19
+20
+21
+
+20
+21
+22
+23
+24
+25
+26
+17
+18
+19
+20
+21
+22
+23
+22
+23
+24
+25
+26
+27
+28
+
+27
+28
+29
+30
+31
+24
+25
+26
+27
+28
+29
+30
+29
+30
+31
+
+2003/DII/e/5
+.../...
+
+1. Weihnachtstag - Christmas Day - Noël
+
+2. Weihnachtstag - Boxing Day - Lendemain de Noël
+
+Silvester - New Year's Eve - Saint-Sylvestre
+
+INFORMATION FROM THE
+
+Mariä Himmelfahrt - Assumption Day - Assomption
+
+Tag der Deutschen Einheit - Day of German Unity - Fête Nationale
+
+Allerheiligen - All Saints' Day - Toussaint
+
+Heiliger Abend - Christmas Eve - Veille de Noël
+
+Maifeiertag - May Day - Fête du travail
+
+Christi Himmelfahrt - Ascension Day - Ascension
+
+Fronleichnam - Corpus Christi - Fête-Dieu
+
+Neujahr - New Year's Day - Nouvel An
+
+Karfreitag - Good Friday - Vendredi Saint
+
+Ostermontag - Easter Monday - Lundi de Pâques
+
+Nationalfeiertag - National Holiday - Fête nationale
+
+Tage/Days/Jours
+2002
+
+25.12.02
+
+01.11.02
+
+30.04.02
+
+01.05.02
+
+09.05.02
+
+20.05.02
+Pfingstmontag - Whit Monday - Lundi de Pentecôte
+
+26.12.02
+
+31.12.02
+
+30.05.02
+
+15.08.02
+
+03.10.02
+
+24.12.02
+
+x
+01.01.02
+
+29.03.02
+
+01.04.02
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+The Hague
+
+La Haye
+
+Munich
+
+Berlin
+Den Haag
+München
+
+Annex 1
+
+JANUARY
+FEBRUARY
+MARCH
+2002
+
+on which EPO filing offices are
+closed in 2002
+
+APRIL
+
+Notice from the President of the
+European Patent Office dated 29
+
+OCTOBER
+NOVEMBER
+DECEMBER
+
+MAY
+JUNE
+
+first day thereafter on which all the
+
+Sunday. The other closing days in
+2002 are listed below.
+
+be closed for the receipt of
+
+August 2001 concerning the days
+
+documents on every Saturday and
+
+(closing days) are extended until the
+
+filing offices are open for receipt of
+
+Munich, The Hague and Berlin will
+2. The EPO's filing offices in
+
+JULY
+AUGUST
+SEPTEMBER
+
+EUROPEAN PATENT OFFICE
+
+documents and on which ordinary
+mail is delivered.
+
+1. Under Rule 85(1) EPC time limits
+expiring on a day on which at least
+one of the filing offices of the EPO
+is not open for receipt of documents
+
+
+ 
+
+ 
+
+ 
+
+

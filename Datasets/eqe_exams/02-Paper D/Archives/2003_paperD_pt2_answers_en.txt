@@ -1,0 +1,427 @@
+ 
+ 
+
+- 6 - 
+
+Candidate’s Answer – DII 
+ 
+1. 
+HVHF plugs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+∆ + □  
+∆ 
+
+ 
+PP has: 
+US2 - granted in US (related to US 1) 
+
+ 
+ 
+ 
+EP1 - pending before EPO ∆ + □ + ⌂ for all states 
+
+ 
+ 
+LBP has: 
+FR1 - ∆ France - still pending? 
+
+ 
+ 
+ 
+EP2 - granted for DE, ES, FR, GB ∆ + □ 
+
+ 
+ 
+PP has granted US patent US2 which provides PP with patent protection for 
+HVHF plugs with triangular and square cross-sections in the US. 
+
+ 
+ 
+EP1 was sent by registered letter on 29.10.02. In order to claim priority validly 
+from US2, EP1 had to be filed during a period of twelve months from the date of 
+filing the first application, ie by 1.11.02 (Friday), 1.11.02 was holiday in Munich 
+branch of EPO so under R 85(1) EPC, due date for claiming priority was 
+extended to Monday 4.11.02. EP 1 was not received at EPO until 8.11.02, ie after 
+the due date. But R 48a EPC provides that where a document is received late at 
+the EPO it is deemed to have been received in time if it was posted in due time 
+before the expiry of the time limit. Dec. of Pres. OJ 1999, 45 and E - VIII, 1.7 sets 
+out that document must be posted at least 5 days before due date and it can be 
+sent by registered letter or recognised delivery service and if from outside Europe 
+by air mail. Here, EP1 was posted 6 days prior to due date by registered letter 
+and from inside Europe. Therefore, EP 1 is deemed received in due time to claim 
+priority from US2. However EP 1 may only claim priority in respect of the same 
+invention as in US2, which is the first application and in the preceding 12 months. 
+
+ 
+ 
+“Same invention” (G 2/98) means that the specific combination of features in the 
+claims of EP1 must be disclosed in the first application as a whole either explicitly 
+or implicitly. For the claims to the plug with square contacts, EP1 can validly claim 
+priority from US2, since the first application by the same applicant in which this 
+subject matter was disclosed was US2. However, for claims of EP1 relating to ∆ 
+contacts, US2 was not the first application in the sense of A 87(1) EPC. The 
+subject matter of the triangular contacts was disclosed in a still earlier application 
+(US1) originating from PP, so the priority right for the plugs with triangular 
+contacts is invalid in so far as this was already described in US1 since the A 87(4) 
+EPC exception doesn’t apply in this case (cascading priority problem here), ie 
+although the previous (US1) and subsequent (US2) applications were filed in the 
+same state (USA), at the filing date of US2, US1 had not been withdrawn, 
+abandoned or refused (as it was withdrawn after US2 filing date) and it had left 
+rights outstanding (in that US2 is a C-I-P of US1). Therefore, the 3 areas of 
+subject matter of EP1 do not have the same effective date (A 89 EPC). 
+
+ 
+
+- 
+Square contacts - entitled to priority date (ie filing date of US2) of 1.11.01. 
+
+ 
+- 
+Triangular contacts and new pentagon contacts entitled to filing date only. 
+
+ 
+
+The date on which all the requirements for a filing date were met (A 80 EPC) was 
+8.11.02. 
+
+
+ 
+
+ 
+R 84a EPC does not apply to filing date itself as was no “due date” missed. 
+So, effective date for ∆ and ⌂ contacts subject matter is 08.11.02. 
+ 
+EP2 claims priority from FR1. FR1 discloses plugs with triangular contacts only. 
+EP2 validly claims priority from FR1 since they have same applicants (LBP) and 
+EP2 was filed within 12 months of FR1’s filing date, but only in respect to the 
+same subject matter. Therefore subject matter in EP2 relating to plugs with 
+triangle contacts has valid claim to priority of 6.6.01. But subject matter in EP2 
+relating to plugs with square contacts is entitled only to the filing date of EP2, ie 
+14.11.01. 
+ 
+This means for: 
+ 
+(i) square contact subject matter in EP1, which has effective date of 1.11.02, EP2 
+is not prior art since the square contact subject matter in EP2 has an effective 
+date of 14.11.01. In fact, EP1 is prior art for novelty only (under A 54(3) and (4) 
+EPC) - not inventive step - against the square contact subject matter in EP2 as 
+EP1 has an earlier effective date than EP2 but will be published after the filing 
+date of EP2, in respect of the states that are designated in both applications and 
+only if EP1 publishes as a regularly published application under A 93 EPC and 
+the designation fees for EP1 are paid (R 23a EPC). 
+ 
+EP1 is not due to be published until after 18 months from priority date, so 18 
+months from 1.11.01, ie due to be published soon after 1.5.03. Designation fees 
+are due (and examination fee and request for examination) within 6 months of 
+publication of search report (and R 85a grace periods apply), which will either be 
+published at same time as application or later. So PP need to make sure this is 
+done in order that EP1 is A 54(3) EPC prior art against EP2 for square subject 
+matter. 
+ 
+(ii) for triangular subject matter in EP1, effective date is 8.11.02 (actual filing date) 
+so EP2, which has then published, is full prior art for novelty and inventive step (A 
+54(2) EPC) against this application.  →  ∆ subject matter of EP1 looks like it lacks 
+novelty over EP2. 
+ 
+(iii) for pentagon subject matter in EP1, effective date is 8.11.02, ie actual filing 
+date. EP2 is full prior art as explained above. EP2 does not disclose plugs with 
+pentagon contacts so EP2 does not give rise to lack of novelty of ⌂ subject matter 
+of EP1. Issue is inventive step: Is a pentagon-shaped contact obvious in view of a 
+triangular or square shaped contact, as disclosed in EP2. From client letter 
+seems that pentagon shape is equivalent solution to triangle and square shape - 
+so may be difficult to argue that this subject matter has an inventive step over 
+EP2. 
+ 
+Also be to checked, is there a US patent application publication? there should be 
+as US1 and US2 were filed after the 29.11.00 date at which publication of US 
+applications took effect. US1 was withdrawn so wouldn’t have published. US2 
+would have published - but not sure if date is 18 M from filing date of US2 or 18 M 
+
+- 7 - 
+
+
+ 
+ 
+
+- 8 - 
+
+from filing date of US1 which was basis for the IP - does not appear to affect 
+situation with respect to EP1 or EP2 though. 
+ 
+Also relevant to patent situation for EP1, EPC does not consider aesthetic 
+creations as such to be patentable (A 52(2)(b) and (3) EPC). Shape of contact - 
+aesthetic creation? Appears not as has technical effect, therefore at least the 
+square contact subject matter of EP1 appears patentable. 
+ 
+For pentagon-shaped contact, if changing shape from square (as disclosed in 
+EP2) to pentagon only provides equivalent effect, then the issue of is this merely 
+an aesthetic creation may also be relevant as the change in shape does not 
+provide a technical effect, therefore pentagon subject matter may be 
+unpatentable. 
+ 
+On unity point, in absence of EP2 from consideration, the three embodiments 
+have corresponding special technical features which are alternatives having the 
+same technical effect and so are unified, C-III, 7.2, R 30(1) EPC. Further problem 
+perhaps is presence of multiple independent claims to the plug with each type of 
+contact shape in view of new R 29(2) EPC which sets out specific exclusions to 
+general requirement that there may be only one claim type (ie product or process) 
+in each European patent application. R 29(2)(c) EPC exclusion is that the claims 
+are alternative solutions to a particular problem, where it is not appropriate to 
+cover these alternatives by a single claim. That is the case here - the 3 shapes 
+are alternative solutions to the problem of prolonging life of the HVHF plugs. So, 
+feel could argue in theory for the presence of such independent claims in EP1 (if 
+not then could file divisional applications at any time while patent still pending). 
+However, due to EP2 making triangular contact shape subject matter lacking in 
+novelty, at least that independent claim may have to be removed from EP1. 
+ 
+Note that EP2 had mention of grant published on 6.11.02, so still in opposition 
+period. Could file an opposition against EP2 up to 9 months from 6.11.02, ie up to 
+6.8.03 (and pay fee). Presence of EP1 as A 54(3) novelty only citation could be 
+used as ground of opposition, A 100(a) EPC against square-contact subject 
+matter. 
+ 
+May be worth requesting accelerated prosecution of EP1. 
+
+ 
+2. 
+Shielding systems
+
+ 
+ 
+PP has  
+ES1 
+
+ 
+ 
+ 
+PCT1 
+
+ 
+and 
+ 
+EP4 
+
+ 
+ 
+LBP has  
+EP3 
+
+ 
+ 
+EP3 has no priority claim. Publication of search report mentioned 24.9.02. 
+Therefore, designation fees, due 6 M from 24.9.02, ie 24.3.03 (Monday). This fee 
+is still payable with surcharge in the grace period of R 85a EPC. But check 
+whether these have been paid, if not paid by end of grace period application will 
+be deemed withdrawn (A 91(4) EPC). 
+
+
+ 
+
+ 
+At least exam fee and request have been dealt with through (due also 6 M from 
+publication of search report) as first examination report has already issued. PCT 1 
+- although no action since search report published, this application is still pending. 
+Seems that no Demand for international preliminary examination was filed in 
+accordance with A 31 PCT) but since filing of Demand is no longer necessary to 
+extend entry into national phase from 20/21 M to 30/31 M in all states, this 
+application is still pending for all states except those that have notified the IB of 
+the non-applicability of the new time limit under A 22(1) PCT, presently including 
+Brazil, Singapore and others. However US and EPO have applied new A 22(1) 
+PCT time limit. So, for all those countries that have applied the new time limit 30 
+M period from priority date for entering national/regional phase for PCT 1 expires 
+1.4.03 -  this is the case for the USA. 31 M period expires 1.5.03 - eg for EPO. 
+So, if want protection in USA and Europe, enter national phase in US by 1.4.03 - 
+need to file translation of Spanish application into English and pay national fee, 
+file declaration of inventor, declaration of applicant’s entitlement to priority and 
+preferably information disclosure statement by the expiry of 30 M deadline (ie 
+1.4.03) Must at least pay national basic fee by this date but other requirements 
+can be met later, if necessary on payment of various surcharges. 
+ 
+Have a little more time for EPO entry (1.5.03). Need to pay national basic fee, pay 
+designation fees, pay search fee, file request for examination and pay 
+examination fee, and pay 3rd year renewal fee on this application by 31 M due 
+date (R 107(1) EPC), grace periods available for these acts on payment of 
+surcharges (R 108 EPC). Also required (R 107(1)(a) EPC) to file translation of the 
+application, which is presently in Spanish, into one of the official EPO languages 
+(FR, DE, EN). 
+ 
+Since all states were designated and paid for in PCT 1, may wish to consider 
+whether want to obtain protection for SI in other states (apart from those that 
+have notified non-applicability of A 22(1) PCT). 
+ 
+Once requirements for entry into European phase have been fulfilled (A 158 EPC, 
+R 106 and R 107 EPC), PCI 1, which has an effective date of 1.10.00 since it 
+appears to have validly claimed priority from ES1 (same applicant within 12 M 
+from ES1 filing date, same subject matter - ie S1 shield) will be A 54(3) EPC prior 
+art with respect to EP3 (ie novelty only prior art). This is because PCT 1 has an 
+effective date prior to the effective date of EP3 (which does not have a claim to 
+priority) but PCT 1 published (on 10.4.02) after the effective date of EP3. 
+Therefore, to the extent that PCT 1 and EP3 designate the same states (A 54(4) 
+EPC) and the designation fees for PCT 1 are paid, the subject matter of the 
+claims of EP3 (SI type shielding system) lack novelty over the disclosure of PCT 
+1 (which also discloses the SI type shielding system). 
+ 
+EP4 
+This is already European patent application, nothing appears to have happened 
+since publication of search report (10.4.02). Check designation fees and exam 
+request and exam fee was paid/filed by 10.10.02, or within R 85a or b EPC grace 
+periods (for exam fee within 1 M from notification of the failure to observe the time 
+limit and surcharge payable, R 85b EPC; for designation fees 1 M after 
+
+- 9 - 
+
+
+ 
+ 
+
+- 10 - 
+
+notification under R 85a(1) if didn’t dispense with notification and within 2 M of 
+missed date if did dispense with designation, R 85a(2) EPC). All these dates will 
+likely have passed now (certainly R 85a(2) EPC deadline would have) and no 
+further processing or restitutio possible on these time limits. So check paid - if not 
+can’t do anything with EP4 now so claims to S2 would have been deemed 
+withdrawn. If these fees etc. were paid then EP4 still pending and make sure pay 
+3rd year renewal fee due 31.10.03 (can be paid up to 30.4.04 with additional fee, 
+A 86(1) + (2) EPC). 
+ 
+If EP4 still pending, can’t amend EP4 to put in claims to SI (which would have 
+saved having to enter PCT 1 in European regional phase) even though have 
+description of SI in EP4’s abstract as abstract may not be used for providing 
+support for amendments (T 246/86). Consequently, such an amendment would 
+not be allowable since it would add matter over the application as originally filed 
+(contrary to A 123(2) EPC). Also, a priority document (ie here ESI) can not be 
+used as basis for an amendment (also G 3/89 relevant). Therefore, if want to 
+protect SI in Europe, will have to continue with PCT 1 (likewise, can’t amend PCT 
+1 by including claims to S2 since disclosure of S2 in PCT 1 is only in abstract). If 
+EP4 is still pending (and designation fees paid) then it is also relevant as novelty-
+only prior art against EP3 to the extent that designate same states and that 
+designation fees have been paid and because EP4 has an effective date earlier 
+than but was published later than effective date of EP3. 
+ 
+However, although EP4 discloses S1 in the abstract, even such a disclosure was 
+enabling, since EP4 is relevant to EP3 for novelty only, content of abstract cannot 
+be taken into consideration (since A 54(3) EPC refers to content of application as 
+filed and neither prior document nor abstract, in view of A 85 EPC, form part of 
+content of application). Abstract only forms part of prior art once published. 
+Therefore, EP4 would not affect novelty of subject matter claimed in EP3. 
+ 
+ES1 - Spanish right now granted. So, PP can stop anyone making, using etc. 
+both S1 and S2 type shields in Spain.  
+ 
+ES1 is relevant to EP3 as a prior national right - could lead to revocation of EP3 if 
+granted, with respect to Spain. (Check when published though - assuming not 
+published by 15.3.01 filing date of EP3 - if did then ES1 would be full prior art). 
+But as prior national right, ES1 can’t affect EP3 until after grant as is not 
+considered comprised in the state of the art for EP3. Also, can’t oppose EP3, if 
+granted, before EPO in view of ES1 itself as prior national right is not a ground of 
+opposition. 
+ 
+
+3. 
+Negotiation position 
+
+ 
+ 
+
+ 
+PP’s position 
+- 
+PP has granted US2 in US, so can prevent LBP from using, selling, 
+making etc. (and any other acts constituting infringement under US law) 
+plugs with triangular or square-shaped contacts in the US, which is a 
+relevant market for LBP. → ie bargaining point for PP. (Patents are 
+negative rights). 
+
+ 
+
+
+ 
+
+- 
+PP has EP1 pending; plug with square contact looks patentable and when 
+granted could prevent LBP using, selling, making etc. in any EPC state for 
+which designation fees are paid for, such plugs. Position with regard to 
+pentagon-shaped plugs is questionable - would need to show are 
+inventive; but presently still pending. Once published EP1 will provide 
+provisional protection (A 67 EPC), which can only be enforced after grant. 
+Maybe good idea to request early publication by EPO so that provisional 
+protection begins as soon as possible - need to file translations of claims in 
+those states requiring it. 
+
+ 
+
+- 
+PP is currently prevented from using etc. plugs with triangle or square 
+cross-section in Germany, ES, FR and GB by EP2 (patents are negative 
+rights). Even though consider square x-section subject matter invalid is 
+presently still in force → threat of filing opposition against this patent to get 
+this patent revoked centrally, at least with respect to the square contact 
+subject matter. 
+
+ 
+
+- 
+PP has ES1 which can stop LBP operating in Spain with respect to S1 and 
+S2 type shields. 
+
+ 
+
+- 
+PP has PCT 1 pending, which could, if granted, prevent LBP operating 
+with SI shield in any state in respect of which this is granted - possibly will 
+be EPC states and USA. 
+
+ 
+
+- 
+PP has EP4 pending (I think) which would prevent LBP exploiting S2 if 
+granted. 
+
+ 
+
+So, PP is in strong position as can, or may be able in the future, to prevent LBP 
+doing a number of things, especially in relation to the shielding systems. LBP may 
+not be so bothered about PP being able to stop some of their activities with the 
+plugs as they can freely use the ∆ contacts everywhere except US. 
+ 
+Looks possible to suggest cross-licensing so that LBP can use shields S1 + S2 
+and the ∆ and □ shaped contracts in US and □ shaped contact plugs in EPC 
+states where hopefully EP1 will eventually grant. In return, PP will want to be able 
+to use ∆ shaped plugs. 
+ 
+
+4. 
+If negotiation not successful, 
+
+ 
+
+- 
+oppose EP2, pay fee by 6. 8.03 using attacks described above in view of 
+EP1 as A 54(3) EPC prior art for □ contact subject matter. 
+
+ 
+
+- 
+File A 115 EPC 3rd party observations against EP3, which is pending, in 
+view of PCT 1. 
+
+ 
+ 
+Make sure enter PCT 1 in national phase and check fee payments on EP4. 
+
+ 
+
+Amend EP1 by removing ∆ subject matter, (divisional to pentagonal maybe) and 
+file request for accelerated prosecution. Certainly request early publication of 
+EP1. 
+
+- 11 - 
+
+

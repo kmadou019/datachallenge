@@ -1,0 +1,931 @@
+EN 
+
+2012/DI/EN 
+
+EQE2012exampaper
+
+ 
+ 
+ 
+EUROPEAN QUALIFYING EXAMINATION 2012 
+ 
+ 
+ 
+Paper D 
+Part I 
+ 
+ 
+This Paper comprises:  
+ 
+* Questions 1 - 8 
+2012/DI/EN/1-5 
+
+ 
+- Question 1 : 5 marks 
+ 
+- Question 2 : 6 marks 
+ 
+- Question 3 : 5 marks 
+ 
+- Question 4 : 4 marks 
+ 
+- Question 5 : 5 marks 
+ 
+- Question 6 : 6 marks 
+ 
+- Question 7 : 4 marks 
+ 
+- Question 8 : 5 marks 
+ 
+TOTAL: 40 MARKS 
+ 
+* Annexes: calendars for 2010, 2011 and 2012 with 
+ 
+2012/DI/EN/6-8 
+ 
+indication of the days on which at least one of  
+ 
+the EPO filing offices is not open for the receipt  
+ 
+of documents 
+ 
+40 % of the marks available for paper D are awarded for Part I, 60 % for Part II. 
+ 
+
+
+Page 1 of 5 
+
+2012/DI/EN/1 
+
+EQE2012exampaper
+
+QUESTION 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5 MARKS) 
+
+ 
+
+On 29 December 2011 you received a decision dated 27 December 2011 refusing your 
+
+European patent application. 
+
+The last sentence of the decision reads as follows: 
+
+"As all the features of the independent claim are known from the prior art document D1, 
+
+the application is refused for lack of novelty, Art. 56 EPC." 
+
+On 26 January 2012 you received a correction of the decision according to 
+
+Rule 140 EPC for the same application. The correction is dated 24 January 2012. Only 
+
+the last sentence was changed to "As all the features of the independent claim are 
+
+known from the prior art document D1, the application is refused for lack of novelty, 
+
+Art. 54 EPC". 
+
+ 
+
+Your client has not yet decided whether to file an appeal, but intends to take this 
+
+decision in the next few weeks. However, he will call you this morning to discuss the 
+
+further procedure. 
+
+ 
+
+What will you advise your client?
+
+EQE2012exampaper 
+
+
+Page 2 of 5 
+
+2012/DI/EN/2 
+
+EQE2012exampaper
+
+QUESTION 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 MARKS)  
+
+ 
+
+For European patent application EP1, filed in English, the first communication from the 
+
+examining division under Article 94(3) and Rule 71(1), (2) EPC dated 13 December 
+
+2007 raised only a lack of clarity objection. On 14 December 2009 a divisional 
+
+application DIV1 of EP1 was filed in the same language as EP1 at the EPO in Munich. 
+
+On 30 September 2010 a further divisional application DIV2 of EP1 was filed in the 
+
+same language as EP1 at the EPO in Berlin.  
+
+The partial search report for DIV1 dated 6 October 2011 contained a statement 
+
+regarding lack of unity. However, no additional search fee was paid. 
+
+EP1 and DIV2 were withdrawn on 28 January 2011. 
+
+ 
+
+a) What were the filing requirements for divisional applications DIV1 and DIV2? 
+
+ 
+
+b) Is it still possible to validly file further divisional applications?
+
+EQE2012exampaper 
+
+
+Page 3 of 5 
+
+2012/DI/EN/3 
+
+EQE2012exampaper
+
+QUESTION 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5 MARKS) 
+
+ 
+
+On 5 October 2010 your Spanish client filed a PCT application in Spanish with the 
+
+Spanish Patent and Trade Mark Office (SPTO). No priority was claimed. Due to a lack of 
+
+unity objection, which the client accepts, only the first invention was searched by the 
+
+SPTO. However, your client wants a search to be carried out by the EPO on the second 
+
+invention before deciding on entry into the national/regional phase but does not want to 
+
+file a new application. 
+
+  
+
+a) Is this possible?  
+
+ 
+
+b) If so, what steps have to be taken?  
+
+ 
+
+ 
+
+ 
+
+QUESTION 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4 MARKS) 
+
+ 
+
+Company X filed a draft of a scientific paper as a European patent application EP-X at 
+
+the EPO. The draft describes compositions of the class A. The EPO accorded to 
+
+application EP-X a date of filing of 20 December 2009. On 15 February 2010, 
+
+company X filed, for EP-X, a claim directed to product A1, which was not described in 
+
+the draft paper. 
+
+On 17 November 2010 company X filed an international application PCT1 at the USPTO 
+
+with the description of EP-X and the same claim as above, claiming priority from EP-X.  
+
+Company X received from the USPTO an international search report indicating only a 
+
+single document, which discloses product A1. This document was made available to the 
+
+public in March 2010. 
+
+ 
+
+a) Is it possible to obtain valid patent protection via the claim directed to product A1 
+
+if PCT1 enters the European phase? 
+
+ 
+
+b) How would the situation be different for PCT1 if the draft paper had disclosed A1? 
+
+ 
+
+EQE2012exampaper 
+
+
+Page 4 of 5 
+
+2012/DI/EN/4 
+
+EQE2012exampaper
+
+QUESTION 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5 MARKS) 
+
+ 
+
+International application PCT-CN was filed in Chinese in September 2010 with the 
+
+Chinese State Intellectual Property Office (SIPO). In March 2011 the applicant received 
+
+the international search report from SIPO. In May 2011 the applicant filed with the 
+
+International Bureau amended claims together with a brief statement explaining the 
+
+amendments. The application will be published next week. 
+
+ 
+
+a) Which parts of the publication will be in what language(s)? 
+
+ 
+
+b) Will a French translation of the abstract be publicly available from WIPO? 
+
+ 
+
+ 
+
+ 
+
+QUESTION 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6 MARKS) 
+
+ 
+
+On 28 October 2010 your client filed an Italian application IT1 for invention Inv1 and an 
+
+Italian application IT2 for invention Inv2. Inv1 and Inv2 are unitary. On 28 October 2011 
+
+your client duly filed a European application EP1 describing and claiming inventions Inv1 
+
+and Inv2. EP1 claims the priority of IT1 only. Your client has discovered a document D 
+
+published on 8 August 2011 disclosing Inv1 and Inv2.  
+
+ 
+
+Your client wants to use EP1 to obtain Europe-wide protection for both Inv1 and Inv2.  
+
+ 
+
+What do you advise your client?
+
+EQE2012exampaper 
+
+
+Page 5 of 5 
+
+2012/DI/EN/5 
+
+EQE2012exampaper
+
+QUESTION 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4 MARKS) 
+
+ 
+
+Your client has developed the following way of diagnosing an illness: 
+
+a) Carrying out a known method of biopsy by a medical practitioner to extract a liver 
+
+tissue sample from a patient; 
+
+b) carrying out a novel and inventive method for diagnosing the illness on the basis of 
+
+the tissue sample in an analysing liquid. 
+
+Your client has informed you that the way in which the tissue sample is obtained is not 
+
+an essential feature of his development. 
+
+ 
+
+Your client wants you to file a European patent application. Discuss the patentability of 
+
+his development according to the EPC. 
+
+ 
+
+ 
+
+ 
+
+QUESTION 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5 MARKS) 
+
+ 
+
+European patent application EP1 was published on 10 March 2010. In reply to a 
+
+communication of the examining division, the applicant filed amended claims containing 
+
+improved subject-matter in June 2011. This improved subject-matter is new and 
+
+inventive over the originally disclosed subject-matter, and, in itself, is sufficiently 
+
+disclosed according to Art. 83 EPC. On 9 December 2011 the applicant filed a second 
+
+European patent application EP2 describing and claiming the improved subject-matter. 
+
+ 
+
+Can the applicant obtain valid protection for the improved subject-matter via EP1 or 
+
+EP2? 
+
+ 
+
+EQE2012exampaper 
+
+
+Annex 1 
+
+ 
+2012/DI/EN/6 
+
+EQE2012exampaper
+
+2010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jan  
+Feb  
+Mar 
+Apr  
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct  
+Nov 
+Dec 
+
+ Fri        01   Mon     01   Mon     01  Thu     01   Sat       01  Tue     01  Thu     01  Sun     01   W ed    01  Fri        01   Mon     01  W ed    01  
+ Sat      02   Tue     02   Tue     02  Fri       02   S u n     0 2  W e d    0 2  Fri       02  Mo n     02  T h u     0 2  Sat      02   Tue     02  T h u     0 2  
+ S u n     0 3   W e d    0 3   W e d    0 3  Sat      03   Mo n     03  T h u     0 3  Sat      03  Tue     03  Fri       03  S u n     0 3   W e d    0 3  Fri       03  
+ Mo n     04   T h u     0 4   T h u     0 4  S u n     0 4   Tue     04  Fri       04  S u n     0 4  W e d    0 4  Sat      04   Mo n     04   T h u     0 4  Sat      04  
+ Tue     05   Fri       05   Fri       05  Mo n     05   W e d    0 5  Sat      05  Mo n     05  T h u     0 5  S u n     0 5  Tue     05   Fri       05  S u n     0 5  
+ W e d    0 6   Sat      06   Sat      06   Tue     06   T h u     0 6  S u n     0 6  Tue     06  Fri       06  Mo n     06  W e d    0 6   Sat      06  Mo n     06  
+ T h u     0 7   S u n     0 7   S u n     0 7  W e d    0 7   Fri       07  Mo n     07  W e d    0 7  Sat      07  Tue     07  T h u     0 7   S u n     0 7  Tue     07  
+ Fri       08   Mo n     08   Mo n     08  T h u     0 8   Sat      08  Tue     08  T h u     0 8  S u n     0 8  W e d    0 8  Fri       08   Mo n     08  W e d    0 8  
+ Sat      09   Tue     09   Tue     09  Fri       09   S u n     0 9  W e d    0 9  Fri       09  Mo n     09  T h u     0 9  Sat      09   Tue     09  T h u     0 9  
+ Sun     10   W ed    10   W ed    10  Sat       10   Mon     10  Thu     10  Sat       10  Tue     10  Fri        10  Sun     10   W ed    10  Fri        10  
+ Mon     11   Thu      11   Thu      11  Sun      11   Tue      11  Fri        11  Sun      11  Wed     11  Sat       11  Mon     11   Thu      11  Sat       11  
+ Tue     12   Fri        12   Fri        12   Mon     12   W ed    12  Sat       12  Mon     12  Thu     12  Sun     12  Tue     12   Fri        12  Sun     12  
+ W ed    13   Sat       13   Sat       13  Tue     13   Thu     13  Sun     13  Tue     13  Fri        13   Mon     13  W ed    13   Sat       13  Mon     13  
+ Thu     14   Sun     14   Sun     14  W ed    14   Fri        14  Mon     14  W ed    14  Sat       14  Tue     14  Thu     14   Sun     14  Tue     14  
+ Fri        15   Mon     15   Mon     15  Thu     15   Sat       15  Tue     15  Thu     15  Sun     15  W ed    15  Fri        15   Mon     15  W ed    15  
+ Sat       16   Tue     16   Tue     16  Fri        16   Sun     16  W ed    16  Fri        16   Mon     16 Thu     16  Sat       16   Tue     16  Thu     16  
+ Sun     17   W ed    17   W ed    17  Sat       17   Mon     17  Thu     17  Sat       17  Tue     17  Fri        17  Sun     17   W ed    17  Fri        17  
+ Mon     18   Thu     18   Thu     18  Sun     18   Tue     18  Fri        18  Sun     18  W ed    18  Sat       18  Mon     18   Thu     18  Sat       18  
+ Tue     19   Fri        19   Fri        19  Mon     19   W ed    19  Sat       19   Mon     19  Thu     19  Sun     19  Tue     19   Fri        19  Sun     19  
+ W e d    2 0   Sat      20   Sat      20  Tue     20   T h u     2 0  S u n     2 0  Tue     20  Fri       20  Mo n     20  W e d    2 0   Sat      20  Mo n     20  
+ Thu     21   Sun     21   Sun     21  W ed    21   Fri        21  Mon     21  W ed    21  Sat       21  Tue     21  Thu     21   Sun     21  Tue     21  
+ Fri       22   Mo n     22   Mo n     22  T h u     2 2   Sat      22  Tue     22   T h u     2 2 S u n     2 2  W e d    2 2  Fri       22   Mo n     22  W e d    2 2  
+ Sat      23   Tue     23   Tue     23  Fri       23   S u n     2 3  W e d    2 3  Fri       23  Mo n     23  T h u     2 3  Sat      23   Tue     23  T h u     2 3  
+ S u n     2 4   W e d    2 4   W e d    2 4  Sat      24   Mo n     24  T h u     2 4  Sat      24  Tue     24  Fri       24  S u n     2 4   W e d    2 4  Fri       24  
+ Mo n     25   T h u     2 5   T h u     2 5  S u n     2 5   Tue     25  Fri       25  S u n     2 5  W e d    2 5   Sat      25  Mo n     25   T h u     2 5  Sat      25  
+ Tue     26   Fri       26   Fri       26  Mo n     26   W e d    2 6  Sat      26  Mo n     26  T h u     2 6  S u n     2 6  Tue     26   Fri       26  S u n     2 6  
+ W e d    2 7   Sat      27   Sat      27  Tue     27   T h u     2 7  S u n     2 7  Tue     27  Fri       27  Mo n     27  W e d    2 7   Sat      27  Mo n     27  
+ T h u     2 8   S u n     2 8   S u n     2 8  W e d    2 8   Fri       28  Mo n     28  W e d    2 8  Sat      28  Tue     28   T h u     2 8   S u n     2 8  Tue     28  
+ Fri       29  
+  
+ Mo n     29  T h u     2 9   Sat      29  Tue     29  T h u     2 9  S u n     2 9  W e d    2 9  Fri       29   Mo n     29  W e d    2 9  
+
+ Sat      30  
+  
+ Tue     30  Fri       30   S u n     3 0   W e d    3 0  Fri       30  Mo n     30  T h u     3 0  Sat      30   Tue     30  T h u     3 0  
+
+ Sun     31  
+  
+ W ed    31  
+  
+ Mon     31  
+  
+Sat       31  Tue     31  
+  
+Sun     31  
+  
+Fri        31  
+
+ 
+
+Tage / Days / Jours 
+München 
+Munich 
+Den Haag 
+The Hague 
+La Haye 
+
+Berlin 
+
+Neujahr - New Year's Day - Nouvel An 
+01.01.2010 
+x 
+x 
+x 
+
+Heilige Drei Könige - Epiphany - Epiphanie 
+06.01.2010 
+x 
+ 
+ 
+
+Karfreitag - Good Friday - Vendredi Saint 
+02.04.2010 
+x 
+x 
+x 
+
+Ostermontag - Easter Monday - Lundi de Pâques 
+05.04.2010 
+x 
+x 
+x 
+
+Nationalfeiertag - National Holiday - Fête nationale 
+30.04.2010 
+ 
+x 
+ 
+
+Tag der Befreiung - Liberation Day - Journée de la 
+Libération 
+05.05.2010 
+ 
+x 
+ 
+
+Christi Himmelfahrt - Ascension Day - Ascension 
+13.05.2010 
+x 
+x 
+x 
+
+Brückentag - Bridging Day - Pont 
+14.05.2010 
+x 
+x 
+x 
+
+Pfingstmontag - Whit Monday - Lundi de Pentecôte 
+24.05.2010 
+x 
+x 
+x 
+
+Fronleichnam - Corpus Christi - Fête-Dieu 
+03.06.2010 
+x 
+ 
+ 
+
+Allerheiligen - All Saints' Day - Toussaint 
+01.11.2010 
+x 
+ 
+ 
+
+Heiliger Abend - Christmas Eve - Veille de Noël 
+24.12.2010 
+x 
+x 
+x 
+
+Silvester - New Year's Eve - Saint-Sylvestre 
+31.12.2010 
+x 
+x 
+x 
+
+EQE2012exampaper 
+
+
+Annex 2 
+
+2012/DI/EN/7 
+
+EQE2012exampaper
+
+2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jan  
+Feb  
+Mar  
+Apr  
+May 
+Jun 
+Jul 
+Aug 
+Sep  
+Oct  
+Nov 
+Dec 
+
+ Sat        01   Tue       01   Tue       01  Fri         01   Sun      01  Wed     01   Fri        01  Mon      01  Thu      01   Sat        01   Tue       01  Thu      01  
+ Sun      02   Wed     02   Wed     02  Sat       02   Mon     02  Thu      02  Sat       02  Tue      02  Fri        02   Sun      02   Wed     02   Fri        02  
+ Mon     03   Thu      03   Thu      03  Sun      03   Tue      03  Fri        03  Sun      03  Wed     03  Sat       03   Mon     03   Thu      03  Sat       03  
+ Tue      04   Fri        04   Fri        04   Mon     04   Wed     04  Sat       04  Mon     04  Thu      04  Sun      04   Tue      04   Fri        04  Sun      04  
+ Wed     05   Sat       05   Sat       05  Tue      05   Thu      05  Sun      05  Tue      05  Fri        05   Mon    05   Wed     05   Sat       05  Mon     05  
+ Thu      06   Sun      06   Sun      06  Wed     06   Fri        06  Mon     06  Wed     06  Sat       06  Tue      06   Thu      06   Sun      06  Tue      06  
+ Fri        07   Mon     07   Mon     07  Thu      07   Sat       07  Tue      07  Thu      07  Sun      07  Wed     07   Fri        07   Mon     07  Wed     07  
+ Sat       08   Tue      08   Tue      08  Fri        08   Sun      08  Wed     08   Fri       08  Mon     08  Thu      08   Sat       08   Tue      08  Thu      08  
+ Sun      09   Wed     09   Wed     09  Sat       09   Mon     09  Thu      09  Sat       09  Tue      09  Fri        09   Sun      09   Wed     09   Fri       09  
+ Mon      10   Thu      10   Thu      10  Sun      10   Tue       10  Fri         10  Sun      10  Wed     10  Sat        10   Mon      10   Thu      10  Sat        10  
+ Tue       11   Fri          11   Fri          11   Mon       11   Wed      11  Sat         11  Mon       11  Thu       11  Sun       11   Tue       11   Fri          11  Sun       11  
+ Wed     12   Sat        12   Sat        12  Tue       12   Thu      12  Sun      12   Tue       12 Fri         12  Mon      12   Wed     12   Sat        12  Mon      12  
+ Thu      13   Sun      13   Sun      13  Wed     13   Fri         13  Mon      13  Wed     13  Sat        13  Tue       13   Thu      13   Sun      13   Tue      13  
+ Fri         14   Mon      14   Mon      14  Thu      14   Sat        14  Tue       14  Thu      14  Sun      14  Wed     14   Fri         14   Mon      14  Wed     14  
+ Sat        15   Tue       15   Tue       15   Fri         15   Sun      15  Wed     15  Fri         15  Mon      15  Thu      15   Sat        15   Tue       15  Thu      15  
+ Sun      16   Wed     16   Wed     16  Sat        16   Mon      16  Thu      16  Sat        16   Tue       16  Fri         16   Sun      16   Wed     16  Fri         16  
+ Mon      17   Thu      17   Thu      17  Sun      17   Tue       17  Fri         17  Sun      17  Wed     17  Sat        17   Mon      17   Thu      17  Sat        17  
+ Tue       18   Fri         18   Fri         18  Mon      18   Wed     18  Sat        18  Mon      18  Thu      18  Sun      18   Tue       18   Fri         18  Sun      18  
+ Wed     19   Sat        19   Sat        19   Tue       19   Thu      19  Sun      19  Tue       19  Fri         19  Mon      19   Wed     19   Sat        19  Mon      19  
+ Thu      20   Sun      20   Sun      20  Wed     20   Fri        20  Mon     20  Wed     20  Sat       20   Tue     20   Thu      20   Sun      20  Tue      20  
+ Fri         21   Mon      21   Mon      21  Thu      21   Sat        21  Tue       21  Thu      21  Sun      21  Wed     21   Fri         21   Mon      21  Wed     21  
+ Sat       22   Tue      22   Tue      22  Fri        22   Sun      22  Wed     22  Fri        22  Mon     22  Thu      22   Sat       22   Tue      22  Thu      22  
+ Sun      23   Wed     23   Wed     23  Sat       23   Mon     23   Thu      23  Sat       23  Tue      23  Fri        23   Sun      23   Wed     23  Fri        23  
+ Mon     24   Thu      24   Thu      24  Sun      24   Tue      24  Fri        24  Sun      24  Wed     24  Sat       24   Mon     24   Thu      24  Sat       24  
+ Tue      25   Fri        25   Fri        25  Mon     25   Wed     25  Sat       25  Mon     25  Thu      25  Sun      25   Tue      25   Fri        25  Sun      25  
+ Wed     26   Sat       26   Sat       26   Tue      26   Thu      26  Sun      26  Tue      26  Fri        26  Mon     26   Wed     26   Sat       26  Mon     26  
+ Thu      27   Sun      27   Sun      27  Wed     27   Fri        27  Mon     27  Wed     27  Sat       27   Tue      27   Thu      27   Sun      27  Tue      27  
+ Fri        28   Mon     28   Mon     28  Thu      28   Sat       28  Tue      28  Thu      28  Sun      28  Wed     28   Fri        28   Mon     28  Wed     28  
+ Sat       29  
+  
+ Tue      29  Fri        29   Sun      29  Wed     29  Fri        29  Mon     29  Thu      29   Sat       29   Tue      29  Thu      29  
+
+ Sun      30  
+  
+ Wed     30  Sat       30   Mon     30  Thu      30  Sat       30   Tue     30  Fri        30   Sun      30   Wed     30  Fri        30  
+
+ Mon      31  
+  
+ Thu      31  
+  
+ Tue       31  
+  
+Sun      31  Wed     31  
+  
+ Mon      31  
+  
+Sat        31  
+
+ 
+
+Tage / Days / Jours 
+München 
+Munich 
+Den Haag 
+The Hague 
+La Haye 
+
+Berlin 
+
+Heilige Drei Könige - Epiphany - Epiphanie 
+06.01.2011 
+x 
+ 
+ 
+
+Karfreitag - Good Friday - Vendredi Saint 
+22.04.2011 
+x 
+x 
+x 
+
+Ostermontag - Easter Monday - Lundi de Pâques 
+25.04.2011 
+x 
+x 
+x 
+
+Tag der Befreiung - Liberation Day - Journée de la Libération 
+05.05.2011 
+ 
+x 
+ 
+
+Christi Himmelfahrt - Ascension Day - Ascension 
+02.06.2011 
+x 
+x 
+x 
+
+Brückentag - Bridging Day - Pont 
+03.06.2011 
+x 
+x 
+x 
+
+Pfingstmontag - Whit Monday - Lundi de Pentecôte 
+13.06.2011 
+x 
+x 
+x 
+
+Fronleichnam - Corpus Christi - Fête-Dieu 
+23.06.2011 
+x 
+ 
+ 
+
+Mariä Himmelfahrt - Assumption Day - Assomption 
+15.08.2011 
+x 
+ 
+ 
+
+Tag der Deutschen Einheit - Day of German Unity - Fête 
+Nationale 
+03.10.2011 
+x 
+ 
+x 
+
+Allerheiligen - All Saints' Day - Toussaint 
+01.11.2011 
+x 
+ 
+ 
+
+2. Weihnachtstag - Boxing Day - Lendemain de Noël 
+26.12.2011 
+x 
+x 
+x 
+
+EQE2012exampaper 
+
+
+Annex 3 
+
+ 
+2012/DI/EN/8 
+
+EQE2012exampaper
+
+2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jan  
+Feb  
+Mar 
+Apr  
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct  
+Nov 
+Dec 
+
+ Sun      01   Wed     01   Thu      01  Sun      01   Tue       01  Fri         01  Sun      01  Wed     01  Sat        01  Mon      01   Thu      01  Sat        01  
+ Mon     02   Thu      02   Fri        02  Mon     02   Wed     02  Sat       02  Mon     02  Thu      02  Sun      02  Tue      02   Fri        02  Sun      02  
+ Tue      03   Fri        03   Sat       03   Tue      03   Thu      03  Sun      03  Tue      03  Fri        03  Mon     03  Wed     03   Sat       03  Mon     03  
+ Wed     04   Sat       04   Sun      04  Wed     04   Fri        04  Mon     04  Wed     04  Sat       04   Tue      04  Thu      04   Sun      04  Tue      04  
+ Thu      05   Sun      05   Mon     05  Thu      05   Sat       05  Tue      05  Thu      05  Sun      05  Wed     05  Fri        05   Mon     05  Wed     05  
+ Fri        06   Mon     06   Tue      06  Fri        06   Sun      06  Wed     06  Fri        06  Mon     06  Thu      06  Sat       06   Tue      06  Thu      06  
+ Sat       07   Tue      07   Wed     07  Sat       07   Mon     07   Thu      07  Sat       07  Tue      07  Fri        07  Sun      07   Wed     07  Fri        07  
+ Sun      08   Wed     08   Thu      08  Sun      08   Tue      08  Fri        08  Sun      08  Wed     08  Sat       08  Mon     08   Thu      08  Sat       08  
+ Mon     09   Thu      09   Fri        09  Mon     09   Wed     09  Sat       09  Mon     09  Thu      09  Sun      09  Tue      09   Fri        09  Sun      09  
+ Tue       10   Fri         10   Sat        10  Tue       10   Thu      10  Sun      10  Tue       10  Fri         10  Mon      10  Wed     10   Sat        10  Mon      10  
+ Wed      11   Sat         11   Sun       11  Wed      11   Fri          11  Mon       11  Wed      11  Sat         11  Tue       11  Thu       11   Sun       11  Tue       11  
+ Thu      12   Sun      12   Mon      12  Thu      12   Sat        12  Tue       12  Thu      12  Sun      12  Wed     12  Fri         12   Mon      12   Wed     12  
+ Fri         13   Mon      13   Tue       13  Fri         13   Sun      13  Wed     13  Fri         13  Mon      13  Thu      13  Sat        13   Tue       13  Thu      13  
+ Sat        14   Tue       14   Wed     14   Sat        14   Mon      14  Thu      14  Sat        14  Tue       14  Fri         14  Sun      14   Wed     14  Fri         14  
+ Sun      15   Wed     15   Thu      15  Sun      15   Tue       15  Fri         15  Sun      15   Wed    15  Sat        15  Mon      15   Thu      15  Sat        15  
+ Mon      16   Thu      16   Fri         16  Mon      16   Wed     16  Sat        16  Mon      16  Thu      16  Sun      16  Tue       16   Fri         16   Sun     16  
+ Tue       17   Fri         17   Sat        17  Tue       17   Thu      17  Sun      17  Tue       17  Fri         17  Mon      17  Wed     17   Sat        17  Mon      17  
+ Wed     18   Sat        18   Sun      18   Wed     18   Fri         18  Mon      18  Wed     18  Sat        18  Tue       18  Thu      18   Sun      18  Tue       18  
+ Thu      19   Sun      19   Mon      19  Thu      19   Sat        19  Tue       19  Thu      19  Sun      19   Wed     19  Fri         19   Mon      19  Wed     19  
+ Fri        20   Mon     20   Tue      20  Fri        20   Sun      20  Wed     20  Fri        20  Mon     20  Thu      20  Sat       20   Tue      20  Thu      20  
+ Sat        21   Tue       21   Wed     21  Sat        21   Mon      21  Thu      21  Sat        21  Tue       21  Fri         21  Sun      21   Wed     21  Fri         21  
+ Sun      22   Wed     22   Thu      22  Sun      22   Tue      22  Fri        22  Sun      22  Wed     22  Sat       22  Mon     22   Thu      22  Sat       22  
+ Mon     23   Thu      23   Fri        23  Mon     23   Wed     23  Sat       23  Mon     23  Thu      23  Sun      23  Tue      23   Fri        23  Sun      23  
+ Tue      24   Fri        24   Sat       24  Tue      24   Thu      24  Sun      24  Tue      24  Fri        24  Mon     24  Wed     24   Sat       24  Mon     24  
+ Wed     25   Sat       25   Sun      25  Wed     25   Fri        25  Mon     25  Wed     25  Sat       25  Tue      25  Thu      25   Sun      25  Tue      25  
+ Thu      26   Sun      26   Mon     26  Thu      26   Sat       26  Tue      26  Thu      26   Sun     26  Wed     26  Fri        26   Mon     26  Wed     26  
+ Fri        27   Mon     27   Tue      27  Fri        27   Sun      27  Wed     27  Fri        27  Mon     27  Thu      27  Sat       27   Tue      27  Thu      27  
+ Sat       28   Tue      28   Wed     28  Sat       28   Mon     28  Thu      28  Sat       28  Tue      28  Fri        28  Sun      28   Wed     28  Fri        28  
+ Sun      29   Wed     29   Thu      29  Sun      29   Tue      29   Fri        29  Sun      29  Wed     29  Sat       29  Mon     29   Thu      29  Sat       29  
+ Mon     30  
+  
+ Fri        30  Mon     30   Wed     30  Sat       30  Mon     30  Thu      30  Sun      30  Tue      30   Fri        30  Sun      30  
+
+ Tue       31  
+  
+ Sat        31  
+  
+ Thu      31  
+  
+Tue       31  Fri         31  
+  
+Wed     31  
+  
+Mon      31  
+
+ 
+
+Tage / Days / Jours 
+München 
+Munich 
+Den Haag 
+The Hague 
+La Haye 
+
+Berlin 
+
+Heilige Drei Könige - Epiphany - Epiphanie 
+06.01.2012 
+x 
+ 
+ 
+
+Karfreitag - Good Friday - Vendredi Saint 
+06.04.2012 
+x 
+x 
+x 
+
+Ostermontag - Easter Monday - Lundi de Pâques 
+09.04.2012 
+x 
+x 
+x 
+
+Nationalfeiertag - National Holiday -  Fête Nationale 
+30.04.2012 
+ 
+x 
+ 
+
+Maifeiertag - Labour Day - Fête du Travail 
+01.05.2012 
+x 
+x 
+x 
+
+Christi Himmelfahrt - Ascension Day - Ascension 
+17.05.2012 
+x 
+x 
+x 
+
+Pfingstmontag - Whit Monday - Lundi de Pentecôte 
+28.05.2012 
+x 
+x 
+x 
+
+Fronleichnam - Corpus Christi - Fête-Dieu 
+07.06.2012 
+x 
+ 
+ 
+
+Mariä Himmelfahrt - Assumption Day - Assomption 
+15.08.2012 
+x 
+ 
+ 
+
+Tag der Deutschen Einheit - Day of German Unity - Fête 
+Nationale 
+03.10.2012 
+x 
+ 
+x 
+
+Allerheiligen - All Saints' Day - Toussaint 
+01.11.2012 
+x 
+ 
+ 
+
+Heiliger Abend - Christmas Eve - Veille de Noël 
+24.12.2012 
+x 
+x 
+x 
+
+1. Weihnachtstag - Christmas Day - Jour de Noël 
+25.12.2012 
+x 
+x 
+x 
+
+2. Weihnachtstag - Boxing Day - Lendemain de Noël 
+26.12.2012 
+x 
+x 
+x 
+
+Silvester - New Year's Eve - Saint-Sylvestre 
+31.12.2012 
+x 
+x 
+x 
+
+ 
+
+EQE2012exampaper 
+
+

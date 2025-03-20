@@ -1,0 +1,394 @@
+Examiners' Report Paper D 2011 - Part II 
+ 
+ 
+It is well-established that Part II of Paper D requires the candidates to first analyze a 
+situation involving various inventions, applications and patents and based on this analysis 
+to provide advice to a client on actions to take in the form of answers to specific questions. 
+ 
+The main issues the candidates were expected to recognise in this year's paper were: 
+ 
+-  The claims of PCT-Ax were not entitled to the priority of DE-Ax. DE-Ax did not disclose 
+the specific lubricating composition comprising a combination of a silicon oil and a 
+viscosity improver, present in all claims of PCT-Ax. Instead, it disclosed that the 
+lubricating composition comprised an oil to be selected from a long list of oils and at 
+least one additive to be also chosen from a list of additives. The lubricant composition in 
+PCT-Ax was, thus, a selection from two lists of a certain length and could not be 
+considered to have been disclosed in DE-Ax. 
+ 
+ - The priority claim from JP-PAN1 in EP-PAN1 was valid because JP-PAN1 and JP-PAN2 
+were filed by different applicants (Pankutaya Nederland BV and Pankutaya Japan KK 
+respectively). Hence, despite the fact that JP-PAN2 related to the same invention and 
+was filed before JP- PAN1, the latter was still the first application for Pankutaya 
+Nederland BV which was the applicant of EP-PAN1. 
+ 
+-  The disclaimer in EP-Ax was invalid. The disclaimer was an undisclosed disclaimer 
+because there was no distinction in EP-Ax between mechanical and hydraulic brakes. It 
+did not fulfil the requirements set in G01/03 for several reasons: it disclaimed more than 
+necessary to restore novelty (as brake systems with hydraulic disc brakes were not 
+disclosed in EP-PAN2); it was not necessary to restore novelty because the 
+embodiment in EP-PAN2 was not an enabling disclosure and could not be part of the 
+state of the art; it disclaimed a non-working embodiment, so it was also relevant for 
+sufficiency of disclosure. 
+ 
+ 
+Candidates are encouraged to verify their calculations of time limits in order to avoid 
+arriving at wrong dates and at a distorted view of the current situation. 
+ 
+Regarding the specific questions: 
+ 
+ 
+Question 1 
+ 
+Most of the candidates realised that PCT-Ax was filed within the priority year of DE-Ax 
+since the time limit was extended due to an official holiday of the EPO. Some candidates 
+recognised that the claims of PCT-Ax were not entitled to the priority of DE-Ax and saw the 
+need to add a priority claim of USP-Ax in view of the disclosure to the standardisation 
+committee. 
+ 
+It was generally well-recognised that it was still possible to add a priority claim from  
+USP-Ax since the four months from the filing date of PCT-Ax had not yet expired, although 
+some candidates referred to the 16 months from priority date starting - wrongly - from the 
+priority to be added (USP-Ax) and not from the earlier priority date (DE-Ax). 
+
+- 1 -
+
+
+ 
+A majority of candidates recognised that both JP-PAN1 and JP-PAN2 were prior art 
+against PCT-Ax, regardless of its effective date, and destroyed the novelty of its first three 
+claims (claim 3 only by JP-PAN2). The lubricating composition in the claims of PCT-Ax 
+was disclosed in both JP-PAN1 and JP-PAN2 since it involved a one fold selection from a 
+short list. 
+ 
+Most of the candidates recognised that claim 4, directed to the cross-shaped cross-section, 
+was novel and inventive and based their justification on the radical departure from the prior 
+art and/or the technical advantages.  
+ 
+Regarding the payment of the additional search fee for claim 4, most of the candidates 
+were familiar with the regulations concerning deposit accounts, although some candidates 
+missed the fact that the administrative fee of 30% surcharge was not paid and there was 
+no way to have a valid payment of the search fee. More than a few candidates used EPC 
+provisions for calculating time limits instead of those of the PCT. For instance, the 10-day 
+rule under the EPC should not have been applied since PCT-Ax was still in the 
+international phase.  
+ 
+On the other hand, many candidates correctly proposed the filing of a divisional application 
+related to the subject matter of claim 4 upon entry of PCT-Ax into the European regional 
+phase.  
+ 
+ 
+Question 2 
+ 
+Many candidates recognised the validity of the priority claim from JP-PAN1 in EP-PAN1 
+and drew the correct conclusions about what patent protection Pankutaya could obtain, 
+namely the axle unit with the special seal S. Most of the candidates also recognised that 
+Axbruch - despite a patent they could get for cross-shaped cross-section - would still not 
+be free to use it because of Pankutaya's EP-PAN1. 
+ 
+Most of the candidates spotted the importance of the patent Axbruch could get on the 
+cross-shaped cross section of the axle as it was accepted to be the standard. 
+ 
+ 
+Question 3 
+ 
+Those candidates who recognised the invalidity of the disclaimer also saw the need to 
+appeal in order to remove it. However, many candidates answered that Axbruch should 
+appeal without giving full reasoning. For instance, some candidates only cited the case law 
+stating that a proprietor being a party as of right in appeal proceedings was limited to 
+defending the patent as amended by the opposition division.  
+ 
+ 
+Question 4 
+ 
+Some candidates appreciated that the only type of brakes disclosed in the application 
+documents of EP-Ax was the disc brakes and the claim the client could obtain was to a 
+bicycle brake system with the brake lever and disc brakes. 
+ 
+
+- 2 -
+
+
+Possible solution - Paper D 2011 - Part II 
+ 
+ 
+Answer to question 1: 
+ 
+For which aspects of our development can we obtain patent protection in Europe, 
+and how? 
+ 
+PCT-Ax is Axbruch's only pending patent application that could conceivably lead to 
+protection in Europe, as DE-Ax is no longer pending.   
+The priority period commencing with the filing of USP-Ax expired on 1 February 2011.  
+Although the time window for filing a new European or international patent application in 
+combination with a request for re-establishment of rights into the priority period or 
+restoration of the priority right respectively is still open, there are no grounds on which 
+such a request could be based. 
+PCT-Ax claims priority of DE-Ax. DE-Ax has a filing date of 30 October 2009. PCT-Ax was 
+filed in time to claim priority of DE-Ax, because 30 October 2010 is a Saturday and 1 
+November 2010 is All Saints ’ Day, which is a day on which the EPO (Munich) as the 
+Receiving Office was closed.  Axbruch GmbH was applicant for DE-Ax, and is applicant for 
+PCT-Ax for all states except for the U.S.  From a formal point of view, the requirements for 
+a valid priority claim are met.  
+DE-Ax discloses an axle unit with the special seal S and the two axle variants.  It also 
+discloses that the axle unit contains a lubricating composition of which the oil can be 
+chosen from one long list of suitable oils and an additive from another list of suitable 
+additives. However, all claims of PCT-Ax include the feature “silicon oil and a viscosity 
+improver”.  This is a selection from the two lists, namely the list of oils and the list of 
+additives, given in DE-Ax.  Therefore, DE-Ax does not disclose the invention claimed in 
+PCT-Ax, and the claims of PCT-Ax are not entitled to the priority date of DE-Ax.  As things 
+stand, the effective date of all claims is the filing date of PCT-Ax (2 November 2010). 
+The submission of the complete description of the two axle unit variants to the 
+standardisation committee amounts to a public disclosure.  Because the disclosure to the 
+standardisation committee discloses all the subject-matter of PCT-Ax, it is essential that 
+the claims of PCT-Ax have an effective date prior to 2 February 2010. 
+A claim to priority of USP-Ax in PCT-Ax should be added.  At the filing date of PCT-Ax, 
+USP-Ax stood in the name of Axbruch GmbH, following an assignment from the inventors.  
+Therefore, the applicants for USP-Ax and PCT-Ax were the same at the filing date of  
+PCT-Ax.  A claim to priority may be added until 16 months from the earliest priority date, 
+but in any case within 4 months from the filing date of PCT-Ax.  The 16-months period 
+expired on 28 February 2011.  However, the 4-months period expires on 2 March 2011.  
+Therefore, a request to add a claim to priority of USP-Ax should be filed tomorrow at the 
+latest.  This request can be filed with the IB or with the EPO as Receiving Office.  USP-Ax 
+is Axbruch's first application to disclose in detail the two axle units that Axbruch has 
+developed in combination with the lubricant composition.  The subject-matter of all claims 
+of PCT-Ax is therefore disclosed in USP-Ax, so that all claims of PCT-Ax would be entitled 
+to the date of filing of USP-Ax and would have 1 February 2010 as their effective date. 
+JPU-PAN1 and JPU-PAN2 were published before the effective date of all the claims of 
+PCT-Ax.  EP-PAN1 is prior art under Art. 54(3) EPC.  Each of JPU-PAN1, JPU-PAN2 and 
+EP-PAN1 discloses an axle unit with a seal corresponding to the seal S developed by 
+Axbruch and with an axle decreasing in diameter towards each end.  JPU-PAN1,  
+JPU-PAN2 and EP-PAN1 additionally describe that the lubricant composition is a silicon oil 
+in combination with an additive that may be a viscosity index improver, an emulsifier or an 
+
+- 3 -
+
+
+anti-foaming agent.  The combination of a silicon oil with a viscosity index improver is a 
+one-fold selection from a single list, so that this combination is disclosed in each of  
+JPU-PAN1, JPU-PAN2 and EP-PAN1. 
+It follows that the subject-matter of claims 1 and 2 of PCT-Ax is not new. 
+The axle ends described in JPU-PAN1 and EP-PAN1 are triangular in cross-section, so 
+that the subject-matter of claims 3 and 4 of PCT-Ax is not disclosed in JPU-PAN1 or  
+EP-PAN1.  However, JPU-PAN2 further discloses that the axle has a pentagonal cross-
+section at each end.  Therefore, JPU-PAN2 discloses the subject-matter of claim 3 of 
+PCT-Ax, but not the cross-shaped axle ends that are the subject of claim 4.    
+The cross-shaped axle ends are new.  They are also seen as a radical departure from the 
+normal square shape and have technical advantages over the pentagonal and triangular 
+ones.  These are indications that the subject-matter of claim 4 of PCT-Ax is inventive. 
+The EPO has issued an invitation to pay an additional search fee within one month of 
+23 January 2011.  This time period expired on 23 February 2011, so that the fee cannot 
+now be validly paid.  Because the shortfall in the deposit account was made up on 
+24 February 2011, the deemed date of payment is 24 February 2011, which is outside the 
+time period set.   
+The shortfall in the deposit account was notified by fax on 26 January 2011.  For the 
+payment to have been considered made on time, the account should have been 
+replenished and an additional surcharge of 30 % paid.  The time period for doing so 
+expired on 26 February 2011, carried over to 28 February 2011.  The account was 
+replenished in due time.  However, the surcharge was not paid in due time, because no 
+debit order to this effect was filed.  Therefore, the International Search Report will not 
+cover the subject-matter of claim 4.   
+There are no remedies available in the international phase for missing the time period for 
+payment of the additional search fee. 
+Because the EPO was the International Searching Authority, no supplementary search will 
+be performed on entry into the regional phase before the EPO.  The EPO will request that 
+the applicant limit the application to one invention covered by the International Search 
+Report, so that an amendment to make claim 4 an independent claim will not be possible.  
+Axbruch will have to enter the regional phase and then file a divisional patent application 
+directed to the subject-matter of claim 4. 
+Axbruch could possibly file another divisional patent application with a second non-medical 
+use claim to the use of a combination of a silicon oil and a viscosity index improver to 
+prolong the lifespan of an axle unit including a seal S. 
+ 
+ 
+Answer to question 2: 
+ 
+Please analyse whether Pankutaya could obtain valid patent protection that would 
+pose a threat to our European activities.  
+ 
+EP-PAN1 claims an axle unit with a seal corresponding to Axbruch's seal S.  EP-PAN1 
+claims priority of JPU-PAN1, which has a filing date of 15 July 2009.  There are no earlier 
+disclosures, because JPU-PAN2 was published later.  JPU-PAN2 has an earlier filing date 
+than JPU-PAN1, however.  JPU-PAN2 also discloses an axle unit with a seal 
+corresponding to Axbruch's seal S.  However, JPU-PAN1 and JPU-PAN2 have different 
+applicants.  Therefore, JPU-PAN1 is a first application.  Because EP-PAN1 was filed by 
+reference to JPU-PAN1, there is identity of contents.  EP-PAN1 was filed 1 July 2010, 
+therefore within 12 months of the filing date of JPU-PAN1.  It follows that the priority claim 
+
+- 4 -
+
+
+of EP-PAN1 is valid.  Therefore, there is no benefit in filing JPU-PAN2 as third party 
+observations. 
+ 
+Pankutaya can obtain a valid European patent to an axle unit with a seal corresponding to 
+the seal S.  Such a patent would cover the axle unit that Axbruch GmbH intends to 
+manufacture, so that they would infringe.  Axbruch GmbH will need to take a licence from 
+Pankutaya. 
+ 
+The European patent directed to the subject-matter of claim 4 of PCT-Ax that Axbruch 
+GmbH could obtain would be a dependent patent relative to EP-PAN1.  Axbruch's patent 
+is very likely to become essential to the new standard, so that Pankutaya would be 
+interested in negotiating a cross-licence agreement.   
+ 
+EP-PAN1 is a pending European patent application.  It is not a divisional of an earlier 
+European patent application.  There are no indications that examination has been 
+requested, let alone that a first communication from the Examination Division been issued.  
+Therefore, Pankutaya could still file a European divisional patent application based on  
+EP-PAN1.   
+ 
+ 
+Answer to question 3: 
+ 
+Should we appeal?  
+ 
+Axbruch GmbH is entitled to appeal, because it is adversely affected by the decision of the 
+Opposition Division (i.e. the decision not to allow the main request).  
+ 
+The ground of insufficiency introduced by Pankutaya is a fresh ground of opposition.  It will 
+not be considered if Axbruch were to object to its introduction.  Since the statement of 
+grounds of appeal must contain a party's complete case, dismissal of the only ground of 
+appeal might well be the end of the appeal.  However, this would not be in Axbruch's 
+interests.  
+ 
+EP-Ax only discloses disc brakes. It does not make a distinction between mechanical and 
+hydraulic brakes.  Therefore, the disclaimer added in the opposition proceedings was an 
+undisclosed disclaimer in the sense of G 1/03. 
+ 
+The disclaimer is invalid for any one of the following reasons: 
+1)  It arguably disclaims more than is necessary to restore novelty over EP-PAN2, 
+because it disclaims also all bicycle brake systems with hydraulic disc brakes, but such a 
+bicycle brake system is not disclosed in EP-PAN2. 
+2)  It is not necessary to restore novelty, because the disclosure of EP-PAN2 is not an 
+enabling disclosure. 
+3)  It has become relevant to the issue of sufficiency of disclosure, because it disclaims a 
+bicycle brake system that does not work.   
+ 
+To obtain a valid patent, the disclaimer should be removed. 
+ 
+If Axbruch do not file an appeal, then they would have to defend the patent as maintained 
+in opposition proceedings.  As a party as of right, they could then not remove the 
+
+- 5 -
+
+
+disclaimer, because that would broaden the scope of protection, i.e. contravene the 
+principle of no Reformatio in Peius (G 4/93).  It follows that Axbruch must appeal. 
+ 
+Since the appeal has suspensive effect, the opposition proceedings are still pending.  For 
+completeness, it is noted that Axbruch cannot initiate limitation proceedings to limit the 
+granted patent by an amendment that does not include the disclaimer.  They cannot wait 
+until the appeal is disposed of either, because then the patent they would apply to limit 
+would include the disclaimer, and its removal would not be a limitation, but an extension. 
+ 
+ 
+Answer to question 4: 
+ 
+Discuss what subject-matter we could validly claim to obtain the broadest scope of 
+protection possible. 
+ 
+If Axbruch appeal, they cannot revert to the independent claim of the patent as granted, 
+which was directed to the brake lever.  This claim lacks novelty, because there is sufficient 
+information in EP-PAN2 to make the brake lever.  EP-PAN2 merely does not provide 
+sufficient information to make a functioning bicycle brake system. 
+ 
+A claim to a bicycle brake system comprising the brake lever would encompass a limited 
+number of alternative brake systems (four) of which one is not enabled, namely the bicycle 
+brake system with the newly developed brake lever and a hydraulic rim brake.  It is 
+therefore arguable that a claim to a bicycle brake system comprising the brake lever would 
+not be enabled.   
+ 
+The broadest protection Axbruch could certainly get would be in the form of an 
+independent claim to a bicycle brake system with the brake lever and disc brakes.  Also 
+possible in principle would be a claim to a set of parts for use in assembling a bicycle 
+brake system, comprising the brake lever and disc brakes.   
+ 
+
+- 6 -
+
+
+29 June 2011
+
+Examination Committee III agrees on .......... marks and recommends the 
+following grade to the Examination Board:
+
+COMPENSABLE FAIL 
+(45-49)
+FAIL 
+(0-44)
+PASS 
+(50-100)
+
+Candidate No.
+
+Paper D 2011 - Marking Sheet
+
+EXAMINATION COMMITTEE III
+
+Chairman of Examination Committee III
+
+__________________________________________
+
+Maximum 
+possible
+
+Marker
+Marker
+
+Marks awarded
+
+Question 1
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Question 7
+
+Question 8
+
+4
+
+6
+
+5
+
+5
+
+3
+
+6
+
+4
+
+7
+
+Question 1
+
+Question 2
+
+Question 3
+
+Question 4
+
+35
+
+11
+
+10
+
+4
+
+Total Part I + II
+100
+
+Part I
+
+Part II
+
+
