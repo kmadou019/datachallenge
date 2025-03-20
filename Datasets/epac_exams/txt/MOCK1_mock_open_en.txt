@@ -57,10 +57,9 @@ A. How and by when should the application be filed?
 B. Can you still file the application today if no professional representative is available for 
 signing?   
    
-You are informed that in two days you will get an e-mail from the Spanish lawyer with a new 
-attachment, and you are also informed that ES has 18 claims and 40 pages.   
-    
-C. If a filing date has been accorded, which formal requirements must be fulfilled, and which 
+C. You are informed that in two days you will get an e-mail from the Spanish lawyer with a new 
+attachment, and you are also informed that ES has 18 claims and 40 pages.       
+If a filing date has been accorded, which formal requirements must be fulfilled, and which 
 fees must be paid for the European patent application to be published? Please also mention the 
 time limits.   
      
@@ -95,10 +94,9 @@ D. What is the time limit for correcting this mistake? Please give reasons for y
 On 1 September 2022 the International Search Report is received including the Written Opinion. 
 Unfortunately, the report still cites prior art, and the claims are not yet found novel and inventive. 
 
-Your client is very eager to get a positive International Preliminary Examination Report (IPER) 
+E.Your client is very eager to get a positive International Preliminary Examination Report (IPER) 
 before entering the national phase to speed up the process and requests you to file a Demand.      
-    
-E. Until when can a Demand be filed? Please give reasons for your answer.     
+Until when can a Demand be filed? Please give reasons for your answer.     
     
 F. Which office(s) are competent International Preliminary Examining Authorities for that 
 Demand? Please give reasons for your answer.    
@@ -114,17 +112,12 @@ dated 14 March 2022.
    
 A.When did the time limit for filing a notice of appeal expire?     
    
-On 16 May 2022 applicant A filed a notice of appeal and paid the appeal fee.     
- 
-Consider the following situation:     
-   
-B.Applicant A withdrew the appeal on 5 July 2022 without filing a statement of grounds of 
+B.On 16 May 2022 applicant A filed a notice of appeal and paid the appeal fee. Consider the 
+following situation:  Applicant A withdrew the appeal on 5 July 2022 without filing a statement of grounds of 
 appeal. Will the appeal fee be reimbursed?    
   
-On 5 July 2022 applicant A filed a statement of grounds of appeal. In October 2022, applicant A 
+C.On 5 July 2022 applicant A filed a statement of grounds of appeal. In October 2022, applicant A 
 received a communication under Rule 100(2) EPC from the Board of Appeal. Consider the 
-following situation:   
-  
-C.In response to the communication, applicant A immediately withdrew the appeal. Will the 
+following situation: In response to the communication, applicant A immediately withdrew the appeal. Will the 
 appeal fee be reimbursed?     
    
