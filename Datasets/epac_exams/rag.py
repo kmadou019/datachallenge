@@ -81,8 +81,21 @@ def search(query: str = Query(..., description="Your keyword(s)"), k: int = 5):
         "http://localhost:11434/api/generate",
         json={
             "model": "mistral",
-            "prompt": f"Given the query: '{query}', and the following related legal content:\n{context_text}\n\nGenerate a training exam question or summary to help understand the query.",
-            "stream": False
+            "prompt": f"""Given the legal query: '{query}'
+
+You are provided with related legal questions and options.
+
+Based only on the text below, do the following:
+1. Create one relevant training exam question (if possible).
+2. List the multiple-choice options.
+3. Explain the correct legal conclusion using only what is stated below.
+4. Do not assume facts that are not explicitly written in the retrieved content.
+
+Context:
+{context_text}
+
+""",
+"stream": False
         }
     )
     generation = response.json().get("response", "[No response from Mistral]")
