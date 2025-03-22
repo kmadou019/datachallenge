@@ -2,3 +2,4 @@
 *.mp4
 .xlsx
 .gitignore
+mon_env/
