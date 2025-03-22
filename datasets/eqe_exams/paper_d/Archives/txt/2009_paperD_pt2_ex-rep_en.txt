@@ -1,0 +1,518 @@
+- 1 - 
+
+Examiners' Report - Paper D 2009 - Part II 
+ 
+ 
+This question, as in most years, presented the candidate with a client that knew enough to 
+get into trouble but needed help to survive. This year the candidate had the additional 
+problem that the client was going to be out of contact at a time when critical dates arose. 
+ 
+Candidates are supposed to accept the facts and the dates given. Candidates are 
+reminded that whereas there is no need to cite legal basis in part II, it can sometimes be 
+helpful in assisting their explanation. 
+ 
+The principal issues that the examiners were looking for were: 
+
+• the existence of varieties of slugbanite that did not affect snails had an effect on the 
+validity of Silybum’s patents and applications; 
+
+• if priority could not be claimed for a PCT application corresponding to GB2, then EP1, 
+EP2, and EP3 were Art 54(2) prior art with resultant problems of inventive step; 
+
+• there was still time to restore the claim to priority from GB2; 
+
+• PCT-BF could be a problem for Silybum in Europe if it entered the European regional 
+phase, both because of the effect on Silybum`s patents and on their freedom to market 
+their products; 
+
+• Silybum and Big-Farma could both make products without infringing the other’s 
+patents, but a better product could be introduced to the market if they cross-licensed. 
+ 
+The majority of candidates saw most of these issues. What differentiated the candidates 
+was how they dealt with the issues. Poorer candidates simply analysed the situation and 
+indicated problems: better candidates gave details of what to do to solve the problems. 
+ 
+The necessary analysis of the status of the client’s patents and applications, and the 
+problems that they had, was generally adequate. 
+ 
+On improvement of the patents, nearly all candidates realised that amendment in limitation 
+or opposition was possible to avoid covering escargines alone, or to deal with the non-
+working forms of slugbanite. Fewer candidates recognised that if PCT-BF did not enter the 
+European regional phase, only the issue of the forms of slugbanite needed to be 
+considered. 
+ 
+On restoration of the priority right for the PCT application, most candidates saw the 
+solution, but relatively few analysed why it would be advantageous. The different 
+requirements for a filing date for a PCT application as compared with an EP application 
+meant that many candidates did not realise they needed to file claims with the PCT 
+application. 
+ 
+The issue of strategy with Big-Farma caused difficulty to some candidates who only 
+considered the effect that Silybum’s and Big-Farma’s patents had on each other’s patents. 
+Those candidates who considered what each party was free to make despite the other’s 
+patents, were generally able to provide a good solution.
+
+
+- 1 - 
+
+Possible Solution - Paper D 2009 - Part II 
+ 
+ 
+Status of European patents and applications (8 marks) 
+ 
+ 
+Priority 
+ 
+One year from the filing date of GB1 is 6th January 2008, which is a Sunday so the one 
+year term for validly claiming priority is extended to 7th January 2008.  EP1, EP2, and EP3 
+were all filed within this period. 
+ 
+GB1 was filed without claims but has unambiguous disclosure (paragraphs in the 
+description) to support the claims of EP1, EP2 and EP3 and so the priority requirement of 
+“same invention” is met. 
+ 
+GB1 and EP1/EP2/EP3 have same applicant and so there is entitlement to claim priority. 
+ 
+There is no exhaustion of priority right – several applications may claim the same priority. 
+ 
+Therefore, the priority has been validly claimed for all claims in EP1, EP2 and EP3 
+ 
+ 
+Actions due 
+ 
+EP1 and EP3 were granted 1st March 2009 so the three month term (in most countries) for 
+national validation expires 1st June 2009 (which may be extended as 1st June is a holiday 
+in some countries). For extension countries including Albania, which appears important in 
+the present circumstances, the same three month term expiring 1st June 2009 also 
+applies. 
+ 
+The London Agreement has the effect that for many countries a full translation is not 
+required. 
+ 
+For EP2 claims translations, grant and printing fees, and approval of text are due in EPO 
+in the next four months 
+ 
+ 
+Problems in applications (11 marks) 
+ 
+ 
+Prior art 
+ 
+Slugbanites and escargines are known but this does not appear to prejudice novelty or 
+inventive step of the subject matter of any of the claims of EP1, EP2 and EP3, since the 
+only earlier uses of these compounds and minerals are remote from deterring slugs and 
+snails. The deterrent effect was not known to exist for these compounds and minerals, but 
+only known for copper metal. 
+
+
+- 2 - 
+
+PCT-BF has the earliest priority date for deterring slugs and snails using compositions 
+comprising organo-copper compounds, including escargines, and adhesive. It also has the 
+earliest priority date for methods of treating pots with such compositions and treated pots. 
+ 
+PCT-BF will be Art. 54(3) EPC prior art for EP1, EP2, EP3 effective in all states, if it 
+enters the European regional phase. The 31 month period for PCT-BF expires 15th July 
+2009. 
+ 
+EP1, EP2, and EP3 all have claims covering combinations of organo-copper compounds 
+and adhesives. 
+
+EP1 requires snail attractant and so the subject matter of the claim of EP1 is novel over 
+PCT-BF. 
+
+The EP2 claim, and the independent claim of EP3 do not require the presence of snail 
+attractant, and so lack novelty over PCT-BF because the claimed compositions cover 
+escargines alone in combination with an adhesive. 
+
+The dependent claim of EP3 is novel as there is no disclosure in PCT-BF of applying the 
+snail deterrent compositions in a band between one quarter to three quarters the height of 
+the plant pot. 
+ 
+ 
+Non-working embodiments 
+ 
+There is no reason to doubt inventive step concerning use of slugbanites to kill slugs and 
+snails for effective embodiments. The general knowledge of these materials does not show 
+their effectiveness for this purpose. 
+ 
+However, even though a working embodiment is disclosed, not all slugbanites are effective 
+to achieve the goal of killing slugs and snails. 
+ 
+It could be argued that there is reason to doubt inventive step for the subject matter of the 
+claims of EP1, EP2, and EP3 since two of the four varieties of slugbanite do not provide 
+the technical effect required. (Or it could be argued that sufficiency of disclosure is in doubt 
+for the same reason as 50% of the varieties of slugbanite do not work: this is not the same 
+as an occasional non-working embodiment which could be excused). 
+ 
+ 
+How can the patents and applications be improved? (13 marks) 
+ 
+ 
+EP3, and possibly EP1, are granted with potentially invalid claims but can be amended: 
+ 
+• if opposed, during opposition; the opposition period is still open expiring 1st December 
+2009; 
+
+• by post-grant limitation; 
+
+• in national revocation proceedings, or otherwise if national law allows. 
+ 
+So, if PCT-BF enters European regional phase, apply to limit the independent claim of EP3 
+by excluding compositions containing escargines alone. 
+
+
+- 3 - 
+
+The dependent claim of EP3 can be maintained as an independent claim without the need 
+for limitation to exclude escargines. It is not necessary to maintain unity in post-grant 
+amendment. 
+ 
+For both EP3 and EP1 post-grant limitation to slugbanite-A (rather than slugbanite in 
+general) is a possibility. Various amendments could be considered: 
+ 
+• Limitation to slugbanite originating from the Hosta la Vista slugbanite mine is possible, 
+but could be too narrow for useful protection unless “equivalence” can be argued in 
+infringement proceedings. 
+
+• Although slugbanite-A is not mentioned by name in the specification, if the skilled 
+person would know that Hosta la Vista produces only slugbanite-A this could be argued 
+to provide basis for a limitation to replace slugbanite by slugbanite-A, but this could be 
+objected to as adding subject matter. 
+
+• Or post-grant limitation to slugbanite of the type obtainable from the Hosta la Vista 
+mine could achieve the desired result of protecting slugbanite-A (but might cause 
+clarity objections). 
+
+• Or limitation to restrict to include slugbanites having the desired technical effect [killing 
+slugs and snails] could be better as potentially covering slugbanite-B as well as 
+slugbanite-A, but this too might cause clarity objections. 
+
+The best amendment will depend on the wording of the description. 
+ 
+If opposition is filed while limitation is pending then the limitation proceedings are 
+terminated and fee is refunded (Rule 93(2) EPC). 
+ 
+On EP2 Silybum could try filing amended claims and translations of amended claims and 
+inform EPO of the slugbanite issue and/or prior art. 
+ 
+Examination of EP2 can be re-opened even though the Rule 71(3) EPC communication 
+has issued (GLX C-VI,4.11) in view of the problem of lack of inventive step for non-working 
+forms of slugbanite, and the potential effect of PCT-BF for escargines. If the Rule 71(3) 
+EPC communication was the first one, amendment is permitted as of right and 
+examination must be re-opened. 
+ 
+It is unnecessary to limit concerning escargines if PCT-BF is not regionalised. However, 
+this regionalisation is due after the term for response to the Rule 71(3) EPC 
+communication. If PCT-BF is not regionalised before the due date it is possible to go into 
+further processing on the Rule 71(3) EPC communication. 
+ 
+If EP2 is granted before PCT-BF is regionalised then post-grant limitation of EP2 will still 
+be possible. 
+ 
+Broadened claims covering unclaimed aspects would be possible in EP2 or in divisional 
+application(s). For example, claims to the width of the band used in coating pots; methods 
+of deterring/killing slugs/snails; specific claims to combined use of escargines and 
+slugbanites to deter/kill slugs/snails. 
+
+
+- 4 - 
+
+Recovering the PCT application (19,5 marks) 
+ 
+GB2 is the first filing for use of slugbanite-B as a slug killer and also for the new method of 
+preparing slugbanite. GB2 was filed before the publication of EP1, EP2 and EP3. 
+ 
+Although EP1, EP2 and EP3 disclose slugbanites in general there is no specific disclosure 
+of slugbanite-B, so a claim to use of slugbanite-B as a slug killer, or slug-killing 
+compositions comprising slugbanite-B, would be novel. 
+ 
+EP1, EP2 and EP3 would be Art 54(3) EPC prior art to any Euro-PCT claiming priority of 
+GB2. However, EP1, EP2, and EP3 would be Art. 54(2) EPC prior art if priority is not 
+claimed. In the latter case, inventive step issues would arise as EP1, EP2, and EP3 
+disclose use of slugbanites in general to kill slugs. 
+ 
+It is therefore desirable to maintain the priority claim if explicit protection for slugbanite-B is 
+required from the PCT application. However, method claims to preparing finely divided 
+slugbanite may still be patentable even if priority is lost. 
+ 
+12 months from the filing date of GB2 was 3rd January 2009, but as that is a Saturday, the 
+priority term is extended to 5th January 2009 [Rule 80.5 PCT]. 
+ 
+There is still time to file a PCT application claiming priority of GB2 with a request for 
+restoration of the priority right, as the 2 month period (of PCT Rule 26.bis.3(a)) expires 5th 
+March 2009. 
+For restoration: 
+
+• need to file application within the time limit for restoration (PCT Rule 26.bis.3(b)(i)) 
+
+• and state reasons for failure to meet the time limit for filing the PCT application (PCT 
+Rule 26.bis.3(b)(ii)) 
+
+• a declaration or evidence in support of reasons for failure may be required (PCT Rule 
+26.bis.3(b)(iii)) 
+
+• but Silybum can file a declaration later (PCT Rule 26.bis.3(f)) [which could include the 
+original PCT application and envelope as evidence] 
+
+• a fee for reinstatement is due [€550 RRF 2.13] 
+ 
+A PCT application needs claims for a filing date (PCT Art. 11(1)(iii)(e)). You do not have a 
+copy of the PCT application, only of GB2 which did not have claims. Be sure that claims of 
+appropriate scope are in the application.  You may need to deal with problems if the claims 
+in the envelope are different from the claims you file, or if there were no claims with the 
+PCT application. 
+ 
+The EPO will apply the standard that due care is required for restoration to be permitted 
+[PCT Rule 26bis.3(a)(i)]. 
+ 
+[Applying for restoration at IB or UK IPO is a theoretical possibility to benefit from the more 
+generous “unintentional” error standard of PCT Rule 26bis.3(a)(ii), but problems may result 
+since the original error was failure to file a PCT application using EPO as receiving office, 
+not using IB or UK IPO]. 
+
+
+- 5 - 
+
+Signing the application and entrusting the sealed envelope to a trusted and reliable 
+employee may constitute due care, and payment of the fees could support an argument of 
+due care, but if due care is not found, this can be argued at national phase, and 
+unintentional error may be argued at national phase before those countries that permit this 
+standard [PCT Rule 49ter.2]. 
+ 
+USA have filed a waiver to reinstatement [PCT Rule 49.1ter(g)] and so restoration of 
+priority with respect to USA [and other countries with waivers] is not possible, but for USA 
+a 1 year grace period applies and so it is possible to patent slugbanite-B and the method 
+of preparing slugbanites in USA. 
+In any case it would be wise to try and keep GB2 alive until it is clear that the priority 
+restoration has been allowed. 
+ 
+Strategy with Big Farma (8,5 marks) 
+ 
+Big-Farma have the superior position so far as the use against slugs and snails of 
+compositions comprising organo-copper compounds (e.g. escargines) and adhesives. Big-
+Farma can prevent Silybum using these compounds regardless of any patents Silybum 
+has or may get. Owning a patent does not give the right to use the patented technology. 
+ 
+The claims of PCT-BF appear to be novel and probably inventive over the fact that 
+escargines are known compounds, particularly as you have got EP1 and EP3 granted. It 
+would make sense to monitor PCT-BF for issuance of the search report 
+ 
+Silybum do not need to use escargines in their compositions and so if Big Farma are 
+aggressive Silybum can stop using escargines and still have a working product. 
+  
+Silybum have the superior position so far as slugbanites are concerned [even with the 
+deficiencies in their patents and applications] and can stop Big-Farma using slugbanites 
+alone or in combination against slugs and snails in the EPC-states including the extended 
+states. 
+  
+Silybum can also stop Big-Farma from coating pots with compounds containing escargines 
+in bands between 1/4-3/4 pot height and/or containing attractants regardless of PCT-BF. 
+ 
+Big-Farma do not need to use slugbanites and do not need to apply their compound 
+(escargines) only in bands between 1/4-3/4 pot height and do not need to add attractants. 
+ 
+Big Farma have a plant in Albania and Silybum can get protection there because 
+extension fees were paid for EP1-3 which can still be validated there. 
+ 
+Slugbanites and escargines used alone will effectively be competing products, but the 
+combined use of escargines and slugbanites provides a product that is superior to either 
+alone. 
+ 
+If Big-Farma and Silybum co-operate, e.g. by cross-licensing, this would permit the earliest 
+and broadest introduction of slugbanites and escargines alone or in combination for slug 
+and snail control permitting each to produce products superior to those that either could 
+make in the absence of cooperation. This would also benefit the public in providing early 
+introduction of technically superior products into the market. 
+
+
+ 
+
+ 
+
+EXAMINATION COMMITTEE III 
+Candidate No.   
+ 
+Paper D 2009 Schedule of marks 
+ 
+ 
+Marks awarded 
+ 
+Question 
+Maximum 
+possible 
+   Marker   
+
+ 
+   Marker    
+
+ 
+
+ 
+PART I 
+ 
+
+ 
+1 
+ 
+5 
+ 
+ 
+
+ 
+2 
+ 
+4 
+ 
+ 
+
+ 
+3 
+ 
+6 
+ 
+ 
+
+ 
+4 
+ 
+3 
+ 
+ 
+
+ 
+5 
+ 
+5 
+ 
+ 
+
+ 
+6 
+ 
+4 
+ 
+ 
+
+ 
+7 
+ 
+4 
+ 
+ 
+
+ 
+8 
+ 
+5 
+ 
+ 
+
+ 
+9 
+ 
+4 
+ 
+ 
+
+ 
+TOTAL PART I 
+ 
+40 
+ 
+ 
+
+ 
+PART II 
+ 
+ 
+ 
+ 
+
+ 
+1 
+ 
+8 
+ 
+ 
+
+ 
+2 
+ 
+11 
+ 
+ 
+
+ 
+3 
+ 
+13 
+ 
+ 
+
+ 
+4 
+ 
+19,5 
+ 
+ 
+
+ 
+5 
+ 
+8,5 
+ 
+ 
+
+ 
+TOTAL PART II 
+ 
+60 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total Parts I + II 
+ 
+100 
+ 
+ 
+
+ 
+ 
+Examination Committee III agrees on ................. marks and recommends the following grade 
+to the Examination Board: 
+ 
+ 
+ 
+PASS 
+FAIL 
+ 
+(50-100) 
+(0-49) 
+ 
+ 
+COMPENSABLE FAIL 
+ 
+ 
+(45-49, in the case the candidate sits the examination for the first time) 
+ 
+ 
+30 June 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+Chairman Examination Committee III 
+
+ 
+ 
+
+

@@ -1,0 +1,445 @@
+- 1 - 
+ 
+
+Examiners’ Report Paper D 2015  
+
+1. 
+General comments 
+
+ 
+Some candidates do not follow the Implementing Provisions to the Regulation on the 
+European Qualifying Examination by putting their names or initial in their paper or by 
+using outdated version of the legal provisions. 
+It is reminded that not following the rules of the IPR can only have negative 
+consequences. 
+A complete answer requires a detailed analysis and a clear conclusion without 
+contradictory statements. Simple repetition of the facts does not bring any marks.  
+Candidates are reminded that it is essential that their answers can be read and are 
+encouraged to write legibly.  
+ 
+ 
+Examiners’ Report Paper D – Part I 
+ 
+
+Question 1 (9 marks) 
+
+Most candidates recognized that it is important to avoid the re-dating of EP1 and 
+EP2. However, not all candidates pointed out that for EP1 the applicant has to 
+request that the date of filing remains 17 February 2015 and that for EP2 the 
+drawings have to be withdrawn. 
+
+ 
+
+Question 2 (8 marks) 
+
+Many candidates correctly established that the right to priority for EP1 is lost. Some 
+candidates wrongly referred to Article 90(5) EPC as a legal basis. Fewer candidates 
+noticed that the loss of priority occurred after the publication of EP1 and therefore 
+EP1 is prior art under Article 54(3) EPC for EP2. 
+
+ 
+
+Question 3 (9 marks) 
+
+Parts a) and b) of the question were very well answered. Many candidates referred to 
+both the Paris Convention and the WTO. Full marks were given to candidates 
+referring to either of them. However, not all candidates are familiar with the Rules of 
+the PCT and EPC governing which Office can act as a receiving Office. Very few 
+candidates considered the requirements of the GPTO regarding the language in 
+which international applications may be filed. 
+
+
+- 2 - 
+ 
+
+Question 4 (7 marks) 
+
+Almost all candidates correctly answered that for EP-D1 the English translation may 
+be brought into conformity with the original Japanese text and that EP-D2 cannot be 
+corrected on the basis of Rule 139 EPC. Only some candidates suggested filing a 
+new application within the priority year. 
+
+ 
+
+Question 5 (7 marks) 
+
+Candidates gained points by referring to Rule 30(3) EPC but few candidates went 
+into the details of the Decision of the President and the Notice of the EPO. For 
+instance, few candidates recognised the requirement to file the sequence listing in 
+electronic form and the requisite statement. Some candidates failed to point out that 
+two fees for further processing are to be paid.  
+
+ 
+
+Possible solution – Paper D2015 – Part I 
+
+ 
+
+Answer to question 1 
+
+According to Rule 56 (2) EPC, the applicant can file the missing drawings within two 
+months of the date of filing, i.e. until 17 April 2015. Submitting the drawings results in 
+EP1 and EP2 being re-dated to the date on which said drawings were filed, Rule 56 
+(2) EPC. Thus, the new date of filing for EP1 and EP2 is 23 February 2015, which is 
+later than the expiry of the priority period. As a consequence, the claimed priorities 
+are not valid and the publication of UK1 and UK2 on 20 February 2015 is prior art 
+according to Article 54(2) EPC. The subject-matter of the claims of EP1 and EP2 
+lacks novelty with respect to the disclosure of UK1 or UK2. 
+
+Hence, it is important to avoid the re-dating of EP1 and EP2 to ensure that the 
+claimed priorities are valid. 
+
+Because the drawings filed for EP1 are completely contained in UK1, the applicant 
+should, within 2 months of the date of filing, request that the date of filing remains 17 
+February 2015 and file an indication as to where the missing drawings are completely 
+contained in UK1, Rule 56 (3) EPC. 
+
+For EP2, the applicant should withdraw the drawings within one month from a 
+notification that can be expected from the EPO informing the applicant under Rule 
+56(2) EPC of the re-dating of EP2. The re-dating shall then be deemed not to have 
+been made, Rule 56 (6) EPC. 
+
+
+- 3 - 
+ 
+
+Answer to question 2 
+
+Since the requested translation was not filed in due time, the right of priority for EP1 
+is lost, Rule 53(3) EPC. The time limit for requesting further processing in accordance 
+with Article 121 EPC has already expired.  
+
+Thus, the article is prior art according to Article 54(2) EPC and EP2 is prior art under 
+Article 54(3) EPC. EP1 lacks novelty in view of each of the scientific article and EP2 
+and will be refused. 
+
+EP1 would have been published in July 2011 after expiry of a period of eighteen 
+months from the date of filing, in accordance with Article 93(1) EPC. This is before 
+the EPO sent out the invitation under Rule 53(3) EPC. Therefore, the loss of the right 
+of priority for EP1 took effect after its date of publication and does not affect the 
+application of Article 54(3) EPC, Guidelines G-IV, 5.1.1 or Guidelines F-VI, 3.4.  
+
+The priority date of EP1 is before the date of filing of EP2, but EP1 was published 
+after the date of filing of EP2. Therefore EP1 is prior art according to Article 54(3) 
+EPC for EP2. 
+
+The opposition period specified in Article 99 (1) EPC is still running. The period for 
+filing an opposition expires nine months from 12 November 2014, i.e. on 12 August 
+2015. 
+
+Applicant B can file an opposition against EP2 on the grounds of Article 100(a) EPC, 
+pointing out that EP2 lacks novelty over EP1.  
+
+ 
+
+Answer to question 3 
+
+Yes. The international application may contain a declaration claiming the priority of 
+application A because application A was filed in Argentina, which is a party to the 
+Paris Convention, Article 8(1) PCT, and a member of the WTO, Rule 4.10(a) PCT. 
+
+Hans is entitled to file a PCT application since he is a national of a PCT Contracting 
+State (Germany), Article 9(1) PCT. 
+
+Pursuant to Rule 18.3 PCT, if there are two applicants, the right to file an 
+international application exists if at least one applicant is entitled to file an 
+international application. Therefore, Hans and EE are entitled to file PCT-A together.  
+
+It is sufficient that the Office with which the application is filed is acting for a 
+Contracting State of which at least one applicant is a national, Rule 19.2(i) PCT and 
+Rule 19.1(a)(ii) PCT. Since Hans is a national of Germany, which is a Contracting 
+State to both the EPC and the PCT, the EPO is competent to act as a receiving 
+Office, Rule 157(1) EPC. 
+
+
+- 4 - 
+ 
+
+The GPTO does not accept international applications filed in English, see PCT 
+Applicant's Guide (part C - DE). The GPTO will not act as receiving Office. The 
+international application will be considered to have been received by the GPTO on 
+behalf of the International Bureau as receiving Office.  
+
+ 
+
+Answer to question 4 
+
+For EP-D1, “©” can be replaced by “µm” because the English translation may be 
+brought into conformity with the original Japanese text, Article 14(2) EPC. 
+
+Any amendment of EP-D2 replacing “©” by “µm” would contravene Article 123(2) 
+EPC. A correction of EP-D2 on the basis of Rule 139 EPC is not possible because 
+the replacement of “©” by “µm” is not immediately evident. The priority document 
+cannot be used as a basis for the correction, G3/89 or G11/91. 
+
+The period for claiming priority of JP-D has not yet expired. Applicant D should file a 
+new application mentioning “µm” instead of “©”, claiming priority of JP-D and directed 
+to the subject-matter of claim 2. 
+
+Answer to question 5 
+
+Within a period of two months from the invitation under Rule 30(3) EPC, applicant E 
+has to:  
+
+i) furnish the sequence listing referred to in Rule 30 (1) EPC in electronic form 
+complying with WIPO standard ST.25, Article 1(1) of the Decision of the President of 
+the EPO dated 28 April 2011;  
+
+ii) pay the late furnishing fee according to Rule 30 (3) EPC and Article 2.1(14a) Rfee; 
+and  
+
+iii) furnish a statement that the sequence listing does not include matter which goes 
+beyond the content of the application as filed, Article 2(2) of the Decision of the 
+President of the EPO dated 28 April 2011 or the Notice from the EPO dated 18 
+October 2013 concerning the filing of sequence listings. 
+
+The invitation is deemed to be delivered on 28 February 2015. Thus, the period 
+mentioned above expires on 28 April 2015.  
+
+If the applicant fails to remedy the defect within the period specified above, the 
+application will be refused, Rule 30 (3) EPC. 
+
+
+- 5 - 
+ 
+
+According to the Notice from the EPO dated 18 October 2013 concerning the filing of 
+sequence listings, the applicant can request further processing under Article 121 and 
+Rule 135 EPC. Within two months from the notification of the refusal, the omitted acts 
+mentioned under i), ii) and iii) must be completed, and a further processing fee must 
+be paid for each omitted act, i.e. one further processing fee for having omitted the 
+filing of the sequence listing and one further processing fee for having omitted the 
+payment of the late furnishing fee. 
+
+
+- 6 - 
+ 
+
+Examiners’ Report Paper D – Part II 
+ 
+The second part of the D paper requires candidates to analyse a situation concerning 
+various existing patent rights and suggest specific actions that are usually to be 
+carried out within a time limit. Care should be taken to correctly calculate the time 
+limits. 
+ 
+This year the main aspects of the paper were: 
+  
+- A patent for the subject-matter M+A would provide the broadest protection but there 
+is currently no pending patent application validly claiming it. A new application based 
+on EP-Z can be filed by TIPOGRAF-X claiming M+A. 
+ 
+- EP-X3 is not an enabling disclosure for M+A+B+C+D but the problem can be solved 
+by filing a new application, preferably a PCT application in order to extend protection 
+worldwide. 
+ 
+- TIPOGRAF-X will not be free to use M+A+B+C+D because IPCR-G has rights to 
+M+A+B (via EP-G) and PRINT-L has rights to M+A+C (via PCT-L). 
+ 
+Regarding the specific questions 
+ 
+Question 1 (30 marks) 
+ 
+This part was generally well answered by candidates. 
+Any analysis of the current situation must be conducted without considering potential 
+actions which may come later. Candidates pointing directly to actions may be unable 
+to earn all points for analysing the current situation 
+This year, question 1 specifically requested an analysis structured around the 
+subject-matters. In spite of this, many candidates structured their analysis around the 
+patent applications which can lead to points being missed. 
+Candidates cannot earn full marks by merely identifying documents belonging to the 
+state of the art without identifying whether they are novelty destroying. For example, 
+identifying an Art. 54(3) document does not necessary imply that it is novelty 
+destroying. 
+ 
+Comments on inventive step were occasioned by the information given in the paper 
+and therefore expected. Some candidates discussed only novelty and did not 
+address inventive step. 
+
+
+- 7 - 
+ 
+
+Question 2 (4 marks) 
+ 
+This question required an appreciation that patent ownership does not relate to 
+freedom of action. This fundamental concept is still not always understood. 
+ 
+Many candidates did not realise that machine M+A+B+C+D falls within the scope of 
+protection of broader claims M+A+B and M+A+C.  
+ 
+Question 3 (26 marks) 
+ 
+A large number of candidates saw the possibility of using Art. 61(1) to file a new 
+application based on EP-Z, although very few discussed the consequences that it will 
+have on the negotiation with ICPR-G. 
+Few candidates saw that old EP-Z can be used to block the grant of M+A in EP-G. 
+ 
+Some candidates saw the possibility to redate EP-X3 by adding the missing parts but 
+very few saw the optimal solution consisting in filing a new PCT application claiming 
+priority of EP-X2 and EP-X3. Most of those candidates realised that by filing a PCT 
+application rights may be obtained in the competitor`s market, which would be 
+beneficial for a cross-licensing agreement with PRINT-L. 
+ 
+ 
+  
+Possible solution Paper D 2015 – Part II 
+ 
+Question 1 
+ 
+M+A 
+ 
+EP-Z is the first filing for M+A. There is apparently no relevant prior art available for 
+EP-Z. However, EP-Z was withdrawn in November 2013 (after its publication which 
+must have been in Sept. 2013 at the latest) and cannot be revived. The s-m of the 
+claim to M+A in application EP-G is not novel, Art. 54 (3) EPC, over EP-Z even if the 
+EPO is apparently not aware of EP-Z as prior art for EP-G. The subject-matter of the 
+claim of application EP-X1 (directed to M+A) is not novel, Art. 54 (3) EPC, over EP-G 
+(M+A) although this is not mentioned in the search report. EP-G was published 
+around Nov. 2013, i.e. after establishment of the search report of EP-X1. 
+It is impossible to get protection for M+A via EP-X1. The subject-matter M+A is made 
+public by publication of EP-Z in Sept. 2013 or at most a few months before and there 
+is currently no patent application pending which validly claims M+A 
+
+
+- 8 - 
+ 
+
+M+A+B 
+EP-G is the first filing for the s.-m. M+A+B. There is apparently no relevant prior art 
+available for EP-G. 
+Feature B enables the use of different types of paper over the known machine M and 
+is, therefore, regarded to be inventive.  
+Therefore, with EP-G, ICPR-G will obtain a European Patent for M+A+B. 
+EP-G will have published around November 2013 (18m from filing) and is novelty 
+destroying for the claim to M+A+B in EP-X2. 
+Therefore, no protection for M+A+B can be achieved via EP-X2 
+Currently it appears that the patent rights for M+A+B will belong only to ICPR-G  
+ 
+M+A+C 
+PCT-L is the first filing for M+A+C. There is apparently no relevant prior art. M+A was 
+published only after the filing of PCT-L, so both features C and A contribute to 
+inventive step of subject-matter M+A+C. 
+M+A+C is clearly inventive because A allows a higher speed and/or C allows the 
+reduction of the number of misprints. 
+Therefore, PRINT-L will get patent protection for M+A+C in any national/regional 
+phase they choose. 
+In the event that PCT-L enters the European phase, or at least if the requirements of 
+Rule 165 EPC are fulfilled, the publication of PCT-L on 13 March 2014 will constitute 
+prior art under Art. 54(3) EPC for EP-X2 (filed on 10 March 2014) and the subject-
+matter of the respective claim in EP-X2 directed to M+A+C will not be novel. The last 
+date to enter the EP regional phase is 08.04.15. 
+In that case, TIPOGRAF-X cannot get protection for M+A+C via EP-X2 and the 
+patent rights for M+A+C in Europe will belong only to PRINT-L. 
+If PCT-L is not regionalised the patent rights in Europe will belong to TipograF-X. 
+ 
+M+A+B+C 
+ 
+EP-X2 is the first and only filing for M+A+B+C.  
+For the claim to M+A+B+C in EP-X2, EP-G (M+A+B) is prior art under Art. 54 (2) 
+EPC and  
+PCT-L (M+A+C) may become prior art under Art. 54 (3) EPC. 
+The subject-matter of the claim to M+A+B+C in EP-X2 is novel over the prior art. 
+For inventive step analysis only EP-G disclosing the combination M+A+B can serve 
+as closest prior art.  
+Since feature C as such, as well as in combination with feature B, has the 
+advantages of the reduction of number of misprints and of noise respectively, the 
+subject-matter of M+A+B+C is inventive.   
+Therefore, TIPOGRAF-X will get patent protection in Europe for M+A+B+C via EP-
+X2. 
+However, the machine M+A+B+C falls also under the scope of EP-G (M+A+B) and 
+any European or national patent that claims M+A+C from PCT-L or EP-X2.  
+
+
+- 9 - 
+ 
+
+M+A+B+C+D: 
+ 
+Due to the missing parts in the description of EP-X3, feature D as well as the 
+combination M+A+B+C+D is not sufficiently disclosed in EP-X3 (Art. 83 EPC) which 
+is the only patent application related to that combination. 
+Hence, at present there are no valid patent applications for M+A+B+C+D.  
+M+A+B+C+D or the feature D were not made available to the public at the trade fair 
+because feature D was not visible and no information about it was given. 
+ 
+Question 2  
+ 
+The exhibited machine (M+A+B+C+D) is within the scope of the claims of possible 
+patents to be granted based on EP-G (M+A+B), and PCT-L (M+A+C), because they 
+protect versions of the machine with fewer features, i.e. they have broader scope. 
+Therefore the machine M+A+B+C+D will infringe EP-G once it is granted and 
+validated. 
+Similarly, the machine M+A+B+C+D will infringe patents originating from PCT-L once 
+granted and validated. 
+Our client is not free to produce, sell or use M+A+B+C+D in any country where EP-G 
+is validated and where patents originating from PCT-L will be in force. 
+Provisional protection for EP-G may also be provided in some countries, depending 
+on national law. 
+ 
+Question 3  
+ 
+Make sure that EPO becomes aware of the publication of M+A in EP-Z either by filing 
+3rd party observations in respect of EP-G or alternatively wait to file an opposition 
+against EP-G (EP-Z forms part of the state of the art for EP-G under Art. 54(3) EPC).  
+You can also inform ICPR-G about EP-Z during negotiations.  
+In any case ICPR-G will have valid protection in Europe only for M+A+B.  
+Outside Europe, no patent protection for M+A+B will be possible due to the 
+publication of EP-G in November 2013. 
+ 
+Regarding the combination M+A, TIPOGRAF-X can file a new application EP-Z-NEW 
+with the same content as EP-Z and get the filing date of EP-Z under Art. 61(1)(b) 
+EPC and with the decision of the court. The limit date to do this is three months from 
+the date the decision of the national court became final, 15.1.2015 + 3 months = 
+15.4.2015. This can be done even if the original application EP-Z has been 
+withdrawn.  
+This new application EP-Z-NEW will have the earliest filing date for M+A and will give 
+TIPOGRAF-X the broadest protection possible in Europe.  
+ 
+EP-G with a claim to M+A+B would be dependent on EP-Z-NEW (M+A). 
+
+
+- 10 - 
+ 
+
+This will put TIPOGRAF-X in an advantageous position for the meeting with ICPR-G 
+and can form the basis for a cross licence. 
+It is likely that TIPOGRAF-X will be made liable for its activities.  
+But in turn, TIPOGRAF-X may make ICPR-G liable for any action in any EP state 
+designated in EP-Z-NEW.  
+Since ICPR-G is operating only in Iceland, which was a contracting state at the date 
+of filing of EP-Z, TIPOGRAF-X may make ICPR-G liable on the basis of EP-Z-NEW 
+(M+A) and should, therefore, validate EP-Z-NEW also in Iceland. 
+PCT-L, if regionalised in EP, would also be dependent on the more general EP-Z-
+NEW. 
+ 
+ 
+Additionally, it is highly recommended to file a new PCT application PCT-X describing 
+and claiming M+A+B+C+D in order to get worldwide protection for this subject-
+matter. 
+Moreover, in order to allow for protection of M+A+B+C not only in Europe (EP-X2) 
+but worldwide which is in the interest of TIPOGRAF-X, PCT-X should contain a claim 
+directed to M+A+B+C. 
+ 
+PCT-X should claim priority of EP-X2 and therefore should be filed at the latest by 10 
+March 2015, i.e. 12 months after filing of EP-X2. Otherwise the exhibition of the 
+machine M+A+B+C+D (with D invisible) at the trade fair would be novelty destroying 
+prior art for the claim to M+A+B+C in PCT-X. 
+ 
+A less preferred alternative is to save EP-X3 by filing the missing parts. 
+The missing pages of the description should be filed before 20.3.2015, within two 
+months from the filing date, and this would change the filing date of EP-X3 which is 
+however not important because there was no public disclosure of D at the trade fair. 
+ 
+The subject-matter of the claims to M+A+B+C+D and M+A+B+C in PCT-X or redated 
+EP-X3 is novel and inventive. 
+ 
+However, PCT-X or redated EP-X3 will be a dependent patent of EP-G and PCT-L if 
+granted in EP. 
+ 
+By using the rights to M+A from EP-Z-NEW in Europe, as well as the right to 
+M+A+B+C and M+A+B+C+D from PCT-X worldwide, TIPOGRAF-X will be in a 
+position to negotiate with PRINT-L a cross license with the potential rights of M+A+C 
+from PCT-L worldwide. 
+ 
+
+

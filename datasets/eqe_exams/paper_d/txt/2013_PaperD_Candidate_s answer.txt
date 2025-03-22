@@ -1,0 +1,885 @@
+ 
+ 
+- 1 -
+
+Candidate’s answer 
+ 
+Q1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The patent needs to disclose the invention in a manner sufficiently clear and 
+complete for it to be carried out (A83 EPC). 
+Therefore EP1 needs to describe how compound X is obtained for it to be sufficient.  
+References in the patent may relate to part of the disclosure of invention (GL-FIII8).  
+What is in the reference document US1 is essential for carrying out the invention 
+(A83 EPC).  Reference documents are not part of the text translated pursuant to A65 
+and so any essential disclosure should be in the patent itself. 
+ 
+The US1 was filed at the time of filing EP1 and therefore was available to the EPO at 
+the time of filing and would have been published in the file of EP1 (A128(1) EPC) 
+when EP1 was published (A93(1) EPC). 
+ 
+A feature only described in a reference document is prima facie not part of the 
+description T689/90.  However a feature only described in a reference document is 
+part of the content of the application as filed if no doubt to the skilled reader that 
+such features: 
+ 
+a) are/might want to be protected 
+b) contribute to achieving the technical aim of the invention 
+c) implicitly clearly belong to the description of the invention 
+d) are precisely defined and are identifiable in the total technical information 
+within the reference document (T689/90). 
+ 
+Thus the reference to US1 will be considered part of EP1 as filed and thus 
+amendments to incorporate the text of the specific referenced passage of US1 into 
+the description of EP1 will not contravene A123(2) EPC.  Amendments may be made 
+if they are to overcome a ground of opposition A80 EPC.  Thus you will be able to 
+amend the description of EP1 based on the specific referenced passage of US1 to 
+overcome the deficiency. 
+ 
+Thus it should be possible to maintain EP1 with an amended description. 
+
+US1 
+EP1
+
+withdrawn 
+pre-pub 
+
+copy of  
+US1 
+
+
+ 
+ 
+- 2 -
+
+Q.2. 
+ 
+
+To file a divisional under A76(1) EPC, the conditions of R36(1) must be met.  The 
+parent application must be pending (R36(1) EPC).  The divisional must be filed 
+within 24 months of notification of the first Communication from the Examining 
+Division R36(1)(a) EPC in respect of the earliest application for which a 
+Communication has issued.  (A Communication under A94(3) EPC is considered a 
+Communication from the Examining Division). 
+ 
+OR 
+ 
+24 months from notification of a Communication in which the Examining Division has 
+objected that the earlier application does not meet the requirement of A82 EPC for 
+the first time (R36(1)(b) EPC). 
+ 
+The 24 month term under R36(1)(b) EPC in respect of the non-unity objection raised 
+in the telephone call starts from notification of the minutes of the telephone call (GL 
+AIV 1.1.1.3) i.e. the 24 month term under R26(1)(6) EPC is: 
+ 
+18.11.11 + 10 days + 24 months = 28.11.13 (Thurs) 
+(R126(2) EPC) 
+(R131(4) EPC) 
+ 
+The 24 month term under R36(1)(a) EPC is: 
+ 
+1.2.11 + 10 days + 24 months = 
+  10.2.2013 (Sat) 
+(R126(2) EPC) 
+(R131(4) EPC) 
+11.2.2013 
+(R134(1) EPC) 
+ 
+In respect of DIV1 the term under R36(1)(a) EPC expired on 11.2.2013  - therefore 
+on 20.2.2013 it is too late to file a divisional from EP1.  However this deadline may 
+be reinstated under A121(1) EPC, R136(1) EPC if all due care can be proven. 
+ 
+Within 2 months from the removal of cause for non-compliance (R136(1) EPC) i.e. 
+by  
+20.3.2013 + 2 months = 20.4.2013 (Sat) 
+
+R131(4) EPC  
+22.4.2013 
+R134(1) EPC 
+
+A93(3) 
+Telephone call 
+ 
+Unity against EP2 
+
+1.2.11 
+4.11.11
+18.11.11
+1.2.13 
+
+minutes 
+DIV1 
+
+
+ 
+ 
+- 3 -
+
+We need to: 
+ 
+- 
+request re-establishment in writing A122(1) EPC (R136(1) EPC 
+- 
+pay a re-establishment fee (R136(1) EPC R fees 2(1).13) 
+- 
+file DIV1 R136(2) EPC 
+ 
+State facts and grounds for why it wasn't sent (R136(2) EPC) prove all due case 
+(A122(1) e.g. isolated mistake J5/80. 
+ 
+B.) 
+Yes 
+Under R36(1)(6) EPC the 24 month term expires 28.11.13 (as calculated above) so 
+today we are still able to validly file DIV2 as the EP2 is pending and the 24 month 
+term of R36(1)(6) EPC has not yet expired. 
+ 
+Q3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The official languages of the EPO are English, French, German - A14(1) EPC. 
+ 
+If the patent can be maintained on the basis of a text submitted or approved by the 
+proprietor and the opponent has had sufficient opportunity to comment on that text 
+the EPO will issue an interlocutory decision (G1/88 - OJ 1989, 393). 
+ 
+Within three months of the decision becoming final (GL D-VI 7.2.3) the proprietor 
+needs to file a translation of the claims into English and German (R82(2) EPC 
+second sentence). 
+ 
+Also a fee for printing, publishing a new specification needs to be paid within three 
+months from the decision becoming final (R82(2) EPC second sentence, R fees 2(1) 
+Item 8).  The publication fee is 70 Euros (R fees (2) Item 8).  The application was 
+filed before 1 April 2009 therefore there may be an additional fee for the additional 
+pages? 
+ 
+If the translations or publication fee are not filed/paid in time there is a 'grace period' 
+of two months of notification pointing out the failure to observe the time limit (R82(3) 
+EPC) providing a surcharge of 114 EUR (R fees 2(1) Item 9) is paid R83(3) EPC, 
+first sentence. Otherwise the patent will be revoked R83(3) EPC, second sentence. 
+ 
+b) 
+A contracting state may require a translation of the patent as amended to be 
+supplied in one of its official languages to the central industrial property office A65(1) 
+EPC, first sentence. 
+ 
+
+March 08 
+
+(FR) 
+EP 
+
+
+ 
+ 
+- 4 -
+
+This shall be at least three months from the date on which the mention of the 
+maintenance in amended form is published (unless a longer time is prescribed) 
+A65(1) EPC, second sentence. 
+ 
+For Austria which is not a contracting state of the London agreement (Nat law Table 
+IV, column 1). 
+ 
+A translation of the whole specification into German is required (Nat law table IV, 
+column 1).  A fee of 180 EUR (including 30 EUR document fees plus 130 EUR for 
+every 15 pages following the 16th page) (Nat law Table IV, column 5) are both 
+required in three months of publication of decision to maintain in amended form. 
+ 
+For Switzerland which is a contracting state to the London agreement (Nat law Table 
+IV, column 1) with an official language which is an official language of the EPO, no 
+translation is required and therefore no fee is payable. 
+ 
+For Netherlands - It is a contracting state to London agreement but does not have an 
+official language in common with the EPO. 
+ 
+Therefore a translation of the claims into Dutch needs to be filed and also because 
+the patent is in French a translation of the whole specification into English (or Dutch) 
+is required (Nat law Table IV, column 2).  A fee of 25 EUR is payable (Nat Law Table 
+IV, column 5).  Both are payable within three months of publication of mention of 
+maintenance of patent in amended form. 
+ 
+Q.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An opposition must be filed within nine months of mention of grant A99(1) EPC 
+ 
+21.3.12 + 9 month = 21.12.12 (Friday) 
+R131(4) EPC 
+ 
+Further processing is not available for opposition (A121(1) EPC) and re-
+establishment is not possible for opponents A122(1) EPC. 
+ 
+
+21.3.12 
+
+opposition
+
+20.12.12 
+
+mention 
+of grant 
+
+
+ 
+ 
+- 5 -
+
+Therefore the opposition was filed in time but the document was identified and 
+supplied after the expiry of the opposition period.  To be admissible (R77(1) EPC) 
+the Notice of Opposition (A99(1) EPC) must indicate facts, evidence and arguments 
+R76(2)(c) EPC within the opposition period.  Facts in the Notice of Opposition must 
+give specific references T448/89. 
+ 
+Therefore an objection on the ground of lack of novelty in view of an unspecified 
+document does not meet the requirements of R76(2)(c) EPC.  Therefore the 
+Opposition is inadmissible R77(1) EPC.  This deficiency was rectified when the 
+document was identified but this was after the expiry of the opposition period.  
+Therefore the notice is inadmissible as no substantial ground was raised (R77(1) 
+EPC). 
+ 
+Documents submitted for on inadmissible opposition are part of the file and regarded 
+as observation under A115 (GL D-IV 3). 
+ 
+There are therefore no proceedings pending and so the Opposition Division cannot 
+continue on its own motion under A114(1) EPC.  EP1 cannot be revoked before the 
+EPO.  National proceedings will be necessary to revoke the patent. 
+ 
+Q.5 
+ 
+a) 
+The PCT application can be filed at the Patent Office of India as rO as Mr S is 
+a national and resident of India (A10 PCT, R19.1(a)(i) and (ii) PCT and R19.2(1) 
+PCT). 
+A PCT application may be filed by two or more applicants R18.3 PCT. 
+ 
+As no agent is required before the Indian Patent Office (IPO) the person having the 
+right to practice is entitled to practice before the IB, ISA and IPEA in respect of that 
+application (A49 PCT). 
+ 
+Mr S may be appointed as the agent R90.1 PCT as he has the right to practice 
+before the IPO. 
+ 
+The appointment can be effected by the applicant (A & Mr S) signing the request or a 
+separate Power of Attorney (R90.4(a) PCT). 
+ 
+b) 
+b1) 
+Only a person having the right to practice before the national office 
+action as ISA and IPEA may be appointed by an applicant as his agent to represent 
+him specifically before that authority (R90.1(b) PCT and R90.1(c) PCT respectively).  
+An Indian agent therefore cannot be appointed specifically to act before the EPO as 
+ISA or IPEA as he is not entitled to act before the EPO (A134(1) EPC) as he is not 
+on the list of professional representatives. 
+ 
+ 
+b2) 
+Yes they can appoint a European professional representative as he is 
+entitled to act before the EPO (R90.1(6) and (c) and A 134(1) EPC). 
+
+
+ 
+ 
+- 6 -
+
+c) 
+Natural persons not having their residence in a contracting state need to be 
+represented by a professional representative (A133(2) EPC). Therefore Mr S as 
+resident in India needs to be represented by a professional representative under 
+R134(1) EPC. 
+ 
+Mr Wilson as employee of a legal person having their principle place in Britain (a 
+contracting state) may represent Company A (A133(3) EPC) but cannot represent Mr 
+S. 
+ 
+The representative of Mr S. (who he is obliged to appoint under A133(2) EPC) will be 
+deemed to be the common representative R151(1) EPC. 
+ 
+Therefore Mr Wilson cannot act as the common representative. 
+ 
+Q.6 
+ 
+Invitation dated 11.1.2013 
+ 
+The invitation to pay additional fees under A17(3)(a) PCT issued 11.1.2013. 
+        R158(1) EPC 
+This will have set a one month deadline for paying the additional fee R40.1(ii) PCT. If 
+the fees are not paid by this deadline the International search will relate only to the 
+invention first mentioned in the claims (i.e. claim 1).  A17(3)(a) PCT.  The deadline 
+was 
+ 
+11.1.2013 + 1 month = 11.2.2013 (Monday) 
+R80.2 PCT 
+ 
+If on the date of receipt of the debit order the account does not contain sufficient 
+funds to cover the total fee payments indicated for an application (a shortfall) the 
+debit order is not carried out ADA 6.4. 
+ 
+If within one month of receipt of communication informing the applicant of the 
+shortfall the account is replenished sufficiently to enable the total payment indicated 
+for the application to be debited and within the same period an administrative fee is 
+paid then the date on which the debit order is received is considered to be the date 
+on which payment was made ADA 6.5. 
+ 
+The fee for the additional search is 1875 Euro R fees 2(1) Item 2. 
+ 
+The administrative fee is 30% of the shortfall up to a maximum of 305 EUR (ADA 
+6.6).  The one month period for replenishing the account and paying the 
+administrative fee is 
+ 
+25.1.2013 + 1 month = 25.2.2013 (Monday) 
+R80.2 PCT 
+ 
+The account was replenished sufficiently to pay both these fees, however there was 
+no debit order in respect of the administrative fee. 
+ 
+
+
+ 
+ 
+- 7 -
+
+Therefore the administrative fee was not paid and so the additional search fee will be 
+considered to be paid on 22.2.2013 (ADA 6.7) which is too late to pay the additional 
+fee. 
+ 
+Therefore the search will only be carried out in respect of claim 1.  A17(3)(a) PCT 
+R158(1) EPC. 
+ 
+Legal Opinion 
+ 
+1) 
+Your rights (Pyramidal protrusions (b)) 
+You filed IT-PYR on 19 August 2011 this contains a single claim to a frying pan with 
+pyramidal protrusions on its inner surface.  This application was filed in Italy only. 
+ 
+No further applications have been filed.  We are more than 12 months after the filing 
+date of IT-PYR and therefore the priority period has expired and we are too late to 
+file any applications claiming priority from IT-PYR. 
+ 
+19 August 2011 + 12 months - 19 August 2012 (Sunday) 
+ 
+so the deadline for filing applications claiming priority from IT-PYR was 20 August 
+2012. 
+ 
+This deadline has been missed.  It is not possible to withdraw this application and file 
+a new application starting a new priority year as IT-PYR has been laid open to public 
+inspection. 
+ 
+Also as it has been published it is not possible to file any further applications (not 
+claiming priority) to the idea of a frying pan with pyramidal protrusions as this will 
+lack novelty over the publication of IT=PYR on February 2013. 
+ 
+You could file an application in the US relying on the 12 month grace period, i.e. by 
+February 2014, if you want protection for pyramidal protrusions in the US. 
+ 
+However no other applications can be filed.  Therefore you only have protection for 
+pyramidal protrusions in Italy. 
+ 
+Prior art to IT-PYR 
+ 
+EP-3D was published before the filing date of IT-PYR. 
+ 
+IT-PYR does not claim priority and therefore its effective date is 19.8.11 (its filing 
+date). 
+ 
+EP-3D is full prior art for novelty and inventive step.  EP-3D does not disclose 
+pyramidal protrusions and there is no mention of protrusion shape.  Pyramidal 
+protrusions have an advantage of less vitamin loss and therefore is inventive over 
+EP-3D. 
+ 
+
+
+ 
+ 
+- 8 -
+
+EP-Hemi was also published before the effective date of IT-PYR and so is full prior 
+art.  But it does not disclose pyramidal protrusions and therefore IT-PYR is novel and 
+inventive over this disclosure. 
+ 
+The disclosure at hot pans conference and the publication of DIV-3D were both 
+published after the effective date of IT-PYR and therefore are not prior art.  
+Therefore it should be possible to obtain protection for pyramidal protrusions in Italy. 
+ 
+3D-protrusions (a) 
+ 
+EP-3D was filed January 2008 without a claim to priority therefore the effective date 
+of EP-3D is January 2008.  There is no relevant disclosures before this date.  The 
+letters by Dr S to SK is November 2007 and March 2008 were in confidence and 
+therefore are not prior art. 
+ 
+EP-3D was refused on 26 March 2012.  The deadline for filing an appeal was 
+ 
+26.3.2012 + 10 days + 2 months = 5.6.12 
+ 
+Therefore it is now too late to file an appeal for EP-3D.  Therefore there are no rights 
+conferred by this application.  A divisional DIVI-3D was filed based on EP-3D, on 1 
+June 2012. 
+ 
+This divisional met the requirements of R36(1) EPC because EP-3D was still 
+"pending" as the time limit for filing an appeal had not expired when DIVI-3D was 
+filed. 
+ 
+(DIVI-3D was filed 1 June 2012 before 5 June 2012 which was the deadline for filing 
+the Notice of Appeal on EP-3D. 
+ 
+Also the first Communication from the Examining Division issued July 2010 so the 24 
+month period of R36(1)(a) EPC would expire around July 2012 and so DIVI-3D was 
+filed before this date. 
+ 
+Therefore DIVI-3D was validly filed.  DIVI-3D extends the subject matter of the 
+application beyond EP-3D which is not allowable as it contains an additional 
+statement regarding cubic protrusions. However this deficiency can be rectified 
+during prosecution of DIVI-3D. 
+ 
+DIVI-3D inherits the filing date of EP-3D and so the effective date of DIVI-3D is 
+January 2008. 
+ 
+As discussed above there is no relevant prior art before this deadline before DIVI-3D 
+can be used to obtain protection for a frying pan with three-dimensional protrusions 
+on the inner surface of the frying pan. 
+ 
+Designation fees for only Germany and Italy were paid on EP-3D. Therefore DIVI-3D 
+can only designate Germany and Italy. 
+ 
+
+
+ 
+ 
+- 9 -
+
+DIVI-3D should be possible to obtain protection for a frying pan with 3D protrusions 
+on its inner surface in Germany and Italy (if the reference to cubic protrusions is 
+removed).  The claim can specify the features to achieve a surface that will heat up 
+the food faster and so should not be objected to as a result to be achieved. 
+ 
+DE-Hemi also claims a frying pan with 3D protrusions. However this application is 
+deemed withdrawn due to non-payment of the filing fee and so cannot be used to 
+obtain protection for this invention. 
+ 
+EP-Hemi claims priority from DE-Hemi. 
+ 
+EP-Hemi was filed by the same applicant, directed to the same invention and within 
+the 12 months priority period.  It is also irrelevant that De-Hemi was subsequently 
+deemed withdrawn. However DE-Hemi was not the first application by S-K to the 
+idea of a frying pan with 3D protrusions as this was jus described in EP-3D. 
+ 
+Therefore in respect of the claim directed to a frying pan with 3D protrusions the 
+priority claim from DE-Hemi is not valid. Therefore the effective date of claim 1 of 
+EP-Hemi is its filing date, i.e. 5.4.10. EP-3D was published before the effective date 
+of claim 1 of EP-Hemi and so is full prior art. 
+ 
+Therefore claim 1 of EP-Hemi directed to a frying pan with 3D protrusions is invalid. 
+Despite this EP-Hemi has been granted with claim 1 but we can attack this in the 
+Opposition as discussed below. 
+ 
+c) 
+Hemispherical protrusions 
+ 
+This is first described in DE-Hemi filed 10.6.09.  This application has since been 
+deemed withdrawn and so it is not possible to obtain protection for hemispherical 
+protrusions via this application.  EP-Hemi was filed 15.12.10 claiming priority from 
+DE-Hemi. 
+ 
+The priority claim in respect of hemispherical protrusions is valid because they were 
+filed by the same applicant, the applications are directed to the same invention. 
+ 
+EP-Hemi was filed in the 12 month priority period of DE-Hemi 
+ 
+(1.6.09 + 12 months = 10.6.10) 
+ 
+DE-Hemi was the first application to hemispherical protrusions.  DE-Hemi was filed 
+in a PC state.  It is irrelevant to priority that DE-Hemi was subsequently withdrawn.  
+Therefore the effective date of a claim to a frying pan with hemispherical protrusions 
+in EP-Hemi has an effective date of 10.6.09. 
+ 
+EP-3D was filed before the effective date of EP-Hemi but was published after.  
+Therefore it is prior art under A54(3) EPC and is relevant to the assessment of 
+novelty only. 
+ 
+EP-3D does not disclose hemispherical protrusions and thus the EP-Hemi claim to 
+hemispherical protrusions is novel over this prior art and thus valid in view of this art. 
+
+
+ 
+ 
+- 10 -
+
+The letters of Dr S. prior to the effective date are not prior art as they were in 
+confidence.  The disclosure of hemispherical protrusions at the conference is not 
+prior art as it is after the effective date of EP-Hemi.  Therefore it should be possible 
+to obtain protection for hemispherical protrusions via EP-Hemi. 
+ 
+EP-Hemi has only been validated in Italy.  However due to the London agreement 
+certain countries do not require a translation of the specification for validation. 
+Therefore this application will have automatically validated in certain countries. 
+ 
+Germany is party to the London agreement and so EP-Hemi will have automatically 
+validated in Germany.   
+ 
+This is subject to payment of renewals which in Germany are due in respect of the 
+third year onwards. 
+ 
+The third year renewal is due: 
+5.4.10  30.4.12 
+and this would have been payable to the EPO as it was before mention of grant. 
+ 
+The fourth year renewal is due 
+30.4.13 
+is not yet due. 
+ 
+Therefore protection in Germany can be obtained from EP-Hemi. 
+ 
+d) 
+Cubic protrusions 
+ 
+This shape protrusion has only been mentioned in DIV-3D.  However this was not 
+disclosed in the parent application and thus is an extension beyond the parent 
+application as filed and is unallowable. 
+ 
+This can be remedied during prosecution of DIV-3D but it means that protection for 
+cubic protrusions cannot be obtained via DIV-3D.  No other applications cover cubic 
+protrusions. 
+ 
+The idea of cubic protrusions was published on 27.9.12 when DIV-3D published and 
+also was disclosed at the Lot Pons 2013 trade fair. 
+ 
+Therefore it is not possible to file any new applications for cubic protrusions as these 
+will lack novelty over these disclosures.  Therefore no protection can be obtained for 
+cubic protrusions. 
+ 
+Summary 
+ 
+3D protrusions can be protected in Germany and Italy via DIV-3D once granted by 
+SK. 
+ 
+Pyramidal protrusions are protected in Italy only via IT-PYR by you (BC) 
+ 
+
+
+ 
+ 
+- 11 -
+
+Hemispherical protrusions can be protected in Germany and Italy (and certain other 
+countries not requiring a translation for validation) via EP-Hemi by SK. 
+ 
+Cubic protrusions cannot be protected.   
+ 
+ii) 
+The deadline for filing a Notice of Opposition is 9 months from publication of 
+mention of grant. 
+ 
+2.5.12 + 9 months =  
+2.2.13 (Saturday) 
+4.2.13 
+ 
+The Notice of Opposition was received by the EPO on 1.2.13 and therefore it is 
+considered to be filed on this day therefore it has been filed in time. 
+ 
+The Opposition is admissible as the opposition fee has been paid and a written 
+reasoned statement has been submitted. 
+ 
+The Notice of Opposition sets out the extent and the ground and provides an 
+indication of the facts and evidence. 
+ 
+The Notice of Opposition needs to be filed in an official language of the EPO (EN, 
+FR or DE). 
+ 
+However, given that you are a legal person having your principle place of business in 
+a contracting state with an official language (IT) which is not an official language of 
+the EPO you are entitled to file the notice of opposition in the official language of that 
+state (Italian).  This will entitle you to a 20% discount of the opposition fee (this 20% 
+will be refunded if you paid the full opposition fee).  However a translation into EN, 
+FR or DE needs to be filed by the later of (i) the period for filing the opposition or (ii) 
+one month of filing the Notice of Opposition. 
+ 
+The period for filing the Notice of Opposition has already expired (4.2.13).  However 
+1 month from filing the notice of opposition = 1.2.13 + 1 month = 1.3.13 (Friday).  
+This deadline has not expired. 
+ 
+We need to file a translation of the Notice of Opposition into EN, DE or FR by 1.3.13.  
+If not filed by this date the Opposition will be deemed not filed.  As a professional 
+representative under A134(1) EPC I can act on your behalf and I do not need 
+authorisation (i.e. a power of attorney) to do so. 
+ 
+I will therefore proceed to have the Notice of Opposition translated into one of the 
+official languages of the EPO (EN, DE, FR) and file it at the EPO BY 1.3.13. 
+ 
+In respect of the likely success of the Opposition, EP-Hemi contains two claims: 
+ 
+Claim 1: 
+a frying pan with 3D protrusions 
+Claim 2: 
+the frying pan of claim 1 wherein the 3D protrusions are hemispherical. 
+ 
+
+
+ 
+ 
+- 12 -
+
+As discussed above, claim 1 is not entitled to the claimed priority date of DE-Hemi as 
+DE-Hemi is not the first application by SK to a frying pan with 3D protrusions (EP-3D 
+is).  Therefore the effective date of claim 1 is 5.4.10. 
+ 
+EP-3D was published before the effective date of claim 1 and therefore is relevant to 
+the assessment of novelty and inventive step.  Claim 1 lacks novelty over EP-3D as 
+it discloses a frying pan with 3-D protrusions.  Therefore your attack against claim 1 
+should be successful. 
+ 
+As discussed above the effective date of claim 2 is 10.6.09 (the filing date of DE-
+Hemi) as the priority claim for claim 2 is valid (as explained above under 1) c)). 
+ 
+EP-3D was filed before but published after the effective date of claim 2 and therefore 
+it is prior art under A54(3) EPC - i.e. relevant to novelty only. 
+ 
+EP-3D does not disclose hemispherical protrusions and so claim 2 is novel over EP-
+3D.  Inventive step over EP-3D is not assessed. 
+ 
+There is no other relevant prior art and so if the patent is amended to delete claim 1 
+and make claim 2 an independent claim. The EP-Hemi should be able to be 
+maintained in amended form. 
+ 
+a) 
+Currently SK may be able to obtain protection for a frying pan with 3D 
+protrusions in Germany and Italy via DIV-3D. 
+ 
+If this application is granted with a claim to a frying pan with 3D protrusions you will 
+not be able to act in Italy and Germany in respect of frying pans with any shaped 3-D 
+protrusion. 
+ 
+This is dependent on DIV-3D being granted. 
+ 
+If SK remove the reference to cubic protrusions they should be able to obtain 
+protection to a frying pan with 3D protrusions in Italy and Germany. 
+ 
+DIF-3D has published with a claim to a frying pan characterised in that its inner 
+surface will heat up the food much faster than a flat surface. 
+ 
+Therefore frying pans sold with 3D protrusions will infringe the provisional protection 
+conferred by DIV-3D.  However this is subject to translations into German and Italian 
+having been filed (which does not appear to have been done).   
+ 
+Therefore you a free to act in Italy and Germany until DIV-3D grants unless 
+translations are filed to confer provisional protection which could make you liable for 
+damages. 
+ 
+EP-Hemi has been granted with a claim to 3D protrusions which you will infringe if 
+you sell any frying pans with 3D protrusions.  However we should get this claim 
+revoked in opposition. 
+ 
+
+
+ 
+ 
+- 13 -
+
+In respect of protection specifically to hemispherical protrusions you will also infringe 
+claim 2 of EP-Hemi (which appears to be valid).  This claim is granted and therefore 
+you are not free to sell frying pans with hemispherical protrusions in Italy or 
+Germany. 
+ 
+You have rights to pyramidal protrusions in Italy only.  There are not rights in cubic 
+protrusions. However, sales of frying pans with pyramidal protrusions or cubic 
+protrusions will still infringe claims to 3-D protrusions from EP-Hemi (until revoked) 
+and DIV-3D (when granted). 
+ 
+b) 
+Currently you are only able to prevent sales of frying pans with pyramidal 
+protrusions by SK in Italy.  SK are currently free to sell frying pans with protrusions of 
+any shape in Germany and only shape except pyramidal protrusions in Italy. 
+ 
+ii) 
+It is clear that SK have stolen the idea to a frying pan with 3D protrusions from 
+Dr S. You have good evidence of this as you have a copy of the letter of November 
+2007 which describes 3D protrusions on the inner surface of frying pans which was 
+before the filing date of EP-3D.  You should therefore file a claim to the grant of DIV-
+3D in the Courts of Germany (where SK as applicant have their principal place of 
+business). 
+ 
+You should also notify the EPO of these proceedings who will stay the proceedings 
+of DIV-3D 
+ 
+Given the good evidence you have the German Courts should find you entitled to 
+DIV-3D. This is because Dr S has sold you the rights in his invention.  You can then 
+either file a new application to the original subject-mater of EP-3D or continue 
+prosecution of DIV-3D. 
+ 
+You will then be able to obtain protection in Germany and Italy for a frying pan with 
+3D protrusions.  This will allow you to prevent SK selling frying pans with only 
+shaped protrusion in Germany and Italy. 
+ 
+You will be free to sell frying pans with pyramidal and cubic protrusions but not 
+hemispherical protrusions only.  SK will obtain protection for hemispherical 
+protrusions in Italy and Germany.  SK are entitled to his subject-matter as Dr S did 
+not suggest hemispherical protrusions to SK.  This disclosure of cubic protrusions via 
+DIV-3D and at the trade fair were result of evidence abuse as Dr S had told SK of 
+this idea in confidence.  Therefore within 6 months of the first disclosure  i.e. by 
+27.9.12 plus 6 months = 27.3.13. 
+ 
+You can file an EP application to a frying pan with cubic protrusions as the disclosure 
+by publication of DIV-3D and at the trade fair are non-prejudicial disclosures (Art. 55 
+EPC).  There is no other disclosure of cubic protrusions and this is inventive over the 
+other shapes as it makes the food crispier.   Therefore you should be able to obtain 
+protection for cubic protrusions in Italy and Germany. 
+ 
+To enable you to sell frying pans with hemispherical protrusions you could consider a 
+cross licence with SK.  However, you are in a strong position (you can currently stop 
+SK selling frying plans with only shaped protrusion) but I would not recommend a 
+
+
+ 
+ 
+- 14 -
+
+cross licence with SK.  You will therefore not be free to sell frying pans with 
+hemispherical protrusions in Italy and Germany. 
+ 
+If this is essential to your business you could cross licence the right for SK to sell 
+frying pans with 3D-protrusions in Italy and Germany in exchange for the right to sell 
+frying pans with hemispherical protrusions. 
+ 
+
+
+Part I
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Part II
+Question 1
+
+Question 2
+
+Question 3
+
+5
+
+8
+
+6
+
+6
+
+8
+
+7
+
+24
+
+12
+
+24
+
+4
+
+7
+
+4,5
+
+5,5
+
+4,5
+
+7
+
+22,5
+
+12
+
+22,5
+
+3,5
+
+8
+
+4,5
+
+6
+
+4,5
+
+7
+
+23,5
+
+11,5
+
+22
+
+Total
+100
+89,5
+90,5
+
+EXAMINATION COMMITTEE III
+Candidate No.
+
+Paper D 2013 - Marking Sheet
+
+Category
+Maximum 
+possible
+
+Marks awarded
+
+Marker 
+     Marker 
+
+Question 1
+
+Examination Committee III agrees on 90 marks and recommends the following grade to the 
+Examination Board:
+
+PASS
+(50-100)
+X
+COMPENSABLE FAIL
+(45-49)
+
+FAIL
+(0-44)
+
+27 June 2013
+
+ Chairman of Examination Committee III
+
+

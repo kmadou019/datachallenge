@@ -1,0 +1,803 @@
+Examiners’ Report Paper D 2016 
+ 
+General Comments 
+ 
+ 
+Many candidates did not manage to correctly apply Rule 126(2) EPC. Those 
+
+candidates adding 10 days to e.g. the date on which the applicant received the 
+
+notification of the decision clearly were not awarded full marks. 
+
+ 
+Candidates are reminded that they should pay attention to the way the questions are 
+
+asked and should not simply repeat information from the paper in the answer. 
+
+Repeating information per se is not awarded any points. 
+
+ 
+ 
+ 
+Examiners’ Report Paper D 2016 – Part I 
+ 
+ 
+Question 1 (6 marks) 
+ 
+ 
+Not all candidates realized that announcing the decision during oral proceedings 
+
+does not trigger the time limit for filing an appeal. Most candidates correctly 
+
+answered that the appeal fee is fully reimbursed if the appeal is withdrawn before 
+
+expiry of the time limit for filing the grounds of appeal. Some candidates argued for 
+
+question b2) that the fee will not be reimbursed because there is no evidence of a 
+
+substantial procedural violation. These candidates seem to have based their answer 
+
+on a previous version of Rule 103 EPC. 
+
+ 
+Question 2 (10 marks) 
+ 
+ 
+Few candidates discerned the fact that because PCT-C is filed in Italian, the EPO  
+
+will forward PCT-C to the International Bureau acting as receiving Office. Candidates 
+
+were not generally aware of the different language requirements for filing PCT or 
+
+European patent applications with the EPO. 
+
+ 
+Question 3 (7 marks) 
+ 
+ 
+Neither candidates who answered that the national route was closed for Lithuania 
+
+nor candidates who answered that it is still possible to enter into the national phase 
+
+in Lithuania lost marks, because some official communications were not clear on this 
+
+topic. 
+
+1
+
+
+Many candidates were aware of the possibility of requesting accelerated processing. 
+
+However, few candidates pointed out that in addition the applicant has to waive the 
+
+right to be asked whether he wishes to proceed further, and waive the right to 
+
+receive the communication under Rule 161(2) EPC. 
+
+ 
+Question 4 (9 marks) 
+ 
+ 
+Few candidates fully grasped the consequences of the fact that the subject-matter of 
+
+claims 16 and 17 is deemed to be abandoned. Answers only referring to Article 84 
+
+EPC for lack of support for claim 16 or Article 82 EPC for claim 17 were not awarded 
+
+any points. 
+
+ 
+Question 5 (8 marks) 
+ 
+ 
+Question 5 was well answered, although some candidates, rather than referring to 
+
+Rule 165 EPC, seemed to imply that all requirements of Rule 159(1) EPC have to be 
+
+met before Euro-PCT-F can be considered prior art under Article 54(3) EPC. 
+
+2
+
+
+Possible solution – Paper D 2016 – Part I 
+ 
+Answer to question 1 
+ 
+ 
+a) According to Article 108 EPC, the notice of appeal shall be filed within 2 months of 
+
+notification of the decision. The decision is dated 14 July 2015 and thus deemed to 
+
+be delivered on 24 July 2015, Rule 126(2) EPC. Therefore, a notice of appeal should 
+
+have been filed by 24 September 2015. 
+
+ 
+b1) Within four months of notification of the decision, a statement setting out the 
+
+grounds of appeal shall be filed. The grounds should have been submitted by 
+
+24 November 2015. 
+
+ 
+Since the applicant withdrew the appeal before expiry of the four month period, the 
+
+appeal fee will be 100% reimbursed, Rule 103(1)(b) EPC. 
+
+ 
+b2) Since the minimum time period that can be specified for responding to the 
+
+communication under Rule 100(2) EPC is two months, Rule 132(2) EPC, the 
+
+applicant withdrew the appeal before any possible expiry of the time limit. Therefore, 
+
+50% of the appeal will be reimbursed, Rule 103(2)(b) EPC. 
+
+ 
+Answer to question 2 
+ 
+ 
+a) In accordance with Rule 19.1 PCT, MAXIMA is entitled to file PCT-B with the 
+
+Italian patent office as receiving Office. 
+
+ 
+An international application may claim priority of an earlier application filed in or for 
+
+any country to the Paris Convention, Article 8(1) PCT. An international application 
+
+that has obtained a filing date is equivalent to a regular national filing, under the 
+
+Paris Convention and its priority can be claimed Article 11(4) PCT. The fact that no 
+
+fees were paid is irrelevant for obtaining a filing date for PCT-B. Thus, priority can be 
+
+claimed from PCT-B. 
+
+ 
+PCT-B and PCT-C have been filed by the same applicant and the contents of PCT-B 
+
+and PCT-C are identical. 
+
+3
+
+
+The priority period expired on Sunday, 7 February 2016, Article 8(2)(a) PCT and 
+
+Article 4C(1) Paris Convention. Pursuant to Rule 2.4 PCT in conjunction with Rule 
+
+80.5 PCT, the priority period is extended until Monday, 8 February 2016. 
+ 
+ 
+Where the EPO acts as receiving Office, an international application cannot be filed 
+
+in Italian, it must be filed in English, French or German, Rule 157(2) EPC. Therefore, 
+
+the EPO must forward PCT-C to the International Bureau, Rule 19.4(b) PCT. The 
+
+EPO is deemed to have received PCT-C on behalf of the International Bureau as 
+
+receiving Office, Rule 19.4(a) PCT. Thus, PCT-C is deemed received on 8 February 
+
+2016 at the International Bureau. Therefore, PCT-C was filed within the priority year 
+
+and the priority is considered valid. 
+
+ 
+b) Since PCT-C has been filed with the International Bureau as receiving Office, the 
+
+competent searching authority is the EPO, Article 16(3)(b) PCT, Rules 35.1 and 
+
+35.3(a) PCT, in conjunction with Article 3 of the Agreement between EPO and the 
+
+International Bureau of WIPO as published in Official Journal 2010, page 304 and 
+
+Article 152 EPC. 
+
+ 
+The applicant has to file a translation of PCT-C for the purpose of international 
+
+search into one of the languages accepted by the EPO, i.e. English, French or 
+
+German, Rule 12.3 PCT and Official Journal 2014, A117. The translation has to be 
+
+furnished to the International Bureau, Rule 12.3(a) PCT. 
+
+ 
+Answer to question 3 
+ 
+ 
+For the Netherlands and Italy it was not possible to enter the national phase, 
+
+because these countries had closed the national route in accordance with Article 
+
+45(2) PCT before the filing date of PCT-D.  For Lithuania the national route was 
+
+available, because PCT-D was filed before the date on which the national route was 
+
+closed, see PCT Applicant’s Guide, Annex B1, "General Information" for each of 
+
+these states, and PCT Gazette. 
+
+ 
+PCT-D was filed in Russian, searched by the Russian Patent Office as International 
+
+Searching Authority and in accordance with Rule 48.3(a) PCT published in Russian. 
+
+Since the Euro-PCT application is published in "another language", Article 153(4) 
+
+EPC requires that a translation in DE/EN/FR is filed with the EPO. In accordance 
+
+4
+
+
+with Rule 159(1)(a) EPC, the translation has to be filed upon entry into the European 
+
+phase, i.e. today. The applicant also has to specify the application documents on 
+
+which the European grant procedure is to be based, Rule 159(1)(b) EPC. 
+
+ 
+The applicant must file a valid request for examination including payment of the 
+
+examination fee, see point 15 of the Notice from the EPO concerning the request for 
+
+early processing, Official Journal 2013, page 156, and request accelerated 
+
+prosecution, Guidelines E-VII,3.2. The applicant should waive the right to be asked 
+
+under Rule 70(2) EPC whether he wishes to proceed further, see point 16 of the 
+
+Notice from the EPO, and waive the right to receive the communication under 
+
+Rule 161(2) EPC, Official Journal 2011, page 354. 
+ 
+ 
+Answer to question 4 
+ 
+ 
+The application documents on which the European grant procedure is to be based, 
+
+comprise more than 15 claims. Therefore, claims fees should have been paid for 
+
+claims 16 and 17, Rule 162(1) EPC. 
+
+ 
+a1) Since no claims fees have been paid, claims 16 and 17 are deemed to be 
+
+abandoned under Rule 162(4) EPC. Thus, the supplementary search is based on 
+
+claims 1 to 15. 
+
+ 
+a2) As the subject-matter of claim 16 is deemed to be abandoned and not otherwise 
+
+to be found in the description or drawings of PCT-E, it cannot be reintroduced into 
+
+the claims, Guidelines E-VIII, 2.1.3. Thus, EP-E cannot be granted with the subject- 
+
+matter of claim 16. 
+
+ 
+a3) As claim 17 is not unitary with the searched subject-matter, it cannot be granted 
+
+in EP-E, Rule 137(3) EPC or Rule 137(5) EPC. The subject-matter of claim 17 can 
+
+only be granted through a divisional application. 
+
+ 
+b) Because no excess claims fees had previously been paid under Rule 162 EPC, 
+
+the applicant will be invited to pay excess claims fees in respect of claims 16 to 19, 
+
+Rule 71(4) EPC. 
+
+5
+
+
+Answer to question 5 
+ 
+ 
+PCT-F has a priority date which is earlier than the date of filing of EP-G, but has 
+
+been published after said date of filing. In accordance with Article 153(5) EPC and 
+
+Rule 165 EPC, Euro-PCT-F shall be considered as prior art under Article 54(3) EPC, 
+
+if the filing fee under Rule 159(1)(c) EPC has been paid and a translation has been 
+
+filed. As all necessary documents, including the translation, have been filed, the 
+
+requirements of Rule 159(1)(a)EPC have been met. 
+
+ 
+Since no filing fee has been paid, the EPO communicates to the applicant that the 
+
+application is deemed to be withdrawn, Rules 160(1) and (2) EPC. The 
+
+communication of the loss of rights is deemed delivered on 25 January 2016, Rule 
+
+126(2) EPC. Further processing can be requested by payment of the prescribed fee 
+
+within two months of the communication, i.e. until 25 March 2016, Rule 135(1) EPC. 
+
+Since the period expires on Easter Friday, it is extended to 29 March 2016, 
+
+Rule 134(1) EPC. The filing fee has to be paid within the same period. 
+ 
+ 
+The time limit for filing a notice of opposition expires on 25 August 2016, Article 99 
+
+EPC. Company F should file an opposition based on the ground that the claim of EP- 
+
+G lacks novelty with respect to the disclosure of Euro-PCT-F, Article 100(a) EPC. 
+
+6
+
+
+Examiners’ Report Paper D 2016 – Part II 
+ 
+ 
+Some candidates did not follow the scheme that was given in question 1. Instead of 
+
+discussing the patent situation by subject matter, as was requested, they discussed 
+
+it by patent application. This approach often resulted in an incomplete analysis for a 
+
+particular subject matter and earned fewer marks. If the conclusions were not 
+
+present, e.g. “elliptical rib takes away novelty of rib in general”, the relevant points 
+
+were missed. 
+
+ 
+ 
+Generally, parts a), b) and e) of question 1, and parts b) and e) of question 2 were 
+
+well answered. 
+
+ 
+ 
+The insufficiency problem for capsules with ribs in general was often not recognized. 
+
+Very few candidates saw that claim 1 of PCT-SA lacked the essential feature of 
+
+material X. 
+
+ 
+ 
+Although many candidates recognized that a French company is not entitled to file 
+
+an appeal in Dutch, few came to the conclusion that the appeal was deemed not 
+
+filed. Therefore, a new appeal had to be filed and the appeal fee had to be paid 
+
+again. 
+
+ 
+ 
+Most candidates recognized that FR2-SA is the first filing for additive G. However, 
+
+fewer candidates realized that priority of FR2-SA could be added to PCT-SA. 
+
+ 
+ 
+Question 3 was generally well answered. 
+
+7
+
+
+Possible solution – Paper D 2016 – Part II 
+ 
+ 
+ 
+Question 1 
+ 
+ 
+ 
+a) plastic coffee capsules having an elliptical rib 
+ 
+ 
+ 
+CH-BC is the first filing for capsules having an elliptical rib. There is no relevant prior 
+
+art and the technical effect is that piercing is improved: a claim to a capsule having 
+
+an elliptical rib seems to be novel and inventive. 
+
+ 
+ 
+PCT-BC validly claims priority from CH-BC because applicants and subject matter 
+
+are the same, and the priority period is extended from 1 August 2015 to 3 August 
+
+2015 (Saturday ->Monday). CH-BC is not enabling for capsules with ribs in general 
+
+so that priority is valid only for capsules with elliptical ribs. 
+
+ 
+ 
+If PCT-BC and PCT-SA both enter the European regional phase, PCT-BC would 
+
+constitute a prior right under Article 54(3) EPC, and would destroy novelty of any 
+
+possible claim to a capsule having an elliptical rib in PCT-SA. 
+
+ 
+ 
+BC will be able to obtain protection for a capsule having an elliptical rib made from 
+
+any material from PCT-BC. 
+
+ 
+ 
+b) plastic coffee capsules having a triangular rib 
+ 
+ 
+ 
+FR-SA is the first filing for capsules having a triangular rib.  
+
+ 
+PCT-SA validly claims priority from FR-SA: the applicants are identical, the subject- 
+
+matter is the same, and PCT-SA was filed within the priority period which is 
+
+extended from 12 December 2015 to 14 December 2015 (Saturday->Monday).  
+
+If PCT-BC became prior right under Article 54(3) EPC, it would not take away 
+
+novelty and would not be relevant for inventive step of capsules with triangular ribs. 
+
+ 
+
+8
+
+
+There is no relevant prior art and the triangular rib has the technical effect of 
+
+improving the piercing of the capsule. A claim to a capsule having a triangular rib 
+
+would seem to be novel and inventive. 
+
+ 
+ 
+A triangular rib is disclosed but not claimed in FR-SA or in PCT-SA or in any other 
+
+patent application. 
+
+ 
+ 
+c) plastic coffee capsules having a rib 
+ 
+ 
+ 
+CH-BC is the first filing for capsules having a rib. 
+ 
+ 
+ 
+Material X is essential to make a generic rib and CH-BC and PCT-BC do not contain 
+
+any reference to material X in claims or description. Therefore claims to a capsule 
+
+having a generic rib in both CH-BC and PCT-BC are not sufficiently disclosed over 
+
+their entire scope. 
+
+ 
+ 
+The disclosure of a capsule with elliptical ribs in PCT-BC is novelty destroying under 
+
+Art 54(3) EPC for the claim to a capsule having a rib in PCT-SA. 
+
+ 
+ 
+Material X is disclosed in FR-SA and PCT-SA. The claim of PCT-SA is missing the 
+
+essential feature of material X for a capsule having a rib of a shape other than 
+
+triangular or elliptical. 
+
+ 
+ 
+The claim in FR-SA and in PCT-SA is not sufficiently disclosed over its entire scope. 
+
+A claim to a capsule having a rib made of material X would be novel and inventive. 
+
+As it stands, BC will be able to obtain protection for a capsule having a rib made 
+
+from any material from PCT-BC. 
+
+ 
+ 
+d) plastic coffee capsules made of material X 
+ 
+ 
+ 
+Capsules made of material X are disclosed in document D. Document D is prior art 
+
+under Article 54(2) EPC for EP1-BC, thus EP1-BC lacks novelty over document D. 
+
+EP1-BC is currently in force and can be used to prevent SA from selling capsules 
+
+made of material X. 
+
+9
+
+
+SA is a French company, thus SA is not entitled to file an appeal in Dutch. The 
+
+appeal is deemed not filed and the appeal fee will be reimbursed. 
+
+ 
+ 
+e) coffee powder containing additive G 
+ 
+ 
+ 
+FR2-SA is the first filing for coffee powder containing additive G because FR1-SA 
+
+was withdrawn in August 2013 without leaving any rights outstanding and without 
+
+having served as a basis for claiming a right of priority. 
+
+ 
+ 
+There is no relevant prior art. Additive G is only known as stabilizer for cosmetics. G 
+
+has the technical effect of increasing extraction. Thus, a claim to coffee powder 
+
+containing additive G seems to be novel and inventive. 
+
+ 
+ 
+PCT-SA discloses coffee powder containing additive G, but does not have any claim 
+
+to coffee powder containing additive G. PCT-SA does not claim priority from FR2- 
+
+SA. PCT-BC was filed after FR2-SA but before PCT-SA. Once regionalized, PCT-BC 
+
+would be prior art under Article 54(3) EPC for PCT-SA. 
+
+ 
+ 
+Question 2 
+ 
+ 
+ 
+a) plastic coffee capsules having an elliptical rib 
+ 
+ 
+ 
+Add a claim to a capsule having an elliptical rib in PCT-SA or in any application 
+
+resulting therefrom to get protection in countries where PCT-BC does not enter the 
+
+national/regional phase. 
+
+ 
+ 
+b) plastic coffee capsules having a triangular rib 
+ 
+ 
+ 
+Add a claim to a capsule having a triangular rib in PCT-SA or in any application 
+
+resulting therefrom. Such a claim may be added in the international phase of PCT- 
+
+SA or on entry of EP or national phases. 
+
+ 
+ 
+c) plastic coffee capsules having a rib 
+
+10
+
+
+File third party observations (possible in the PCT phase), citing FR-SA and/or PCT- 
+
+SA and mentioning insufficient disclosure of plastic coffee capsules having a rib and 
+
+being made of a material other than material X. 
+
+ 
+ 
+It is also possible to file an opposition on the ground of insufficiency of disclosure 
+
+once PCT-BC has entered the EP phase and has been granted. 
+
+ 
+ 
+In case of third party observations and/or opposition, a European patent based on 
+
+PCT-BC will not be granted or will be revoked for a claim directed to a capsule with a 
+
+rib. 
+
+With respect to FR-SA and in PCT-SA, file an amended claim directed to a capsule 
+
+having a rib and being made of material X. The claim would be considered unitary by 
+
+the EPO since such a rib is a corresponding special technical feature when 
+
+compared to a triangular rib or to an elliptical rib. 
+
+ 
+ 
+d) plastic coffee capsules made of material X 
+ 
+ 
+ 
+The time limit for filing an appeal expires on 9 March 2016 (30 December 2015 plus 
+
+10 days plus 2 months). 
+
+File a new notice of appeal in an official language. Pay the appeal fee. The appeal 
+
+fee paid by the Dutch representative will be refunded. File the grounds of appeal - 
+
+until 9 May 2016 and discuss the prima facie relevance of document D. 
+
+Lack of novelty was already raised as the ground for opposition. 
+ 
+ 
+ 
+e) coffee powder containing additive G. 
+ 
+ 
+ 
+PCT-SA was filed within the priority year of FR2-SA. The period for adding a priority 
+
+claim in PCT-SA has not lapsed. A priority claim to FR2-SA should be added in PCT- 
+
+SA, by 14 April 2016. 
+
+ 
+ 
+Upon addition of the priority claim to FR2-SA, PCT-SA will have the earliest effective 
+
+date for coffee powder containing additive G, and will become a prior right for PCT- 
+
+BC. 
+
+11
+
+
+The claim to coffee powder containing additive G in PCT-BC then will lack novelty 
+
+over PCT-SA. 
+
+ 
+ 
+File third party observations, (either in the international phase or in the European 
+
+phase), and/or file an opposition against a European patent resulting from PCT-BC. 
+
+Add a claim in PCT-SA directed to coffee with additive G. This can be done in the 
+
+international phase or on entry to the EP/national phases. 
+
+ 
+ 
+Coffee powder containing additive G is not unitary with a plastic capsule having a rib. 
+
+Therefore file a divisional application for coffee powder containing G. 
+
+ 
+ 
+Question 3 
+ 
+ 
+ 
+a) plastic coffee capsules having an elliptical rib 
+ 
+ 
+ 
+BC can stop SA from selling plastic coffee capsules having an elliptical rib, based on 
+
+the patent originating from CH-BC in Switzerland, and/or the patent(s) originating 
+
+from PCT-BC. 
+
+ 
+ 
+b) plastic coffee capsules having a triangular rib 
+ 
+ 
+ 
+SA can stop BC from selling plastic coffee capsules having a triangular rib, based on 
+
+the patent originating from FR-SA in France, and/or the patent(s) originating from 
+
+PCT-SA. 
+
+ 
+ 
+c) plastic coffee capsules having a rib 
+ 
+ 
+ 
+SA can stop BC from selling plastic coffee capsules having a rib made from material 
+
+X, based on the patent originating from FR-SA in France, and/or the patent(s) 
+
+originating from PCT-SA. 
+
+12
+
+
+d) plastic coffee capsules made of material X 
+ 
+ 
+ 
+When EP1-BC is revoked, neither SA nor BC can stop the other party from 
+
+producing plastic coffee capsules from material X, as long as the capsules do not 
+
+contain a rib. 
+
+ 
+ 
+e) coffee powder containing additive G 
+ 
+SA can stop BC from selling coffee powder containing additive G, based on FR2-SA 
+
+in France, and/or the patent(s) originating from PCT-SA. 
+
+13
+
+
+EXAMINATION COMMITTEE III 
+ 
+Paper D - 2016 - Marking Sheet 
+ 
+Category 
+Maximum possible 
+
+Part I 
+
+Part I-Question 1 
+6 
+
+Part I-Question 2 
+10 
+
+Part I-Question 3 
+7 
+
+Part I-Question 4 
+9 
+
+Part I-Question 5 
+8 
+
+Part II 
+
+Part II-Question 1a 
+7 
+
+Part II-Question 1b 
+6 
+
+Part II-Question 1c 
+9 
+
+Part II-Question 1d 
+6 
+
+Part II-Question 1e 
+7 
+
+Part II-Question 2 
+18 
+
+Part II-Question 3 
+7 
+
+Total 
+100 
+
+ 
+
+14
+
+
