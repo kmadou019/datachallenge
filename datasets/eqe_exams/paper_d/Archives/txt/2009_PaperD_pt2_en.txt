@@ -1,0 +1,2714 @@
+ 
+
+ 
+2009/DII/e 
+
+EUROPEAN QUALIFYING EXAMINATION 2009 
+
+ 
+
+PAPER D  -  PART II 
+
+ 
+
+ 
+
+ 
+
+This paper comprises: 
+
+ 
+
+ 
+
+* 
+Client’s letter including five (5) questions 
+2009/DII/e/1 - 5 
+
+ 
+ 
+
+ 
+ 
+
+* 
+Annex: Calendars for 2007, 2008 and 2009 with 
+2009/DII/e/6 - 8 
+
+ 
+indication of the days on which at least one 
+
+ 
+of the EPO filing offices is not open for the 
+
+ 
+receipt of documents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40% of the marks available for paper D are awarded for part I, 
+
+60% for part II.
+
+
+- 1 - 
+
+2009/DII/e/1 
+
+You receive today, 3rd March 2009 a fax from Angelica Gigas, owner of Silybum 
+
+Horticultural Limited, a British supplier of gardening products. 
+
+ 
+
+“My firm is in need of urgent advice and wishes to appoint you as our patent attorney. I 
+
+would like to meet you next week to discuss my firm’s patent portfolio but in the 
+
+meantime ask you to consider the following situation. 
+
+ 
+
+Damage to plants by snails, and their shell free allies, slugs, is a significant problem and 
+
+is particularly annoying to the amateur gardener. For many years it has been known that 
+
+slugs and snails do not like contact with copper metal, and strips of copper are 
+
+conventionally placed around plants or fixed to the rim of plant pots so as to prevent 
+
+slugs and snails from crossing the strips.  
+
+ 
+
+Iris Stylosa, our technical director, and I realised that a similar effect to use of copper 
+
+metal might be achieved by applying long lasting compounds containing copper to the 
+
+surface of a plant pot. In trials we found that escargines [a well known class of organo-
+
+copper compounds (organic compounds containing copper)], and slugbanite [a known 
+
+inorganic copper mineral] do not merely deter slugs and snails but kill them. I suggested 
+
+the use of escargines, and Iris suggested the use of slugbanite, but to both our surprise 
+
+the combination of escargines and slugbanite was found to provide a stronger effect 
+
+than either alone, killing slugs and snails almost instantly.  
+
+ 
+
+We also found that the best position for applying these materials to the plant pot is not 
+
+the rim, but in one or more bands, which may be only millimetres wide, but situated 
+
+above the base of the plant pot at between about one quarter to three quarters the 
+
+height of the plant pot. We found that mixing escargines and/or slugbanite with known 
+
+slug and snail attractants (e.g. beer) and an adhesive provided a composition that was 
+
+suitable for coating plant pots.  
+
+
+- 2 - 
+
+2009/DII/e/2 
+
+We filed a British patent application 07 99999.9 (GB1) in which we described our trials 
+
+and all of the above mentioned results in full. No claims were included with this filing, 
+
+which was given a date of filing of 6th January 2007. 
+
+ 
+
+Iris handled our patent filings, and she filed a European patent application 07 77777.7 
+
+(EP1) claiming priority of GB1. EP1 has a date of filing of 20th December 2007 and was 
+
+filed with a single claim to compositions comprising known slug and snail attractants, an 
+
+adhesive,  and a copper compound selected from either escargines, slugbanite or both. 
+
+GB1 was subsequently abandoned without publication. 
+
+ 
+
+After filing EP1 Iris realised that she had not claimed the method of coating plant pots or 
+
+the coated plant pots themselves and so filed two further applications 08 00001.1 (EP2) 
+
+and 08 00002.2 (EP3) which both have a date of filing of 7th January 2008. 
+
+ 
+
+• EP2 was filed with a single claim to a method of coating at least a part of the 
+
+surface of plant pots with compositions comprising compounds containing copper 
+
+selected from either escargines, slugbanite or both. 
+
+ 
+
+• EP3 was filed with two claims, an independent claim claiming plant pots coated at 
+
+least in part with compositions comprising  compounds containing copper 
+
+selected from either escargines, slugbanite or both, and a dependent claim 
+
+claiming the specific location of the coating as being a band between one quarter 
+
+to three quarters the height of the plant pot.  
+
+ 
+
+Iris found no difficulty with preparing the claims in EP1, EP2 and EP3 since she was 
+
+able to use paragraphs from the description of GB1. 
+
+ 
+
+The description for each application was identical to that of GB1 and the filing, search, 
+
+all designation and extension fees and the examination fees were paid on all three 
+
+applications. EP2 and EP3 also claim priority of GB1.  
+
+
+- 3 - 
+
+2009/DII/e/3 
+
+No relevant documents were found in any of the search reports and EP1 and EP3 were 
+
+granted 1st March 2009 without any amendment. A communication under Rule 71(3) 
+
+EPC issued on EP2 last week, accepting the application as filed. 
+
+ 
+
+In late 2007 we discovered a potential problem in that some of the coated plant pots we 
+
+were testing failed to kill slugs and snails. We quickly found that the problem was in the 
+
+slugbanite we were using. Apparently, minerals can vary in composition and it is well 
+
+known that slugbanite comes in four forms, A,B,C, and D.  We found that slugbanite-A 
+
+and slugbanite-B can each kill slugs and snails, but slugbanite-C and slugbanite-D do 
+
+not. The examples given in GB1 referred to slugbanite from the Hosta la Vista mine 
+
+which was named as the source of the slugbanite. The Hosta la Vista mine produces 
+
+only slugbanite-A, which is conventionally used for glazing toilet bowls, however we did 
+
+not mention slugbanite-A by name.  At this time we also discovered a particularly 
+
+effective method of preparing finely divided slugbanite for use in the slug and snail killing 
+
+compositions. 
+
+ 
+
+As we did not want to confuse the prosecution of EP1, EP2 and EP3, we did not mention 
+
+the lack of effect of slugbanite-C and slugbanite-D in those applications, but instead we 
+
+filed British patent application number 08 01234.6 (GB2) which described slug and snail 
+
+killing compositions similar to those described in GB1, and comprising slugbanite-B 
+
+alone or in combination with escargines. A similar description was used to GB1, but 
+
+reference to the slugbanite from the Hosta la Vista mine was replaced by reference to 
+
+slugbanite-B, and the method of preparing slugbanite for use in  the compositions was 
+
+described. No claims or drawings were filed with this application, which was accorded a 
+
+date of filing of 3rd January 2008. 
+
+ 
+
+GB1, GB2, EP1, EP2, and EP3 were all filed in the name of Silybum Horticultural 
+
+Limited. 
+
+
+- 4 - 
+
+2009/DII/e/4 
+
+I instructed Iris to protect this invention in Europe, including Albania, and as US 
+
+protection was wanted an international patent application was prepared with the same 
+
+description as GB2, naming Silybum Horticultural Limited as applicant for all countries 
+
+other than the United States, and naming Iris and me as applicants for the United States 
+
+and inventors for all countries. This was signed and dated 24th December 2008, and 
+
+placed in an envelope for posting to the EPO, we independently ordered payment of the 
+
+fees to an EPO account and this was credited to the account in mid-January 2009.  
+
+ 
+
+However, on checking our post room this week we found that the envelope with the 
+
+application had fallen behind a desk and was never mailed. Our secretary, Daphne 
+
+Burkwood, is very upset about this as she has been with us since we founded the firm 
+
+and is extremely reliable and we have never had such an incident before. I will give you 
+
+the envelope and a copy of the application documents when we meet. 
+
+ 
+
+This is very important since last week I was contacted by Big Farma, a US agrochemical 
+
+company having their European manufacturing facilities in Albania. Their letter reports 
+
+that they have an international patent application PCT/US2006/99999 (PCT-BF) 
+
+protecting escargines. I have checked and PCT-BF was filed 15th December 2006 
+
+without a claim to priority and published in August 2008. There appears to be no search 
+
+report yet. This application describes and claims compositions containing organo-copper 
+
+compounds and an adhesive for use as slug and snail killers and discloses escargines in 
+
+one of the examples. PCT-BF also discloses methods of coating plant pots and coated 
+
+plant pots, but only discloses coating the whole plant pot or the rim of plant pots. PCT-
+
+BF does not disclose using snail and slug attractants in the compositions.  
+
+
+- 5 - 
+
+2009/DII/e/5 
+
+Big Farma have asked me to meet them and I am going to see them today as they may 
+
+be a big opportunity to market our invention, however I am worried in case they want to 
+
+use PCT-BF to attack us. I will use this meeting to find out what Big Farma want, but for 
+
+discussion on my return could you please provide a memorandum: 
+
+ 
+
+1. Advising as to the status of our European patents and European patent 
+
+applications (as I will be travelling until the end of July, please indicate what we 
+
+need to do in the next five months to keep them in good order) 
+
+ 
+
+2. Advising as to patentability and any problems you see with our European patents 
+
+and European patent applications 
+
+ 
+
+3. Advising as to whether and how they can be improved 
+
+ 
+
+4. Advising as to whether we can recover the PCT application that Iris Stylosa failed 
+
+to file covering all of the subject matter of GB2 
+
+ 
+
+5. Advising as to what our strategy should be concerning Big Farma [we need to 
+
+know what to do if they are aggressive, or if they want to co-operate] 
+
+ 
+
+A confirmation copy of this fax together with copies of GB1 and GB2 was sent to you 
+
+with delivery guarantee for this afternoon. 
+
+ 
+
+Please take this fax as being authority to take any action that you deem fit to preserve 
+
+our position pending our meeting next week.  Please note that any enquiries you have, 
+
+or further documents that you need, will have to wait until our meeting, as our offices are 
+
+closed until the end of next week, and I will not be contactable for the next three days. 
+
+ 
+
+Angelica Gigas”.  
+
+ 
+
+
+- 1 -
+
+2007
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+
+01  
+ Mon     
+01  
+ Thu      
+01  
+ Thu      
+01  
+ Sun      
+01  
+ Tue      
+01  
+ Fri        
+01  
+ Sun      
+01  
+ Wed     
+01  
+ Sat       
+01  
+ Mon     
+01  
+ Thu      
+01  
+ Sat       
+
+02  
+ Tue      
+02  
+ Fri        
+02  
+ Fri        
+02  
+ Mon     
+02  
+ Wed     
+02  
+ Sat       
+02  
+ Mon     
+02  
+ Thu      
+02  
+ Sun      
+02  
+ Tue      
+02  
+ Fri        
+02  
+ Sun      
+
+03  
+ Wed     
+03  
+ Sat       
+03  
+ Sat       
+03  
+ Tue      
+03  
+ Thu      
+03  
+ Sun      
+03  
+ Tue      
+03  
+ Fri        
+03  
+ Mon     
+03  
+ Wed     
+03  
+ Sat       
+03  
+ Mon     
+
+04  
+ Thu      
+04  
+ Sun      
+04  
+ Sun      
+04  
+ Wed     
+04  
+ Fri        
+04  
+ Mon     
+04  
+ Wed     
+04  
+ Sat       
+04  
+ Tue      
+04  
+ Thu      
+04  
+ Sun      
+04  
+ Tue      
+
+05  
+ Fri        
+05  
+ Mon     
+05  
+ Mon     
+05  
+ Thu      
+05  
+ Sat       
+05  
+ Tue      
+05  
+ Thu      
+05  
+ Sun      
+05  
+ Wed     
+05  
+ Fri        
+05  
+ Mon     
+05  
+ Wed     
+
+06  
+ Sat       
+06  
+ Tue      
+06  
+ Tue      
+06  
+ Fri        
+06  
+ Sun      
+06  
+ Wed     
+06  
+ Fri        
+06  
+ Mon     
+06  
+ Thu      
+06  
+ Sat       
+06  
+ Tue      
+06  
+ Thu      
+
+07  
+ Sun      
+07  
+ Wed     
+07  
+ Wed     
+07  
+ Sat       
+07  
+ Mon     
+07  
+ Thu      
+07  
+ Sat       
+07  
+ Tue      
+07  
+ Fri        
+07  
+ Sun      
+07  
+ Wed     
+07  
+ Fri        
+
+08  
+ Mon     
+08  
+ Thu      
+08  
+ Thu      
+08  
+ Sun      
+08  
+ Tue      
+08  
+ Fri        
+08  
+ Sun      
+08  
+ Wed     
+08  
+ Sat       
+08  
+ Mon     
+08  
+ Thu      
+08  
+ Sat       
+
+09  
+ Tue      
+09  
+ Fri        
+09  
+ Fri        
+09  
+ Mon     
+09  
+ Wed     
+09  
+ Sat       
+09  
+ Mon     
+09  
+ Thu      
+09  
+ Sun      
+09  
+ Tue      
+09  
+ Fri        
+09  
+ Sun      
+
+10  
+ Wed     
+10  
+ Sat       
+10  
+ Sat       
+10  
+ Tue      
+10  
+ Thu      
+10  
+ Sun      
+10  
+ Tue      
+10  
+ Fri        
+10  
+ Mon     
+10  
+ Wed     
+10  
+ Sat       
+10  
+ Mon     
+
+11  
+ Thu      
+11  
+ Sun      
+11  
+ Sun      
+11  
+ Wed     
+11  
+ Fri        
+11  
+ Mon     
+11  
+ Wed     
+11  
+ Sat       
+11  
+ Tue      
+11  
+ Thu      
+11  
+ Sun      
+11  
+ Tue      
+
+12  
+ Fri        
+12  
+ Mon     
+12  
+ Mon     
+12  
+ Thu      
+12  
+ Sat       
+12  
+ Tue      
+12  
+ Thu      
+12  
+ Sun      
+12  
+ Wed     
+12  
+ Fri        
+12  
+ Mon     
+12  
+ Wed     
+
+13  
+ Sat       
+13  
+ Tue      
+13  
+ Tue      
+13  
+ Fri        
+13  
+ Sun      
+13  
+ Wed     
+13  
+ Fri        
+13  
+ Mon     
+13  
+ Thu      
+13  
+ Sat       
+13  
+ Tue      
+13  
+ Thu      
+
+14  
+ Sun      
+14  
+ Wed     
+14  
+ Wed     
+14  
+ Sat       
+14  
+ Mon     
+14  
+ Thu      
+14  
+ Sat       
+14  
+ Tue      
+14  
+ Fri        
+14  
+ Sun      
+14  
+ Wed     
+14  
+ Fri        
+
+15  
+ Mon     
+15  
+ Thu      
+15  
+ Thu      
+15  
+ Sun      
+15  
+ Tue      
+15  
+ Fri        
+15  
+ Sun      
+15  
+ Wed     
+15  
+ Sat       
+15  
+ Mon     
+15  
+ Thu      
+15  
+ Sat       
+
+16  
+ Tue      
+16  
+ Fri        
+16  
+ Fri        
+16  
+ Mon     
+16  
+ Wed     
+16  
+ Sat       
+16  
+ Mon     
+16  
+ Thu      
+16  
+ Sun      
+16  
+ Tue      
+16  
+ Fri        
+16  
+ Sun      
+
+17  
+ Wed     
+17  
+ Sat       
+17  
+ Sat       
+17  
+ Tue      
+17  
+ Thu      
+17  
+ Sun      
+17  
+ Tue      
+17  
+ Fri        
+17  
+ Mon     
+17  
+ Wed     
+17  
+ Sat       
+17  
+ Mon     
+
+18  
+ Thu      
+18  
+ Sun      
+18  
+ Sun      
+18  
+ Wed     
+18  
+ Fri        
+18  
+ Mon     
+18  
+ Wed     
+18  
+ Sat       
+18  
+ Tue      
+18  
+ Thu      
+18  
+ Sun      
+18  
+ Tue      
+
+19  
+ Fri        
+19  
+ Mon     
+19  
+ Mon     
+19  
+ Thu      
+19  
+ Sat       
+19  
+ Tue      
+19  
+ Thu      
+19  
+ Sun      
+19  
+ Wed     
+19  
+ Fri        
+19  
+ Mon     
+19  
+ Wed     
+
+20  
+ Sat       
+20  
+ Tue      
+20  
+ Tue      
+20  
+ Fri        
+20  
+ Sun      
+20  
+ Wed     
+20  
+ Fri        
+20  
+ Mon     
+20  
+ Thu      
+20  
+ Sat       
+20  
+ Tue      
+20  
+ Thu      
+
+21  
+ Sun      
+21  
+ Wed     
+21  
+ Wed     
+21  
+ Sat       
+21  
+ Mon     
+21  
+ Thu      
+21  
+ Sat       
+21  
+ Tue      
+21  
+ Fri        
+21  
+ Sun      
+21  
+ Wed     
+21  
+ Fri        
+
+22  
+ Mon     
+22  
+ Thu      
+22  
+ Thu      
+22  
+ Sun      
+22  
+ Tue      
+22  
+ Fri        
+22  
+ Sun      
+22  
+ Wed     
+22  
+ Sat       
+22  
+ Mon     
+22  
+ Thu      
+22  
+ Sat       
+
+23  
+ Tue      
+23  
+ Fri        
+23  
+ Fri        
+23  
+ Mon     
+23  
+ Wed     
+23  
+ Sat       
+23  
+ Mon     
+23  
+ Thu      
+23  
+ Sun      
+23  
+ Tue      
+23  
+ Fri        
+23  
+ Sun      
+
+24  
+ Wed     
+24  
+ Sat       
+24  
+ Sat       
+24  
+ Tue      
+24  
+ Thu      
+24  
+ Sun      
+24  
+ Tue      
+24  
+ Fri        
+24  
+ Mon     
+24  
+ Wed     
+24  
+ Sat       
+24  
+ Mon     
+
+25  
+ Thu      
+25  
+ Sun      
+25  
+ Sun      
+25  
+ Wed     
+25  
+ Fri        
+25  
+ Mon     
+25  
+ Wed     
+25  
+ Sat       
+25  
+ Tue      
+25  
+ Thu      
+25  
+ Sun      
+25  
+ Tue      
+
+26  
+ Fri        
+26  
+ Mon     
+26  
+ Mon     
+26  
+ Thu      
+26  
+ Sat       
+26  
+ Tue      
+26  
+ Thu      
+26  
+ Sun      
+26  
+ Wed     
+26  
+ Fri        
+26  
+ Mon     
+26  
+ Wed     
+
+27  
+ Sat       
+27  
+ Tue      
+27  
+ Tue      
+27  
+ Fri        
+27  
+ Sun      
+27  
+ Wed     
+27  
+ Fri        
+27  
+ Mon     
+27  
+ Thu      
+27  
+ Sat       
+27  
+ Tue      
+27  
+ Thu      
+
+28  
+ Sun      
+28  
+ Wed     
+28  
+ Wed     
+28  
+ Sat       
+28  
+ Mon     
+28  
+ Thu      
+28  
+ Sat       
+28  
+ Tue      
+28  
+ Fri        
+28  
+ Sun      
+28  
+ Wed     
+28  
+ Fri        
+
+29  
+ Mon     
+29  
+ Thu      
+29  
+ Sun      
+29  
+ Tue      
+29  
+ Fri        
+29  
+ Sun      
+29  
+ Wed     
+29  
+ Sat       
+29  
+ Mon     
+29  
+ Thu      
+29  
+ Sat       
+
+30  
+ Tue      
+30  
+ Fri        
+30  
+ Mon     
+30  
+ Wed     
+30  
+ Sat       
+30  
+ Mon     
+30  
+ Thu      
+30  
+ Sun      
+30  
+ Tue      
+30  
+ Fri        
+30  
+ Sun      
+
+31  
+ Wed     
+31  
+ Sat       
+31  
+ Thu      
+31  
+ Tue      
+31  
+ Fri        
+31  
+ Wed     
+31  
+ Mon     
+
+Annex 1
+
+ 2009/DII/e/6
+
+
+- 2 -
+
+2008
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+
+01  
+ Tue      
+01  
+ Fri        
+01  
+ Sat       
+01  
+ Tue      
+01  
+ Thu      
+01  
+ Sun      
+01  
+ Tue      
+01  
+ Fri        
+01  
+ Mon     
+01  
+ Wed     
+01  
+ Sat       
+01  
+ Mon     
+
+02  
+ Wed     
+02  
+ Sat       
+02  
+ Sun      
+02  
+ Wed     
+02  
+ Fri        
+02  
+ Mon     
+02  
+ Wed     
+02  
+ Sat       
+02  
+ Tue      
+02  
+ Thu      
+02  
+ Sun      
+02  
+ Tue      
+
+03  
+ Thu      
+03  
+ Sun      
+03  
+ Mon     
+03  
+ Thu      
+03  
+ Sat       
+03  
+ Tue      
+03  
+ Thu      
+03  
+ Sun      
+03  
+ Wed     
+03  
+ Fri        
+03  
+ Mon     
+03  
+ Wed     
+
+04  
+ Fri        
+04  
+ Mon     
+04  
+ Tue      
+04  
+ Fri        
+04  
+ Sun      
+04  
+ Wed     
+04  
+ Fri        
+04  
+ Mon     
+04  
+ Thu      
+04  
+ Sat       
+04  
+ Tue      
+04  
+ Thu      
+
+05  
+ Sat       
+05  
+ Tue      
+05  
+ Wed     
+05  
+ Sat       
+05  
+ Mon     
+05  
+ Thu      
+05  
+ Sat       
+05  
+ Tue      
+05  
+ Fri        
+05  
+ Sun      
+05  
+ Wed     
+05  
+ Fri        
+
+06  
+ Sun      
+06  
+ Wed     
+06  
+ Thu      
+06  
+ Sun      
+06  
+ Tue      
+06  
+ Fri        
+06  
+ Sun      
+06  
+ Wed     
+06  
+ Sat       
+06  
+ Mon     
+06  
+ Thu      
+06  
+ Sat       
+
+07  
+ Mon     
+07  
+ Thu      
+07  
+ Fri        
+07  
+ Mon     
+07  
+ Wed     
+07  
+ Sat       
+07  
+ Mon     
+07  
+ Thu      
+07  
+ Sun      
+07  
+ Tue      
+07  
+ Fri        
+07  
+ Sun      
+
+08  
+ Tue      
+08  
+ Fri        
+08  
+ Sat       
+08  
+ Tue      
+08  
+ Thu      
+08  
+ Sun      
+08  
+ Tue      
+08  
+ Fri        
+08  
+ Mon     
+08  
+ Wed     
+08  
+ Sat       
+08  
+ Mon     
+
+09  
+ Wed     
+09  
+ Sat       
+09  
+ Sun      
+09  
+ Wed     
+09  
+ Fri        
+09  
+ Mon     
+09  
+ Wed     
+09  
+ Sat       
+09  
+ Tue      
+09  
+ Thu      
+09  
+ Sun      
+09  
+ Tue      
+
+10  
+ Thu      
+10  
+ Sun      
+10  
+ Mon     
+10  
+ Thu      
+10  
+ Sat       
+10  
+ Tue      
+10  
+ Thu      
+10  
+ Sun      
+10  
+ Wed     
+10  
+ Fri        
+10  
+ Mon     
+10  
+ Wed     
+
+11  
+ Fri        
+11  
+ Mon     
+11  
+ Tue      
+11  
+ Fri        
+11  
+ Sun      
+11  
+ Wed     
+11  
+ Fri        
+11  
+ Mon     
+11  
+ Thu      
+11  
+ Sat       
+11  
+ Tue      
+11  
+ Thu      
+
+12  
+ Sat       
+12  
+ Tue      
+12  
+ Wed     
+12  
+ Sat       
+12  
+ Mon     
+12  
+ Thu      
+12  
+ Sat       
+12  
+ Tue      
+12  
+ Fri        
+12  
+ Sun      
+12  
+ Wed     
+12  
+ Fri        
+
+13  
+ Sun      
+13  
+ Wed     
+13  
+ Thu      
+13  
+ Sun      
+13  
+ Tue      
+13  
+ Fri        
+13  
+ Sun      
+13  
+ Wed     
+13  
+ Sat       
+13  
+ Mon     
+13  
+ Thu      
+13  
+ Sat       
+
+14  
+ Mon     
+14  
+ Thu      
+14  
+ Fri        
+14  
+ Mon     
+14  
+ Wed     
+14  
+ Sat       
+14  
+ Mon     
+14  
+ Thu      
+14  
+ Sun      
+14  
+ Tue      
+14  
+ Fri        
+14  
+ Sun      
+
+15  
+ Tue      
+15  
+ Fri        
+15  
+ Sat       
+15  
+ Tue      
+15  
+ Thu      
+15  
+ Sun      
+15  
+ Tue      
+15  
+ Fri        
+15  
+ Mon     
+15  
+ Wed     
+15  
+ Sat       
+15  
+ Mon     
+
+16  
+ Wed     
+16  
+ Sat       
+16  
+ Sun      
+16  
+ Wed     
+16  
+ Fri        
+16  
+ Mon     
+16  
+ Wed     
+16  
+ Sat       
+16  
+ Tue      
+16  
+ Thu      
+16  
+ Sun      
+16  
+ Tue      
+
+17  
+ Thu      
+17  
+ Sun      
+17  
+ Mon     
+17  
+ Thu      
+17  
+ Sat       
+17  
+ Tue      
+17  
+ Thu      
+17  
+ Sun      
+17  
+ Wed     
+17  
+ Fri        
+17  
+ Mon     
+17  
+ Wed     
+
+18  
+ Fri        
+18  
+ Mon     
+18  
+ Tue      
+18  
+ Fri        
+18  
+ Sun      
+18  
+ Wed     
+18  
+ Fri        
+18  
+ Mon     
+18  
+ Thu      
+18  
+ Sat       
+18  
+ Tue      
+18  
+ Thu      
+
+19  
+ Sat       
+19  
+ Tue      
+19  
+ Wed     
+19  
+ Sat       
+19  
+ Mon     
+19  
+ Thu      
+19  
+ Sat       
+19  
+ Tue      
+19  
+ Fri        
+19  
+ Sun      
+19  
+ Wed     
+19  
+ Fri        
+
+20  
+ Sun      
+20  
+ Wed     
+20  
+ Thu      
+20  
+ Sun      
+20  
+ Tue      
+20  
+ Fri        
+20  
+ Sun      
+20  
+ Wed     
+20  
+ Sat       
+20  
+ Mon     
+20  
+ Thu      
+20  
+ Sat       
+
+21  
+ Mon     
+21  
+ Thu      
+21  
+ Fri        
+21  
+ Mon     
+21  
+ Wed     
+21  
+ Sat       
+21  
+ Mon     
+21  
+ Thu      
+21  
+ Sun      
+21  
+ Tue      
+21  
+ Fri        
+21  
+ Sun      
+
+22  
+ Tue      
+22  
+ Fri        
+22  
+ Sat       
+22  
+ Tue      
+22  
+ Thu      
+22  
+ Sun      
+22  
+ Tue      
+22  
+ Fri        
+22  
+ Mon     
+22  
+ Wed     
+22  
+ Sat       
+22  
+ Mon     
+
+23  
+ Wed     
+23  
+ Sat       
+23  
+ Sun      
+23  
+ Wed     
+23  
+ Fri        
+23  
+ Mon     
+23  
+ Wed     
+23  
+ Sat       
+23  
+ Tue      
+23  
+ Thu      
+23  
+ Sun      
+23  
+ Tue      
+
+24  
+ Thu      
+24  
+ Sun      
+24  
+ Mon     
+24  
+ Thu      
+24  
+ Sat       
+24  
+ Tue      
+24  
+ Thu      
+24  
+ Sun      
+24  
+ Wed     
+24  
+ Fri        
+24  
+ Mon     
+24  
+ Wed     
+
+25  
+ Fri        
+25  
+ Mon     
+25  
+ Tue      
+25  
+ Fri        
+25  
+ Sun      
+25  
+ Wed     
+25  
+ Fri        
+25  
+ Mon     
+25  
+ Thu      
+25  
+ Sat       
+25  
+ Tue      
+25  
+ Thu      
+
+26  
+ Sat       
+26  
+ Tue      
+26  
+ Wed     
+26  
+ Sat       
+26  
+ Mon     
+26  
+ Thu      
+26  
+ Sat       
+26  
+ Tue      
+26  
+ Fri        
+26  
+ Sun      
+26  
+ Wed     
+26  
+ Fri        
+
+27  
+ Sun      
+27  
+ Wed     
+27  
+ Thu      
+27  
+ Sun      
+27  
+ Tue      
+27  
+ Fri        
+27  
+ Sun      
+27  
+ Wed     
+27  
+ Sat       
+27  
+ Mon     
+27  
+ Thu      
+27  
+ Sat       
+
+28  
+ Mon     
+28  
+ Thu      
+28  
+ Fri        
+28  
+ Mon     
+28  
+ Wed     
+28  
+ Sat       
+28  
+ Mon     
+28  
+ Thu      
+28  
+ Sun      
+28  
+ Tue      
+28  
+ Fri        
+28  
+ Sun      
+
+29  
+ Tue      
+29  
+ Fri        
+29  
+ Sat       
+29  
+ Tue      
+29  
+ Thu      
+29  
+ Sun      
+29  
+ Tue      
+29  
+ Fri        
+29  
+ Mon     
+29  
+ Wed     
+29  
+ Sat       
+29  
+ Mon     
+
+30  
+ Wed     
+30  
+ Sun      
+30  
+ Wed     
+30  
+ Fri        
+30  
+ Mon     
+30  
+ Wed     
+30  
+ Sat       
+30  
+ Tue      
+30  
+ Thu      
+30  
+ Sun      
+30  
+ Tue      
+
+31  
+ Thu      
+31  
+ Mon     
+31  
+ Sat       
+31  
+ Thu      
+31  
+ Sun      
+31  
+ Fri        
+31  
+ Wed     
+
+Annex 2
+
+ 2009/DII/e/7
+
+
+- 3 -
+
+2009
+Jan 
+Feb 
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+
+01  
+ Thu     
+01  
+ Sun     
+01  
+ Sun     
+01  
+ Wed    
+01  
+ Fri       
+01  
+ Mon     
+01  
+ Wed    
+01  
+ Sat      
+01  
+ Tue     
+01  
+ Thu     
+01  
+ Sun     
+01  
+ Tue     
+
+02  
+ Fri       
+02  
+ Mon     
+02  
+ Mon     
+02  
+ Thu     
+02  
+ Sat      
+02  
+ Tue     
+02  
+ Thu     
+02  
+ Sun     
+02  
+ Wed    
+02  
+ Fri       
+02  
+ Mon     
+02  
+ Wed    
+
+03  
+ Sat      
+03  
+ Tue     
+03  
+ Tue     
+03  
+ Fri       
+03  
+ Sun     
+03  
+ Wed    
+03  
+ Fri       
+03  
+ Mon     
+03  
+ Thu     
+03  
+ Sat      
+03  
+ Tue     
+03  
+ Thu     
+
+04  
+ Sun     
+04  
+ Wed    
+04  
+ Wed    
+04  
+ Sat      
+04  
+ Mon     
+04  
+ Thu     
+04  
+ Sat      
+04  
+ Tue     
+04  
+ Fri       
+04  
+ Sun     
+04  
+ Wed    
+04  
+ Fri       
+
+05  
+ Mon     
+05  
+ Thu     
+05  
+ Thu     
+05  
+ Sun     
+05  
+ Tue     
+05  
+ Fri       
+05  
+ Sun     
+05  
+ Wed    
+05  
+ Sat      
+05  
+ Mon     
+05  
+ Thu     
+05  
+ Sat      
+
+06  
+ Tue     
+06  
+ Fri       
+06  
+ Fri       
+06  
+ Mon     
+06  
+ Wed    
+06  
+ Sat      
+06  
+ Mon     
+06  
+ Thu     
+06  
+ Sun     
+06  
+ Tue     
+06  
+ Fri       
+06  
+ Sun     
+
+07  
+ Wed    
+07  
+ Sat      
+07  
+ Sat      
+07  
+ Tue     
+07  
+ Thu     
+07  
+ Sun     
+07  
+ Tue     
+07  
+ Fri       
+07  
+ Mon     
+07  
+ Wed    
+07  
+ Sat      
+07  
+ Mon     
+
+08  
+ Thu     
+08  
+ Sun     
+08  
+ Sun     
+08  
+ Wed    
+08  
+ Fri       
+08  
+ Mon     
+08  
+ Wed    
+08  
+ Sat      
+08  
+ Tue     
+08  
+ Thu     
+08  
+ Sun     
+08  
+ Tue     
+
+09  
+ Fri       
+09  
+ Mon     
+09  
+ Mon     
+09  
+ Thu     
+09  
+ Sat      
+09  
+ Tue     
+09  
+ Thu     
+09  
+ Sun     
+09  
+ Wed    
+09  
+ Fri       
+09  
+ Mon     
+09  
+ Wed    
+
+10  
+ Sat      
+10  
+ Tue     
+10  
+ Tue     
+10  
+ Fri       
+10  
+ Sun     
+10  
+ Wed    
+10  
+ Fri       
+10  
+ Mon     
+10  
+ Thu     
+10  
+ Sat      
+10  
+ Tue     
+10  
+ Thu     
+
+11  
+ Sun     
+11  
+ Wed    
+11  
+ Wed    
+11  
+ Sat      
+11  
+ Mon     
+11  
+ Thu     
+11  
+ Sat      
+11  
+ Tue     
+11  
+ Fri       
+11  
+ Sun     
+11  
+ Wed    
+11  
+ Fri       
+
+12  
+ Mon     
+12  
+ Thu     
+12  
+ Thu     
+12  
+ Sun     
+12  
+ Tue     
+12  
+ Fri       
+12  
+ Sun     
+12  
+ Wed    
+12  
+ Sat      
+12  
+ Mon     
+12  
+ Thu     
+12  
+ Sat      
+
+13  
+ Tue     
+13  
+ Fri       
+13  
+ Fri       
+13  
+ Mon     
+13  
+ Wed    
+13  
+ Sat      
+13  
+ Mon     
+13  
+ Thu     
+13  
+ Sun     
+13  
+ Tue     
+13  
+ Fri       
+13  
+ Sun     
+
+14  
+ Wed    
+14  
+ Sat      
+14  
+ Sat      
+14  
+ Tue     
+14  
+ Thu     
+14  
+ Sun     
+14  
+ Tue     
+14  
+ Fri       
+14  
+ Mon     
+14  
+ Wed    
+14  
+ Sat      
+14  
+ Mon     
+
+15  
+ Thu     
+15  
+ Sun     
+15  
+ Sun     
+15  
+ Wed    
+15  
+ Fri       
+15  
+ Mon     
+15  
+ Wed    
+15  
+ Sat      
+15  
+ Tue     
+15  
+ Thu     
+15  
+ Sun     
+15  
+ Tue     
+
+16  
+ Fri       
+16  
+ Mon     
+16  
+ Mon     
+16  
+ Thu     
+16  
+ Sat      
+16  
+ Tue     
+16  
+ Thu     
+16  
+ Sun     
+16  
+ Wed    
+16  
+ Fri       
+16  
+ Mon     
+16  
+ Wed    
+
+17  
+ Sat      
+17  
+ Tue     
+17  
+ Tue     
+17  
+ Fri       
+17  
+ Sun     
+17  
+ Wed    
+17  
+ Fri       
+17  
+ Mon     
+17  
+ Thu     
+17  
+ Sat      
+17  
+ Tue     
+17  
+ Thu     
+
+18  
+ Sun     
+18  
+ Wed    
+18  
+ Wed    
+18  
+ Sat      
+18  
+ Mon     
+18  
+ Thu     
+18  
+ Sat      
+18  
+ Tue     
+18  
+ Fri       
+18  
+ Sun     
+18  
+ Wed    
+18  
+ Fri       
+
+19  
+ Mon     
+19  
+ Thu     
+19  
+ Thu     
+19  
+ Sun     
+19  
+ Tue     
+19  
+ Fri       
+19  
+ Sun     
+19  
+ Wed    
+19  
+ Sat      
+19  
+ Mon     
+19  
+ Thu     
+19  
+ Sat      
+
+20  
+ Tue     
+20  
+ Fri       
+20  
+ Fri       
+20  
+ Mon     
+20  
+ Wed    
+20  
+ Sat      
+20  
+ Mon     
+20  
+ Thu     
+20  
+ Sun     
+20  
+ Tue     
+20  
+ Fri       
+20  
+ Sun     
+
+21  
+ Wed    
+21  
+ Sat      
+21  
+ Sat      
+21  
+ Tue     
+21  
+ Thu     
+21  
+ Sun     
+21  
+ Tue     
+21  
+ Fri       
+21  
+ Mon     
+21  
+ Wed    
+21  
+ Sat      
+21  
+ Mon     
+
+22  
+ Thu     
+22  
+ Sun     
+22  
+ Sun     
+22  
+ Wed    
+22  
+ Fri       
+22  
+ Mon     
+22  
+ Wed    
+22  
+ Sat      
+22  
+ Tue     
+22  
+ Thu     
+22  
+ Sun     
+22  
+ Tue     
+
+23  
+ Fri       
+23  
+ Mon     
+23  
+ Mon     
+23  
+ Thu     
+23  
+ Sat      
+23  
+ Tue     
+23  
+ Thu     
+23  
+ Sun     
+23  
+ Wed    
+23  
+ Fri       
+23  
+ Mon     
+23  
+ Wed    
+
+24  
+ Sat      
+24  
+ Tue     
+24  
+ Tue     
+24  
+ Fri       
+24  
+ Sun     
+24  
+ Wed    
+24  
+ Fri       
+24  
+ Mon     
+24  
+ Thu     
+24  
+ Sat      
+24  
+ Tue     
+24  
+ Thu     
+
+25  
+ Sun     
+25  
+ Wed    
+25  
+ Wed    
+25  
+ Sat      
+25  
+ Mon     
+25  
+ Thu     
+25  
+ Sat      
+25  
+ Tue     
+25  
+ Fri       
+25  
+ Sun     
+25  
+ Wed    
+25  
+ Fri       
+
+26  
+ Mon     
+26  
+ Thu     
+26  
+ Thu     
+26  
+ Sun     
+26  
+ Tue     
+26  
+ Fri       
+26  
+ Sun     
+26  
+ Wed    
+26  
+ Sat      
+26  
+ Mon     
+26  
+ Thu     
+26  
+ Sat      
+
+27  
+ Tue     
+27  
+ Fri       
+27  
+ Fri       
+27  
+ Mon     
+27  
+ Wed    
+27  
+ Sat      
+27  
+ Mon     
+27  
+ Thu     
+27  
+ Sun     
+27  
+ Tue     
+27  
+ Fri       
+27  
+ Sun     
+
+28  
+ Wed    
+28  
+ Sat      
+28  
+ Sat      
+28  
+ Tue     
+28  
+ Thu     
+28  
+ Sun     
+28  
+ Tue     
+28  
+ Fri       
+28  
+ Mon     
+28  
+ Wed    
+28  
+ Sat      
+28  
+ Mon     
+
+29  
+ Thu     
+29  
+ Sun     
+29  
+ Wed    
+29  
+ Fri       
+29  
+ Mon     
+29  
+ Wed    
+29  
+ Sat      
+29  
+ Tue     
+29  
+ Thu     
+29  
+ Sun     
+29  
+ Tue     
+
+30  
+ Fri       
+30  
+ Mon     
+30  
+ Thu     
+30  
+ Sat      
+30  
+ Tue     
+30  
+ Thu     
+30  
+ Sun     
+30  
+ Wed    
+30  
+ Fri       
+30  
+ Mon     
+30  
+ Wed    
+
+31  
+ Sat      
+31  
+ Tue     
+31  
+ Sun     
+31  
+ Fri       
+31  
+ Mon     
+31  
+ Sat      
+31  
+ Thu     
+
+Annex 3
+
+ 2009/DII/e/8
+
+

@@ -1,0 +1,3319 @@
+[
+    {
+        "Question": {
+            "heading": "A communication pursuant to Article 94(3) EPC is dated 7 December 2022. In the communication, a time limit of four months is set for replying to objections raised by the examining division. Which of the following statements is not correct?",
+            "Options": [
+                "The communication is deemed to be delivered on 17 December 2022",
+                "The time limit for replying to the communication expires on 17 April 2023",
+                "Further processing for replying to the communication can be validly requested on 19 June 2023 at the latest",
+                "An extension of the time limit for filing the reply can be validly requested on 14 April 2023"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "The question was which of the following statements is not correct. Statements A, B, D are correct. Statement C is not correct because further processing can be requested later than 19 June 2023, namely within two months of a loss-of-right communication.",
+        "Legal basis": "Rule 126(2) EPC: Where notification is effected by registered letter, the letter shall be deemed to be delivered to the addressee on the tenth day following its handover to the postal service provider unless it has failed to reach the addressee or has reached him at a later date. Rule 135(1) EPC: Further processing under Article 121, paragraph 1, shall be requested by payment of the prescribed fee within two months of the communication concerning either the failure to observe a time limit or a loss of rights. The omitted act shall be completed within the period for making the request. Rule 132(2) EPC: In special cases, the period may be extended upon request, presented before the expiry of such period."
+    },
+    {
+        "Question": {
+            "heading": "You filed a European patent application which discloses a new amino acid sequence. This sequence is however only used in a single example and is not part of the claims. No sequence listing was filed. Which of the following statements is correct?",
+            "Options": [
+                "If you are invited by the EPO to file a sequence listing, you need to file it and pay a late furnishing fee to the EPO",
+                "If you are invited by the EPO to file a sequence listing and do not react to this invitation in due time, the application is deemed to be withdrawn",
+                "If you are invited by the EPO to file a sequence listing, you need to file it in PDF format",
+                "You do not need to file any sequence listing because the amino acid sequence is not claimed"
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": "Rule 30(3) EPC: Where the applicant has not filed a sequence listing complying with the requirements under paragraph 1 at the date of filing, the European Patent Office shall invite the applicant to furnish such a sequence listing and pay the late furnishing fee. If the applicant does not furnish the required sequence listing and pay the required late furnishing fee within a period of two months after such an invitation, the application shall be refused. Decision of the President of the EPO dated 9 December 2021 on the filing of sequence listings, Article 1(1): If nucleotide or amino acid sequences are disclosed in a European patent application, the description must contain a sequence listing in XML format complying with WIPO Standard ST.26."
+    },
+    {
+        "Question": {
+            "heading": "During the examination proceedings, the applicant notes that claim 1 contains a typographical error. What is the last point in time for requesting correction of the error under Rule 139 EPC?",
+            "Options": [
+                "One day before the decision to grant a European patent is handed over to the EPO postal service",
+                "Date of publication of the mention of the grant of the European patent",
+                "Date of notification of the decision to grant",
+                "Date of the communication under Rule 71(3) EPC"
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": "Board of Appeal decision G12/91. Guidelines for Examination in the EPO, H-VI, 2.1: The decision-making process is terminated on the date of handing over of the decision to grant to the EPO's postal service."
+    },
+    {
+        "Question": {
+            "heading": "Antonia, an applicant living in Argentina and having Argentinian nationality, intends to file a European patent application EP-A and an international patent application PCT-A. Which of the following statements is correct?",
+            "Options": [
+                "Antonia can validly file PCT-A with the International Bureau of WIPO",
+                "Antonia can validly file PCT-A with the EPO",
+                "Antonia can validly file EP-A with the EPO",
+                "None of the above"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Article 58 EPC: A European patent application may be filed by any natural or legal person, or anybody equivalent to a legal person by virtue of the law governing it. States party to the PCT and the Paris Convention and members of the World Trade Organization (wipo.int): Argentina is not a PCT contracting state."
+    },
+    {
+        "Question": {
+            "heading": "Applicant X filed European patent application EP-X on 23 August 2019 as a first filing. The applicant filed application EP-Y as a divisional application of EP-X on 26 September 2022. Please consider the following statements: I. The renewal fee for the fourth year for EP-X was due on 31 August 2022; the renewal fees for the third and fourth years for EP-Y were due on 26 September 2022. II. The renewal fee for the fourth year for EP-X can be validly paid on 28 February 2023 together with the necessary additional fee; the renewal fees for the third and fourth years for EP-Y can be validly paid without additional fee up to 31 January 2023.",
+            "Options": [
+                "Only statement I is correct",
+                "Only statement II is correct",
+                "Both statements I and II are correct",
+                "Both statements I and II are incorrect"
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": "Rule 51(1) EPC: A renewal fee for the coming year is due on the last day of the month containing the anniversary of the date of filing, i.e. on 31 August 2022. Rule 51(2) EPC: If a renewal fee is not paid on the due date under paragraph 1, the fee may still be paid within six months of the said date, i.e. on 28 February 2023, provided that an additional fee is also paid within that period. Rule 51(3) EPC: Renewal fees already due for an earlier application at the date of filing a divisional application are due on its filing, i.e. on 26 September 2022. These fees and any renewal fee due within four months of filing the divisional application may be paid within that period without an additional fee, i.e. until 26 January 2023."
+    },
+    {
+        "Question": {
+            "heading": "The European Patent Office as receiving Office for an international patent application invites the applicant to provide a missing abstract within a period of two months. The invitation is dated 2 December 2022 and is received by the applicant on 12 December 2022. The date of receipt stamped on the communication by the mail service provides evidence of the receipt date. What is the final date for responding to the invitation?",
+            "Options": [
+                "2 February 2023",
+                "13 February 2023",
+                "5 February 2023",
+                "6 February 2023"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Rule 80.6 PCT: […] Irrespective of the date on which such a document or letter was mailed, if the applicant offers to the national Office or intergovernmental organization evidence which satisfies the national Office or intergovernmental organization that the document or letter was received more than seven days after the date it bears, the national Office or intergovernmental organization shall treat the period starting from the date of the document or letter as expiring later by an additional number of days which is equal to the number of days which the document or letter was received later than seven days after the date it bears. Rule 80.5(i) PCT: If the expiration of any period during which any document or fee must reach a national Office or intergovernmental organization falls on a day […] on which such Office or organization is not open to the public for the purposes of the transaction of official business […] the period shall expire on the next subsequent day on which [no such circumstance] exists."
+    },
+    {
+        "Question": {
+            "heading": "An international patent application was filed on 17 February 2022 claiming priority from a European patent application filed on 17 February 2021. The international search report together with the written opinion was transmitted to the applicant on 10 June 2022. What is the last day for filing a demand for international preliminary examination?",
+            "Options": [
+                "17 December 2022",
+                "19 December 2022",
+                "10 September 2022",
+                "12 September 2022"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Rule 54bis(a) PCT: A demand may be made at any time prior to the expiration of whichever of the following periods expires later: (i) three months from the date of transmittal to the applicant of the international search report or the declaration referred to in Article 17(2)(a), and of the written opinion established under Rule 43bis.1 [i.e. 10 September 2022 (Sunday), extended to 12 September 2022]; or (ii) 22 months from the priority date [i.e. 17 December 2022 (Saturday), extended to 19 December 2022]. Rule 80.5(i) PCT: If the expiration of any period during which any document or fee must reach a national Office or intergovernmental organization falls on a day […] on which such Office or organization is not open to the public for the purposes of the transaction of official business[, the time limit is extended to next open day]."
+    },
+    {
+        "Question": {
+            "heading": "A professional representative acts as agent for the following actions: I. Withdrawing an international patent application at the European Patent Office as receiving Office. II. Filing a demand for international preliminary examination for an international patent application at the European Patent Office as International Preliminary Examining Authority. Which of the following statements is correct?",
+            "Options": [
+                "For both I and II a power of attorney signed by each applicant is always required",
+                "For I a power of attorney signed by each applicant is always required",
+                "For II a power of attorney signed by each applicant is always required",
+                "For both I and II the requirement to submit a power of attorney signed by each applicant may be waived"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Rule 90.4(b) PCT: [A] separate power of attorney shall be submitted to either the receiving Office or the International Bureau, provided that, where a power of attorney appoints an agent under Rule 90.1(b), (b-bis), (c) or (d)(ii), it shall be submitted to the International Searching Authority, the Authority specified for supplementary search or the International Preliminary Examining Authority, as the case may be. Rule 90.4(d) PCT: [Any] receiving Office, any International Searching Authority, any Authority competent to carry out supplementary searches, any International Preliminary Examining Authority and the International Bureau may waive the requirement under paragraph (b) that a separate power of attorney be submitted to it […]. Rule 90.4(e) PCT: Where the agent or the common representative submits any notice of withdrawal […], the requirement under paragraph (b) for a separate power of attorney shall not be waived under paragraph (d)."
+    },
+    {
+        "Question": {
+            "heading": "Which of the following steps is not a minimum requirement for entry into the European phase?",
+            "Options": [
+                "Supplying a translation if the Euro-PCT application was not published in one of the EPO's official languages",
+                "Specifying the application documents on which the European grant procedure is to be based",
+                "Filing the designation of the inventor",
+                "Paying the search fee if a supplementary European search report is to be drawn up"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Rule 159(1) EPC: In respect of an international application under Article 153, the applicant shall perform the following acts within thirty-one months from the date of filing of the application or, if priority has been claimed, from the priority date: (a) supply, where applicable, the translation of the international application required under Article 153, paragraph 4; (b) specify the application documents, as originally filed or as amended, on which the European grant procedure is to be based; (c) pay the filing fee provided for in Article 78, paragraph 2; (d) pay the designation fee if the period under Rule 39 has expired earlier; (e) pay the search fee, where a supplementary European search report has to be drawn up; (f) file the request for examination provided for in Article 94, if the period under Rule 70, paragraph 1, has expired earlier; (g) pay the renewal fee in respect of the third year provided for in Article 86, paragraph 1, if the fee has fallen due earlier under Rule 51, paragraph 1; (h) file, where applicable, the certificate of exhibition referred to in Article 55, paragraph 2, and Rule 25."
+    },
+    {
+        "Question": {
+            "heading": "A British company buys a French firm with an IP portfolio which includes an international application that claims priority of a British national application. The international application is in French. The British company wants to pursue the invention as a European patent application. However, they would prefer that the language of the European proceedings be English. Which of the following statements is correct?",
+            "Options": [
+                "Upon entry into the European phase before the EPO, the applicant can file a translation into English and English will become the language of the proceedings",
+                "The applicant can enter the European phase with the application in French and then validly file a European divisional application in English",
+                "The applicant can select English as the language of the proceedings in the request form for entry into the European phase (EPO Form 1200) and English will become the language of the proceedings",
+                "None of the above"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "G 4/08 of the Enlarged Board of Appeal: If an international patent application has been filed and published under the PCT in an official language of the EPO, it is not possible, on entry into the European phase, to file a translation of the application into another EPO official language. Article 14(1) EPC, Article 14(3) EPC (language of proceedings). Rule 36(2) EPC: A divisional application shall be filed in the language of the proceedings of the earlier application. Euro-PCT Guide, Chapter 5, points 5.1.013 and 5.1.014."
+    },
+    {
+        "Question": {
+            "heading": "Your client filed an international patent application in 2021. In which of the following countries can they (directly) enter the national phase?",
+            "Options": [
+                "Lithuania",
+                "France",
+                "Italy",
+                "None of the above"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "PCT contracting states for which a regional patent can be obtained via the PCT (wipo.int): A national patent can be obtained for Italy in respect of international applications filed on or after 1 July 2020. Only a European patent can be obtained for France and Lithuania."
+    },
+    {
+        "Question": {
+            "heading": "International patent application PCT-1 was filed on 6 May 2021 without claiming priority. The application consists of 21 pages, including 17 claims. The international search was carried out by the EPO acting as ISA, and the international application was published together with the international search report after 18 months. On 12 December 2022, early entry into the European phase is requested. Which minimum requirement(s) must be fulfilled to validly effect early entry into the European phase according to Article 23(2) PCT?",
+            "Options": [
+                "Payment of the filing fee",
+                "Payment of the filing fee and claims fees",
+                "Payment of the filing fee, the claims fees, the examination fee, the designation fee and the renewal fee for the third year",
+                "Payment of the filing fee, the designation fee and the examination fee"
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": "Notice from the EPO dated 21 February 2013 concerning the request for early processing, OJ EPO 3/2013, 156 ff. It depends on the date on which early processing is requested which further requirements stipulated in Rule 159(1) EPC must be complied with, since the (regular) time limits for paying the designation fee (Rule 39(1) EPC) and the renewal fee (Rule 51(1) EPC) and for filing the request for examination and paying the examination fee (Rule 70(1) EPC) may not have expired on the date the request for early processing is filed. Therefore, if any of these time limits is still running on that date, the request will be effective without the requirements concerned having been complied with (Article 153(2) EPC, Article 11(3) PCT). Claims fees can be paid up to expiry of the period under Rule 162(2) EPC. In the present case, the (regular) time limits for paying the designation, examination and renewal fees are still running."
+    },
+    {
+        "Question": {
+            "heading": "What is the last point in time for an effective withdrawal of a European patent application?",
+            "Options": [
+                "Date of receipt of the communication under Rule 71(3) EPC",
+                "The latest of the date of payment of the fee for grant and publishing and the date of filing of the translations of the claims in the two other official languages of the EPO",
+                "Date of publication of the mention of the grant in the European Patent Bulletin",
+                "One day before the date of publication of the mention of the grant in the European Patent Bulletin"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Guidelines for Examination in the EPO, E-VIII, 8.1, A-IV, 1.1.1: Applicants may withdraw their application at any time as long as the application is pending. An application is pending up to (but not including) the date that the European Patent Bulletin mentions the grant of the patent (OJ EPO 2002, 112)."
+    },
+    {
+        "Question": {
+            "heading": "A communication pursuant to Rule 71(3) EPC was issued for a European patent application. The applicant fulfilled all the necessary requirements. The related decision to grant a European patent was dispatched based on the text intended for grant transmitted to the applicant with the communication under Rule 71(3) EPC. The mention of the grant of the European patent was published in the European Patent Bulletin. During the preparation of the publication of the patent specification, an error occurred in that page 2 of the description was omitted from the published specification of this European patent. Which of the following statements is correct?",
+            "Options": [
+                "This error in the published specification of this European patent may never be corrected",
+                "This error in the published specification of this European patent may be corrected at any time",
+                "This error in the published specification of this European patent may not be corrected during the opposition period or if opposition proceedings are pending",
+                "The error may only be corrected if opposition proceedings are pending"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Guidelines for Examination in the EPO, H-VI, 6, C-V, 10: Errors in publication occur where the content of the printed specification differs from the documents (Druckexemplar) transmitted to the applicant with the communication under Rule 71(3) (Form 2004), if these documents form the basis of the decision to grant. The above errors in publication can be corrected at any time."
+    },
+    {
+        "Question": {
+            "heading": "On 27 October 2022 you filed European patent application EP-A claiming priority from FR-A filed on 29 October 2021. Your intention was that both applications would have the same content. On 3 November 2022, however, you noticed that page 3 of the description and claims 7-12 are missing in EP-A. The fees have not been paid yet. Which statement is correct?",
+            "Options": [
+                "If the EPO notes that page 3 of the description and claims 7-12 are missing, it will invite you to file these missing parts within a time limit of two months",
+                "You may of your own volition file page 3 of the description at any time up to 2 January 2023 without the application being re-dated",
+                "If the subject-matter of claims 7-12 is also present in the description, you may add claims 7-12 at any time",
+                "The best solution is to withdraw EP-A and refile it, claiming priority from FR-A"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Rule 56(1) EPC: If the examination under Article 90, paragraph 1, reveals that parts of the description, or drawings referred to in the description or in the claims, appear to be missing, the European Patent Office shall invite the applicant to file the missing parts within two months. Rule 56(3) EPC: If the missing parts of the description or missing drawings are filed […] and the application claims priority of an earlier application, the date of filing shall, provided that the missing parts of the description or the missing drawings are completely contained in the earlier application, remain the date on which the requirements laid down in Rule 40, paragraph 1, were fulfilled, where the applicant so requests and files, […]. Rule 137(1) EPC: Before receiving the European search report, the applicant may not amend the description, claims or drawings of a European patent application unless otherwise provided."
+    },
+
+    {
+        "Question": {
+            "heading": "A European patent was granted to a German company on 4 January 2023. No opposition was filed. Mr Li and Ms Smith were designated as inventors. On 12 October 2023, the patent proprietor notices that Ms Smith was erroneously designated as inventor and that Mr Li is the sole inventor.",
+            "Options": [
+                "Ms Smith will be deleted as inventor if the patent proprietor requests this in writing.",
+                "Ms Smith can no longer be deleted as inventor because no proceedings are pending before the EPO.",
+                "The patent proprietor can request that Ms Smith be deleted as inventor but needs Mr Li's consent for this.",
+                "Ms Smith can only be deleted as inventor with her consent."
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "An incorrect designation of inventor shall be rectified upon request and only with the consent of the wrongly designated person and, where such a request is filed by a third party, the consent of the applicant for or proprietor of the patent (R. 21(1) EPC)."
+    },
+    {
+        "Question": {
+            "heading": "On 10 October 2021, European patent attorney X filed European patent application EP-A with the EPO on the applicant's behalf. Application EP-A was published on 12 April 2023, together with the extended European search report. On 6 October 2023, the applicant contacts a new European patent attorney Y to replace X as representative and issues Y with its instructions to reply to the extended European search report. The applicant did not inform X that he would be replaced.",
+            "Options": [
+                "New representative Y requests a change of representative, files a response to the extended European search report with the EPO by 12 October 2023 at the latest and files in good time an authorisation signed by the applicant.",
+                "New representative Y requests a change of representative and files a response to the extended European search report with the EPO by 12 October 2023 at the latest.",
+                "New representative Y requests a change of representative and files a response to the extended European search report with the EPO by 23 October 2023 at the latest.",
+                "New representative Y requests a change of representative, files a response to the extended European search report with the EPO by 23 October 2023 at the latest and files in good time an authorisation signed by the applicant."
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": "Representative X is a representative according to article 134.1 EPC and is already registered as representative for the European patent application EP-A, so any registration of change in representation by a new European patent attorney necessitates an authorization for representation signed by the applicant to be validly registered by the EPO. According to rule 152(1) EPC, The President of the European Patent Office shall determine the cases in which a signed authorization shall be filed by representatives acting before the European Patent Office. In decision of the President of the EPO of 12.07.2007 on the filing of authorizations (Special edition No. 3, OJ EPO 2007, L.1), (2) If the European Patent Office is informed of a change of representative involving professional representatives who are not members of the same association, without being notified that the previous representative's authorization has terminated, the new representative must file, together with the notification of his appointment, an individual authorization (original and one copy) or a reference to a general authorization already on file. If an authorization for representation is not provided, any acts done by the “new” representative will be deemed to never have occurred by the EPO. R 152(6) Representative Y shall file a change in representation with form 5060 to register before the EPO as the new representative, an authorization of representation signed by the applicant for the change in representation to be valid and a response to the written opinion before the EPO before: Time limit to respond to the negative search opinion: publication date of the EESR: 12 April 2023 + 6 months (R 70a(1) + R 70(1) EPC) = 12 October 2023 (Tuesday)."
+    },
+    {
+        "Question": {
+            "heading": "EP-1 is a regular European patent application (Euro-direct application). Which one of the following missed time limits can be remedied for EP-1 before the EPO by requesting re-establishment of rights?",
+            "Options": [
+                "Time limit for paying the designation fee",
+                "Time limit for requesting examination",
+                "Time limit for filing the application within the priority period",
+                "Time limit for paying the fee for re-establishment of rights"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "According to Art. 122 EPC and Rule 136(1) EPC it is possible to obtain re-establishment of rights in respect of the priority period (twelve months according to Art. 87(1) EPC). A: Rule 136(3) EPC: Further processing is available B: Rule 136(3) EPC: Further processing is available D: Article 122(4) EPC Re-establishment of rights shall be ruled out in respect of the time limit for requesting re-establishment of rights."
+    },
+    {
+        "Question": {
+            "heading": "Last week Greta validly filed the international patent application PCT-G with the German Patent and Trademark Office (DPMA) and appointed Hassan to represent her. Hassan is entitled to act before the DPMA but he is not a European patent attorney. Greta and Hassan are resident in Germany. Which of the following statements is not correct?",
+            "Options": [
+                "Hassan can represent Greta before the EPO acting as the International Searching Authority for PCT-G.",
+                "In order for Hassan to be able to act before the EPO acting as the International Searching Authority, he needs to submit a power of attorney signed by Greta.",
+                "According to the provisions of the PCT, it is mandatory that the demand for international preliminary examination is signed by Greta or Hassan.",
+                "According to the provisions of the PCT, an international application can only be withdrawn by the applicant or an agent appointed by a power of attorney."
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Rule 90.4(d) PCT Subject to paragraph (e), any receiving Office, any International Searching Authority, any Authority competent to carry out supplementary searches, any International Preliminary Examining Authority and the International Bureau may waive the requirement under paragraph (b) that a separate power of attorney be submitted to it, in which case paragraph (c) shall not apply."
+    },
+    {
+        "Question": {
+            "heading": "In which of the following cases is the applicant entitled to a reduction of the filing fee under Rule 6 EPC? A declaration of such entitlement has been made by crossing the relevant box on Form 1001.",
+            "Options": [
+                "A Spanish European patent attorney files a European patent application in Spanish for a natural person who is resident in Andorra and of Andorran nationality.",
+                "A firm whose principal place of business is in Germany and a natural person who is resident in Germany and of Dutch nationality jointly file a European patent application in Dutch. The German firm employs 200 people with an annual turnover of EUR 60 million.",
+                "A natural person resident in the USA and of Belgian nationality files a European patent application in French.",
+                "A natural person resident in the USA and of Swiss nationality files a European patent application in Italian."
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Art. 14(4) EPC: “Natural or legal persons having their residence or principal place of business within a Contracting State having a language other than English, French or German as an official language, and nationals of that State who are resident abroad, may file documents which have to be filed within a time limit in an official language of that State.” Article 14(1) RFees: 30% reduction of the application fee; Rule 6 RFees A-X, 9.2.1; A-X, 9.2.2 A-X, 9.2.1 Conditions - Guidelines for Examination (epo.org) A-X, 9.2.2 Reduction of the filing fee - Guidelines for Examination (epo.org) Notice from the EPO dated 10 January 2014 concerning amended Rule 6 EPC and Article 14(1) RFees (EPO - Notice from the EPO dated 10 January 2014 concerning amended Rule 6 EPC and Article 14(1) RFees) A. Not correct (Andorra is not an EPC contracting state); Art. 14(4) EPC relates to the applicant and not to his representative) B. Not correct (the German company is not considered as SME – R. 6(4)a, R. 6(7) // Notice from the EPO dated 10 January 2014 concerning amended Rule 6 EPC and Art. 14(1) RFEES) C. Not correct (French is an official language of the EPO Art. 14(1) EPC) D. Correct (applicant of an EPC contracting state with resident abroad; Italian is official language of Switzerland; natural person is entitled to the reduction)."
+    },
+    {
+        "Question": {
+            "heading": "Mr Van Holland is a Dutch citizen resident in the Netherlands. He filed a European patent application EP-parent in Dutch, together with a translation into English. While EP-parent was pending, Mr Van Holland filed a divisional application EP-div in Dutch and requested examination in Dutch. He paid all fees due for EP-div. He has not filed an English translation of EP-div. The Receiving Section has now issued a noting of loss of rights.",
+            "Options": [
+                "The deficiency cannot be remedied.",
+                "Mr Van Holland can remedy the deficiency by filing an English translation of EP-div within two months of notification of the communication under Rule 112(1) EPC.",
+                "Mr Van Holland needs to file an English translation of EP-div together with a request for further processing.",
+                "Mr Van Holland needs to file an English translation of EP-div together with a request for re-establishment of rights."
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "R36(2), R135(2) EPC The English translation of the application documents must be filed within 2 months of filing the DA. If the English translation is not filed: The EPO will issue a communication pursuant to Rule 58 EPC setting a time limit of further 2 months for filing the translation. If the English translation is not filed within the time limit set by the communication pursuant Rule 58 EPC: a loss of rights communication is issued: further processing is ruled out for the missing 2-month time limit of Rule 58 EPC -> re-establishment of rights."
+    },
+    {
+        "Question": {
+            "heading": "On 16 November 2020, you filed a European patent application EP-A, which did not claim priority. Today, 12 October 2023, you receive a communication from the EPO entitled 'Decision to grant a European patent pursuant to Article 97(1) EPC'. This communication states that the mention of the grant will be published in the European Patent Bulletin on 9 November 2023. You wish to validate the patent in only two contracting states to the EPC.",
+            "Options": [
+                "The renewal fee for the fourth year must be paid centrally to the EPO. The due date is 16 November 2023.",
+                "The renewal fee for the fourth year must be paid centrally to the EPO. The due date is 30 November 2023.",
+                "The renewal fee for the fourth year must be paid separately in each state where the patent is validated. The renewal fee for the fourth year can be validly paid without any additional fee until 9 January 2024 at the latest.",
+                "The renewal fee for the fourth year must be paid separately in each state where the patent is validated. The renewal fee for the fourth year can be validly paid without any additional fee until 16 January 2024 at the latest."
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Art 86 EPC, Rule 51 EPC, Art 141 EPC Due date of the renewal fee: 30 November 2023 = after grant of the patent -> renewal fee must be paid to the national offices. Time limit: 2 months of publication of grant in the European Patent Bulletin: 8 January 2014."
+    },
+    {
+        "Question": {
+            "heading": "During oral proceedings, the opposition division decided to maintain the patent in amended form on the basis of a request in which the description contains a paragraph with handwritten amendments.",
+            "Options": [
+                "Upon request the patent proprietor must pay the fee for publishing a new specification, file translations of the claims and file a formally compliant version of the entire description.",
+                "If a party files an appeal, the patent proprietor will not be invited to pay the fee for publishing a new specification, file translations of the claims or file a formally compliant version of the amended paragraph while the appeal proceedings are still pending.",
+                "Together with the interlocutory decision, the patent proprietor will receive an invitation to pay the fee for publishing a new specification, file translations of the claims and file a formally compliant version of the amended paragraph.",
+                "If no appeal is filed, the patent proprietor must, upon request, pay the fee for publishing a new specification, file translations of the claims and file a typed version of the amended paragraph within four months."
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Guidelines D-VI, 7.2.3 A: incorrect because of the entire description B: correct C: incorrect; the invitation is not issued together with the interlocutory decision, but after the interlocutory decision has become final and can no longer be appealed D: incorrect: 3 months is correct Rule 82(2) EPC."
+    },
+    {
+        "Question": {
+            "heading": "Under the PCT, what is the time limit for filing a request for rectification of an obvious mistake made in the international application?",
+            "Options": [
+                "18 months from the earliest priority date",
+                "30 months from the earliest priority date",
+                "22 months from the earliest priority date",
+                "26 months from the earliest priority date"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "R 91.2 PCT: the time limit for filing a request for rectification of an obvious mistake is 26 months from the earliest priority date."
+    },
+    {
+        "Question": {
+            "heading": "A Japanese applicant filed an international application PCT-X in Japanese with the Japanese Patent Office (JPO) on 8 February 2022, claiming priority from an earlier national Japanese application filed on 19 February 2021, and indicating the JPO as ISA. The international publication comprises 34 pages, including 22 claims. No amendments under Article 19 PCT or Article 34 PCT were filed during the international phase. Today, 12 October 2023, the applicant received a noting of loss of rights. An excerpt from that communication is shown below.",
+            "Options": [
+                "Payment of three fees for further processing (EUR 290 each, code 122) and payment of five fees for further processing (late payment of a fee – 50% of the relevant fee)",
+                "Appointment of a professional representative, payment of claims fees, payment of three fees for further processing (EUR 290, code 122) and payment of five fees for further processing (late payment of a fee – 50% of the relevant fee)",
+                "Appointment of a professional representative, payment of two fees for further processing (EUR 290, code 122) and payment of four fees for further processing (late payment of a fee – 50% of the relevant fee)",
+                "Payment of two fees for further processing (EUR 290, code 122) and payment of four fees for further processing (late payment of a fee – 50% of the relevant fee)"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Art. 121(1) (2), Rule 135(1) and (3) EPC, Art. 2(1), item 12 RFees Guidelines for Examination E-VIII, 2 (Further processing) and E-VIII, 3.1.3 E-IX, 2.3.1 (Representation, address for correspondence). Comment: A good paralegal will perform all acts of C, including the appointment of the representative. However, formally/grammatically D can also be considered as a correct answer to the question, because the appointment of the professional representative can be done later (if the translation is supplied and the fees are paid, but no professional representative has been appointed, the JP applicant may be invited to appoint a professional representative under R 163(5) EPC. The procedural acts of requesting examination and filing the translation could also be considered as unsigned documents, because the JP applicant is not entitled to sign. He might receive an invitation under R 50(3) EPC to supply a missing signature, which can be fulfilled by appointing a professional representative."
+    },
+    {
+        "Question": {
+            "heading": "After receipt of a negative written opinion issued by the EPO acting as ISA, amendments under Article 19 PCT were filed during the international phase. No request for international preliminary examination was filed. Form 1200 was used, and no further amendments were filed with the EPO upon entry into the regional phase.",
+            "Options": [
+                "Form 1226AA; if you do not reply to it in time, the application will be deemed to be withdrawn",
+                "Form 1226BB offering the opportunity to comment and file amendments",
+                "Form 1226CC offering the opportunity to file amendments before the supplementary European search report is drawn up",
+                "Form 1226AC stating that the examination has started"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Guide for applicants: PCT procedure before the EPO (Euro-PCT Guide) – 5.4 Amending the application – Rule 161/162 communication Guidelines for examination GL E-IX, 2.1.1 (2.1.1 Requirements for entry into the European phase (epo.org)) E-IX, 3.3.1 (https://www.epo.org/law-practice/legal-texts/html/guidelines/e/e_ix_3_3_1.htm). “A reply to the communication under Rule 161(1) may not be necessary … If the applicant filed amendments according to Art. 19 and/or 34 PCT in the international phase, and if the EPO prepared the WO-ISA or SISR but no IPER (either because the applicant did not demand PCT Chapter II or because the IPEA was an office other than the EPO), then these amendments are considered to constitute a response to the WO-ISA or SISR, provided that the applicant has indicated on entry into the European phase that these amendments are maintained…”"
+    },
+    {
+        "Question": {
+            "heading": "Company M, which has its principal place of business in Tijuana, Mexico, validly filed an international patent application PCT-M with the Mexican Institute of Industrial Property. The application was filed in Spanish. A few days later, the applicant files an English translation of the application.",
+            "Options": [
+                "The applicant can choose the EPO as ISA and the USPTO as IPEA.",
+                "The applicant can choose the USPTO as ISA and the EPO as IPEA.",
+                "The applicant can choose the Austrian Patent Office as ISA and the EPO as IPEA.",
+                "The applicant can choose the EPO as ISA and the Intellectual Property Office of Singapore as IPEA."
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Explanation: Applicant’s Guide – MX – Annex C – Receiving Office PCT Applicant's Guide Mexico - Valid as from 13 Apr 2023 (wipo.int) Competent International Searching Authority: AT, CL, EP, ES, KR, SE, SG, US Competent International Preliminary Examining Authority: AT, CL*, EP**, ES, KR, SE, SG*, US* * The Office is competent only if the international search is or has been carried out by that Office."
+    },
+    {
+        "Question": {
+            "heading": "On 20 June 2023, applicant P validly filed an international patent application PCT-P, claiming priority from European patent application EP-I filed on 7 July 2022. Today, 12 October 2023, he discovers that he should also have claimed priority from EP-II filed on 3 July 2022.",
+            "Options": [
+                "Yes, the time limit for adding the priority claim expires on 3 November 2023.",
+                "Yes, the time limit for adding the priority claim expires on 7 November 2023.",
+                "Yes, the time limit for adding the priority claim expires on 20 October 2023.",
+                "No, the time limit for adding the priority claim expired on 3 July 2023."
+            ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+            "heading": "The opposition division revoked European patent EP-B1. The patent proprietor filed an appeal in time. The board of appeal forwarded a copy of the appeal to the opponent/respondent with a communication dated 1 June 2023 giving it an opportunity to file comments within a period of four months. The opponent/respondent files comments today, 12 October 2023.",
+            "Options": [
+                "The opponent/respondent needs to request an extension of the period for comment.",
+                "The opponent/respondent needs to pay a fee for further processing.",
+                "The opponent/respondent needs to file a substantiated request for reestablishment of rights and pay the associated fee.",
+                "None of the above."
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+            "heading": "A European patent application was filed on 20 March 2020. Proceedings were interrupted under Rule 142 EPC on 10 March 2022. The applicant was informed that proceedings would be resumed today, 12 October 2023. No renewal fee has been paid so far.",
+            "Options": [
+                "As no renewal fees have been paid, the application is deemed to be withdrawn.",
+                "The renewal fees for the third and fourth years can be validly paid without any additional fee on 12 October 2023 at the latest.",
+                "The renewal fees for the third and fourth years can be validly paid with an additional fee by 30 April 2024 at the latest.",
+                "The renewal fees for the third and fourth years can be validly paid without any additional fee by 31 October 2023 at the latest."
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+        {
+        "Question": {
+            "heading": "An international application is published, together with the search report drawn up by the CNIPA, 18 months + 1 day after the filing date (no priority claimed). The application has no more than 35 pages and 15 claims. Which statement reflects all actions the CN applicant needs to take for entry into the EP phase 25 months after the filing date? A request for early processing has been filed.",
+            "Options": [
+                "A. Complete and file Form 1200 and pay the filing fee and the search fee",
+                "B. Complete and file Form 1200 and pay the filing fee, the search fee and the renewal fee for the third year",
+                "C. Complete and file Form 1200, pay the filing fee and the search fee and appoint a representative",
+                "D. None of the above statements"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Rule 159(1) EPC"
+    },
+    {
+        "Question": {
+            "heading": "A European patent application was filed on 6 February 2023. The search, filing and designation fees were paid within a month of the date of filing. What is the latest point in time for withdrawing the application, if the applicant wishes to obtain a refund of the designation fee?",
+            "Options": [
+                "A. Six months after the date of mention of the publication of the European search report",
+                "B. Date of mention of the publication of the European search report",
+                "C. The designation fee was validly paid and can no longer be refunded",
+                "D. Date of the start of substantive examination"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Guidelines for Examination in the EPO, A-X, 5.2.2"
+    },
+    {
+        "Question": {
+            "heading": "On 10 October 2024, an applicant files a request for entry into the European phase, together with a debit order, according to which the filing fee, the designation fee, the examination fee and the renewal fee for the third year are to be debited from the applicant’s deposit account. It is specified that the debit order is to be executed on 18 October 2024. On the evening of 10 October 2024, the applicant notices that the renewal fee is not yet due and should not be debited from the deposit account. What is the latest point in time for revoking the order to debit the renewal fee in Central Fee Payment (CFP)?",
+            "Options": [
+                "A. 10 October 2024",
+                "B. 17 October 2024",
+                "C. 18 October 2024",
+                "D. A debit order cannot be revoked in part"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "OJ EPO 2024, Supplementary Publication 2, Arrangements for deposit accounts (ADA), 13.2"
+    },
+    {
+        "Question": {
+            "heading": "The applicant received a communication pursuant to Article 90(3) EPC and Rule 60 EPC, requesting them to file a designation of inventor but missed the time limit for filing a response. After expiry of the time limit, the Receiving Section issued a decision to refuse the European patent application, dated 10 October 2024. What can the applicant do to remedy the situation?",
+            "Options": [
+                "A. File a notice of appeal against the decision within four months of notification of the decision",
+                "B. File a request for further processing within two months of notification of the decision",
+                "C. File, within two months of notification of the decision, a request for re-establishment of rights in respect of the time limit for filing the designation of inventor",
+                "D. A, B and C are correct"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Articles 106 and 108 EPC; Article 121(1) EPC; Guidelines for Examination in the EPO, E-VIII, 2"
+    },
+    {
+        "Question": {
+            "heading": "Which of the following statements about filing third-party observations is correct?",
+            "Options": [
+                "A. The person that filed third-party observations will be a party to the proceedings before the EPO, and the applicant is obliged to respond to third-party observations",
+                "B. Third-party observations must be filed in writing and may not be filed anonymously",
+                "C. Third-party observations are considered by the examining division only if they include a statement of the grounds on which they are based, and an official fee is paid",
+                "D. Third-party observations can be filed after the publication of a European patent application and must be filed in an official language of the EPO"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Article 115 EPC, Rule 114 EPC; Guidelines for Examination in the EPO, E-VI.3"
+    },
+    {
+        "Question": {
+            "heading": "You filed an international patent application on 6 June 2024, claiming the priority of a European patent application filed on 7 July 2023. You received a communication dated 25 September 2024 from the EPO acting as International Searching Authority (ISA), stating that the requirement of unity of invention has not been complied with. The ISA identifies three inventions. You are invited to pay two additional search fees. Which of the following statements is correct?",
+            "Options": [
+                "A. You must pay two additional search fees by 25 October 2024",
+                "B. You do not need to file a response to the provisional opinion accompanying the partial search results",
+                "C. If you pay two additional search fees under protest, you must pay two protest fees within the time limit",
+                "D. If you do not pay any additional search fees within the time limit, the international patent application will be deemed to be withdrawn"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Rule 40 PCT"
+    },
+    {
+        "Question": {
+            "heading": "An international patent application filed with the EPO as receiving Office on 10 September 2024, claims the priority of a Luxembourg patent application filed on 11 October 2023. No certified copy of the Luxembourg patent application was filed at the time of filing of the international patent application. Which of the following actions can be taken to file a certified copy of the Luxembourg patent application for this international patent application?",
+            "Options": [
+                "A. Request the Luxembourg Intellectual Property Office to prepare and send a certified copy of the Luxembourg patent application to the EPO",
+                "B. Submit a valid DAS code (Digital Access Service) to the International Bureau to enable it to obtain a certified copy of the Luxembourg patent application",
+                "C. File an electronic certified copy of the Luxembourg patent application with the EPO",
+                "D. File a certified copy of the Luxembourg patent application with the International Bureau"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "PCT Applicant's Guide 5.070.; Guidelines for Examination in the EPO A-III, 6.7; PCT Applicant’s Guide LU-Luxembourg"
+    },
+    {
+        "Question": {
+            "heading": "Firm A owns a European patent, EP. Firm B filed an opposition against EP, requesting its revocation. Firm B argued that the subject-matter of the granted claims was not new in view of document D1. During the opposition proceedings, firm C filed observations under Art. 115 EPC, arguing that the subject-matter of the granted claims was not new in view of document D2. Firm A requested maintenance of the patent as granted, or maintenance in amended form, according to auxiliary request 1. Which of the following statements is correct?",
+            "Options": [
+                "A. At the end of the opposition proceedings, the opposition division decided to revoke the patent. Firm B is entitled to file an appeal against the opposition division's decision.",
+                "B. At the end of the opposition proceedings, the opposition division decided to maintain the patent in amended form according to firm A's auxiliary request 1. Firm A and firm B are entitled to file an appeal against the opposition division's decision.",
+                "C. At the end of the opposition proceedings, the opposition division decided to maintain the patent as granted. Firm C is entitled to file an appeal against the opposition division's decision.",
+                "D. During the opposition proceedings, firm B withdrew its opposition. At the end of the opposition proceedings, the opposition division decided to maintain the patent as granted. Firm B is entitled to file an appeal against the opposition division's decision."
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "Article 107 EPC"
+    },
+    {
+        "Question": {
+            "heading": "European patent application EP-X was filed on 1 October 2020, claiming the priority of a Belgian application filed on 16 October 2019. The mention of the grant of European patent EP-X was published on 2 October 2024. The proprietor filed a request for unitary effect and was informed by communication dated 10 October 2024, that unitary effect had been registered for EP-X-C0 on the same date. Which of the following statements is correct?",
+            "Options": [
+                "A. A renewal fee still has to be paid by 31 October 2024 in respect of the 5th year for EP-X",
+                "B. A renewal fee is due on 31 October 2024 in respect of the 5th year for EP-X-C0",
+                "C. A renewal fee is due on 31 October 2024 in respect of the 6th year for EP-X-C0",
+                "D. No renewal fee has to be paid on 31 October 2024"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Guidelines for Examination in the EPO, A-X, 5.2.4"
+    },
+    {
+        "Question": {
+            "heading": "A communication under Article 94(3) EPC, setting a four-month time limit for reply is dated 12 September 2024. The applicant receives the letter on 21 September 2024, as evidenced by the postal receipt signed by him. What is the last day for replying to the communication?",
+            "Options": [
+                "A. 13 January 2025",
+                "B. 12 January 2025",
+                "C. 22 January 2025",
+                "D. 14 January 2025"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Rule 126(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Which functionalities or services can be accessed directly from MyEPO Portfolio?",
+            "Options": [
+                "A. A shared area with examiners, European Patent Register, filing via the EPO’s online filing software eOLF",
+                "B. Mailbox, a shared area with examiners, replying to a communication under Article 94(3) EPC",
+                "C. Mailbox, patent search via publication server, a shared area with examiners",
+                "D. Filing via the EPO’s Online Filing 2.0, patent search via publication server, Mailbox"
+            ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": "https://www.epo.org/en/applying/myepo-services/interact"
+    },
+    {
+        "Question": {
+            "heading": "In which of the following situations does the EPO recommend using the EPO Contingency Upload Service?",
+            "Options": [
+                "A. When you submit documents after business hours",
+                "B. When the EPO filing systems are functioning correctly, but you encounter a technical issue at your end",
+                "C. When there is a system outage at the EPO that prevents document submission via the standard filing systems",
+                "D. When the EPO is closed due to an official holiday"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "OJ EPO 2023, A50, point 20; Contingency Upload Service | epo.org"
+    },
+    {
+        "Question": {
+            "heading": "Applicant Korhonen is a Finnish national resident in Finland. He filed a European patent application in Finnish and provided an English translation in time. In response to the extended European search report (EESR), Korhonen wishes to file amended claims together with a request for examination. Which of the following statements is correct?",
+            "Options": [
+                "A. Korhonen must file the amended claims in Finnish and must then provide a translation into English, in time",
+                "B. Korhonen is allowed to file the amended claims in Finnish if he then provides a translation into any official language of the EPO, in time",
+                "C. Korhonen is allowed to file the amended claims in Finnish if he then provides a translation into English, in time",
+                "D. Korhonen is not allowed to file the amended claims in Finnish"
+            ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": "Guidelines for Examination in the EPO, A-VII, 3.2; Rule 3(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Applicants may request processing of their international application under PCT Direct by filing a letter ('PCT Direct letter') containing informal comments, aimed at overcoming objections raised in the search opinion established by the EPO for the priority application. Which of the following statements is NOT correct?",
+            "Options": [
+                "A. PCT Direct is available if the priority application is a Belgian application filed in French, which has been searched and the international application is filed in French, using ePCT-Filing",
+                "B. PCT Direct is available if the priority application is an EP application filed in French, which has been searched and the international application is filed in English, using Online Filing 2.0",
+                "C. PCT Direct is available if the priority application is an international application filed with the EPO in English, which has been searched by the EPO and the subsequent international application is filed in English, using Online Filing 2.0",
+                "D. PCT Direct is available on condition that amended claims are filed with the PCT Direct letter, in a single PDF document"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "PCT-EPO Guidelines, B-IV, 1.2."
+    },
+    {
+        "Question": {
+            "heading": "Mr Linguist filed a European patent application in Dutch and used English as language of the proceedings. When requesting unitary effect on 10 October 2024, Mr Linguist must provide a translation of the specification. Mr Linguist would like to obtain immediate registration of the unitary effect. Which of the following statements is correct?",
+            "Options": [
+                "A. Mr Linguist must provide a translation of the specification into Dutch",
+                "B. Mr Linguist must provide a translation of the specification into an official language of any of the 18 states to which the unitary effect extends",
+                "C. Mr Linguist must provide a translation of the specification into an official language of any of the 24 states that have signed the UPCA",
+                "D. Mr Linguist may provide a translation of the specification into Spanish"
+            ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": "Article 6(1) Regulation (EU) No 1260/2012; Rule 6(2)(d) UPR; Unitary Patent Guide, para. 65"
+    },
+    {
+        "Question": {
+            "heading": "International application WO-X was filed at the EPO on 27 August 2024. No fees have been paid.",
+            "Options": [
+                "What fees are due on filing for WO-X?",
+                "What is the time limit for paying these fees?",
+                "What happens if these fees are not paid within the time limit, and what can you do about it?"
+            ]
+        },
+        "Answer": "Filing fee (including page fees), search fee, and transmittal fee.",
+        "Explanation": "These fees must be paid within one month of the date of receipt of the international application. If not paid, the applicant is invited to pay within one additional month, subject to a late payment fee (50% of the international filing fee, excluding page fees).",
+        "Legal basis": "Rule 16bis PCT."
+    },
+    {
+        "Question": {
+            "heading": "On 25 October 2019, the Spanish University Isabel II and Tomato Matters filed a European patent application.",
+            "Options": [
+                "What has to be done to obtain a Unitary Patent as soon as possible?",
+                "Is it possible to benefit from the compensation scheme?",
+                "What is the time limit for lodging an application to reverse a refusal for unitary effect, and to whom should it be addressed?"
+            ]
+        },
+        "Answer": "Request correction of applicant’s name, transfer application, declare requirements for fee reduction, pay reduced fees, file translations, request unitary effect post-grant.",
+        "Explanation": "Tomato Matters is not eligible for translation cost compensation as it is not an SME. The action must be filed at the UPC within three weeks of refusal.",
+        "Legal basis": "Rule 97.1 RoP UPC, Rule 85.2 RoP UPC."
+    },
+    {
+        "Question": {
+            "heading": "A European patent was granted in June 2023 with unitary effect and a statement concerning licences of right.",
+            "Options": [
+                "What translations must be filed to maintain existing patents?",
+                "Do any fees have to be paid?"
+            ]
+        },
+        "Answer": "No translation for UP. Translations for Spain (amended description and claims) and Croatia (claims).",
+        "Explanation": "Fee for publication in Spain and Croatia. 15% reduction in renewal fee due to licence of right statement.",
+        "Legal basis": "-"
+    },
+    {
+        "Question": {
+            "heading": "European application EP1 was filed online on 2 September 2024 without claiming priority.",
+            "Options": [
+                "Why is it still possible to claim priority?",
+                "How to correct an erroneous description and its effect on filing date?",
+                "What happens to priority claim if filing date changes?"
+            ]
+        },
+        "Answer": "Priority can still be claimed within 12 months; correction possible within 2 months, but filing date is re-dated.",
+        "Explanation": "If new filing date falls outside priority period, a request for re-establishment must be filed with reasons and a fee.",
+        "Legal basis": "Rule 56a EPC."
+    },
+    {
+        "Question": {
+            "heading": "Inventor Mr Tulip seeks cost estimation for European phase entry.",
+            "Options": [
+                "Which fees must be paid?",
+                "Which reductions are available?"
+            ]
+        },
+        "Answer": "Filing fee, claims fees, examination fee (multiple reductions), designation fee, third-year renewal fee (30% micro-entity reduction).",
+        "Explanation": "Examination fee gets sequential reductions (30% micro-entity, 30% Dutch-language filing, 75% due to EPO as IPEA).",
+        "Legal basis": "-"
+    },
+    {
+        "Question": {
+            "heading": "Third-party observations were filed; EPO sent a communication under Art. 94(3).",
+            "Options": [
+                "What should the applicant have done?",
+                "What to do for a second extension request?",
+                "How to remedy a loss of rights notification?"
+            ]
+        },
+        "Answer": "Request extension by providing reasons. If refused and rights are lost, response and fee for further processing must be filed by 14 October 2024.",
+        "Explanation": "The second request was refused; the application was deemed withdrawn. Remedy by responding and paying further processing fee.",
+        "Legal basis": "-"
+    },
+    {
+        "Question": {
+        "heading": "An applicant receives two communications from the EPO on 5 April 2022. Both communications are dated 31 March 2022. The first communication relates to the international application PCT-S and the second communication relates to European patent application EP-S.",
+        "Options": [
+            "If a period of one month is set for replying to the communication relating to PCT-S, that time limit will expire on 10 May 2022.",
+            "If a period of two months is set for replying to the communication relating to PCT-S, that time limit will expire on 7 June 2022.",
+            "The communication relating to EP-S will be deemed to have been notified on Sunday, 10 April 2022.",
+            "If a period of four months is set for replying to the communication relating to EP-S, that time limit will expire on 11 August 2022."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "An applicant resident in San Marino validly filed a European patent application last week. He appointed the professional representative before the EPO, Mr. A, to help him prosecute the application. Mr A started with the prosecution but due to personal problems he had to inform the EPO that he withdraws his representation. Mr A informed the EPO that Mr B, a professional representative from another association will take over.",
+        "Options": [
+            "The applicant needs to be represented by a professional representative before the EPO.",
+            "In order for Mr. A to validly represent the applicant, a signed authorisation had to be filed with the EPO.",
+            "Mr. B does not need to provide a signed authorisation.",
+            "The change of professional representative is not registered until an administrative fee for the registration has been paid."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "The EPO will refund:",
+        "Options": [
+            "The opposition fee in full if the opposition is withdrawn before the notice of opposition is communicated to the patent proprietor.",
+            "The examination fee at a rate of 75 % if the European patent application is withdrawn two weeks after receipt of the first communication pursuant to Article 94(3) EPC issued by the examining division.",
+            "The appeal fee in part if the appeal is withdrawn before the filing of the statement of grounds of appeal and before the period for filing that statement has expired.",
+            "The examination fee in full if the European patent application is withdrawn before the examining division has assumed responsibility for it."
+        ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "The decision to grant a European patent is dated 2 June 2022. It was handed over to the internal EPO postal service on 27 May 2022. The mention of the grant of the patent is published on 29 June 2022. What is the last day for validly filing a divisional application?",
+        "Options": [
+            "2 June 2022",
+            "28 June 2022",
+            "26 May 2022",
+            "29 June 2022"
+        ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "Mr. Mateo validly filed a first Italian patent application on 18 September 2021. He intends to claim priority of this first patent application in a later European patent application. Which answer is correct?",
+        "Options": [
+            "The last day for validly claiming priority is 18 September 2022.",
+            "If Mr. Mateo had filed an Italian utility model application instead of an Italian patent application, it would not have been possible to claim priority from the Italian utility model application.",
+            "Mr. Mateo can claim priority from the Italian patent application even if the Italian patent application is abandoned before filing of the European patent application.",
+            "The priority declaration had to be made at the latest on 18 November 2022."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "The European Patent Bulletin mentioned the publication of the European search report of the European patent application 'Display Device' on 11 May 2022. The European patent application has 20 claims. The opinion accompanying the European search report mentions several deficiencies in the mentioned European patent application. Which one of the actions below must be taken within the time limit set in the 'Communication pursuant to Rules 70(2) EPC and 70a(2) EPC and reference to Rule 39(1) EPC' to avoid the European patent application being deemed to be withdrawn?",
+        "Options": [
+            "payment of 5 claims fees",
+            "payment of the examination fee",
+            "payment of the extension fees",
+            "filing a substantive reply to the European search opinion"
+        ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "You filed a European patent application with the European Patent Office on 21 April 2022 and paid the search fee on 11 May 2022. Which of the following statement(s) is/are correct?",
+        "Options": [
+            "You will receive a Communication under Rule 64 EPC if the search division finds that your European patent application does not fulfill the requirement of unity of invention.",
+            "You will receive an invitation pursuant to Rule 62a(1) EPC if the search division finds that there are too many independent claims in your European patent application."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "On 27 August 2021, the German applicant Susanne validly filed the German patent application DE-S. On 21 June 2022, the German applicant Walter filed the European patent application EP-W claiming priority from DE-S. On 1 July 2022, Walter states in a letter to the EPO that he is entitled to claim priority from DE-S. Enclosed to the letter is a contract signed by Susanne and Walter on 15 June 2022. According to the contract, the priority right from DE-S is transferred from Susanne to Walter.",
+        "Options": [
+            "According to the provisions of the EPC, a declaration of priority must be made within fourteen months from the earliest priority date claimed.",
+            "The priority is not validly claimed because the evidence of the transfer of the priority right from DE-S was filed after the date of filing of EP-W.",
+            "One of the requirements for the validity of the priority right from DE-S is that the transfer of the priority right must have taken place before the date of filing of EP-W.",
+            "One of the requirements for the validity of the priority right from DE-S is that the transfer of the priority right must have taken place before the date of filing of DE-S."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "In a communication dated 7 December 2021 the examining division has informed the applicant of the text in which it intends to grant the European patent and invites the applicant to pay the fee for grant and publishing and to file a translation of the claims in the two official languages of the European Patent Office other than the language of the proceedings. By what date did the fee for grant and publishing have to be paid and the translations of the claims in the two other official languages have to be filed?",
+        "Options": [
+            "19 April 2022",
+            "17 April 2022",
+            "7 April 2022",
+            "18 April 2022"
+        ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "An international patent application was filed at the European Patent Office as Receiving Office. The claims of this international patent application may be amended in the international phase. Which of the following statements is correct?",
+        "Options": [
+            "The applicant is entitled to amend the claims under Art. 19 PCT; these amendments under Art. 19 PCT must be filed with the European Patent Office.",
+            "The applicant is entitled to amend the claims under Art. 34 PCT without filing a demand for international preliminary examination.",
+            "The applicant is entitled to amend the claims under Art. 19 PCT; these amendments under Art. 19 PCT must be filed with the International Bureau.",
+            "The applicant is entitled to amend the claims under Art. 34 PCT; these amendments under Art. 34 PCT can only be filed with the International Bureau."
+        ]
+        },
+        "Answer": "C",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "You have recently filed an international patent application with the International Bureau as Receiving Office. The applicant is a national and resident of Switzerland. Today, you request the addition of a second applicant under PCT Rule 92bis. This co-applicant resides in Switzerland but is a national of the US. Is it possible at this stage to have the USPTO carry out the international search?",
+        "Options": [
+            "Yes, but only if the international search has not started yet.",
+            "Yes, even if the international search has already started.",
+            "No, the USPTO is not an International Searching Authority.",
+            "No, the situation at the time of filing will determine the competent International Searching Authority."
+        ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "An international patent application was filed on 6 July 2022 claiming priority of 2 July 2021. Can the priority right be restored in the European regional phase?",
+        "Options": [
+            "No, the 12-month priority period is over",
+            "Yes, by requesting further processing",
+            "Yes, the applicant can obtain restoration of the priority right, provided they show that the priority deadline was missed unintentionally",
+            "Yes, the applicant can obtain restoration of the priority right, provided they show that the priority deadline was missed although all due care was taken"
+        ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "GUAPA, a company located in Mexico, filed the international patent application PCT-G in Spanish on 11 June 2020, claiming a priority of GUAPA-N filed on 16 December 2019. PCT-G was published with the international search report in June 2021. The international searching authority was the Spanish Patent Office. On 2 July 2022, GUAPA decides to enter the European phase before the EPO.",
+        "Options": [
+            "For PCT-G the EPO will not carry out a supplementary European search.",
+            "One requirement for validly entering the European phase with PCT-G is to appoint a professional representative.",
+            "For entry into the European phase with PCT-G on 2 July 2022, at least one fee for further processing must be paid.",
+            "One requirement for validly entering the European phase with PCT-G is that the designation fee must be paid."
+        ]
+        },
+        "Answer": "D",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "Ms Kim, a Korean natural person, wishes to enter the European phase with the international application PCT-X as second filing on 5 April 2022, claiming the priority of a Korean national application. Ms Kim is resident in South Korea. PCT-X was filed in Korean in September 2019. PCT-X was published in Korean. Which of the following statements is correct:",
+        "Options": [
+            "A translation of PCT-X must be filed with the EPO within two months from entry into the European phase.",
+            "If a translation of PCT-X is not filed in due time, a possible remedy is to request re-establishment of rights.",
+            "Errors in the translation can be corrected only until grant of the patent.",
+            "Ms Kim is entitled to a reduction of the filing fee."
+        ]
+        },
+        "Answer": "B",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "A validly filed PCT application is not yet published. Is it possible to enter the European phase before the EPO prior to the international publication?",
+        "Options": [
+            "Yes, it is always possible",
+            "Yes, but only if the international search report has been sent",
+            "Yes, but only if an early processing fee is paid",
+            "It is not possible"
+        ]
+        },
+        "Answer": "A",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "EP-X can be filed in Danish.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent application can be filed in any language, including Danish, as per Article 14(2) EPC.",
+        "Legal basis": "Article 14(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "EP-X can be filed in Korean.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent application can be filed in any language, including Korean, as per Article 14(2) EPC.",
+        "Legal basis": "Article 14(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "EP-X can be filed in Japanese.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent application can be filed in any language, including Japanese, as per Article 14(2) EPC.",
+        "Legal basis": "Article 14(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If EP-X is not filed in one of the official languages of the EPO, then a translation into an official language of the EPO must be filed within a time limit of one month.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If a European patent application is not filed in one of the official languages, a translation must be filed within two months of filing the application, not one month.",
+        "Legal basis": "Rule 6(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Mr X can validly claim priority if he files the European patent application on 10 April 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Mr X can claim priority if he files the European patent application within 12 months from the priority date, which is extended to 10 April 2012 due to Easter holidays.",
+        "Legal basis": "Article 87(1) EPC, Rule 131(4) EPC, Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The priority declaration must be made at the latest on 10 August 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The priority declaration must be made within sixteen months from the priority date claimed, i.e., latest on 6 August 2012.",
+        "Legal basis": "Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If Mr X had filed a German utility model application instead of a German patent application, it would have been possible to claim priority from the German utility model application.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A utility model application also gives rise to a right of priority, as per Article 87(1) EPC.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Mr X can claim priority from the German patent application even if the German patent application is abandoned before filing of the European patent application.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The outcome of the priority application (such as a subsequent withdrawal) is irrelevant for claiming priority, as per Article 87(3) EPC.",
+        "Legal basis": "Article 87(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "One of the elements that the EPO as receiving Office has to receive today in order to accord today's date as the filing date for the PCT application is... the description.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A description is required for obtaining an international filing date, as per Article 11(iii)(d) PCT.",
+        "Legal basis": "Article 11(iii)(d) PCT"
+    },
+    {
+        "Question": {
+        "heading": "One of the elements that the EPO as receiving Office has to receive today in order to accord today's date as the filing date for the PCT application is... the abstract.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The abstract is not required for obtaining an international filing date.",
+        "Legal basis": "Article 11(iii) PCT"
+    },
+    {
+        "Question": {
+        "heading": "One of the elements that the EPO as receiving Office has to receive today in order to accord today's date as the filing date for the PCT application is... one or more claims.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "One or more claims are required for obtaining an international filing date, as per Article 11(iii)(e) PCT.",
+        "Legal basis": "Article 11(iii)(e) PCT"
+    },
+    {
+        "Question": {
+        "heading": "One of the elements that the EPO as receiving Office has to receive today in order to accord today's date as the filing date for the PCT application is... the title of the invention.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The title of the invention is not required for obtaining an international filing date.",
+        "Legal basis": "Article 11(iii) PCT"
+    },
+    {
+        "Question": {
+        "heading": "In the international PCT phase, the applicant can file a protest with the EPO and request that a full search is made. The protest is free of charge, but it has to be supported by arguments.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The protest is not free of charge; a prescribed protest fee must be paid, as per Rule 158(3) EPC.",
+        "Legal basis": "Rule 158(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The applicant can timely pay one additional fee for the third invention to be searched in the international PCT phase. In the European phase, the applicant can limit the application to the third invention.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The applicant can pay an additional fee for the third invention to be searched and can limit the application to that invention in the European phase, as per Rule 164(2) EPC.",
+        "Legal basis": "Rule 164(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The applicant can ignore the invitation. In the European phase, the applicant can file a divisional application directed to the third invention.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The applicant can file a divisional application directed to the third invention in the European phase, as per Article 76(1) EPC.",
+        "Legal basis": "Article 76(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The applicant can ignore the invitation. In the European phase, the applicant will again receive an invitation to pay additional search fees.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The applicant will not receive another invitation to pay additional search fees in the European phase if the international search report was drawn up by the EPO, as per Article 153(7) EPC.",
+        "Legal basis": "Article 153(7) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The subject-matter of claim 2 of EP2 lacks inventive step.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The subject-matter of claim 2 of EP2 is inventive as it was not obvious to the skilled person until feature B became part of the prior art in December 2011.",
+        "Legal basis": "Article 56 EPC"
+    },
+    {
+        "Question": {
+        "heading": "If EP2 had not claimed priority from EP1, the patentability of claim 1 of EP2 would not change.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If EP2 had not claimed priority from EP1, EP1 would have been prior art under Article 54(3) EPC against EP2, and the content of EP1 would have rendered claim 1 of EP2 not novel.",
+        "Legal basis": "Article 54(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "A valid novelty objection can be made using EP1 against claim 1 of EP2.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "As EP2 claims priority from EP1, the effective date for feature B is 1 June 2010, and no valid novelty objection can be made using EP1 against claim 1 of EP2.",
+        "Legal basis": "Article 89 EPC"
+    },
+    {
+        "Question": {
+        "heading": "The subject-matter of claim 2 of EP2 is novel.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The subject-matter of claim 2 is novel as it is not disclosed in the prior art: neither US1 nor EP1 disclose the combination of features B and A.",
+        "Legal basis": "Article 54 EPC"
+    },
+    {
+        "Question": {
+        "heading": "If in EP-2 priority is claimed only from EP-1, the effective date for claim 1 of EP-2 is 12 January 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "If priority is claimed only from EP-1, the effective date for claim 1 of EP-2 is the filing date of EP-1, which is 12 January 2012.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If in EP-2 priority is claimed only from EP-1, the effective date for claim 2 of EP-2 is 6 September 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If priority is claimed only from EP-1, the effective date for claim 2 of EP-2 is the filing date of EP-2, which is 20 December 2012, not 6 September 2012.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If in EP-2 priority is claimed only from US-1, the effective date for claim 1 of EP-2 is 12 January 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If priority is claimed only from US-1, the effective date for claim 1 of EP-2 is the filing date of EP-2, which is 20 December 2012, not 12 January 2012.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If in EP-2 priority is claimed only from US-1, the effective date for claim 2 of EP-2 is 20 December 2012.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If priority is claimed only from US-1, the effective date for claim 2 of EP-2 is the filing date of US-1, which is 6 September 2012, not 20 December 2012.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The renewal fee for the third year for EP-Z is due on 30 April 2013.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The renewal fee for the third year is due on the last day of the month containing the anniversary of the date of filing, which is 30 April 2013.",
+        "Legal basis": "Article 86(1) EPC, Rule 51(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant pays the renewal fee for EP-Z with the required additional fee on 9 October 2013, the renewal fee is deemed to be validly paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The renewal fee with an additional fee may still be paid within six months of the due date, which is 30 April 2013. Therefore, payment on 9 October 2013 is valid.",
+        "Legal basis": "Rule 51(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant fails to observe the time limit for paying a renewal fee for EP-Z, he may request further processing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Further processing for paying a renewal fee is excluded by the provisions of Article 121(4) EPC and Rule 135(2) EPC.",
+        "Legal basis": "Article 121(4) EPC, Rule 135(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The renewal fee for the third year for EP-Z could have been validly paid on filing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Renewal fees may not be validly paid more than three months before they fall due, Rule 51(1) EPC, second sentence.",
+        "Legal basis": "Rule 51(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Regarding EP-A, the period for paying the additional fee is two months.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The period for paying the additional search fee for EP-A is two months, as per Rule 64(1) EPC.",
+        "Legal basis": "Rule 64(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Regarding EP-A, the additional fee must be paid at the latest by 21 April 2013.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The additional fee must be paid at the latest by 22 April 2013, as the period is extended due to the 10-day rule and public holidays.",
+        "Legal basis": "Rule 64(1) EPC, Rule 126(2) EPC, Rule 131(4) EPC, Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Regarding PCT-B, the period for paying the additional fee is two months.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The period for paying the additional fee for PCT-B is one month, as per Rule 40.1(ii) PCT.",
+        "Legal basis": "Rule 40.1(ii) PCT"
+    },
+    {
+        "Question": {
+        "heading": "Regarding PCT-B, the additional fee must be paid at the latest by 11 March 2013.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The additional fee must be paid at the latest by 11 March 2013, as the period is one month from the date of the communication.",
+        "Legal basis": "Rule 40.1(ii) PCT, Rule 80.2 PCT"
+    },
+    {
+        "Question": {
+        "heading": "The priority period expires on 1 March 2013.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The priority period expires on 28 February 2013, as it is 12 months from the filing date of EP-I (29 February 2012).",
+        "Legal basis": "Article 87(1) EPC, Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The priority declaration must be made at the latest by 1 July 2013.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The priority declaration must be made at the latest by 1 July 2013, as it is 16 months from the filing date of EP-I (29 February 2012), extended due to public holidays.",
+        "Legal basis": "Rule 52(2) EPC, Rule 131(4) EPC, Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "In order to validly claim priority, EP-II must be in respect of the same invention as EP-I.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "To validly claim priority, EP-II must be in respect of the same invention as EP-I, as per Article 87(1) EPC.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Company X can validly claim priority from EP-I only if it was the applicant of EP-I at the date of filing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Company X can validly claim priority from EP-I even if it was not the applicant of EP-I at the date of filing, as long as it is the successor in title or has been validly transferred the right to claim priority.",
+        "Legal basis": "Article 87(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "EP-D must be filed with the European Patent Office in Berlin, Munich or The Hague.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "EP-D, as a divisional application, must be filed with the European Patent Office in Berlin, Munich, or The Hague, as per Rule 36(2) EPC.",
+        "Legal basis": "Rule 36(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Renewal fees in respect of EP-P already due today shall also be paid for EP-D.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Renewal fees already due for EP-P must also be paid for EP-D, as per Rule 51(3) EPC.",
+        "Legal basis": "Rule 51(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "You must first file an appeal against the decision to refuse EP-P before you can validly file EP-D.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "It is not necessary to file an appeal against the decision to refuse EP-P before filing EP-D, as the application is still pending during the period for filing a notice of appeal.",
+        "Legal basis": "G1/09, Rule 36(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The language of the proceedings of EP-P and EP-D must be the same.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The language of the proceedings of EP-P and EP-D must be the same, as per Rule 36(2) EPC.",
+        "Legal basis": "Rule 36(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "In this case, the inventor does not need to be represented by a professional representative before the EPO.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 133(1) and (2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "In this case, in order to be validly represented by Mr. A, a signed authorisation must be filed with the EPO.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Article 1(1) and (2) of the Decision of the President of the EPO dated 12 July 2007"
+    },
+    {
+        "Question": {
+        "heading": "If the inventor, after validly appointing Mr. A, wants to appoint a different professional representative before the EPO, Mr. B, from another association, then Mr. B need not provide a signed authorisation, if Mr. A informs the EPO of the change of representative.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 1(1) and (2) of the Decision of the President of the EPO dated 12 July 2007"
+    },
+    {
+        "Question": {
+        "heading": "For a change of attorney to be validly registered by the EPO, an administrative fee has to be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "The communication is deemed to be delivered on Monday, 26 January 2015, because 25 January 2015 falls on a Sunday.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 126(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Without resorting to a legal remedy, the reply to the communication must be filed with the EPO at the latest on 26 May 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 131(4) EPC and Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Further processing for replying to said communication can be validly requested at the latest on Monday, 27 July 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Article 121(1) EPC and Rule 135(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "An extension of the time limit for the reply can be validly requested on 20 May 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 132(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The additional search fee can be validly paid on 26 February 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 40(1)(ii) PCT and Rule 80.2 PCT"
+    },
+    {
+        "Question": {
+        "heading": "Today, 23 February 2015, you can file an international application PCT-B validly claiming priority from PCT-A, wherein the claims of PCT-B are directed to the second invention.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 8(2)(a) PCT and Article 4 C (1) of the Stockholm Act of the Paris Convention"
+    },
+    {
+        "Question": {
+        "heading": "A valid option would be to request a supplementary international search for the second invention of PCT-A to be carried out by the EPO.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 45bis.9 (b) PCT"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the PCT, the additional search fee is paid directly to the International Searching Authority.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 40.2 (b) PCT"
+    },
+    {
+        "Question": {
+        "heading": "The notice of opposition must be filed at the latest on 18 March 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 99(1) EPC and Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Mr. Kurz is entitled to a reduction of the opposition fee, if he first files the opposition in Czech and then timely files a translation in English.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 6 EPC as entered into force on 1 April 2014"
+    },
+    {
+        "Question": {
+        "heading": "Mr. Kurz need not file a translation of EP-Y.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 3(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If Mr. Kurz wants to use the Slovak language during oral proceedings, it is sufficient to notify the EPO one month before the oral proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 4(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "In the present case, the latest date for entering the European phase without resorting to further processing was 2 February 2015.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 159(1) EPC and Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If PCT-M enters the European phase on 27 March 2015, at least one further processing fee must be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 121(1) EPC and Rule 135(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "In view of the fact that the EPO considers that the subject-matter of several claims of PCT-M is not novel, it is mandatory to file amended claims on which the examination at the EPO is to be based.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 161(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "One requirement for validly entering the European phase with PCT-M on 27 February 2015, is that a renewal fee must be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 159(1)(g) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Since third party observations can only be filed concerning issues arising under Articles 52 to 57 EPC, the opposition division will not consider the reasoning concerning lack of sufficiency of disclosure.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Article 115 EPC, Guidelines E-V, 3"
+    },
+    {
+        "Question": {
+        "heading": "The submissions of the third party will be forwarded by the EPO to the patent proprietor.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 114(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The submissions of the third party will be accessible to the public through file inspection.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 128(4) EPC, Guidelines A-XI, 2.1"
+    },
+    {
+        "Question": {
+        "heading": "The opposition division is allowed to introduce into the proceedings lack of novelty with respect to claim 1 as a fresh ground for opposition.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 114(1) EPC, G 9/91"
+    },
+    {
+        "Question": {
+        "heading": "As soon as the applicant files the translation of the claims and pays the fee for grant and publication, resumption of the examination proceedings is no longer possible.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 71a(2) EPC, G12/91, Guidelines C-V, 6.1"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant requests a reasoned amendment to claim 15 today, the applicant must at the same time file the translation of the so amended set of claims and pay the fee for grant and publication.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 71(6) EPC, Guidelines C-V, 4.1"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant adds two dependent claims to the set of claims today, the examining division will not examine these two claims, unless claims fees are also paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Guidelines C-V, 4.8.1"
+    },
+    {
+        "Question": {
+        "heading": "Third party observations on EP-D filed with the EPO today are no longer considered by the examining division, since they are late filed.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Guidelines C-V, 6.1"
+    },
+    {
+        "Question": {
+        "heading": "The communication is deemed to be delivered on 1 January 2016.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 126(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the communication sets a period of two months, the applicant's reply must be filed at the latest on 1 March 2016.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 126(2) EPC, Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the communication sets a period of four months, the applicant's reply must be filed at the latest on 2 May 2016.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 126(2) EPC, Rule 131(4) EPC, Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the communication sets a period of four months and the applicant does not reply, he can validly request further processing on 4 July 2016.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 135(1) EPC, Rule 112(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The designation of the inventor may be rectified even after the grant of EP-F.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 21(1) EPC, Guidelines A-III, 5.6"
+    },
+    {
+        "Question": {
+        "heading": "The applicant need not provide evidence that an error was made.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 21(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the request is filed by the applicant, the consent of Philippe is required to rectify the designation of the inventor.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 21(1) EPC, Guidelines A-III, 5.6"
+    },
+    {
+        "Question": {
+        "heading": "If the request is filed by Béatrice, the consent of the applicant is required to rectify the designation of the inventor.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 21(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Greta can validly appoint Hassan to represent her before the EPO as the International Searching Authority for PCT-G.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Article 49 PCT, Rule 90.1 PCT"
+    },
+    {
+        "Question": {
+        "heading": "As a general rule, a power of attorney need not be submitted with the EPO in order to appoint a representative to act before the EPO as the International Searching Authority.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "",
+        "Legal basis": "Rule 90.4(d) PCT, Rule 90.5(c) PCT"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the PCT, it is mandatory that the Demand for International Preliminary Examination is signed by the applicant, even in the case where a representative has been validly appointed.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 53.8 PCT, Rule 90.3(a) PCT"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the PCT, a representative can only validly withdraw an international application if the representative has filed a power of attorney.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "",
+        "Legal basis": "Rule 90bis.5 PCT, Rule 90.4(a) PCT, Rule 90.5(a) PCT"
+    },
+    {
+        "Question": {
+        "heading": "Andrew can seek a stay of proceedings if he provides evidence that he has instituted proceedings against Francesca seeking a decision that Andrew is entitled to the grant of the European patent based on EP-F.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Andrew can seek a stay of proceedings if he proves that he has instituted proceedings against Francesca seeking a decision that he is entitled to the grant of the European patent based on EP-F.",
+        "Legal basis": "Article 61(1) EPC and Rule 14(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Francesca can withdraw EP-F at any time from the date on which Andrew provides evidence to the EPO that he has instituted proceedings against Francesca seeking a decision that Andrew is entitled to the grant of the European patent based on EP-F.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "From the date Andrew provides evidence, neither the European patent application nor the designation of any Contracting State may be withdrawn until the proceedings for grant are resumed.",
+        "Legal basis": "Article 61(1) EPC and Rule 15 EPC"
+    },
+    {
+        "Question": {
+        "heading": "No renewal fee has to be paid during a stay of proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Renewal fees must be paid even during a stay of proceedings.",
+        "Legal basis": "Rule 14(4) EPC and Guidelines A-IV, 2.2.4"
+    },
+    {
+        "Question": {
+        "heading": "Andrew can validly request that EP-F be refused no later than three months after the decision recognising his entitlement to EP-F has become final.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Andrew has three months after the decision recognising his entitlement has become final to request that the European patent application filed by Francesca is refused.",
+        "Legal basis": "Article 61(1)(c) EPC and Rule 16(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the opposition division considers that the subject-matter of claim 1 lacks novelty over D1, the opposition division may revoke EP-1 for lack of novelty of the subject-matter of claim 1.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Novelty as a new ground may be considered in view of the same document used for deciding upon the ground of lack of inventive step.",
+        "Legal basis": "Article 114(1) EPC, Rule 81(1) EPC, G7/95"
+    },
+    {
+        "Question": {
+        "heading": "If the opposition division considers that the subject-matter of claim 2 lacks inventive step over D2 in combination with D3, the opposition division may revoke EP-1 for lack of inventive step of the subject-matter of claim 2 over D2 in combination with D3.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The opposition division may not examine the subject-matter of a claim not covered by the extent of the opposition.",
+        "Legal basis": "G9/91"
+    },
+    {
+        "Question": {
+        "heading": "If the opposition division considers that the subject-matter of claim 1 is not sufficiently disclosed, the opposition division may revoke EP-1 because the subject-matter of claim 1 is not disclosed in a manner sufficiently clear and complete for it to be carried out by a person skilled in the art.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The opposition division may raise a ground for opposition within the extent of the opposition.",
+        "Legal basis": "Article 114(1) EPC, Rule 81(1) EPC, G10/91"
+    },
+    {
+        "Question": {
+        "heading": "After the opposition division has considered Theresa’s third-party observations, the opposition division may revoke EP-1 based on lack of novelty of the subject-matter of claim 2.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The opposition division is limited to examining the subject-matter of claim 1, and third parties are not party to the opposition proceedings.",
+        "Legal basis": "G9/91"
+    },
+    {
+        "Question": {
+        "heading": "A board of appeal may decide in a three-member composition without a legally qualified member.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The board of appeal requires the presence of at least one legally qualified member.",
+        "Legal basis": "Article 21(2), (3) and (4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "A board of appeal may exercise any power within the competence of the department which was responsible for the decision appealed.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The board of appeal may either exercise any power within the competence of the department which was responsible for the decision appealed or remit the case to that department for further prosecution.",
+        "Legal basis": "Article 111(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "A board of appeal may remit a case to the department which was responsible for the decision appealed for further prosecution.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The board of appeal may remit the case to the department which was responsible for the decision appealed for further prosecution.",
+        "Legal basis": "Article 111(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "A board of appeal may base its decision on a fresh ground for opposition only submitted during the appeal proceedings without the consent of the patentee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The board of appeal cannot base its decision on a fresh ground for opposition during appeal proceedings without the consent of the patentee.",
+        "Legal basis": "G10/91"
+    },
+    {
+        "Question": {
+        "heading": "It is possible to validly transfer EP-A from Company A to Company B only for the designated contracting states FR and DE.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent application can be transferred for one or more designated Contracting States.",
+        "Legal basis": "Article 71 EPC"
+    },
+    {
+        "Question": {
+        "heading": "The transfer of EP-A may be recorded in the European Patent Register at the request of Company B, upon production of documents providing evidence of such transfer and payment of an administration fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The transfer may be recorded in the European Patent Register upon request, production of evidence, and payment of an administration fee.",
+        "Legal basis": "Rule 143(1)(w) EPC, Rule 22(2) EPC, Rule 22(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The transfer of a European patent application becomes effective vis-à-vis the EPO only when it is published in the European Patent Register.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The transfer is effective vis-à-vis the EPO as soon as the documents according to Rule 22(1) EPC have been produced.",
+        "Legal basis": "Rule 22(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The transfer of a European patent may be recorded in the European Patent Register during the opposition period.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent can validly be transferred and the transfer can be recorded in the European Patent Register even during the opposition period or opposition proceedings.",
+        "Legal basis": "Rule 85 EPC in conjunction with Rule 22 EPC"
+    },
+    {
+        "Question": {
+        "heading": "Roberto and Mario are entitled to a reduction of the filing fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Roberto and Mario do not have their place of residence or place of business within a contracting state and are not nationals of a contracting state being resident abroad.",
+        "Legal basis": "Article 14(4) EPC, R. 6(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "EP1 will be accorded by the EPO a filing date, only if the content of EP1 does not extend beyond the content of P1 as originally filed.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "EP1 can contain additional subject-matter which is not included in P1, but the right to priority will only cover the subject-matter of EP1 which is included in P1.",
+        "Legal basis": "Article 80 EPC, Rule 40 EPC, Article 88(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the French translation had not been filed in due time, EP1 would be deemed not to have been filed.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The legal consequence is that EP1 is considered to be withdrawn, not that it is deemed not to have been filed.",
+        "Legal basis": "Article 14(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If EP1 is assigned to a British company, the language of the proceedings may be changed to English after registration of the transfer.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The language of the proceedings cannot be changed during the proceedings concerning an application.",
+        "Legal basis": "G4/08"
+    },
+    {
+        "Question": {
+        "heading": "The renewal fee for EP-A in respect of the third year could have been validly paid on 03 May 2019.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The renewal fee in respect of the third year may be validly paid up to 6 months before it falls due (30 September 2019).",
+        "Legal basis": "Rule 51(1) EPC; Guidelines A-X 5.2.4, OJ EPO 2018 A2"
+    },
+    {
+        "Question": {
+        "heading": "The renewal fee for EP-A in respect of the fourth year was due on 07 September 2020.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The renewal fee for the fourth year is due on the last day of the month containing the third anniversary of filing (i.e. 30 September 2020).",
+        "Legal basis": "Article 86 EPC, Rule 51(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The renewal fee for EP-A in respect of the fifth year shall be paid to the EPO.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The obligation to pay renewal fees (to the EPO) shall terminate with the payment of the renewal fee due in respect of the year in which the mention of the grant of the European Patent is published in the European Patent Bulletin.",
+        "Legal basis": "Article 86(2) EPC; Article 141(1) EPC; GL 2018 A-X, 5.1.2"
+    },
+    {
+        "Question": {
+        "heading": "All renewal fees due in respect of EP-A-DIV can be validly paid without an additional fee on 07 June 2021.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "All renewal fees already due in respect of the earlier application at the date on which the divisional application is filed are due on filing. These fees and any renewal fee due within 4 months of filing the divisional may be paid within the same 4 months without an additional fee.",
+        "Legal basis": "Rule 51(3) EPC; Rule 134(1) EPC; J4/91"
+    },
+    {
+        "Question": {
+        "heading": "PCT-1 can validly claim priority from FR-1.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Priority can be claimed in an international application filed within 12 months from the priority date. The applicant and the subject matter is the same.",
+        "Legal basis": "Article 8(2)a) and Rule 4 PCT, Article 4C(1) Paris Convention"
+    },
+    {
+        "Question": {
+        "heading": "Anna can validly file the priority declaration in May 2021.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The priority declaration can be added within a time limit of 16 months from the priority date.",
+        "Legal basis": "Rule 26.bis PCT"
+    },
+    {
+        "Question": {
+        "heading": "PCT-1 cannot validly claim priority from FR-1, if FR-1 has been abandoned before the filing of PCT-1.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Once the priority application has a filing date, the fate of the priority application is not relevant for the priority claim.",
+        "Legal basis": "Article 8.2(a) PCT and Article 4A(3) Paris Convention"
+    },
+    {
+        "Question": {
+        "heading": "The filing fee for PCT-1 shall be paid directly to the International Bureau.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The filing fee shall be paid within one month from the date of receipt of PCT-1 to the receiving Office.",
+        "Legal basis": "Rule 15.1 and 15.3 PCT"
+    },
+    {
+        "Question": {
+        "heading": "EP-P-DIV1 was not validly filed as a divisional application of EP-P, because EP-P-DIV1 was filed before the publication of EP-P.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The earlier patent application must be pending. There is no requirement that the earlier patent application is published.",
+        "Legal basis": "Rule 36(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If EP-P was filed in Portuguese and translated into English, EP-P-DIV1 must be filed in English.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "EP-DIV1 may be filed in the language on which the earlier application was filed (Portuguese) or translated (English).",
+        "Legal basis": "Rule 36(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "For EP-P-DIV2 an additional fee as part of the filing fee for a divisional application of a second generation had to be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "EP-DIV2, as it derives from EP-P, is not a second generation divisional application. Thus, an additional fee has not to be paid.",
+        "Legal basis": "Rule 38(4) EPC and Article 2(1b) RRF"
+    },
+    {
+        "Question": {
+        "heading": "EP-P will be regarded as prior art under Art. 54(2) EPC against EP-P-DIV2.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The filing date of EP-DIV2 remains 16 December 2018 and EP-P is not prior art under Art. 54(2) EPC.",
+        "Legal basis": "Article 76(1) EPC; G1/05 and G1/06, GL C-IX, 1.4"
+    },
+    {
+        "Question": {
+        "heading": "If PCT-A contains 20 claims, claims fees shall be paid for five claims within one month of the date of filing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "There is no claims fee for PCT applications.",
+        "Legal basis": "Article 3(4)(iv) and Rules 14-16 PCT"
+    },
+    {
+        "Question": {
+        "heading": "The period for entering the European phase will expire on 02 October 2023.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The time limit is 31-months from the priority date, i.e. 27.9.2022.",
+        "Legal basis": "Article 22(1) PCT and Rule 159(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The publication date of PCT-A can be postponed, if the claim to priority is validly withdrawn before completion of the technical preparations for international publication.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The postponement of the international publication by withdrawing its claim for priority is allowed.",
+        "Legal basis": "Rule 90bis.3 (d) and (e) PCT"
+    },
+    {
+        "Question": {
+        "heading": "For PCT-A to be considered as comprised in the state of the art under Article 54(3) EPC, it is sufficient that PCT-A is published in English.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The requirements of Article 153(5) together with Rule 165 EPC have to be met so that also the filing fee under Rule 159(1)(c) EPC has to be paid.",
+        "Legal basis": "Article 153(5) EPC; Rule 165 EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the notice of opposition has not been signed by the opponent or by his representative before expiry of the opposition period, the opposition division shall reject the opposition as inadmissible.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If the notice of opposition has not been signed within the opposition period, the EPO will invite the opponent to correct this deficiency and if the opponent does not correct this deficiency within the specified time limit, the opposition is deemed not to have been filed.",
+        "Legal basis": "Rule 76(3) EPC in conjunction with Rule 50(3) EPC; Rule 77(2) EPC in conjunction with Rule 50(3) EPC, Guidelines D-III, 3.4 and D-IV, 1.2.1 (ii) and D-IV, 1.4.1"
+    },
+    {
+        "Question": {
+        "heading": "Competitor B shall file a statement setting out for the first time the grounds of opposition within two months from the date of filing the notice of opposition.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The notice of opposition shall contain the grounds on which the opposition is based and has to be filed within 9 months of the mention of the publication of the mention of the grant of the EP patent.",
+        "Legal basis": "Article 99(1) and Rule 76(2)(c) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Provided that the opposition proceedings are still pending, competitor Z can file an admissible notice of intervention within three months of the date on which the proceedings for a ruling that competitor Z is not infringing patent EP-G are instituted.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Competitor Z can file an admissible notice of intervention within three months of the date on which the proceedings for a ruling that competitor Z is not infringing patent EP-G are instituted.",
+        "Legal basis": "Article 105(1)(b) EPC in conjunction with Rule 89(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If W files third party observations before expiry of the nine-month opposition period, W will be summoned to any oral proceedings taking place before the opposition division.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "A third party filing observations does not become party to the opposition proceedings and, in consequence, W will not be summoned to any oral proceedings.",
+        "Legal basis": "Article 115 EPC last sentence; Rule 115(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "On the basis of the information given above, you can file today a European patent application EP-P, which will be accorded 25 February 2019 as the date of filing, in Pietro’s name at the EPO.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Since you can comply today with the requirements of Rule 40(1)(a), (b) and (c) EPC, the date of filing will be 25 February 2019.",
+        "Legal basis": "Rule 40(1)(a), (b), (c) EPC; Guidelines A-II 4.1"
+    },
+    {
+        "Question": {
+        "heading": "On the basis of the information given above, you can be sure that EP-P can validly claim priority from IT-P.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "For validly claiming the priority, Gianna must have transferred the priority right to Pietro before the filing date of EP-P.",
+        "Legal basis": "Article 87(1) EPC; Guidelines A-III, 6.1(ii)"
+    },
+    {
+        "Question": {
+        "heading": "You can validly file EP-P in Italian.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A European patent application may be filed in any language.",
+        "Legal basis": "Article 14(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Pietro as a natural person is not entitled to a reduction of the filing fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Being a national of the Contracting State Italy and being a natural person, Pietro is entitled to a reduction of the filing fees.",
+        "Legal basis": "Rule 6(3) and (4)(b) EPC; Article 14(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "You will be allowed to make oral submissions at the oral proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The representative is allowed to make oral submissions.",
+        "Legal basis": "Article 133(2) EPC; Guidelines E-III, 8.5 and G4/95"
+    },
+    {
+        "Question": {
+        "heading": "As a general rule, Jane will be allowed to make oral submissions at the oral proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Submissions by a person who is not qualified under Article 133 and 134 EPC cannot be made as of right.",
+        "Legal basis": "Guidelines E-III, 8.5 and G4/95"
+    },
+    {
+        "Question": {
+        "heading": "As a general rule, Pedro will be allowed to make oral submissions at the oral proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Submissions by a person who is not qualified under Article 133 and 134 EPC cannot be made as of right.",
+        "Legal basis": "Guidelines E-III, 8.5 and G4/95"
+    },
+    {
+        "Question": {
+        "heading": "If the parties and the opposition division agree, Sarah will be allowed to make oral submissions in Portuguese at the oral proceedings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Sarah would be allowed to make submissions in Portuguese if the parties and the European patent office agree to use this language.",
+        "Legal basis": "Rule 4(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The first communication in respect of EP-Z that can be expected from the examining division is a communication under Rule 71(3) EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Since a favourable written opinion was established, a communication under Rule 71(3) EPC can be expected as the first communication of the examining division.",
+        "Legal basis": "Rule 71(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If you receive a communication under Rule 71(3) EPC for EP-Z in October 2019 and if you fulfil all the requirements of Rule 71(5) EPC on 31 January 2020, no fees other than the grant and publishing fee are due.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The renewal fee for the third year is due on 31 January 2020, and the decision to grant is not issued until the renewal fee has been paid.",
+        "Legal basis": "Rule 71a(4) EPC; Guidelines C-V, 2"
+    },
+    {
+        "Question": {
+        "heading": "It is possible to cancel the designation of Alina as an inventor of EP-Z without Alina's consent.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The consent of the wrongly designated person (Alina) is required.",
+        "Legal basis": "Rule 21(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "PCT-Z will be deemed to be withdrawn, once a patent is granted on the basis of EP-Z.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The PCT does not provide for an international application (PCT-Z) to be deemed to be withdrawn, once a patent is granted on the basis of the priority application (EP-Z).",
+        "Legal basis": "PCT provisions"
+    },
+    {
+        "Question": {
+        "heading": "If Didier files the application in Dutch, he must file a translation into one of the EPO's official languages within two months of filing the application.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A translation of the description must be filed in one of the official languages within the period of two months.",
+        "Legal basis": "Article 14(2) EPC; Rule 6(1) EPC; Guidelines A-VII, 1.1"
+    },
+    {
+        "Question": {
+        "heading": "Didier can pay the search fee in May 2019 provided he requests further processing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "If the search fee is not paid within one month of the filing of the European patent application, the application will be deemed to be withdrawn. However, the time limit under Rule 38(1) EPC is not ruled out for further processing.",
+        "Legal basis": "Rule 38(1) EPC; Article 121(1) and (4) EPC; Rule 135(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If Didier does not submit any claims either on filing or within the time limit set by the EPO in a communication inviting him to correct this deficiency, Didier can validly request further processing and file the claims.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If Didier does not file claims in accordance with Rule 57(c) and Rule 58 EPC, then Didier cannot validly request further processing, since it is ruled out under Rule 135(2) EPC.",
+        "Legal basis": "Rule 57(c) EPC; Rule 58 EPC; Rule 135(2) EPC; Guidelines A-III, 15"
+    },
+    {
+        "Question": {
+        "heading": "To validly file a European patent application, Didier can file a reference to a previously filed application, wherein the reference contains (i) the filing date of the previous application, (ii) the file number of the previous application, (iii) the office where the previous application was filed and (iv) an indication that this reference replaces the description and any drawings.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "To validly file a European patent application, Didier can file a reference to a previously filed application, wherein the reference contains the required information.",
+        "Legal basis": "Rule 40(1)(c) EPC; Guidelines A-II, 4.1.3.1"
+    },
+    {
+        "Question": {
+        "heading": "During opposition proceedings, an amendment to a European patent introducing subject-matter which was present only in the priority document but not in the European patent application as filed is allowable under Article 123(2) EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Under Article 123(2) EPC, it is not allowable to add matter to a European patent present only in the priority document.",
+        "Legal basis": "Guidelines, H-IV 2.2.5"
+    },
+    {
+        "Question": {
+        "heading": "Intermediate generalisations are never allowable under Article 123(2) EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Intermediate generalisations may be allowable under specific circumstances.",
+        "Legal basis": "Guidelines, H-V 3.2.1"
+    },
+    {
+        "Question": {
+        "heading": "An amendment introducing subject-matter which was present only in the abstract of the application is allowable under Article 123(2) EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The abstract may not be taken into account for any purpose other than for technical information.",
+        "Legal basis": "Article 85 EPC"
+    },
+    {
+        "Question": {
+        "heading": "An amendment introducing subject-matter which was present only in the claims filed in reply to a communication under Rule 58 EPC in conjunction with Rule 57(c) EPC is allowable under Article 123(2) EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Subject-matter present only in claims filed after the date of filing goes beyond the subject-matter of the application as filed.",
+        "Legal basis": "Guidelines, H-IV 2.2.3"
+    },
+    {
+        "Question": {
+        "heading": "If Daniela ignores the invitation, EP-D will be deemed to be withdrawn.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If Daniela ignores the invitation, any reference to the drawings will be deemed to be deleted, but the application is not deemed to be withdrawn.",
+        "Legal basis": "Rule 56(4)(a) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If Daniela files the missing drawings on 3 May 2018, EP-D will receive 3 May 2018 as its date of filing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "If the missing drawings are filed within two months of the notification, the application shall be re-dated to the date on which the missing drawings were filed.",
+        "Legal basis": "Rule 56(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Daniela may validly file the missing drawings for EP-D on 6 June 2018, provided she pays the fee for further processing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Further processing is ruled out in respect of the period under Rule 56(2) EPC.",
+        "Legal basis": "Rule 135(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If an applicant is not invited by the EPO to file missing parts of the description or missing drawings, he may validly file them within two months of the date of filing.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "An applicant may file missing parts of the description or missing drawings of his own motion within two months of the date of filing.",
+        "Legal basis": "Rule 56(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The validity of the priority right as such is not a ground for opposition under Article 100 EPC.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The validity of the priority right as such is not a ground for opposition, since it is not mentioned in Article 100 EPC.",
+        "Legal basis": "Article 100 EPC"
+    },
+    {
+        "Question": {
+        "heading": "FR-B is state of the art under Article 54(2) EPC if the priority of EP-A is not valid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "If the priority of EP-A is not valid, then the effective date of EP-A is the filing date of EP-A (29 February 2016). In such a case, FR-B is state of the art according to Article 54(2) EPC.",
+        "Legal basis": "Article 54(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the priority of EP-A is valid, then FR-B belongs to the state of the art under Article 54(3) EPC in view of its earlier filing date.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The national application FR-B can only be prior art under Article 54(2) EPC and not under Article 54(3) EPC.",
+        "Legal basis": "Article 54(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the opponent raises today, 26 February 2018, an objection of lack of sufficiency of disclosure against EP-A, then this is a fresh ground for opposition.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The objection of lack of sufficiency of disclosure was raised after the expiration of the opposition period, thus it is considered to be a fresh ground for opposition.",
+        "Legal basis": "G10/91 and Guidelines, D-V, 2.2"
+    },
+    {
+        "Question": {
+        "heading": "The time limit for filing a reply to the communication expires on 1 March 2018.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The time limit for replying to the communication under Rule 71(3) EPC expires on 1 March 2018.",
+        "Legal basis": "Rule 71(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant disagrees with the amendments in EP-F, a valid option is to pay the fee for grant and publishing, to file the required translation of the claims and to file an appeal against the decision to grant after notification of the decision to grant.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If the applicant pays the fee for grant and publishing and files the required translation of the claims, this is considered to be an approval of the text. An appeal against the decision to grant would be an appeal of a not adversely affected party.",
+        "Legal basis": "Rule 71(5) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If the applicant does not agree with the amendments in EP-F, a valid option is to request reasoned amendments to the communicated text.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The applicant can disagree to the text proposed, provided he requests reasoned amendments.",
+        "Legal basis": "Rule 71(6) EPC"
+    },
+    {
+        "Question": {
+        "heading": "If third party observations are filed after the decision to grant has been notified to an applicant, the observations cannot be considered by the examining division.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True or False",
+        "Explanation": "The examining division may not resume the examination proceedings and consequently may not consider third party observations after the decision to grant has been handed over to the EPO's internal postal service.",
+        "Legal basis": "Rule 71a(2) EPC, G12/91"
+    },
+    {
+        "Question": {
+        "heading": "One step that must be taken for validly entering the European phase with PCT-E today, 26 February 2018, is to pay the renewal fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The renewal fee for the third year of the European patent application stemming from PCT-E are only due on 31 July 2018.",
+        "Legal basis": "Rule 159(1)(g) EPC, Article 86(1) EPC, Rule 51(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The time limit for entry into the European phase with PCT-E expires on 1 March 2018.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The time limit for entry into the European phase expires on 28 February 2018.",
+        "Legal basis": "Rule 159(1) EPC, Rule 131(4) EPC"
+    },
+    {
+        "Question": {
+        "heading": "One step that must be taken for validly entering the European phase with PCT-E today, 26 February 2018, is to pay the filing fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True or False",
+        "Explanation": "The filing fee must be paid on entry into the European phase. However, the statement could be understood as referring to the concept of 'entry' versus 'early entry' into the European phase.",
+        "Legal basis": "Rule 159(1)(c) EPC"
+    },
+    {
+        "Question": {
+        "heading": "One step that must be taken for validly entering the European phase with PCT-E today, 26 February 2018, is to file the request for examination.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The request for examination must be filed up to six months after the date on which the European search report is published in the European Patent Bulletin.",
+        "Legal basis": "Rule 159(1)(f) EPC, Rule 70(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The catalogue is state of the art under Article 54(2) EPC for claim 1 of EP-G.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "EP-G was filed within 12 months from the filing of IT-G, and claims 1 and 3 are directed to the same invention as IT-G (frame made of metal and frame made of aluminium). The priority for claims 1 and 3 being valid, the effective date under Article 89 EPC for these two claims is the filing date of IT-G. Therefore, the catalogue is not prior art within the meaning of Article 54(2) EPC for claims 1 and 3.",
+        "Legal basis": "Article 87(1) EPC, Article 89 EPC, G2/98"
+    },
+    {
+        "Question": {
+        "heading": "The catalogue is state of the art under Article 54(2) EPC for claim 2 of EP-G.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The effective date of the subject-matter of claims 2 and 4 is the date of filing of EP-G (frame made of steel and frame made of copper were not disclosed in IT-G). Thus, the catalogue is prior art under Article 54(2) EPC for these two claims.",
+        "Legal basis": "Article 89 EPC"
+    },
+    {
+        "Question": {
+        "heading": "The catalogue is state of the art under Article 54(2) EPC for claim 3 of EP-G.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "EP-G was filed within 12 months from the filing of IT-G, and claims 1 and 3 are directed to the same invention as IT-G (frame made of metal and frame made of aluminium). The priority for claims 1 and 3 being valid, the effective date under Article 89 EPC for these two claims is the filing date of IT-G. Therefore, the catalogue is not prior art within the meaning of Article 54(2) EPC for claims 1 and 3.",
+        "Legal basis": "Article 87(1) EPC, Article 89 EPC, G2/98"
+    },
+    {
+        "Question": {
+        "heading": "The catalogue is state of the art under Article 54(2) EPC for claim 4 of EP-G.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The effective date of the subject-matter of claims 2 and 4 is the date of filing of EP-G (frame made of steel and frame made of copper were not disclosed in IT-G). Thus, the catalogue is prior art under Article 54(2) EPC for these two claims.",
+        "Legal basis": "Article 89 EPC"
+    },
+    {
+        "Question": {
+        "heading": "One requirement for validly entering the European phase with PCT-J is that a renewal fee must be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The renewal fee in respect of the third year for Euro-PCT-J has fallen due earlier, on 31 August 2016. For PCT-J, one of the requirements for entry into the European phase today, 6 March 2017, is the payment of the renewal fee in respect of the third year.",
+        "Legal basis": "Article 86(1) EPC, Rule 51(1) EPC, Rule 159(1)(g) EPC"
+    },
+    {
+        "Question": {
+        "heading": "One requirement for validly entering the European phase with PCT-J is that the designation fee must be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The designation fee is due today, since the period under Rule 39 EPC has expired earlier (six months after the publication of the search report, i.e. in August 2016).",
+        "Legal basis": "Rule 39 EPC"
+    },
+    {
+        "Question": {
+        "heading": "For entry into the European phase with PCT-J today, at least one fee for further processing must be paid.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "Today no further processing fee is (yet) due.",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "For PCT-J the EPO shall carry out a supplementary European search.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The EPO shall carry out a supplementary European search, as the international search report takes the place of the European search report and the mention of its publication.",
+        "Legal basis": "Article 153(7) EPC, Guidelines B-II 4.3.2 (ii)"
+    },
+    {
+        "Question": {
+        "heading": "A European patent application EP1, for which a reply to a communication under Rule 71(3) EPC was to be filed at the latest on 2 March 2017, and for which the applicant did not file a reply.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "An application is not pending if it is deemed to be withdrawn due to the non-observance of a time limit, for instance failure to reply to a communication under Rule 71(3) EPC.",
+        "Legal basis": "Guidelines, A-IV, 1.1.1"
+    },
+    {
+        "Question": {
+        "heading": "A European patent application EP2, for which the renewal fee due on 30 June 2016 has not yet been paid and for which the EPO sent a notice of loss of rights dated 2 February 2017.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "An application is not pending if it is deemed to be withdrawn due to the non-observance of a time limit, for instance failure to pay the renewal fee.",
+        "Legal basis": "Guidelines, A-IV, 1.1.1"
+    },
+    {
+        "Question": {
+        "heading": "A European patent application EP3, which was refused by a written decision dated 28 December 2016.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "An application is pending if it was refused and if no appeal has yet been filed until the expiry of the time limit for filing the notice of appeal (7 March 2017).",
+        "Legal basis": "G1/09"
+    },
+    {
+        "Question": {
+        "heading": "A European patent application EP4, for which the decision to grant the European patent is dated 6 March 2017.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The decision to grant a European patent does not take effect until the date on which the grant is mentioned in the European Patent Bulletin. Thus, EP4 is still pending today.",
+        "Legal basis": "Article 97(3) EPC"
+    },
+    {
+        "Question": {
+        "heading": "Adrienn is entitled to a reduction of the filing fee.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "Adrienn is a natural person resident in Hungary: therefore, she is entitled to a reduction of the filing fee.",
+        "Legal basis": "Article 14(4) EPC, Rule 6(3)(b) EPC"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the EPC, Adrienn must file one or more claims within two months of filing of EP-A.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "One or more claims must be filed within two months of an invitation under Rule 58 EPC to correct the deficiency under Rule 57(c) EPC.",
+        "Legal basis": "Rule 58 EPC, Rule 57(c) EPC"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the EPC, Adrienn must file the translation of the description within two months of filing of EP-A.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "A translation of the description must be filed within two months of filing of the European patent application.",
+        "Legal basis": "Rule 6(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the EPC, Adrienn must pay the filing fee within two months of filing of EP-A.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The filing fee must be paid within one month of filing of EP-A.",
+        "Legal basis": "Rule 38(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The statement setting out the grounds for the appeal must be filed at the latest on 5 April 2017.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "The statement setting out the grounds for the appeal must be filed at the latest on 18 April 2017 (5 December 2016 + 10 days + 4 months, extended to 18 April 2017).",
+        "Legal basis": "Article 108 EPC, Rule 126(2) EPC, Rule 131(4) EPC, Rule 134(1) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The appeal fee is reimbursed, if the applicant withdraws the appeal today, 6 March 2017.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "True",
+        "Explanation": "The appeal fee is reimbursed, if the appeal is withdrawn before the filing of the statement of grounds of appeal (and before the period for filing that statement has expired).",
+        "Legal basis": "Rule 103(1)(b) EPC"
+    },
+    {
+        "Question": {
+        "heading": "According to the provisions of the EPC, if the appeal is not allowed within four months of receipt of the statement of grounds, it shall be remitted to the Board of Appeal.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If the appeal is not allowed within three months of receipt of the statement of grounds, it shall be remitted to the Board of Appeal.",
+        "Legal basis": "Article 109(2) EPC"
+    },
+    {
+        "Question": {
+        "heading": "The examining division will grant interlocutory revision, if the applicant can convince the examining division that claim 1 of the sole request is novel over D1.",
+        "Options": [
+            "True",
+            "False"
+        ]
+        },
+        "Answer": "False",
+        "Explanation": "If interlocutory revision is to be granted, the applicant must address convincingly both grounds for refusal (novelty over D1 and inventive step over D2).",
+        "Legal basis": ""
+    },
+    {
+        "Question": {
+        "heading": "You are a professional representative before the EPO. Today, 6 March 2023 you have received an email from your client, Alvar, a national of Finland. He wants you to file a European patent application EP-A in his name, claiming priority from FI-A, a Finnish patent application. FI-A was jointly filed in the name of Alvar and Aino on 4 March 2022. A copy of FI-A is attached to the email. No other document or information is sent with the email.",
+        "Options": [
+            "On the basis of the information given above, you can file today, 6 March 2023, a European patent application EP-A in Alvar's name at the EPO and it will be accorded 6 March 2023 as the date of filing.",
+            "You can validly file EP-A in Finnish.",
+            "On the basis of the information given above, you can be sure that EP-A can validly claim priority from FI-A.",
+            "Alvar as a natural person is not entitled to a reduction of the filing fee."
+        ]
+        },
+        "Answer": [
+        "FALSE",
+        "TRUE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "Since you can comply on 17 March 2023 with the requirements of Rule 40(1)(a), (b) and (c) EPC, the date of filing will be 17 March 2023.",
+        "A European patent application may be filed in any language, Article 14(2) EPC.",
+        "For validly claiming the priority, Aino must have transferred the priority right to Alvar before the filing date of EP-A.",
+        "Being a national of Finland and a natural person, Alvar is entitled to a reduction of the filing fees."
+        ],
+        "Legal basis": [
+        "Rule 40(1) EPC, Guidelines A-II 4.1",
+        "Article 14(2) EPC",
+        "Article 87(1) EPC, Guidelines A-III 6.1(ii)",
+        "Rule 6(3)-(4)(b) EPC, Article 14(4) EPC"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "Paula is resident in Romania and has no EPO mailbox for electronic notification. On 13 February 2023, Paula filed the European patent application EP-P as a first filing. The EPO noticed that the drawings mentioned in the description were missing. In a communication dated 22 February 2023, the EPO invited Paula to file the missing drawings.",
+        "Options": [
+            "If applicants are not invited by the EPO to file missing parts of the description or missing drawings, they may validly file them within two months of the date of filing.",
+            "If Paula ignores an invitation by the EPO to file missing parts of the description or missing drawings, EP-P will be deemed to be withdrawn.",
+            "If Paula files the missing drawings on 3 May 2023, EP-P will receive 3 May 2023 as its date of filing.",
+            "Paula may validly file the missing drawings for EP-P on 6 June 2023, provided she pays the fee for further processing."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "FALSE",
+        "TRUE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "An applicant may file missing parts of the description or drawings of their own motion within two months of the date of filing (Rule 56(2) EPC).",
+        "If ignored, references to the drawings are deemed deleted, but the application is not deemed withdrawn (Rule 56(4)(a) EPC).",
+        "If drawings are filed within 2 months of notification (4 May 2023), the application will be re-dated (Rule 56(2) EPC).",
+        "Further processing is excluded for Rule 56(2) deadlines (Rule 135(2) EPC)."
+        ],
+        "Legal basis": [
+        "Rule 56(2) EPC, Guidelines A-II 5.2",
+        "Rule 56(4)(a) EPC",
+        "Rule 56(2), Rule 126(2), Rule 131(4) EPC",
+        "Rule 135(2) EPC"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "Saïd intends to file the following patent applications in French language: (1) a European patent application EP-S (2) an international patent application PCT-SE. PCT-SE will be jointly filed in the name of Saïd and Eric. Eric lives in Paris. Saïd lives in Lebanon and is of Lebanese nationality. Lebanon is not a PCT member state.",
+        "Options": [
+            "Saïd can validly file EP-S with the EPO.",
+            "If, two months after validly filing PCT-SE, Saïd moves to Paris, the EPO will, upon request, record the change of residence in relation to PCT-SE.",
+            "PCT-SE can be validly filed with the EPO as receiving Office.",
+            "PCT-SE can be validly filed with the International Bureau as receiving Office."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "FALSE",
+        "TRUE",
+        "TRUE"
+        ],
+        "Explanation": [
+        "There are no nationality or residence restrictions for filing a European patent application with the EPO, Articles 58 and 133(2) EPC.",
+        "Only the IB can record the residence change upon the applicant’s request, Rule 92bis.1(a)(i) PCT.",
+        "The EPO is the receiving Office competent for applicant Eric, who has his residence in a Contracting State (France).",
+        "A PCT application can be validly filed before the IB if at least one applicant is a resident or national of a PCT Contracting State."
+        ],
+        "Legal basis": [
+        "Articles 58 and 133(2) EPC",
+        "Rule 92bis.1(a)(i) PCT",
+        "Article 151 EPC, Rule 157(1) EPC, Rule 19.1(a), Rule 19.2(i) PCT",
+        "Rule 19.1(a)(iii), Rule 19.2(ii) PCT"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "In 2020, company A disclosed details of a new medical device in confidence to company B. Unknown to company A, company B filed EP-B with effective filing date 6 June 2021. A final national court decision dated 10 January 2023 adjudged that company A is entitled to the grant of a European patent for the invention disclosed in EP-B.",
+        "Options": [
+            "If EP-B is still pending and has not yet been granted, company A may prosecute EP-B as its own application in place of company B.",
+            "If EP-B is still pending and has not yet been granted, a request that company B must withdraw EP-B, filed by company A at the EPO, will be allowed.",
+            "If EP-B is still pending and has not yet been granted, company A may validly request that EP-B be refused.",
+            "If EP-B has been deemed to be withdrawn and is thus no longer pending, company A may still file a new European patent application EP-A in respect of the same invention, wherein EP-A shall be deemed to have been filed on 6 June 2021."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "FALSE",
+        "TRUE",
+        "TRUE"
+        ],
+        "Explanation": [
+        "Company A may prosecute EP-B as its own application (Art. 61(1)(a), R.16 EPC).",
+        "There are no provisions for company A to force withdrawal by B (Art. 61(1)(c) EPC).",
+        "Company A may request that EP-B be refused (Art. 61(1)(c), R.16 EPC).",
+        "Company A may file a new EP-A deemed filed on 6 June 2021 (Art. 61(1)(b), R.16 EPC, G 3/92)."
+        ],
+        "Legal basis": [
+        "Article 61(1)(a), Rule 16 EPC, Guidelines C-IX, 2.1(i), A-IV, 2.1(i)",
+        "No legal basis; Article 61(1)(c), Rule 16 EPC do not allow forced withdrawal",
+        "Article 61(1)(c), Rule 16 EPC, Guidelines C-IX, 2.1(iii), A-IV, 2.1(iii)",
+        "Article 61(1)(b), Rule 16 EPC, Guidelines C-IX, 2.2, A-IV, 2.1(ii), G 3/92"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "On 31 January 2022, Susanne, a German national living in Germany, filed a PCT application PCT-S in German, claiming priority from EP-S filed on 29 January 2021. PCT-S contains claim 1 from EP-S and claim 2 directed to an improved embodiment not disclosed in EP-S. PCT-S was published on 7 August 2022. She sold PCT-S to Ian, a British national, who wants to enter the regional phase before the EPO. Today is 6 March 2023.",
+        "Options": [
+            "When entering the regional phase before the EPO, Ian can file an English translation of PCT-S so that the language of the proceedings of the regional phase of PCT-S will be English.",
+            "The time limit for entering the regional phase before the EPO for PCT-S claiming priority from EP-S ends on 31 July 2023.",
+            "Today, 6 March 2023, Ian can withdraw the priority claim of PCT-S in the international phase so that the time limit for entering the regional phase before the EPO for PCT-S expires on 2 September 2024.",
+            "Withdrawing the priority claim of EP-S will affect the effective date of claim 2."
+        ]
+        },
+        "Answer": [
+        "FALSE",
+        "FALSE",
+        "TRUE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "If filed and published under PCT in an EPO official language, translation into another official language upon entry into EP phase is not allowed (G 4/08).",
+        "31 months from 29 January 2021 = 29 August 2023, not 31 July.",
+        "Withdrawal of the priority claim possible until 31 July 2023, and entry time limit then becomes 2 September 2024.",
+        "Claim 2 is not entitled to priority (not disclosed in EP-S); its effective date is the filing date of PCT-S."
+        ],
+        "Legal basis": [
+        "G 4/08",
+        "Rule 159(1) EPC",
+        "Rule 90bis.3 PCT, Rule 159(1) EPC",
+        "Article 88(3) EPC"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "EP-P was filed on 2 December 2019 and published on 13 June 2021. First communication under Art. 94(3) EPC was received on 28 November 2021. EP-D was filed as a divisional application of EP-P on 8 December 2022. EP-P is still pending on 6 March 2023. Some EP-D claims contain subject-matter not disclosed in EP-P. Renewal fees for EP-D not yet paid.",
+        "Options": [
+            "An EP divisional application cannot be validly filed after 24 months from the issuance of the first communication under Article 94(3) EPC in respect of EP-P and therefore EP-D was not validly filed as a divisional application.",
+            "The renewal fee, already fallen due, may be validly paid for EP-D on 11 April 2023 without an additional fee.",
+            "At present, EP-D is deemed to have 8 December 2022 as its date of filing.",
+            "In the present case EP-P will be regarded as prior art under Article 54(2) EPC against EP-D."
+        ]
+        },
+        "Answer": [
+        "FALSE",
+        "TRUE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "Since 01.04.2014, a divisional can be filed as long as the parent is pending. Rule 36(1) EPC.",
+        "Renewal fees already due can be paid within 4 months from the filing of EP-D without surcharge.",
+        "If EP-D adds subject-matter not disclosed in EP-P, it cannot be converted into a separate application with 8 Dec 2022 as filing date.",
+        "EP-D has same filing date or priority as EP-P, so EP-P cannot be prior art for EP-D."
+        ],
+        "Legal basis": [
+        "Rule 36(1) EPC (since 01.04.2014)",
+        "Rule 51(3), Rule 131(4), Rule 134(1) EPC",
+        "Article 76(1) EPC, Guidelines C-IX 1.4, G1/05",
+        "Article 76(1) EPC, Guidelines C-IX 1.4, G1/05"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "A company having its principal place of business in France files an international patent application at the French national patent office. The language of this international patent application is English. As a receiving Office, the French national patent office accepts international patent applications filed in French only. The International Searching Authority for this international patent application is the European Patent Office, which accepts English, French and German.",
+        "Options": [
+            "The international patent application will be transmitted to the International Bureau.",
+            "The international patent application will be considered to have been received by the French national patent office on behalf of the International Bureau as receiving Office.",
+            "The search fee is collected by the International Searching Authority for its own benefit.",
+            "A translation is required by the European Patent Office for the international search."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "TRUE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "Because the language (English) is not accepted by the French office, the application is transmitted to the IB (Rule 19.4(b) PCT).",
+        "It is considered received by the French office on behalf of the IB (Rule 19.4(a)(ii) PCT).",
+        "The search fee is collected by the receiving Office, not the ISA (Rule 16.1(b) PCT).",
+        "No translation is required since English is accepted by the EPO as ISA (Rule 12.3(a) PCT)."
+        ],
+        "Legal basis": [
+        "Rule 19.4(b) PCT",
+        "Rule 19.4(a)(ii) PCT",
+        "Rule 16.1(b) PCT",
+        "Rule 12.3(a) PCT, Euro-PCT Guide 3.1.015"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "A European patent application, EP-A, was filed in English on 2 September 2021 claiming priority from a Swedish national patent application SE-A filed on 2 September 2020. EP-A was published on 9 March 2022 and is still pending.",
+        "Options": [
+            "The European examination proceedings are in progress. Third-party observations written in English are filed today and explain why a scientific journal article published in Swedish on 10 August 2020 is novelty-destroying for the claimed subject-matter of EP-A. The third-party observations are filed anonymously at the European Patent Office, together with a copy of the Swedish publication. In view of this, the third-party observations are validly filed.",
+            "Third-party observations must cite prior art documents.",
+            "The decision to grant a patent based on EP-A has already been sent to the applicant. Third-party observations are received by the EPO just before the publication of the mention of the grant. They cite a new document destroying the novelty of the allowed claims. In view of this, the examining division will consider them and resume the examination proceedings.",
+            "A patent based on EP-A has been granted. The mention of the grant was published on 1 March 2023. Third-party observations are validly filed today. In view of this, the person filing the third-party observations will be a party to the opposition proceedings if opposition proceedings start."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "FALSE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "Third-party observations may be filed anonymously, and can include documents in any language (Art. 115 EPC, Rule 114(1) EPC, Guidelines E-VI, 3).",
+        "Observations do not need to be based on prior art; they can relate to other patentability criteria like sufficiency, clarity, etc.",
+        "If the decision to grant has already been issued, the EPO will not consider the content of later-filed third-party observations (G 12/91, Guidelines E-VI, 3).",
+        "Filing observations does not confer party status in opposition proceedings (Art. 115 EPC, Guidelines D-I, 6)."
+        ],
+        "Legal basis": [
+        "Article 115 EPC, Rule 114(1) EPC, Guidelines E-VI, 3",
+        "Article 115 EPC, Guidelines E-VI, 3",
+        "G 12/91, Guidelines E-VI, 3",
+        "Article 115 EPC (last sentence), Guidelines D-I, 6"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "When filing a European patent application with 14 claims, the applicant also submits a request for examination by filing the written request and paying the examination fee. The European Patent Bulletin mentions the publication of the European search report on 20 January 2023. The European search opinion states that claim 1 lacks novelty. The applicant receives an invitation under Rule 70(2) and Rule 70a(2) EPC dated 13 February 2023 setting a time limit of six months running from the publication of the European search report.",
+        "Options": [
+            "The application shall be deemed to be withdrawn if the applicant files a reply to the invitation on 14 August 2023.",
+            "If the applicant omits in his timely reply to the European search opinion to indicate that he wishes to proceed further with the application, the application is deemed to be withdrawn.",
+            "The applicant can validly file a request for accelerated examination before timely filing of a valid reply to the invitation.",
+            "If the applicant validly replies to the invitation and files three additional claims, he must pay the claims fees for two claims within one month of filing the claims."
+        ]
+        },
+        "Answer": [
+        "TRUE",
+        "FALSE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "The 6-month deadline from the publication of the search report (20 January 2023) ends on 20 July 2023. A reply on 14 August 2023 is too late.",
+        "A timely response to the search opinion is interpreted as confirmation to proceed, even without explicit statement (Guidelines C-II 1.1).",
+        "Accelerated examination can only be requested once the Examining Division is responsible — which is after the reply under Rule 70(2) EPC is received.",
+        "Only if the application text intended for grant contains more than 15 claims does the EPO invite to pay claim fees (Rule 71(4) EPC)."
+        ],
+        "Legal basis": [
+        "Rules 70(3) + 70a(3) EPC, Guidelines E-VIII 1.2",
+        "Guidelines C-II 1.1",
+        "Rule 10(3) EPC, Guidelines E-VIII 4.2",
+        "Rule 71(4) EPC"
+        ]
+    },
+    {
+        "Question": {
+        "heading": "Applicant Andrew names Berta as sole inventor in his European patent application EP-A.",
+        "Options": [
+            "The EPO informs Berta in a communication about her designation as inventor in the European patent application EP-A.",
+            "Berta can waive her right to be mentioned as inventor in the published European patent application EP-A.",
+            "If Carla was incorrectly designated as inventor in the European patent application EP-A, there is no way to request rectification of the incorrect designation.",
+            "The designation of the inventor in EP-A is required for the application to be accorded a filing date."
+        ]
+        },
+        "Answer": [
+        "FALSE",
+        "TRUE",
+        "FALSE",
+        "FALSE"
+        ],
+        "Explanation": [
+        "There is no longer a requirement in Rule 19 EPC for the EPO to notify the inventor.",
+        "An inventor may waive their right to be mentioned (Rule 20(1) EPC).",
+        "Incorrect designations can be rectified upon request (Rule 21 EPC).",
+        "Designation of the inventor is not required for according a filing date (Rule 40 EPC)."
+        ],
+        "Legal basis": [
+        "Rule 19 EPC (no longer provides for this)",
+        "Rule 20(1) EPC",
+        "Rule 21 EPC",
+        "Rule 40 EPC"
+        ]
+    }
+]

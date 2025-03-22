@@ -1,0 +1,820 @@
+ 
+ 
+Candidates' answer  
+
+ 
+
+Question 1 
+
+ 
+
+Yes. 
+
+ 
+
+Under EPCa.59, a European application may be filed by joint applicants, here 
+
+HYPERTOOLS + CYBERFIT.  However, joint applicants are forced to act in 
+
+common – there must be a single address for service (EPCr.100). 
+
+ 
+
+Therefore, applications filed in the joint name of HYPERTOOLS + CYBERFIT 
+
+should contain the appointment of one applicant as common representative 
+
+(EPCr.26(3).  Therefore, here applications should be filed with the Request for 
+
+Grant Form 1001 indicating HYPERTOOLS as the common representative.  If 
+
+not, the EPO will appoint a common representative in accordance with 
+
+EPCr.100(1) (so as an alternative, I could name HYPERTOOLS first on the 
+
+Request for Grant). 
+
+ 
+
+Once Hypertools is appointed as common representative in this way, as an 
+
+Irish company (and therefore a legal person having its principal place of 
+
+business within a Contracting State in the sense of EPCa.133(3)), it may be 
+
+represented by an employee of that entity (i.e me), even though I am not a 
+
+professional representative (EPCa.133 (3)). 
+
+ 
+
+However, in order to act as representative, I must be authorised 
+
+(EPCa.133(3)), in accordance with EPCr.101.  Where there are two or more 
+
+applicants, only the common representative (which is HYPERTOOLS), as 
+
+noted above, must file the authorisation. 
+
+ 
+
+=> File a signed authorisation (signed in name of Hypertools) with each 
+
+application filed, or else wait for the EPO the invite me to file an authorisation 
+
+for each application under EPCr.101(1) (A-IX, 1.7). 
+
+
+ 
+- 2 - 
+
+ 
+
+ 
+
+As Hypertools and Cyberfit will apparently be filing lots of applications, it 
+
+would make sense to file a general authorisation under EPCr.101(2) enabling 
+
+me to act as representative for all applications where Hypertools is common 
+
+representative. 
+
+ 
+
+ 
+
+Question 2   
+
+ 
+
+i) 
+Yes 
+
+ 
+
+An appeal has suspensive effect (EPCa.106(1), second sentence).  Thus, the 
+
+appeal prevents the decision (here, refusal of the application) having legal 
+
+consequences until the Appeal is decided (or withdrawn) (J 28/94 & E-XI, 1).  
+
+Since during that time a pending application exists, the filing of a divisional 
+
+application is possible (EPCr.25(1); J 8/98; A-IV, 1.1.1) 
+
+ 
+
+ii) 
+My answer would be no. 
+
+ 
+
+The suspensive effect of EPCa.106(1), second sentence occurs only if an 
+
+admissible appeal has been filed (EPCa.108).  It is irrelevant whether the 
+
+appeal is inadmissible from the start or rejected later (J 28/03). 
+
+ 
+
+As failure to pay the appeal fee in time (2 months from notification of the 
+
+decision to refuse – EPCa.108) results in the appeal being deemed not to 
+
+have been filed (J 17/82; T324/90), no admissible appeal was filed and no 
+
+suspensive effect arises. 
+
+ 
+
+=> 
+Not possible to file the divisional. 
+
+ 
+
+
+ 
+- 3 - 
+
+ 
+
+ 
+
+iii) 
+No. 
+
+ 
+
+In opposition proceedings, the application has been granted (EPCa.99(1) – an 
+
+opposition may only be filed within 9 months after publication of the mention of 
+
+grant of the application).  Therefore, there is no longer a pending application 
+
+(an application is pending up to (not excluding) the date that the EPB mention 
+
+grant under EPCa.97C4) (A-IV, 1.1.1, 0J 2002, 112).  Thus, a divisional 
+
+application cannot be filed (EPCr.25(1)). 
+
+ 
+
+ 
+
+Question 3 
+ 
+
+ 
+
+ 
+    RU-1 
+ 
+ 
+ 
+ 
+        PCT appn 
+
+ 
+ 
+07.03.2005  
+ 
+ 
+ 
+ 
+07.03.2006 
+
+ 
+
+Resident of CH, US national 
+
+ 
+
+Under PCTa.10, PCT appn must be filed with the prescribed receiving office.  
+
+Under PCTr.19.1(a) the application may be filed, at the applicant's choice at a 
+
+national/regional office acting for the Contracting state of which the applicant 
+
+is resident (part i) or national (part ii), or else with the International Bureau 
+
+(part iii). 
+
+ 
+
+As a US national, the inventor may file the application with the USPTO or the 
+
+International Bureau (AGI, Annex B1 – US). 
+
+ 
+
+As a Swiss resident, the application may be filed with the Swiss Patent Office, 
+
+the EPO or the International Bureau (AGI, Annex B2 – EP). 
+
+ 
+
+
+ 
+- 4 - 
+
+ 
+
+ 
+
+=> 
+Choices are  USPTO 
+
+ 
+ 
+ 
+Swiss PO 
+
+ 
+ 
+ 
+EPO 
+
+ 
+ 
+ 
+IB. 
+
+ 
+
+Languages:  
+
+ 
+
+PCTa.3(4)(i) – must be in prescribed language.  PCTr.12.1(a) – file in any 
+
+language accepted by the Receiving Office (rO).   
+
+ 
+
+The USPTO will accept applications in English only (AGI, Annex C-US) => 
+
+must file in English if using USPTO as rO. 
+
+ 
+
+The EPO will accept PCT applications in English, French or German only 
+
+(PCT AGI, Annex C – EP) → must file in English if using EPO. 
+
+ 
+
+The IB will accept PCT applications in any language (AGI, Annex C – IB) => 
+
+File in English or Russian. 
+
+ 
+
+Swiss PO accepts English, French or German as rO (PCT AGI, Annex C – 
+
+CH) => must file in English is using this office. 
+
+ 
+
+Component International Searching Authority (ISA) 
+
+ 
+
+Where EPO is receiving Office: ISA must be the EPO (AGI, Annex C – EP). 
+
+ 
+
+Where USPTO is the receiving Office : ISA may be: 
+
+ 
+i) 
+EPO (OJ, 192, 323 & 0J 1990, 443). 
+
+ 
+ii) 
+Korean Intellectual Property Office (AGI, Annex C – US) 
+
+ 
+iii) 
+USPTO 
+
+ 
+
+
+ 
+- 5 - 
+
+ 
+
+ 
+
+Where Swiss Patent Office is the receiving Office: ISA may be EPO (All rOs of 
+
+EPC contracting states have specified the EPO as competent ISA (EPCa. 
+
+154(1)). 
+
+ 
+
+If using the International Bureau, the competent ISA is any ISA which would 
+
+have been competent if the international application had been filed with any 
+
+receiving Office of, or acting for, the PCT contracting state of which the 
+
+applicant is a national or resident (PCTr. 35.3(a)), the choice being upto the 
+
+applicant (PCTr. 35.3(b)) 
+
+=> 
+Any of USPTO, EPO, Korean Patent Office listed above. 
+
+ 
+
+ 
+
+Question 4 
+
+ 
+
+1) 
+Yes. 
+
+ 
+
+Under PCTr.92 bis.1(a), the International Bureau shall, on request of the 
+
+applicant or the receiving Office, record changes in the person of the 
+
+application (PCTr.92 bis.1(a) (i).  The request must be filed before the end of 
+
+30 months from the priority date (PCTr.92 bis.1(b). 
+
+ 
+
+The request may be sent either to the receiving Office or the International 
+
+Bureau (AGI, para 429), although it must reach IB by the 30 month deadline. 
+
+=> 
+Best to file directly at the IB. 
+
+ 
+
+2) 
+The demand has to be filed with the competent International 
+
+Preliminary Examining Authority (IPEA) (PCTa.31(b)(a)).  For an application 
+
+where the receiving Office was the EPO (as here), the competent IPEA is the 
+
+EPO (specified under PCTa.32(2) as the EPO according to AGI, Annex C-
+
+EP). 
+
+=> 
+File the demand with the EPO. 
+
+
+ 
+- 6 - 
+
+ 
+
+ 
+
+The demand must be filed in the language of the international application or, if 
+
+filed in a language that is not a language of publication, in the language of 
+
+publication (PCTr.55.1).  As German is a language of publication (AGI, 
+
+paragraph 54), this exception does not apply.  The language of the application 
+
+is German. 
+
+ 
+
+=> 
+File the demand in German. 
+
+ 
+
+ 
+
+Question 5 
+
+ 
+
+Yes. 
+
+ 
+
+For the purposes of EPCa.54(3) and (4), the effective filing date of EP2 is the 
+
+filing date of the Portuguese priority application (EPCa. 89), i.e. March 2002. 
+
+ 
+
+Although the applicant did not file a copy of the priority document within the 4 
+
+month period set under EPCa. 91(2) and EPCr.41(1), the priority right would 
+
+have been lost under EPCa. 91(3) at the expiry of this period (i.e. November 
+
+2003).  As this was after the publication date of EP2 (Sept 2003), the loss of 
+
+priority right does not effect the application of EPCa. 54(3) and (4) (see C-IV, 
+
+6.1a). 
+
+ 
+
+Accordingly, EP2 is part of the state of the art under EPCa. 54(3) and (4) 
+
+because it has an earlier effective filing date under EPCa.89 (March 2002 vs. 
+
+January 2003 for EP1) and was published after this date (in September 2003).  
+
+We are told that it designated the same states and described the same 
+
+invention => it is novelty destroying for all designated states (EPCa 54(3) & 
+
+(4), EPCr.23d). 
+
+ 
+
+ 
+
+
+ 
+- 7 - 
+
+ 
+
+ 
+
+Question 6 
+ 
+
+ 
+
+ 
+69(1) 
+
+ 
+
+      21.02.2006 
+
+ 
++10 78(2) 
+
+ 
+= 03.03.2006 
+
+ 
+ 
++ 2 months 121 
+
+ 
+ 
+03.05.2006 (Wed) 
+
+ 
+
+Procedure for this set out at E-VIII, 1.6. 
+
+ 
+
+1) 
+First, the application needs to be reinstated using further processing 
+
+under EPCa.121. 
+
+ 
+
+Notification if loss of rights under EPCr.69(1) took place ten days from 
+
+21.02.2006, i.e. 03.03.2006 (EPC.r78(2)).  The two month period for 
+
+requesting further processing and paying the fee (EPCa.121(2)) therefore 
+
+expires on Wednesday 3rd May 2006 (EPO is open). 
+
+ 
+
+=> 
+By that date must: 
+
+i) 
+file request in writing for further processing of the 
+
+application (EPCa.121(1) and (2)). 
+
+ 
+ 
+ii) 
+pay fee (EPCa.121(2)), which is €200 (Rfees 2(12)). 
+
+ 
+iii) 
+complete the omitted act (i.e. file response to the 
+
+communication under EPCa.96(2) (EPCa. 96(3)). 
+
+ 
+
+
+ 
+- 8 - 
+
+ 
+
+ 
+
+At the same time, I must request reimbursement of the fee for further 
+
+processing.  A decision rejecting the request for reimbursement (which is 
+
+likely here) is open to appeal, either together with the final decision or 
+
+separately (depending on how the ED issues the decision to reject request for 
+
+reimbursement: i.e. with final decision or as interlocutory decision with 
+
+separate right to appeal EPCa.106(1) (J37/89). 
+
+ 
+
+The appeal would be filed by filing a notice of appeal and paying the appeal 
+
+fee (€1020, Rfees 2(11)) within 2 months from notification of the decision to 
+
+reject the reimbursement; and file statement of grounds within 4 months of 
+
+that notification (EPCa.108). 
+
+ 
+
+2). 
+No. 
+
+ 
+
+I would not advise client to have case reviewed by Board of Appeal, because 
+
+the reason for requesting the second extension under EPCr. 84 was weak.  
+
+Suitable reasons, for which I might have advised the appeal are set out at 
+
+E-VIII, 1-6 (e.g. representative or client is so ill that response was not 
+
+possible; or extensive experiments required), but none of these apply.  Indeed 
+
+"foreseeable….leave", which would apply in this situation is mentioned as an 
+
+unsuitable reason.  Similarly, current situation does not fit into situation set out 
+
+in Notice of VP DG2 28.02.1989 (OJ 1989, 180) where a further extension 
+
+might be allowed. 
+
+ 
+
+ 
+
+
+ 
+- 9 - 
+
+ 
+
+ 
+
+Question 7  10:54 → 11.03 
+
+ 
+
+Yes. 
+
+ 
+
+Although a proprietor cannot terminate opposition proceedings by surrender of 
+
+the patent (T73/84), he can get the patent revoke by stating that he no longer 
+
+approves the granted text (i.e. the text as unamended) and not providing an 
+
+amended text.  Such a statement is regarded as an amendment to be taken 
+
+into account under EPCa.102(3) (see Legal Advice L11/82, paragraph 2), 
+
+which means that if no alternative text is provided by the applicant, the patent 
+
+cannot be maintained, even in its form as granted (EPCa.113(2)).  This was 
+
+confirmed in T73/84 and T186/84. 
+
+ 
+
+=> 
+Even though the Opposition Division believes the patent to be valid, a 
+
+request for revocation by the proprietor (which is regarded as disapproval of 
+
+the text as granted – T186/84) will result in the patent being revoked, although 
+
+not under EPCa 100(1), (4) or (5) (see L11/82, third paragraph). 
+
+ 
+
+ 
+
+Question 8 
+11.05 →  11.23 
+
+ 
+
+ 
+ 
+ EP-B 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    27.04.2005 
+
+ 
+
+No. 
+
+ 
+
+Mention of grant was published on 27.04.2005 => the 9 month period for filing 
+
+a notice of opposition under EPCa.99(1) expired on 27.01.2006 (Friday => 
+
+EPO open). 
+
+G 
+
+
+ 
+- 10 - 
+
+ 
+
+ 
+
+The notice of opposition was filed by fax on 24th January 2006 => within the 9 
+
+month period.  Filing by fax is permitted under EPCr. 36(5) (Dec. of the Pres 
+
+OJ 2005, 41).  The EPO received the confirmation on 31st January 2006. 
+
+ 
+
+This is irrelevant as confirmation copies are now only required on request (OJ 
+
+2005, 41). 
+
+ 
+
+The opposition was filed by an Italian company, who as a company having its 
+
+principal place of business in a contracting state with an official language 
+
+other than French, German or English (here, Italian (Nat Law Table II, column 
+
+4) is entitled to file the Notice of Opposition in Italian (EPCa.14(4)). 
+
+ 
+
+The fee was paid by debit order filed on 24th January 2006, which is the date 
+
+the fee is deemed paid (Rfees 8(1) and A.D.A 5(2)), so the fee was paid in 
+
+time (EPCa.99(1). 
+
+ 
+
+The translation of the notice of opposition required under EPCa.14(4) was 
+
+required within the longer of 1 month from filing the notice of opposition or the 
+
+end of the opposition period (EPCr.6(2), second sentence).  Here, the relevant 
+
+date was therefore 1 month from 24th January 2006, because the time limit 
+
+runs from receipt by facsimile (A-IX, 2.5).  The translation was therefore need 
+
+by 24th February 2006 (Friday – EPO open). 
+
+ 
+
+=> 
+Translation filed here, opposition deemed not to be received 
+
+(EPCa.14(5) & EPCa. 99(1)).  Note receipt of the confirmation copy was 
+
+outside the 9 month period (27.01.2006) => this would not help. 
+
+ 
+
+ 
+
+
+ 
+- 11 - 
+
+ 
+
+ 
+
+Question 9  11.23→11.40 
+
+ 
+
+ 
+
+ 
+CZ-A  
+ 
+ 
+ 
+EP-A 
+
+ 
+
+      03.03.2005 
+ 
+ 
+        03.03.2006 
+
+ 
+ 
+ 
+ 
+ 
+ 
+          
+
+ 
+ 
+ 
+ 
+ 
+ 
+LECTURE (AT)  
+
+    PUBUL. 
+
+ 
+
+European applications may not be filed at the sub-office in Vienna, as it is not 
+
+an EPO filing office under EPCa.75(1)(a) (A-II, 1.1, OJ 1992, 183 & OJ 2005, 
+
+44). 
+
+The Vienna sub-office forwarded the application to the EPO as a courtesy 
+
+service.  However, the date of filing is the actual date of receipt of the 
+
+application documents by a permitted office (J18/86 & OJ 2005, 44, para 7).  
+
+Therefore, Prof. Piro's application will having a filing date of 6th March 2006.  
+
+This is outside the 12 month period for claiming priority from CZ-A, which 
+
+expired on 3rd March 2006 (EPCa.87(1); no extension under EPCr.85(1) as 
+
+EPO open on 03.03.2006).  Therefore, EP-A is not entitled to its priority date 
+
+and has an effective filing date of 6th March 2005 (EPCa.89). 
+
+ 
+
+The public disclosure on 3rd March 2006 is therefore comprised in the state of 
+
+the art under EPCa 54(2) (which includes oral disclosures) because it took 
+
+place before the effective filing date, and EP-A will lack novelty (assuming the 
+
+lecture was enabling (C-IV, 7.3a)) in light of the lecture. 
+
+ 
+
+EP-A should therefore be abandoned (which will mean a refund of the search 
+
+fee, if paid (Rfees 10(1)).  However, the Czech application is unaffected by 
+
+this disclosure and could be pursued if he wants protection there. 
+
+

@@ -1,0 +1,976 @@
+- 1 - 
+ 
+
+CANDIDATE’S ANSWER 
+
+ 
+
+D, EQE 2018 
+
+ 
+
+a) 
+Part II 
+
+ 
+
+- 
+The written decision was dated 2 October 2017. Thus deemed notified on 
+
+12 October 2017. Deadline for notice of appeal = 12/12/17, and grounds = 
+
+12/2/18.  
+
+- 
+Both parties met these deadlines.  
+
+- 
+However, BB’s grounds of appeal merely refer to their previous submissions 
+
+that were submitted at first instance. There is a good chance, therefore, that 
+
+the opposition will be deemed not filed, because the grounds of appeal will not 
+
+have been properly substantiated in accordance with Rule 99(2) EPC (see 
+
+T213/85), because it does not indicate reasons why the decision should be 
+
+set aside. 
+
+- 
+Because the deadline for filing grounds of appeal has now passed, the appeal 
+
+will be deemed not filed.  
+
+- 
+However, the opponents appeal will have been deemed validly filed and so 
+
+BB are still a party to the appeal proceedings - because they did not validly file 
+
+an appeal, the opponent cannot be left in a worse position that if they had not 
+
+appealed. Therefore, we cannot broaden the pending claim. 
+
+- 
+Claim 1 at present (fruit A & B) lacks sufficiency in view of the further 
+
+experiments conducted by the opponent.  
+
+- 
+However, amending C1 to indicate the S-M (subject-matter) of claim 3 would 
+
+appear to overcome the objections.  
+
+- 
+We cannot, unfortunately, broaden the claim to remove fruit B because this 
+
+would leave the opponent (who is the sole appellant) in a worse position than 
+
+if they had not appealed.  
+
+- 
+Therefore, amend claim1 (send submission now) to recite the FFP comprising 
+
+fruit A, B and C. This claim does not lack sufficiency because acrylamide 
+
+levels remain lower than 225ppb regardless of frying temperature used. 
+
+- 
+Claim 1 amended in this way should be allowable.
+
+
+- 2 - 
+ 
+
+- 
+This amendment is based on cl, 2 and 3 as originally filed and so does not 
+
+contravene A123(2) EPC.  
+
+- 
+On the other hand, if the appeal was deemed validly filed (unlikely) amend 
+
+claims based on original claims 1 + 3 (fruit A + C) in order to cover oliebollen 
+
+sold in Dec 2017 and won competition because this product would not be 
+
+covered by c1 amend to fruits A+B+C.  
+
+- 
+Must amend to include fruit C otherwise claim will lack sufficiency since no 
+
+disclosure of the required temp of 220ºC or lower. 
+
+
+- 3 - 
+ 
+
+2.1)  
+EP-BB2: 
+
+- 
+EP-BB2 has a single claim to a method of preparing a FFP, by frying at a 
+
+temp of 150-220ºC. 
+
+- 
+No fees were paid and a loss of rights comm. was issued in June 2017 (for 
+
+non-payment of filing and search fees). Further processing deadline will have 
+
+expired in August 2017 (2 months from loss of rights comm).  
+
+- 
+Reestablishment not possible as wouldn’t meet “all due care” criterion”.  
+
+- 
+EP-BB1 has therefore lapsed irretrievably.  
+
+- 
+No patent protection is possible for BB from EP-BB1.  
+
+- 
+In any event, it lack novelty over the pub. of EURO-PCT-FKI (approx 18m 
+
+from 31/3/15 – 31/9/16) - since FFP with fruit D + 135ºC, falls within scope of 
+
+the claim.  
+
+
+- 4 - 
+ 
+
+2.2) 
+PCT-BB2 
+
+- 
+PCT-BB2 has the same claim as EP-BB2 (method of making FFP inc. frying 
+
+at temp 150-220ºC). 
+
+- 
+Priority is validly claimed by PCT-BB2 from EP-BB2 in respect of the s-matter 
+
+of the claim of PCT-BB2) (same app., within 12m, same s-matter, EP-BB2 
+
+was first app. by the applicant to this s-matter).  
+
+-  Therefore effective of claim (150-220ºC) is 3/2/17.  
+
+- 
+This claim lacks novelty over EURO-PCT-FK1 as explained above (fruit D still 
+
+falls within the scope of the claim, 155ºC falls within claimed range + EURO-
+
+PCT-FK1 published approx September 2016).  
+
+- 
+Therefore, as it currently stands, no patent protection will be possible through 
+
+the claim of PCT-BB2.
+
+
+- 5 - 
+ 
+
+2.3) 
+
+EP-BB3: claim to app: dough mixer inc. trumpet-shaped nozzle. 
+
+- 
+Filing date = 26/1/818. No priority claim.  
+
+- 
+EP-BB2 is not prior art under A54(2) EPC because it was deemed withdrawn 
+
+in June 2017, which is before it will have been published (approx. 3/8/17)  
+
+therefore not A54(3) EPC prior art.  
+
+- 
+EP-BB3 claim will lack novelty over the drawing of the trumpet shaped nozzle 
+
+in PCT-BB2 under Article 54(3) EPC should PCT-BB2 validly enter EP 
+
+regional phase (ie. pay filing file – R165 EPC). 
+
+- 
+If PCT-BB2 does not enter the EP regional phase, then EP-BB3 claim will be 
+
+valid since there is not PA disclosure of a trumpet shaped nozzle, and it is 
+
+inventive because it further lowers acrylamide levels by allowing higher liq. 
+
+content.  
+
+EP-BB3 is currently pending but no fees have been paid. Search fee and filing 
+
+fee due on 26/2/18 (1 M from FD). Missed this date and so will be deemed 
+
+withdrawn (can be remedied by FP). But, as explained above, at present no 
+
+valid protection will be obtained through this app. 
+
+Assume PCT-BB2 will be entered into regional phase to get protection for the 
+
+method claim, therefore, no protection possible at present from EP-BB3. 
+
+- 
+Is novel over EURO-PCT-PK though as this doc does not disclose the use of 
+
+trumpet shaped nozzle. Is inventive over EURO-PCT-FK1 because trumpet 
+
+nozzle has the tech effect of further lowering acrylamide levels through higher 
+
+liquid content.  
+
+ 
+
+PCT – New (intended to file) 
+
+- 
+Priority claim from EP-BB3 will be invalid because it is not the first app. by BB 
+
+directed to nozzles (trumpet shaped).  
+
+EP-BB2 served as a priority basis for PCT-BB2 and so A87(4) EPC criteria 
+
+has not been met for restarting the priority from a second app.  
+
+- 
+Effective date of claim of PCT-BB2 will thus be the filing date. 
+
+
+- 6 - 
+ 
+
+(PCT-New cont…) 
+
+- 
+this will lack novelty under A54(3) EPC ( or A54(2) if filed after PCT-BB2 is 
+
+pub. approx. 3.8.18)  
+
+Wherever PCT-BB2 is entered (in any designated states that have such prior 
+
+art conditions), because of the drawing contained in PCT-BB2.  
+
+
+- 7 - 
+ 
+
+2.4) 
+EURO-PCT-FKI 
+
+Ind. claim 1 – nozzle (arranged to deposit….) 
+
+- 
+First app. for nozzle that is “arranged to deposit…” (filed 31/3/15).  
+
+- 
+However, this claim lacks sufficiency and/or clarity (A83 or 84 EPC) because 
+
+it is missing an essential feature that the dough mixer has a screw conveyer in 
+
+order to expel dough from the mixer.  
+
+- 
+No patent protection will thus be achieved by FK by this claim.  
+
+- 
+In any event it would lack novelty over the general known use since the end of 
+
+the 20th century to use conically shaped nozzles + screw conveyors.  
+
+- 
+Ind. claim 2 (method prep. FFP + fruit D at 155ºC  250ºC). 
+
+- 
+First app for this S-M (FD = 31/3/15) 
+
+- 
+Novel over EP-BB1 disclosure as no temp disclosed in this app (temp. 
+
+investigations made after opposition of EP-BB1).  
+
+- 
+Involves an inventive step because it has the tech effect of making products 
+
+crispy on the outside and fluffy on the inside for longer.  
+
+- 
+Therefore, FK will obtain patent protection for this S-M in EURO-PCT-FK1 
+
+(and in Europe as has entered EP regional phase and wherever else in the 
+
+world the PCT app has been pursued).  
+
+
+- 8 - 
+ 
+
+3. EP-BB1 
+
+- 
+As explained above nothing is likely to be able to be done apart from amend 
+
+to A+B+C (unless the appeal is deemed validly filed and then amend to A+C).  
+
+- 
+As after grant no divisional can be filed for this app.  
+
+ 
+
+EP – BB2  
+
+- 
+Irretrievably lapsed and so novelty can be done for this app.  
+
+- 
+We are also outside the 12m priority period and so cannot file a new app. 
+
+claiming priority from EP-BB2 (expired 3/2/18).  
+
+ 
+
+PCT-BB2 
+
+- 
+Amend the claim of PCT-BB2 based on the disclosure of the preferred range 
+
+in the description (175 - 200ºC).  
+
+- 
+A claim amended in this way will be novel over EURO-PCT-FK1 because it 
+
+will be a valid selection invention (narrow range, end points sufficiently far 
+
+removed from 155ºC and 250ºC and not an arbitrary selection – lowers 
+
+acrylamide levels to below 225 ppb).  
+
+- 
+Also, would involve an inventive step over EURO-PCT-FK1 because it has the 
+
+effect of keeping the acrylamide levels lower than 225 ppb.  
+
+ 
+
+To obtain protection for nozzle (trumpet shaped):  
+
+- 
+File a late declaration of priority for EP-BB3 from EP-BB2 (possible by 16m 
+
+from PD since EP-BB3 was filed within 12m of EP-BB2 – file request BY 
+
+3/6/18).  
+
+- 
+EP-BB3 effective date will therefore be 3/2/17 and so PCT-BB2 will not be 
+
+A54(3) EPC PA.  
+
+- 
+Cannot file a new PCT app as this will lack novelty over PCT-BB2 A54(3) 
+
+EPC when enters EP reg. phase – assume client wants to enter EP regional 
+
+phase to gain protection of method (175-200ºC).  
+
+- 
+Need to add priority date to EP-BB3 so that PCT-BB2 not A54(3) EPC prior 
+
+art when enters EP regional phase.  
+
+
+- 9 - 
+ 
+
+- 
+EP-BB3 – pay filing and search fees + (50% FP fee) and req. further 
+
+processing in response to loss of rights communication when it issues.  
+
+- 
+PCT-BB2 – enter EP regional phase by 3/9/19.  
+
+ 
+
+Possibility:  
+
+- 
+In other PCT contacting states could try to obtain protection for nozzles 
+
+(trumpet shaped) basing a claim on the drawing – though may constitute 
+
+added matter. Worth an attempt to try to gain worldwide protection.  
+
+- 
+Validate all granted patents in whatever contracting states relevant for client 
+
+(inc. NL as “Oliebollen” in a Dutch speciality). 
+
+
+- 10 - 
+ 
+
+4)  
+
+ 
+If you do not buy it and a competitor does instead:  
+
+- 
+The competitor (or FK) will be able to stop BB (BB won’t be allowed to) use a 
+
+method of preparing FFP containing fruit D frying at 155-250ºC.  
+
+Thus will not be able to work within the scope of any claims granted from 
+
+PCT-BB2, when fruit D is present.  
+
+This means that the oliebollen in Dec 2017 that won a competition would not 
+
+be able to be made since it contains fruit D and was made at a tempo falling 
+
+within the scope of ind claim 2 of EURO-PCT-FK1.  
+
+- 
+All of the rights of BB in PCT-BB2 will be dependent on EURO-PCT-FK1 
+
+when fruit D is present.  
+
+- 
+Method claims also afford protection of the direct product of the process and 
+
+so would give BB protection of the direct product of the method of second ind. 
+
+claim of EURO-PCT-FK1.  
+
+- 
+First ind claim of EURO-PCT-FK1 is not valid and so do not buy for this claim. 
+
+Only buy for the reason of the second independent claim (which all the 
+
+previous discussion is based on).  
+
+- 
+The second independent claim of EURO-PCT-FK1 is valid over the prior art 
+
+and so will proceed to a granted patent.  
+
+- 
+Possible reason : depending on wording of some method claims, the claim is 
+
+interpreted as merely being “suitable for” preparing the desired product and in 
+
+this scenario all off the claims of EP-BB1 (direct product of process) and PCT-
+
+BB2 would be dependent on this right owned by a competitor.  
+
+- 
+If you don’t buy it, they will offer/sell it to a competitor.  
+
+- 
+Negotiate a lower price as can show them that the first independent claim 
+
+lacks sufficiency. Perhaps offer to buy rights to second independent claim 
+
+only. 
+
+Conclusion:  
+
+- 
+The claims in EP-BB3 would be dependent on ind claim 1 of EURO-PCT-FK, 
+
+as nozzle (trumpet) would fall within scope of ind c1 of EURO-PCT-FK, but 
+
+
+- 11 - 
+ 
+
+claim lacks sufficiency. If it did not, we would infringe this patent performing 
+
+EP-BB3’s invention. 
+
+- 
+To perform methods claims of PCT-BB2 (in current state or as amended as 
+
+proposed above) patent will be dependent on ind c2 of EURO-PCT-FK (to the 
+
+extemt that fruit D is used, if the claim is interpreted as limited to having to 
+
+contain D – which is the most probable interpretation). This will mean BB 
+
+won’t be able to make and sell their Dec 2017 winning variety of “Oliebollen”).  
+
+- 
+Therefore important to buy. 
+
+
+- 12 - 
+ 
+
+Part I 
+
+1. The PCT application will be considered to have met the requirements for a 
+
+filing date because at least one claim is present (albeit the actual second half 
+
+is missing, a claim is still present). (A11(1)(iii)(c) PCT). (“just requires 
+
+something that appears on the face of it to be a claim – PCT. APP Guide, IP, 
+
+6.025) 
+
+ File the second page of the claim as a missing part (R20.5 PCT).  
+
+ Within 2m of the filing date (R20.7(a) 
+
+(ii) 
+(i.e. 2m from 20/2/18 = 20/4/18), file the missing page of the claims. 
+
+The app. will be re-dated to the date in which this part is provided (R20.5, (b) 
+
+and (c) PCT). 
+
+ However, if the missing part is filed by incorporation by reference, the missing 
+
+part will not redate the application (R20.5(d) PCT) (missing part can also be 
+
+withdrawn within 1m of redating notification (R20.6(e) PCT). 
+
+ This is important because if the app. is redated, the app. filing date will fall 
+
+outside the 12m priority period and priority will be lost (unless restored) – (A8 
+
+PCT and Art 4 PC). 
+
+ Must submit a written notice confirming that the missing part is incorporated 
+
+by reference under R4.18 PCT (this is possible because priority was derived 
+
+from FR-A, the whole claims were contained within FR-A and the PCT form 
+
+PCT/RO/101 (PCT App Guide, IP, 6.028) automatically contains an 
+
+incorporated by reference statement. Must provide sheet showing entire 
+
+missing part (all of second pg of claim) R20.6,a(i), provide a copy of the 
+
+earlier priority app. (FR-A) (R20.6,a(ii)),  
+
+no translation required as FR is an int. pub. lang. (R48.3(a) PCT) and both 
+
+FR-A and PCT-A are in same lang. (R20.6,a(iii)), indication where the missing 
+
+part is in FR-A (R20.6(a)(iv).  
+
+(R20.6(a))  File req. with the EPO as RO. 
+
+- 
+EPO will under R20.6(b) PCT, not redate the app. and deem that is was 
+
+contained in the app. as filed.  
+
+→ 
+Provisional protection: 
+
+
+- 13 - 
+ 
+
+- 
+Request early pub. under Rule 48.4 PCT. and A21(2)(b). ISR not yet available 
+
+and so need to pay special pub. fee (R48.4(a) PCT). Will be pub. promptly 
+
+after fee paid (R48.4(b) PCT).  
+
+- 
+In accordance with A67(3) EPC - contracting states may require translation of 
+
+the claims into their official language in order to gain provisional protection. 
+
+
+- 14 - 
+ 
+
+b) 
+ 
+
+Company D may become a party to the opposition proceedings by 
+
+intervention (intervention of the assumed infringer) (A105(1)(a) EPC), even 
+
+after opp period has expired. The intervention shall be treated as an 
+
+opposition (A105(2) EPC).  
+
+- 
+Must file the notice of intervention by 3m from date on which infringement 
+
+proceedings commenced (ie. 22/2/18 + 3m = 22/5/18). (R89(1) EPC).  
+
+- 
+Must file a written reasoned statement + pay opposition fee within the 3m 
+
+period R89(2) EPC). Must also comply with R76 + 77 EPC.  
+
+- 
+The opp. may be based on any ground (G1/94) (Guidelines D, VII 6) 
+
+- 
+Therefore, can raise against claim 1 the new ground of lack of novelty against 
+
+claim 1 based on doc D1. Since it discloses the S-M of claim 1 claim 1 will be 
+
+revoked for lack of novelty/deleted (A101(b) EPC).  
+
+- 
+Lack of clarity is NOT a ground of opposition under A100 EPC. (G3/194 – 
+
+even if new art cited) therefore amended claim 2 cannot be revoked on this 
+
+basis since the amended feature came from the claims – (Guidelines, D-V 5 
+
+(i)). Therefore, claim 2 will not be revoked on this basis.  
+
+- 
+Therefore, must file valid opposition by 22/5/18  
+
+- 
+Written reasoned statement (R76(1) EPC) 
+
+R76(2) EPC: 
+
+- 
+Identify opponent 
+
+- 
+No. of EP + name of proprietor and title of invention, 
+
+- 
+Statement of extent to which EP is opposed and grounds ie. claim 1, as 
+
+A100(a) EPC (new opponent entitled to raise new ground). 
+
+ 
+
+- 
+Notice of intervention in written reasoned statement  Intervention possible 
+
+because opp. proceedings are pending (D-VII 6).  
+
+ 
+
+Pay opp fee! (A99(1) EPC). 
+
+
+- 15 - 
+ 
+
+3)a) 
+FD = 15/11/17 because for a filing date to be accorded, a desc. or 
+
+reference to a prev. filed app is required (R40(1)(c) EPC) along with an 
+
+indication that patent is sought + info identifying applicant (R40(1)(a) and (b) 
+
+EPC). 
+
+- The desc. can be filed in any language. (A14(2) EPC) 
+
+Therefore, 15/11/17 = FD because this was the date when requirements for a 
+
+FD were met. 
+
+→ An applicant cab file an app w/out representation – can file all things required 
+
+for a date of filing (A-VIII 1.1). Therefore, desc. filed on 15/11/17 is deemed 
+
+filed.  
+
+b) Representation is required (A133(2) EPC) app. not have his residence (or 
+
+principal place of business) in an EPC contracting state. Based in Argentina.  
+
+- The translations filed on 27/11/17 will not be deemed filed as the applicant 
+
+requires representation and can only perform acts required for a FD by 
+
+himself (A133(2) EPC). (Guidelines (A VIII 1.1)).  
+
+- The invitation will be under R58 EPC and so will set a deadline of 2m (5/2/18 
+
++ 10 days – R126(2) EPC - + 2m  5/4/18) to appoint a representative. If I am a 
+
+European patent attorney no authorisation is required (SE No. 3, OJ EPO 
+
+2007, L.1), if I identify myself as such. 
+
+- actions → 
+
+-  must file the translations again by 15/11/17 + 2m = 15/1/17 (R6(1) EPC). 
+
+Missed this date therefore must file translations in response to inv. pursuant to 
+
+R58 (A90(4) EPC) (10d +2m). 
+
++  appoint self as agent before filing the translations + don’t need to pay filing fee 
+
++ search fee as these can be paid by any party. (A-XI, Legal Advice No. 6/91 
+
+rev.)  
+
+4)a) 
+ File a request for reestablishment of rights (in respect of the time limit 
+
+for filing an appeal) under A122 EPC. This is available for proprietors of a 
+
+patent in relation to the type period for filing an appeal.  [Under A122(1) 
+
+EPC] 
+
+
+- 16 - 
+ 
+
+- 
+According to R132(1) EPC, file request in writing within 2m of removal of 
+
+cause of non-compliance but at latest within 12m of missed deadline (2m from 
+
+removal of cause of non-compliance = 2m from 27/2/18 – this communication 
+
+made the representative realise the non-compliance, therefore 27/4/18 and 
+
+within 12m from (15/9/17 + 10 days (R126(2) EPC) = 25/9/18.  
+
+ 
+(T 428/981  renewal of cause of non-compliance = date receives comm. 
+
+notifying of missed time limit).  
+
+- 
+Must pay reest. fee within this period of time, and file the notice of appeal + 
+
+pay appeal fee (R136(1) EPC & A108 EPC, R99 EPC).  
+
+- 
+Likely to be accepted as it is an isolated mistake and so would appear to be 
+
+meet the “all due care requirement”. 
+
+- 
+Must state grounds + facts supporting request (R136(2) EPC) e.g. isolated 
+
+mistake, failure of monitoring system to record receipt of doc.  
+
+- 
+If request for reestablishment of rights is accepted, then appeal will be 
+
+deemed to have been filed, and appeal proceedings can commence.  
+
+- 
+File grounds of appeal also with the request for reestablishment as the 
+
+grounds were due on (25/1/18 – A108 EPC).  
+
+- 
+Likely to be accepted as “all due care” → T439/66 r4: “isolated mistake within 
+
+a normally satisfactory system”  satisfies all due care criterion.  
+
+All due care applies to both applicant + representative (J 3/93). 
+
+b) Cannot do anything as representative for opponent because FP not available 
+
+to opponent or proprietor (A121(4) EPC) and because reestablishment of 
+
+rights is only available for applicants/proprietors & not opponents.  
+
+ 
+Further Info:  
+
+ 
+(Both parties are, however, entitled to appeal A107 EPC – because adversely 
+
+effected (IGNORING the missed time limit issue!)).  
+
+ 
+Reestablishment not available to opponent for 2m time limit for filing an 
+
+appeal (T 210/89).
+
+
+- 17 - 
+
+5)  
+
+- Once the applicant has approved the text, further requests for amendment will 
+
+only be given in exceptional circumstances at discretion of the Examining 
+
+Division under R137(3) EPC.  
+
+- Minor amendments which do not require re-opening of the substantive 
+
+examination may be allowed (G 7/93).  
+
+- Amendments must comply with R137(4) EPC.  
+
+ED will send invitation (provide basis) 
+
+- 
+Conditions defined in G 7/93 must be met.  
+
+- 
+Must provide translations of the amended claims + explain the reason for the 
+
+amendment and why it is of a minor nature.  
+
+- 
+Can request up until decision to grant handed over to EPO’s internal post 
+
+service (G 12/91)  time when EPO bound by decision (usually 5 days before 
+
+stamped date of transmittal) therefore request amendment ASAP.  
+
+- 
+Will be allowed because substantive exam. will not need to be reopened 
+
+because claim 2 is within the scope of claim 1 (so narrowing claim, therefore, 
+
+no issues with patentability and because the claims will already have been 
+
+examined for clarity etc.).  
+
+- 
+Should be allowed as EPO will take into account the applicant’s interest in 
+
+having a patent that is legally valid in all of the states (G 7/93).  
+
+b) File a request for central limitation post-grant (after the patent has been
+
+granted) under A105(a) EPC.
+
+- 
+Must pay limitation fee, request not deemed filed until fee is paid (A105a(1) 
+
+EPC).  
+
+- 
+Court request while a pending opposition (A102a(2) EPC).  
+
+- 
+No reason needed.  
+
+- 
+Will be examined by EPO (A105b EPC). Thus amendment will be allowed 
+
+because it is a minor amendment, limiting the scope of the claim and only 
+
+introducing S-M from the claims. 
+
+
+- 18 - 
+
+- 
+Takes effect from when pub. in EPB (A105b(3)). 
+
+- 
+Request must satisfy R92(2) and (1) EPC (filed in writing, in official EPO 
+
+language (or trans. made under R6(2) EPC), contain info on proprietor, 
+
+contracting states, patent no., file a complete version of the amended claims + 
+
+amended desc. pages if necessary.  
+
+- 
+Must pay publishing fee + new amended claim translations (R95(3) EPC), 
+
+within 3m of communication from ED.  
+
+-  New amended spec will them be published in EPB (A105c EPC). 
+
+
+ Examination Committee III: Paper D - Marking Details - Candidate No
+
+Examination Committee III agrees on 78 points and recommends the grade PASS
+
+Category
+Max.
+Marks
+possible
+Marker 1
+Marker 2
+
+Part I - Question 1
+Part I - Question 1
+10
+9.0
+9.5
+Part I - Question 2
+Part I - Question 2
+8
+7.0
+6.5
+Part I - Question 3
+Part I - Question 3
+8
+6.5
+6.5
+Part I - Question 4
+Part I - Question 4
+6
+4.0
+4.0
+Part I - Question 5
+Part I - Question 5
+8
+5.0
+5.0
+Part II - Question 1
+Part II - Question 1
+10
+7.5
+7.5
+Part II - Question 2.1
+Part II - Question 2.1
+3
+3.0
+3.0
+Part II - Question 2.2
+Part II - Question 2.2
+6
+6.0
+5.5
+Part II - Question 2.3
+Part II - Question 2.3
+12
+9.5
+9.5
+Part II - Question 2.4
+Part II - Question 2.4
+8
+6.0
+6.0
+Part II - Question 3
+Part II - Question 3
+16
+10.0
+10.0
+Part II - Question 4
+Part II - Question 4
+5
+4.0
+4.0
+
+Total
+77.5
+77.0
+
+- 19 -
+
+

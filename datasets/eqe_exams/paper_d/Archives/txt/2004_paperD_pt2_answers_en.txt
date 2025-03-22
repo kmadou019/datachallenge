@@ -1,0 +1,692 @@
+ 
+
+ 
+
+Candidate’s Answer - DII   
+
+ 
+
+ELECTRIC OPTICS/OEDIPUS 
+
+ 
+
+1)   
+Electra filed two applications in 1997, Electra FI and Electra-EP. Clearly more 
+
+than 12 months have passed since these applications were filed, thus it is not 
+
+possible to claim priority from either of these applications (A 4(1)PC).  
+
+ 
+It is, nevertheless, important to consider what these earlier applications 
+
+described. 
+
+ 
+Electra-FI was the first application filed in the name of Electra to the basic 
+
+software and a circuit for performing the software ("circuit"). Also, this application 
+
+was used as the priority application in Electra-EP (under A 87(1)EPC). Electra-EP is 
+
+the first application filed in the name of Electra to the improved software. 
+
+ 
+Neither of these applications will be prior art against any later filed application as 
+
+they were withdrawn before publication. Their content is, however, relevant for 
+
+determining whether any priority claims made from Oedipus-EP are valid. 
+
+ 
+
+2)   
+Oedipus-EP was filed on 30/04/03, therefore a priority claim can be made from 
+
+this application up until 30/04/04. This deadline has not passed therefore there is still 
+
+time to file one or more applications making this priority claim. 
+
+ 
+The Oedipus application describes a digital camera carrying the software. This 
+
+subject matter was not described in either of Electra's earlier applications of 1997, 
+
+therefore Oedipus-EP is the first application filed to this subject matter. 
+
+ 
+The other subject matter disclosed in Oedipus-EP is the software and its use in 
+
+image enhancement. The software and, as I understand page 1, paragraph 2, line 4, 
+
+use of the software in image enhancement was, however, first described in Electra-
+
+FI. This means that any claim to priority to this subject matter by Electra must be 
+
+based on the earlier Finnish application for it to be valid, unless the requirements of 
+
+ART 4c(4) have been met. This would not, however, appear to be the case because 
+
+the Finnish application has served as a priority claim in Electra’s EP application. 
+
+ 
+This means that if Electra were to try and claim priority from Oedipus-EP the 
+
+priority claim would be invalid insofar as it relates to the software. 
+
+
+ 
+
+ 
+
+ 
+This would prejudice the allowability of any such application since the public 
+
+conference would be prior art against the application for the purposes of both novelty 
+
+and inventive step. Since the conference included disclosure of the software as well 
+
+as its use in a camera, it would seem that any application having an invalid priority 
+
+claim would lack novelty. 
+
+ 
+On the other hand, the priority is a right of the applicant, therefore for an earlier 
+
+application to invalidate the later priority claim based on a later application, the 
+
+earlier and later applications must originate from the same applicant. Thus any 
+
+application filed by Oedipus would be entitled to the priority date for the software 
+
+subject matter as well as the digital camera with the software. This affects the filing 
+
+strategy which should be used. 
+
+ 
+
+3)   
+Considering now the other inventions, the "circuit" was first disclosed in Electra-
+
+FI. However this is not in Oedipus-EP, therefore no valid priority claim to this subject 
+
+matter can be made from Oedipus-EP. 
+
+ 
+Similarly, the "improved software" was in Electra-EP but not in Oedipus-EP. So 
+
+priority for this subject matter cannot be claimed from Oedipus-EP. 
+
+ 
+Neither of these subject matter have yet been disclosed and they remain secret, 
+
+though it seems that the inventers will discuss this matter in the publication planned. 
+
+In light of this forthcoming journal, which will constitute prior art, applications to this 
+
+subject matter should be put on file before publication occurs. 
+
+ 
+The other "invention" is the pocket digital camera. This has not been disclosed in 
+
+any application filed thus far. 
+
+ 
+
+4)   
+In light of the above, I would suggest an application claiming priority from 
+
+Oedipus-EP is filed by Oedipus-EP in respect of the software and the method of 
+
+using the software in image enhancement. This application needs to be filed by 
+
+30/04/04. 
+
+ 
+An application should also be filed by Electra claiming priority from Oedipus-EP. 
+
+This application should describe and claim: (i) the digital camera with the basic and 
+
+improved software and circuit, (ii) the improved software and (iii) the circuit. The 
+
+priority claim will be valid for the digital camera which will ensure that the disclosure 
+
+at the conference does not prejudice patentability. The earlier filed Electra 
+
+applications do not cause any problems, as there is no valid priority claim for the 
+
+common subject matter.
+
+
+ 
+
+ 
+
+ 
+In order for Oedipus and Electra to both be able to claim priority in the suggested 
+
+way it may, depending on how the assignment which is already executed is worded, 
+
+be necessary to make a further assignment from Electra to Oedipus, transferring 
+
+back the right to claim priority from Oedipus-EP insofar as it relates to the software 
+
+and the method of image enhancement. 
+
+ 
+An agreement should also be established between the parties such that Oedipus 
+
+assigns back the application(s) filed in his name after filing. 
+
+ 
+
+5)   
+Of the countries which Electra are interested in all are members of the PCT, with 
+
+the exception of Taiwan. Thus in Taiwan, one application should be filed as 
+
+described above in (4) by Oedipus and one filed by Electra as described in (4). As 
+
+Taiwan is a member of the Paris Convention it will recognize the priority claims 
+
+based on Oedipus-EP. 
+
+ 
+With regard to the PCT applications, USA, EP, JP and South Korea can all be 
+
+designated. As these international applications will be filed after 01/07/02, when the 
+
+EPC entered into force in the Czech Republic, it can be obtained by the EP 
+
+designations. That the EPO can act as designated office in international applications 
+
+filed on or after the date on which the international application was filed was 
+
+confirmed by J 30/90. 
+
+ 
+In respect of the US designations on these applications, Oedipus and Electra 
+
+cannot be named as applicants as it is required that the applicant is a natural person. 
+
+In respect of the software/image enhancement application Ms Myopia should be 
+
+named as applicant (and her rights assigned hereafter). In respect of the camera, 
+
+software and circuit PCT application, both Miss Myopia and Dr Panopticon should be 
+
+named as applicants (and their rights assigned hereafter). 
+
+ 
+
+6)   
+The application to be filed in the name of Oedipus/Miss Myopia cover the 
+
+software and the method of image enhancement. Whether this subject matter is 
+
+patentable may vary from state to state – the method of image enhancement is 
+
+probably acceptable in all states, but whether claims to the software per se will be 
+
+allowable everywhere is less clear. The US will probably allow such claims. In 
+
+Europe claims to a programme for a computer are excluded under A 52(2)(c) – 
+
+though Art 52/3 provides that this exclusion only applies to the extent that the 
+
+application relates to a programme as such. 
+
+
+ 
+
+ 
+
+ 
+Moreover the recent case law of the EPO shows that a computer program will be 
+
+patentable (assuming it meets the other criteria of novelty, inventive step etc.) if it 
+
+has technical character. This technical character may be derived from a technical 
+
+effect which is produced by the program when it is run on the computer. Hence the 
+
+image enhancement which is provided will constitute such an effect (following T 
+
+1173/97). 
+
+ 
+
+7)   
+With regard to the subject matter in the applications filed by Electra, I would note 
+
+that it is not unforeseeable that a disvorcity objection would arise and that it is 
+
+considered that the camera, the circuit and the software represent three inventers. If 
+
+this occurs, this can be overcome by filing one or more divisional applications in the 
+
+national phases. The PCT does not currently provide for filing of divisional 
+
+applications. 
+
+ 
+
+8)   
+With regard to EP-Oedipus which is currently pending, I would suggest that this 
+
+can be allowed to lapse. Art 47(B) PC provides that an application need not be active 
+
+in order to claim priority from it, therefore this will not effect the validity of the priority 
+
+claims. 
+
+ 
+If it is maintained, rather than pursuing the EP designation of the PCT 
+
+applications, then the term of protection is effectively reduced by 1 year. This is 
+
+because the term is 20 years from the filing date (Art 3? EPC). In the case of EP-
+
+Oedipus, the filing date is 30/04/03, whereas in the PCT applications this is moved to 
+
+April 2004. 
+
+ 
+
+9)   
+The final outstanding issue is the recordal of the transfer of EP-Oedipus. I do not 
+
+suggest this is done. The EP register entry for this case is not created till after 
+
+publication, therefore it would not be able for anyone to see. 
+
+ 
+Also, so long as appropriate assignments are in place to ensure the priority 
+
+claims are valid as discussed in point (4) above, the right to claim priority is effective. 
+
+Copies of these assignments can be provided to any national offices which require 
+
+them. The International Bureau is unlikely to raise this issue. 
+
+
+ 
+
+ 
+
+ZEUS/LEDA 
+
+ 
+
+STATUS OF LEDA-PCT 
+
+ 
+
+(a)   
+This application has a filing date of xx/12/03 and a valid priority to an application 
+
+dated xx/12/02. This means that the effective date of all of the subject matter in 
+
+LEDA-PCT is the priority date i.e. xx/12/02. 
+
+ 
+
+(b)   
+The application designates EP, JP and US. The application was filed in 
+
+December 2002 which means that the EP designation includes all of those states for 
+
+which the EPC entered into force during 2002 (as well as all the earlier contracting 
+
+states of course!). Those dates for which the EP entered into force under A 169 EPC 
+
+during 2002 include: Bulgaria, Czech Republic, Estonia and Slovakia. That the EPO 
+
+can act as designated office for an international application filed on or after the date 
+
+on which the EPC came into force is clear from J 30/90. 
+
+ 
+
+(c)   
+Possible prior art against LEDA-PCT. 
+
+(i)  The sales to KKK. 
+
+ 
+These sales occurred in April 2002, which is after the priority date, but before the 
+
+ 
+filing date of LEDA-PCT. The priority claim is, however, valid (see ie char (a)) 
+
+ 
+therefore these sales will not be effective prior art against any of the subject 
+
+ 
+matter in LEDA-PCT. 
+
+ 
+
+(ii)   
+ZEUS-EP 
+
+This application published in May 2002, which is after the priority date, but before the 
+
+filing date of LEDA-PCT. This means that ZEUS-EP cannot be full prior art citable for 
+
+novelty and inventive step, as the publication did not occur until after the effective 
+
+date of the claims (ie the priority claim is valid). 
+
+ 
+However, ZEUS-EP may be citable for novelty only, though the position in this 
+
+regard is likely to be different in the different states designated in LEDA-PCT. 
+
+
+ 
+
+ 
+
+ 
+In the EP designation, ZEUS-EP will be novelty only prior art under A 54(3) EPC in 
+
+those states which are commonly designated and in respect of which the designation 
+
+fees have been paid (C 23a EPC). In this case this cannot include Czech Republic, 
+
+Slovakia, Estonia or Bulgaria (and possibly more). This is because ZEUS-EP was 
+
+filed in November 2001, which is before any of these states joined the EPC. Hence it 
+
+would have been impossible for these states to have been designated in ZEUS-EP. 
+
+That this was the case is confirmed by J 14/90. 
+
+ 
+Possible CZ-ZEUS 
+
+ 
+If such an application exists this will not be citable prior act against the EP 
+
+designation of LEDA-PCT under A 54(3). This is because A 54(3) specifically relates 
+
+to earlier filed "european applications", and not to earlier national applications. 
+
+ 
+
+(d)   
+Effects of Prior Art in EP application  
+
+Situation 1 - There is no CZ-ZEUS. 
+
+ 
+In those states which are not designated in ZEUS-EP (and for which designation 
+
+fees were not paid) claims to the chip can be maintained. This will at least included 
+
+those states mentioned above which joined the EPC in 2002 and most significally it 
+
+will include Slovakia and Czech Republic.  
+
+ 
+In other states for which designation fees were paid in ZEUS-EP, an amendment 
+
+will probably need to be made to the claims to ensure that they are novel over ZEUS-
+
+EP. If an amendment can be made, then it is possible to have two different claim 
+
+sets comprising the application for different states (if such an amendment is 
+
+necessary and is not possible, then it will not be possible to obtain a patent for the 
+
+chip in these states). 
+
+ 
+Situation 2 - A CZ-ZEUS exists. 
+
+ 
+In this case the situation for Slovakia is the same. Also the situation in any other 
+
+state, other than the Czech Republic is the same. 
+
+ 
+However if a ZEUS-CZ exists it may be that it is not possible to secure a patent in 
+
+the Czech Republic. This is because although earlier national applications are not 
+
+citeable under A 54(3) EPC, they are earlier prior rights against European Patents (A 
+
+139(2) EPC). This means that such an application could be used to a revoke a CZ 
+
+patent deriving from LEDA-PCT. There is a facility provided by R. 87 EPC for 
+
+bringing such prior national rights to the attention of the EPO during examination, 
+
+and it will be allowable in this case to file an amended claim set in respect of CZ if 
+
+such an amendment is available to make.
+
+
+ 
+
+ 
+
+ 
+In the US, I would check with my associates as to whether ZEUS-EP is available 
+
+as prior art, but I do not think it is. As far as I am aware, only applications which are 
+
+filed before (but are published after the relevant date) in the US or for the US (i.e. 
+
+PCT (US) and then only if they publish in English) count as prior art. 
+
+ 
+ 
+Similarly in JP, I would check with my associates as to whether Zeus-EP is prior 
+
+art, but again I do not think that it is. As far as I am aware, only later published, 
+
+earlier filed Japanese applications count as prior art. 
+
+ 
+This means that in the US and JP, claims to the chip should be patentable without 
+
+amendment (assuming no further prior act is found). 
+
+ 
+
+(e)   
+Freedom to use LEDA's chip. 
+
+ 
+As ZEUS does not have either a JP or a US patent, LEDA (and KKK) are free to 
+
+make and use chips in these countries. 
+
+ 
+Similarly in Slovakia, Estonia, and Bulgaria, LEDA (and KKK) are free to make 
+
+and use the chips. This is because ZEUS-EP cannot designate these countries and 
+
+you have found no national equivalent applications in respect to these countries. 
+
+ 
+The situation in the Czech Republic depends on whether CZ-ZEUS is in force or 
+
+not. If not, then LEDA (and KKK) are free to use and make the chips there. If it is in 
+
+force, making and selling and using the chips there would constitute an infringement 
+
+of ZEUS-CZ patent. 
+
+ 
+In other EP states - This depends on whether EP-ZEUS has been validated and 
+
+brought into force. In most countries this will have required a translation to be filed as 
+
+well as paying various fees. I can check with local associates to find out if any 
+
+applications are in force yet. The deadline for completing these acts is in most 
+
+countries 3-months from grant and so will fall in April 2004. Validation can therefore 
+
+be monitored. 
+
+ 
+
+(f)   
+Chips Already Sold 
+
+ 
+As the only sale of chips which has occurred was in the US and ZEUS do not 
+
+have a patent there, ZEUS cannot do anything about this sale. 
+
+ 
+Moreover ZEUS are based in Slovakia, thus I would presume that the chips were 
+
+made there. As explained above ZEUS also cannot have a patent there, hence there 
+
+is nothing ZEUS can do about the manufacture of the chips. 
+
+
+ 
+
+ 
+
+ 
+Presumably the chips have been incorporated into cameras by KKK. However, 
+
+KKK have only to date sold cameras incorporating the chips in the US, where ZEUS 
+
+do not have a patent. Thus the sale of these cameras does not constitute an 
+
+infringement and ZEUS cannot do anything. 
+
+ 
+On the other hand, KKK should not for the time being sell any cameras 
+
+incorporating the chips in any of those EP states where ZEUS-EP could be validated. 
+
+Such a sale could constitute a direct infringement by KKK and an indirect 
+
+infringement by LEDA, since they have supplied the essential means for putting the 
+
+invention into effect. 
+
+ 
+
+(g)   
+Improving the situation 
+
+ 
+A new application should be filed by LEDA directed to the chip modified to include 
+
+the image enhancement circuit. This application should be patentable since a major 
+
+improvement in performance is achieved. There does not appear to be any prior art 
+
+describing use of such a circuit in a chip. 
+
+ 
+This application should be filed on the same day or after the application of Electra 
+
+directed to the circuit. This will then ensure that the chip incorporating the circuit is 
+
+sufficient. In fact a copy of the PCT application describing the circuit should be filed 
+
+along with this new application. 
+
+ 
+Once this application is filed, LEDA will be in a strong position to negotiate X-
+
+licence with ZEUS. LEDA has the rights to the original chip in the US, JP and 
+
+Slovakia (and possibly others) as well as an application to the improved chip. On the 
+
+other hand, ZEUS have the earliest application in some EP contracting states and 
+
+possibly CZ (this should be established before the negotiations are begun). 
+
+ 
+Thus I would suggest that LEDA seek a deal wherein LEDA and their licencees 
+
+(LEDA can grant a licence to KKK) are permitted to make, use and sell the original 
+
+chip in Europe (all CS) in return for granting ZEUS a licence to use the new chip in 
+
+for as few EPC CS as they will accept. Ideally, this would not extend to the US and 
+
+JP - then LEDA and KKK would have exclusivity in these jurisdictions. 
+
+ 
+
+(h)   
+What to tell KKK 
+
+(i)  f KKK buy chips form ZESU rather than LEDA, then they will be able to sell their 
+
+cameras incorporating the chips freely in those EP states where EP-ZEUS has been 
+
+validated and in force. This does not include Slovakia, Bulgaria or Estonia.
+
+
+ 
+
+ 
+
+ 
+They may also be protected in Czech Republic - depending on whether CZ-ZEUS 
+
+has been maintained and is in force.  
+
+ 
+On the other hand, they will not be free to sell the cameras incorporating the chip 
+
+in the US, JP or Slovakia, since LEDA have patent applications of the earliest date in 
+
+these countries. Although it is not often possible to be sued under an application, 
+
+these will eventually become patents and KKK would be an infringer. The damages 
+
+would be payable back to the date of publication of the application. This follows from 
+
+the fact that ZEUS application is identical to LEDA's and presumably covers their 
+
+commercial product. 
+
+ 
+As KKK have already started selling and have established a market there, I would 
+
+have assumed that their US market is the most important to them. I would point this 
+
+out. 
+
+ 
+To summarize, KKK have the choice of the EP market (by buying from ZEUS) or 
+
+the US and JP markets (from buying with LEDA). I would imagine (and hope) the 
+
+latter is more attractive to KKK. 
+
+ 
+Additionally, I would inform KKK of my plans to seek a cross-licence with ZEUS. I 
+
+would indicate that LEDA had a new application to file (without disclosing any details) 
+
+and that we were hopeful that this could result in a cross-licence with ZEUS wherein 
+
+LEDA and KKK could buy and sell chips and cameras incorporating chips in EP, in 
+
+return for allowing ZEUS some freedom to use the subject matter of the new 
+
+application. I would make it clear that I would hope to not have to use the US and JP 
+
+patent applications (in the PCT) as part of this deal in order that LEDA  and KKK 
+
+keep these markets to themselves. 
+
+ 
+
+

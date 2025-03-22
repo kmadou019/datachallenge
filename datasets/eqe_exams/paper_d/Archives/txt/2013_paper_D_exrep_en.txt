@@ -1,0 +1,607 @@
+- 1 - 
+
+Examiners’ Report Paper D 2013 
+ 
+This year candidates had the flexibility to manage the distribution of their time between 
+part I and part II. It was observed that some candidates had difficulties with time 
+management. 
+ 
+Examiners’ Report Paper D 2013 - Part I 
+ 
+Candidates are reminded to accept the facts given in the paper and to limit themselves to 
+these facts (see in particular questions 2, 3 and 4). 
+Candidates are also reminded to use the legal bases applicable on the date stipulated in 
+the Implementing Regulations. In particular, this year many candidates appeared to refer 
+to outdated Rules relating to Fees and outdated Guidelines for Examination. 
+ 
+Question 1 
+ 
+Most candidates recognised the fact that the passage in US1 is part of the content of EP1 
+because US1 was available to the EPO on the date of filing EP1 and available to the 
+public on the date of publication of EP1.  
+Some candidates thought that a document cross referenced in the description of an 
+application is to be treated as filing by reference under Rule 40 EPC.  
+Several candidates suggested introducing the passage of US1 into the description of EP1 
+although this is not necessary for sufficient disclosure of the compound.  
+ 
+Question 2 
+ 
+This question was generally well answered. 
+Most candidates correctly applied the provisions of Rules 36(1)(a) and 36(1)(b) EPC and 
+recognised that the notification of the minutes of the telephone conversation triggered the 
+time limit under Rule 36(1)(b) EPC. 
+Some candidates erroneously applied Rule 133 EPC and argued that since the divisional 
+to EP1 was filed more than five days before expiry of the time limit it shall be deemed to 
+have been received in due time. However, the question does not contain any indication 
+that the divisional was received no later than three months after expiry of the time limit.  
+ 
+Question 3 
+ 
+The majority of candidates recognised that translations of the patent as amended have to 
+be supplied and the costs of the publication of such translations have to be paid to the 
+national offices. 
+A large number of candidates did not realise that renewal fees have to be paid to the 
+national offices. Of those that did mention the renewal fees, many wrongly referred to the 
+fees for the fifth year. 
+Although the question mentions an interlocutory decision in opposition proceedings, some 
+candidates referred to the provision of Rule 71 EPC rather than Rule 82 EPC. 
+ 
+Question 4 
+ 
+Although it is apparent from the question that the opposition was based on an unspecified 
+document which was identified only after expiry of the opposition period, many candidates 
+
+
+- 2 - 
+
+nonetheless assumed that the identification of the document within the opposition period 
+was implied by its use as a basis for the ground of opposition. These candidates answered 
+as if the opposition was admissible. As a result, candidates inappropriately applied the 
+provisions of Article 114 EPC and concluded that the late filed document would be taken 
+into account. 
+Some candidates did not realise that the opposition division can not exercise its discretion 
+under Article 114(1) EPC if the opposition is rejected as inadmissible. 
+ 
+Question 5 
+ 
+Many candidates correctly answered those parts of the question relating to representation 
+in the international phase. Where mistakes were made these related to not recognising  
+that Mr Surat will be the common representative irrespective of whether he is mentioned 
+first, and not recognising that an Indian agent is entitled to represent the applicant before 
+the EPO acting as IPEA.  
+Moreover, few candidates recognised that because Mr Surat has to appoint a professional 
+representative, Mr Wilson cannot represent both applicants in the European phase. 
+ 
+Question 6 
+ 
+This question was generally not well answered. 
+Candidates picked up some marks by calculating the time limit for paying the additional 
+search fee and the time limit for replenishing the debit account. Very few candidates 
+realised that a debit order for the administrative fee also has to be sent.  
+ 
+
+
+- 3 - 
+
+Examiners’ Report Paper D 2013 - Part II 
+ 
+The second part of the D paper requires candidates to analyse a situation concerning 
+various existing patent rights and suggest specific actions that are usually to be carried out 
+within a time limit. Care should be taken to correctly calculate the time limits. 
+ 
+This year the main aspects of the paper were: 
+ 
+Question 1 
+ 
+- the independent claim to a pan with 3D protrusions of EP-HEMI could not validly claim 
+priority from DE-HEMI, since DE-HEMI was not the first application by Schnell-Koch for 
+that subject-matter; 
+- EP-3D was pending until the expiry of the appeal period against its refusal, DIVI-3D 
+therefore was filed in time; 
+- the disclosure of pans with cubic protrusions in DIVI-3D extended beyond the content of 
+EP-3D, therefore no patent protection could be obtained for said subject-matter via DIVI-
+3D; DIVI-3D could be "repaired" by deleting the passage relating to pans with cubic 
+protrusions, and by filing an amended claim which overcame the clarity objection. 
+ 
+Comments to question 1 
+ 
+Surprisingly few candidates realised that the independent claim of EP-HEMI could not 
+enjoy priority from DE-HEMI. Apart from that, the patent situation was discussed well by 
+most candidates. However, many candidates did not properly indicate in which application 
+a specific type of protrusion was disclosed for the first time. 
+Most candidates realised that DIVI-3D was filed in time, i.e. within 24 months after the first 
+communication and before the expiry of the appeal period. They also realised that the 
+disclosure of a pan with cubic protrusions in DIVI-3D extended beyond the content of EP-
+3D. However, a significant number of candidates wrongly concluded that DIVI-3D could 
+lead to a patent for a pan with cubic protrusions on the incorrect basis that the subject-
+matter of cubic protrusions could be allocated its own date of filing.  
+ 
+Question 2 
+ 
+- a translation of the notice of opposition into an official language had to be filed with the 
+EPO before the meeting with Mr Gusto in order to make sure that the notice of opposition 
+was deemed to have been filed; 
+- EP-3D belonged to the state of the art under Article 54(3) EPC for the dependent claim of 
+EP-HEMI, and therefore could not be used for attacking inventive step thereof. 
+ 
+Comments to question 2 
+ 
+Most candidates were familiar with Article 14(4) EPC and therefore correctly identified the 
+need to file a translation of the notice of opposition into an official language of the EPO. 
+However, quite a few candidates wrongly calculated the time limit for filing the translation 
+from the end of the opposition period. 
+Many candidates realised that EP-3D cannot be considered for assessing the inventive 
+step of the dependent claim of EP-HEMI. However, a number of candidates did not come 
+
+
+- 4 - 
+
+to the conclusion that Schnell-Koch could therefore be expected to file amendments / an 
+auxiliary request directed to hemispherical protrusions. 
+ 
+Questions 3a+b 
+ 
+- any type of 3D protrusion fell under the scope of DIVI-3D in Italy and Germany; Buona 
+Cucina therefore would infringe DIVI-3D by producing such pans. 
+ 
+Comments to questions 3a+b 
+ 
+Most candidates recognised that Buona Cucina could use IT-PYR for preventing 
+competitors from manufacturing pans with pyramidal protrusions in Italy. An alarming 
+number of candidates incorrectly concluded that a granted IT-PYR will give Buona Cucina 
+freedom to produce and sell pans with pyramidal protrusions. Such advice is incorrect and 
+leads to substantial risk for the client. In the present case, any pan with pyramidal 
+protrusions will fall under the scope of any claim directed to pans with 3D protrusions. 
+Candidates should remember that a patent is not a positive right to operate. 
+ 
+Question 3c 
+ 
+- Dr Serrano was the true inventor of a pan with 3D protrusions and of a pan with cubic 
+protrusions; 
+- entitlement proceedings (Art. 61 EPC) for DIVI-3D should be instituted against Schnell-
+Koch. After the final court decision, DIVI-3D should be taken over, or a new European 
+patent application should be filed; thereby, Buona Cucina would obtain the generic patent 
+to a pan with 3D protrusions; EP-HEMI would then become a dependent patent; 
+- the disclosure of a pan with cubic protrusions in DIVI-3D is considered an evident abuse 
+(Art. 55(a) EPC); a European patent application EP-CUB therefore should be filed. 
+ 
+Comments to question 3c 
+ 
+Most candidates realised that Schnell-Koch was not entitled to a patent for a pan with 3D 
+protrusions or to a patent for a pan with cubic protrusions.  
+Many candidates suggested entitlement proceedings but often did not indicate for which 
+application the proceedings should be brought against Schnell-Koch. Some candidates 
+inappropriately indicated EP-HEMI, EP-3D or the cubic subject-matter mentioned in DIVI-
+3D. 
+Some candidates stated that the proceedings before the EPO would be stayed but not all 
+indicated the need to provide the required evidence. 
+Very few candidates realised that Schnell-Koch's disclosure of a pan with cubic protrusions 
+in DIVI-3D was an evident abuse under Article 55 EPC and that a new European patent 
+application could be filed for a pan with cubic protrusions within 6 months of the publication 
+of DIVI-3D. 
+ 
+
+
+- 5 - 
+
+Possible solution - Paper D 2013 - Part I 
+
+9Answer to question 1 
+ 
+For a compound to be enabled, the process for making the compound has to be disclosed. 
+EP1 comprises a reference to the relevant specific passage of US1 in which the process is 
+disclosed. 
+Since the applicant submitted US1 together with EP1, a copy of US1 was available to the 
+EPO on the date of filing of EP1, and US1 is part of the file of EP1. According to Article 
+128(4) EPC, after publication of EP1 the file relating to EP1 may be inspected by the 
+public on request. Therefore, US1 was made available to the public on the date of 
+publication of EP1.  
+Thus, in accordance with the Guidelines H-IV, 2.3.1 or H-IV 2.5 or F-III 8 or decision T 
+737/90 the disclosure of the process in US1 forms part of the content of EP1. Hence, the 
+European patent discloses the invention in a manner sufficiently clear and complete for it 
+to be carried out by a person skilled in the art and the Opposition Division will not revoke 
+the patent. 
+ 
+
+10Answer to question 2 
+ 
+According to Rule 36(1) EPC, the applicant may file a divisional application relating to any 
+pending European patent application subject to the time limits set out in (a) and (b). Both 
+EP1 and EP2 are pending. 
+ 
+a) 
+Pursuant to Rule 36(1)(a) EPC, any divisional to EP1 must be filed before the expiry 
+of twenty-four months from the Examining Division's first communication in respect of 
+the earliest application (here EP1). The Examining Division has not issued a 
+communication raising an objection that EP1 does not meet the requirements of 
+Article 82 EPC (Rule 36(1)(b) EPC). The first communication was deemed notified on 
+11 February 2011 (1 February 2011 + 10 days, Rule 126(2) EPC). Thus, a divisional 
+to EP1 could have been filed up to 11 February 2013. Today the time limit has 
+expired but it was still running when the applicant attempted to file DIV1. According to 
+Rule 135(2) EPC, further processing is ruled out in respect of the period under Rule 
+36(1)(a) EPC. It follows from Rule 136(3) EPC, that re‑establishment of rights under 
+Article 122 EPC is available. The request for re-establishment of rights and DIV1 
+have to be filed within two months of 20 February 2013 (Rule 136(1) EPC), i.e. the 
+request and DIV1 can be filed up to 20 April 2013. This period is extended under 
+Rule 134(1) EPC to Monday 22 April 2013.  
+ 
+b) 
+Pursuant to Rule 36(1)(b) EPC a divisional application can be filed before the expiry 
+of a time limit of twenty-four months from the communication in which the Examining 
+Division raised a specific objection under Article 82 EPC for the first time. According 
+to the Guidelines A-IV, 1.1.1.3(iv), the time limit is to be calculated from the 
+notification of the minutes of the telephone call. The minutes are deemed notified on 
+28 November 2011 (18 November 2011 + 10 days, Rule 126(2) EPC). Thus, the time 
+limit expires on 28 November 2013, and a divisional DIV2 to EP2 can still be validly 
+filed. 
+
+
+- 6 - 
+
+11Answer to question 3 
+ 
+a) 
+The Opposition Division will invite the patent proprietor to file a translation of the 
+amended claims into English and German and pay the prescribed fee, Rule 82(2) 
+EPC. According to Article 2(1) No. 8 Rules relating to Fees, the fee for publishing a 
+new specification is 70 €. 
+ 
+b) 
+Renewal fees for the 6th year have to be paid to the national offices, Article 141(1) 
+EPC. These fees are 100 € for Austria, 100 CHF for Switzerland and 160 € for the 
+Netherlands, "National law relating to the EPC”, Table VI, column 1. 
+ 
+According to Articles 65(1), 65(2) EPC and the London Agreement: 
+For Austria, a translation into German of the description and claims as amended has to be 
+supplied. The cost of publication of the translation is to be paid. The cost is 180 € plus 130 
+€ for every 15 pages following the 16th page of the translation. 
+ 
+For the Netherlands, a translation of the claims into Dutch must be supplied. Because the 
+patent has been granted in French, a translation into English must be supplied. The 
+translation may also be supplied in Dutch. The cost of publication of the translation is to be 
+paid. The cost is 25 €. 
+ 
+For Switzerland no translation is required and no fee is to be paid. 
+ 
+
+12Answer to question 4 
+ 
+Within nine months of the publication of the mention of the grant of EP1 in the European 
+Patent Bulletin, a notice of opposition can be filed, Article 99(1) EPC. The time limit 
+expired on 21 December 2012. According to Rule 76(2)(c) EPC the notice of opposition 
+shall contain an indication of the facts and evidence presented in support of the grounds of 
+opposition. The notice of opposition referred to an unspecified document, and therefore, 
+does not meet the requirements of Rule 76(2)(c) EPC. Since the document was only 
+identified after expiry of the opposition period, the indication of the evidence was 
+presented too late, and the opposition will be rejected as inadmissible, Rule 77(1) EPC. 
+EP1 cannot be revoked based on the document. 
+ 
+It is to be noted that documents which are prima facie highly relevant but submitted after 
+the expiry of the opposition period can only be taken into account in accordance with 
+Article 114(1) EPC and decision T1002/92 or Guidelines E-V, 2 if an admissible opposition 
+is pending. 
+ 
+Answer to question 5 
+ 
+a) 
+Mr Surat may be appointed as common representative in the international phase in 
+accordance with Rule 90.2(a) PCT either by indicating in the request that Mr Surat 
+should be the common representative with each applicant signing the request, or by 
+each applicant signing a separate power of attorney, Rule 90.4(a)-(c) PCT.  
+ 
+
+
+- 7 - 
+
+If the applicants do not appoint a common representative, the applicant first named in the 
+request who is entitled to file an International application with the receiving Office shall be 
+considered to be the common representative of all the applicants, Rule 90.2(b) PCT. Since 
+Mr Surat is the only applicant entitled to file an International application at the Patent Office 
+of India, he will be the common representative. 
+ 
+b1) In accordance with Article 49 PCT or Rule 90.1(a) PCT, a person having the right to 
+practice before the national Office with which the International application is filed may 
+be appointed by the applicant to represent him before the International Preliminary 
+Examining Authority. Thus an Indian agent may be appointed. 
+ 
+b2) According to Rule 90.1(c) PCT, a person having the right to practice before the EPO 
+acting as the International Preliminary Examining Authority may be appointed by the 
+applicant to represent him before that Authority. Thus a European professional 
+representative may be appointed. 
+ 
+c) 
+Since Mr Surat does not have his residence in a Contracting State of the EPC, he 
+has to be represented by a professional representative, Article 133(2) EPC. Thus, Mr 
+Surat is obliged to appoint a professional representative and this representative shall 
+be deemed to be the common representative, Rule 151(1) EPC. Thus, Mr Wilson, an 
+employee of company A, cannot be appointed as common representative. 
+ 
+
+14Answer to question 6 
+ 
+If, within a period of one month of receipt of the fax, i.e. before 25 February 2013, the 
+account is sufficiently replenished to enable payment of the second search fee, and within 
+the same period an administrative fee is paid, then the date on which the debit order was 
+received shall be considered to be the date on which payment was made, see 
+Arrangement for deposit accounts (ADA) 6.5. According to Article 2(1) No. 2 Rules relating 
+to Fees or the Agreement between the EPO and WIPO under the PCT published in OJ 
+3/12, the search fee in respect of an international search is 1875 €. The administrative fee 
+is 30% of the shortfall, but not less than 50 € or more than 305 €, ADA 6.6. Although 
+replenishing the account with 3000 € is sufficient to pay both fees, the client should have 
+sent a debit order for the administrative fee –or paid the fee by any other means- within the 
+1 month time limit. Since the debit order was not sent in time, the payment of the additional 
+search fee is considered to have been made on the date on which the deposit account 
+was duly replenished, i.e. on 22 February 2013, ADA 6.7. 
+ 
+The time limit set by Rule 40.1(ii) PCT to pay the additional fee is one month from the date 
+of the invitation and expired on 11 February 2013, Rule 80.2 PCT. As this date is earlier 
+than the date on which the payment of the additional search fee is considered to have 
+been made, the additional search fee is not paid in time and the international search report 
+will be established on those parts of the International application which relate to the 
+invention first mentioned in the claims, i.e. claim 1, Article 17(3)(a) PCT. 
+ 
+
+
+- 8 - 
+
+Possible solution - Paper D 2013 - Part II 
+
+Question 1 
+ 
+Analyse the patent situation for frying pans with  
+ 
+a) 3D protrusions, and in particular with  
+b) pyramidal,  
+c) hemispherical and  
+d) cubic protrusions: 
+ 
+a) EP-3D is the first application directed to a frying pan with 3D protrusions. 
+The independent claim directed to 3D protrusions of EP-HEMI cannot validly claim priority 
+from DE-HEMI, since DE-HEMI was not the first application by Schnell-Koch directed to a 
+frying pan with 3D protrusions. 
+EP-3D was published before the filing date of EP-HEMI. EP-3D belongs to the state of the 
+art (under Article 54(2) EPC) for the independent claim of EP-HEMI. 
+The independent claim of EP-HEMI lacks novelty over EP-3D. 
+The appeal period against the refusal of EP-3D expired on 5 June 2012 and EP-3D was 
+pending until that day. 
+The 24-month time limit for filing a divisional application expired at the earliest in July 2012. 
+Thus, DIVI-3D related to a pending European patent application and was filed in time. By 
+amending DIVI-3D, i.e. by removing the added subject-matter relating to cubic protrusions, 
+and by filing an amended claim overcoming the clarity objection, a patent for a frying pan 
+with 3D protrusions can be obtained, since there is no prior art disclosing a frying pan with 
+3D protrusions, i.e. a claim to a frying pan with 3D protrusions is novel, and 3D protrusions 
+heat up the food much faster than a flat surface, i.e. they involve an inventive step. 
+ 
+b) IT-PYR is the only application directed to a frying pan with pyramidal protrusions. Buona 
+Cucina can obtain a patent for a frying pan with pyramidal protrusions in IT because there 
+is no prior art disclosing a frying pan with pyramidal protrusions, and since pyramidal 
+protrusions reduce vitamin loss in fried food, i.e. they involve an inventive step. 
+The priority period for IT-PYR has expired, so that no further patent application can validly 
+claim priority from IT-PYR. 
+ 
+c) DE-HEMI was the first patent application directed to a frying pan with hemispherical 
+protrusions. EP-HEMI validly claims priority for hemispherical protrusions from DE-HEMI, 
+since it was filed by the same applicant within the priority year. The deemed withdrawal of 
+DE-HEMI does not affect the right to priority. 
+EP-3D is prior art prior art under Article 54(3) EPC for the dependent claim of EP-HEMI. 
+The dependent claim of EP-HEMl is novel over EP-3D. The dependent claim of EP-HEMI 
+involves an inventive step, since hemispherical protrusions can be cleaned easily and do 
+not become encrusted with food residues. 
+ 
+d) DIVI-3D is the first patent application which discloses a frying pan with cubic protrusions. 
+However, the disclosure of a frying pan with cubic protrusions in DIVI-3D extends beyond 
+the content of EP-3D. Therefore, no patent protection for a frying pan with cubic 
+protrusions can be obtained via DIVI-3D. 
+
+
+- 9 - 
+
+Pans with cubic protrusions were disclosed by the publication of DIVI-3D. Pans with cubic 
+protrusions were also disclosed at the trade fair “Hot Pans 2013". 
+ 
+Question 2 
+ 
+Analyse the status of our opposition against EP-HEMI. Discuss what can be achieved by 
+our opposition, and advise on any necessary actions. 
+ 
+The opposition period for EP-HEMI expired on 2 February 2013, carried on to 4 February 
+2013. The opposition was received by the EPO on time. 
+ 
+Buena Cucina may file the notice of opposition in Italian. However, a translation into an 
+EPO official language shall be filed within one month of filing the notice of opposition. The 
+one month period expires on 1.3.2013 i.e. before the meeting with Mr Gusto. 
+ 
+You are entitled to file the translation because Buena Cucina’s letter instructs you to act on 
+their behalf. You could also ask Buona Cucina to ensure that the translation is filed. 
+ 
+Due to the lack of novelty of the independent claim of EP-HEMI over EP-3D, the 
+independent claim of EP-HEMI cannot be maintained. 
+ 
+EP-3D belongs to the state of the art under Article 54(3) EPC and thus, EP-3D cannot be 
+used for attacking inventive step of the dependent claim of EP-HEMI, as incorrectly stated 
+in Buona Cucina’s notice of opposition. 
+ 
+As EP-3D only belongs to the state of the art under Article 54(3) EPC, it is very likely that 
+Schnell-Koch will file amendments/an auxiliary request limited to the dependent claim. 
+Schnell-Koch would then retain a patent EP-HEMI directed to a frying pan with 
+hemispherical protrusions. 
+ 
+Question 3 
+ 
+a) Are we free to act in our two markets? 
+b) Can we prevent our competitors from selling such pans in our two markets? 
+ 
+Buona Cucina cannot in particular manufacture, sell or offer frying pans with hemispherical 
+protrusions in Italy or in Germany, if Schnell-Koch pays the renewal fee for Germany for 
+EP-HEMI, since they would infringe EP-HEMI. 
+A frying pan with cubic protrusions falls under the scope of the independent claim of DIVI-
+3D. In Italy and Germany. Buona Cucina will infringe DIVI-3D by producing frying pans 
+with any type of 3D protrusions in their Italian factory / by selling or offering them. 
+Due to IT-PYR, Buena Cucina can prevent competitors from selling, offering or 
+manufacturing frying pans with pyramidal protrusions in Italy. 
+ 
+c) Can either of these positions be improved? If so, how? 
+ 
+True inventor: 
+Dr Serrano is the true inventor of the concept of 3D protrusions. He is also the true 
+inventor of a frying pan with cubic protrusions. Since Dr Serrano also sold Buona Cucina 
+
+
+- 10 - 
+
+the right to file patent applications, Buona Cucina should bring entitlement proceedings for 
+DIVI-3D against Schnell-Koch.  
+ 
+Alternative A:  
+Take over DIVI-3D, then correct the Article 76 EPC problem by deleting the passage about 
+cubic protrusions, and file amended claims directed to a frying pan with 3D protrusions. 
+ 
+Alternative B:  
+File a new European patent application (DIVI-3D-NEW) in respect of only the subject-
+matter disclosed in EP-3D, in the name of Buona Cucina, with claims directed to a frying 
+pan with 3D protrusions. 
+ 
+Provide evidence to the EPO that entitlement proceedings were brought against Schnell-
+Koch, in order to stay the proceedings of DIVI-3D. 
+ 
+DIVI-3D-NEW / DIVI-3D will be granted, and Buona Cucina will obtain the generic patent 
+for 3D protrusions in Germany and Italy. Any competitor of Buona Cucina will infringe DIVI-
+3D-NEW / DIVI-3D by manufacturing, selling or offering frying pans with any type of 3D 
+protrusions, in Germany or Italy. 
+ 
+Once Schnell-Koch starts selling their frying pans with hemispherical or cubic protrusions, 
+Buona Cucina can stop Schnell-Koch in Germany or Italy by bringing infringement 
+proceedings against Schnell-Koch. 
+ 
+EP-HEMI is a dependent patent, since a frying pan with hemispherical protrusions falls 
+under the scope of the independent claim of DIVI-3D. 
+ 
+For hemispherical protrusions, Buona Cucina could negotiate a cross-license from 
+Schnell-Koch. Buona Cucina’s position is much stronger than Schnell-Koch’s, since Buona 
+Cucina will have the generic patent. 
+ 
+Evident abuse: 
+The disclosure of a frying pan with cubic protrusions in DIVI-3D is considered an evident 
+abuse in relation to Dr Serrano who is the legal predecessor of Buona Cucina (Article 
+55(1)(a) EPC). 
+ 
+Thus, the disclosure in Schnell-Koch’s application DIVI-3D will not prejudice Buona 
+Cucina’s rights, provided that Buona Cucina files a European patent application within six 
+months of such publication. Therefore, file a European patent application EP-CUB in the 
+name of Buona Cucina, directed to a frying pan with cubic protrusions, before 27 March 
+2013. With this application, Buona Cucina can obtain a patent for a frying pans with cubic 
+protrusions in Germany and Italy. Buona Cucina can then stop Schnell-Koch from 
+manufacturing, selling or offering frying pans with cubic protrusions in their German factory 
+by bringing infringement proceedings against Schnell-Koch. 
+
+
+Part I
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Part II
+Question 1
+
+Question 2
+
+Question 3
+
+5
+
+8
+
+6
+
+6
+
+8
+
+7
+
+24
+
+12
+
+24
+
+0,5
+
+6,5
+
+4,5
+
+4,5
+
+2
+
+4,5
+
+14,5
+
+3
+
+0
+
+0
+
+6,5
+
+4,5
+
+4
+
+1,5
+
+4,5
+
+14,5
+
+2,5
+
+0
+
+Total
+100
+40
+38
+
+EXAMINATION COMMITTEE III
+Candidate No. ________
+
+Paper D 2013 - Marking Sheet
+
+Category
+Maximum 
+possible
+
+Marks awarded
+
+Question 1
+
+Examination Committee III agrees on ........ marks and recommends the following grade to the 
+Examination Board:
+
+PASS
+(50-100)
+
+COMPENSABLE FAIL
+(45-49)
+
+FAIL
+(0-44)
+
+X
+
+27 June 2013
+
+Chairman of Examination Committee III
+
+

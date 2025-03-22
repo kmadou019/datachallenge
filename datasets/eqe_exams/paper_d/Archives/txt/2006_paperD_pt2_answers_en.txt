@@ -1,0 +1,693 @@
+ 
+- 1 - 
+
+ 
+
+ 
+
+Candidate's answer 
+
+ 
+
+Paper DII 
+
+ 
+
+ 
+
+Dear Sir, 
+
+ 
+
+After having studied the information that you provided to me, I would like to offer 
+
+you the following advice in relation to each of your questions. 
+
+ 
+
+1) 
+Validity of claims 1-5 in Euro-PCT1 and ways to improve them 
+
+ 
+
+PCT1 was filed on 1.4.04 claiming priorities from F1, D1 and IT1. PCT1 was 
+
+filed within 12 m of the earliest priority and so priority seems to be validly 
+
+claimed. In principle all requirements to validly enter the regional phase at the 
+
+EPO have been complied with and the application seems to be standing in good 
+
+order. Dealing now with each claim one by one, I can advise as follows: 
+
+ 
+
+CLAIM 1 - solar panels having undulating walls 
+
+ 
+
+This is disclosed for the first time in F1. Since priority from F1 has been validly 
+
+claimed, this is entitled to 1.10.03 as effective date for the assessment of prior 
+
+art under A54(2) and (3) (A89 EPC). Unfortunately, there seems to be prior art 
+
+prior to this effective date. Under A54(2) EPC, the state of the art comprises 
+
+everything made available to the public by means of a written or oral disclosure. 
+
+According to your information, during the 2002 Tokyo Symposium on Solar 
+
+Panels the disclosure was made of the use of undulating walls to mechanically 
+
+strengthen the panels. Although the printed proceedings for this Symposium 
+
+were not made available until May’04, i.e. after the effective date of claim 1, the 
+
+disclosure during this public conference took place in 2002 and thus amounts to 
+
+prior art citeable against claim 1 under A54(2) EPC.  
+
+
+ 
+- 2 - 
+
+ 
+
+ 
+
+Unless we can provide sound reasons against the printed document being a 
+
+true account of what was said during the conference, it will be assumed that the 
+
+printed document reproduces the oral description (C-IV-5.1, D-V-3.3) and thus 
+
+the disclosure in the 2002 conference will be prior art. Since in that article and 
+
+hence presumably in the conference panels having undulating walls and in 
+
+particular a panel 1 m long with walls having 20 undulations per metre (U/m) 
+
+was disclosed, claim 1 would not be novel (A54(1) EPC).  
+
+Since apart from this single panel, no other disclosure appears to have been 
+
+made, we could try to regain novelty by amending claim 1 to exclude what has 
+
+been disclosed (the panel 1 m x 20 U/m). 
+
+The insertion of such a disclaimer, which is not contained in the application as 
+
+filed, will only be acceptable at the EPO following G1/03, i.e. will not be 
+
+regarded as being against A123(2), if it is used to restore novelty against an 
+
+accidental anticipation under A54(2). Moreover, according to this decision it is 
+
+necessary to remove no more than strictly necessary to restore novelty. Though 
+
+the disclosure in the Japanese symposium deals with solar panels, since it 
+
+deals with an uncompletely related problem to the one we attempt to solve 
+
+(mechanically strengthening panels versus improving thermal efficiency), we 
+
+may well be able to argue that the disclosure of a panel having undulating walls 
+
+with 1 m long and 20 U/m is an accidental disclosure. 
+
+I would therefore propose to amend claim 1 by inserting a disclaimer to exclude 
+
+this panel disclosed in 2002. Such a claim would then be novel. Since the 
+
+technical effect of these panels, i.e. their improved thermal efficiency, cannot at 
+
+all be derived from the prior art, I believe such a claim will be regarded as 
+
+inventive (A56) and hence as patentable – it is clear it has industrial application 
+
+under A57 too. 
+
+I would also suggest, in view of this prior art we have discussed, to insert a 
+
+claim directed to the use of undulating walls in solar panels to improve their 
+
+thermal efficiency. 
+
+Apart from the disclosure in the Tokyo Symposium, there is no other prior art. 
+
+ 
+
+ 
+
+
+ 
+- 3 - 
+
+ 
+
+ 
+
+CLAIM 2 – solar panels having undulating walls with 5-16 U/m 
+
+ 
+
+This invention is disclosed for the first time in the German utility model D1. 
+
+Under G2/98, it cannot be regarded as the same invention as the panels 
+
+disclosed in F1 and thus cannot be entitled to that priority. Under A87(1), priority 
+
+can be claimed from utility models, so the German priority is valid. 
+
+There is no prior art before the effective date of this claim (15.3.04) disclosing 
+
+panels having undulating walls with 5-16 U/m. The Japanese symposium does 
+
+not destroy the novelty of such a claim since it disclosed only one panel having 
+
+20 U/m !the claim is thus novel (there is no other prior art apart from this of an 
+
+earlier date). In addition, this claim can be regarded as inventive since the 
+
+disclosure in Tokyo does not at all anticipate that panels having wavy walls and 
+
+this range of undulations will exhibit improved thermal efficiency, this JP 
+
+disclosure dealing only with the mechanical strength of solar panels. 
+
+Claim 2 thus seems to be valid in the light of the prior art known to us. 
+
+ 
+
+CLAIM 3 – Solar panels having undulating walls with 5-16 U/m and < 3 m 
+
+length 
+
+ 
+
+Such a combination of features (5-16 U/m) and length < 3 m cannot be 
+
+considered as directly and unambiguously derivable from the disclosure of D1, 
+
+since D1 discloses panels having 5-16 U/m but of any length (even if specific 
+
+examples all have 1 m of length ) !thus the criteria according to G2/98 for 
+
+validly claiming priority for the same invention are not fulfilled. The effective date 
+
+of claim 3 is thus the priority date of IT1, i.e. 22.09.04. 
+
+The Tokyo Symposium does not disclose panels having 5-16 U/m and thus 
+
+does not destroy novelty of such a claim. However, in addition to that, there are 
+
+2 further pieces of prior art to consider: 
+
+
+ 
+- 4 - 
+
+ 
+
+ 
+
+- 
+EPB has an earlier filing date (April’04) and was published later (we 
+
+know it is published because the 18-M period for publication expired 
+
+October’05 and moreover you have detected said publication). Assuming 
+
+designation fees are paid for EPB, this will be prior art under 54(3) for the 
+
+assessment of novelty (A54(3)(4), R23a). By the way, this is irrespective 
+
+of the fact that eventually the common designations may be withdrawn in 
+
+EPB. Changes taking effect after the valid publication of the application 
+
+do not affect its status as prior art under A54(3) (see C-IV-6.1a). 
+
+EPB discloses a panel having 10 U/m x 2 m long, i.e. a panel which falls 
+
+within the scope of our claim 3 !claim 3 is not novel over EPB. 
+
+According to G1/03, it would be possible to introduce a disclaimer to 
+
+restore novelty against this A54(3) disclosure (from what you have told 
+
+me I have understood that the structure of the panels in EPB is new and 
+
+different to yours but that there are 2 embodiments of panels such as 
+
+yours disclosed in EPB). 
+
+ 
+
+- 
+However, in addition to EPB, also D1 is prior art. D1 was published on 
+
+15.09.04 and thus is full prior art under A54(2). Since D1 discloses 
+
+panels having 5-16 U/m albeit of any length – but all examples disclosed 
+
+fall within the scope of claim 3 (all have 1 m of length), claim 3 is not 
+
+novel over the publication of D1. Moreover, D1 is also prior art relevant 
+
+for the assessment of inventive step. Claim 3 thus does not seem to be 
+
+valid. 
+
+ 
+
+CLAIM 4 – Solar panels having undulating walls with 15-30 U/m and > 3 m 
+
+length 
+
+ 
+
+Such a combination of features is only disclosed for the first time in IT1 and thus 
+
+according to G2/98, it is only entitled to that priority date (cannot be regarded as 
+
+the same invention disclosed in F1 or D1). 
+
+ 
+
+ 
+
+
+ 
+- 5 - 
+
+ 
+
+ 
+
+The disclosure in JP does not disclose any panel having the features of claim 4 
+
+(20 U/m but 1 m long). 
+
+EPB is prior art under A54(3) for the same reasons discussed above in relation 
+
+to claim 3. EPB discloses a panel having 20 U/m and 4 m long, so falling within 
+
+the scope of claim 4 ! claim 4 is not novel (A54(1)). It will be possible to 
+
+restore novelty by disclaiming this specific combination ! such a disclaimer will 
+
+not be regarded as added matter under A123(2) following G1/03. 
+
+We should also consider the effects of D1, which was published before the 
+
+effective date of claim 4. All embodiments disclosed in D1 correspond to panels 
+
+of 1 m of length, so none falls within the scope of our claim 4. However, claims 
+
+in D1 are not limited to any specific length and disclose thus any panel having 
+
+5-16 U/m. The range claimed in claim 4 clearly overlaps with the range 
+
+disclosed in D1. 
+
+ 
+
+ 
+ 
+
+Claim 4 is not novel since it includes the explicitly mentioned end-point of the 
+
+known range from D1. In order to restore novelty, it will not be sufficient to 
+
+exclude the specific novelty destroying value. It is necessary to consider 
+
+whether the skilled person would consider seriously to work in the range of 
+
+overlap; if he would do so, no novelty (T26/85). 
+
+However, we have basis in the disclosure of IT, which according to what you 
+
+told me has all been included in the PCT1, to narrow the claim so as to avoid 
+
+overlap with the range disclosed in D1. 
+
+D1 
+
+5
+16
+
+Claim 4 
+15 
+30
+
+
+ 
+- 6 - 
+
+ 
+
+ 
+
+Since in IT and thus PCT1 we have included embodiments showing the 
+
+technical improvement over both claimed ranges (i.e. the one in claim 3 and 
+
+claim 4) for all integer values of undulations per metre, it would be possible to 
+
+amend claim 4 to direct it to panels having a range of 17-30 U/m + > 3 m length. 
+
+Such a new claim will not be regarded as added matter under A123(2) (see 
+
+T201/83, also T925/98). Such a claim will not overlap with the disclosure in D1 
+
+and thus should be regarded as novel. Moreover, since D1 discloses that in 
+
+order to obtain good results it was necessary that the number of undulations x 
+
+m was between 5 and 16, we will be able to argue that it was unexpected that 
+
+panels having ranges above that range prove to be also effective. So I believe 
+
+we will be able to argue that such a claim is inventive in addition to novel. 
+
+ 
+
+CLAIM 5 - Extrusion process 
+
+ 
+
+This was disclosed for the first time in F1. Since there seems to be no prior art 
+
+before the effective date of F1 disclosing such a process, I believe such a claim 
+
+is valid, i.e. patentable. 
+
+ 
+
+ 
+
+ 
+
+2) 
+Extension of EuroPCT1 to UK/BE 
+
+ 
+
+Yes, it is still possible to designate UK and BE in EuroPCT1. 
+
+EuroPCT1 was regionalized on Nov’05 and only DE, FR, IT were designated. I 
+
+assume you mean only the designation fees for these 3 countries were paid (or 
+
+the intention to pay for these 3 countries was indicated in the request for Entry 
+
+into regional phase). According to R107(1)(d), designation fees must be paid 
+
+within 31 months from the earliest priority date if the period under A79(2) (6 m 
+
+from publication of search report) has taken place earlier. Here regional phase 
+
+was entered much well before the 31 M time limit. 31 M term ends: 1.10.03 ! 
+
+[31 m] !1.05.06 closed [R85(1)]! 2.05.06 Tuesday.  
+
+ 
+
+
+ 
+- 7 - 
+
+ 
+
+ 
+
+So until that date it is possible to validly pay the designation fees for UK, BE 
+
+and any other country. I would suggest to pay 7 designation fees in total in view 
+
+of Bad’s activities, since that will be deemed to cover designation fees for all 
+
+countries (RFees, 2.3). You can always later on withdraw a designation if you 
+
+so wish. 
+
+ 
+
+ 
+
+3) 
+Ways to postpone national phase entry for PCT1 
+
+ 
+
+One way to do this would be to withdraw the claim to priority from F1. According 
+
+to the present situation for PCT1, national phases under A22 PCT must be 
+
+entered within 30 m from the earliest priority, i.e. by 1.04.06 (possibly extended 
+
+to 3.04.06 since 1.04.06 is a Saturday). 
+
+Under R90bis.3(a) PCT it is possible to withdraw a priority claim at any time 
+
+before expiration of 30 M from priority date. So we are on time to do this. 
+
+If there is more than 1 priority, as is the case here, the applicant can exercise 
+
+the right under R90bis.3(a) in respect of one or more priority claims (R90bis.3b). 
+
+Under R90bis.3(d), any time limits computed from original priority and not yet 
+
+expired will be recalculated. If priority is withdrawn now, entry into national 
+
+phases under A22 or A39 will be delayed until 30 M from D1 (15.03.04), i.e. 
+
+until 15.09.06. This will allow you enough time to take decisions on the project, 
+
+which are expected by June. 
+
+ 
+
+ 
+
+
+ 
+- 8 - 
+
+ 
+
+ 
+
+4) 
+Actions against Mr Bad – stop him? 
+
+ 
+
+ 
+
+As discussed under section 1) above we will be able to obtain in EuroPCT1 
+
+claims directed to: 
+
+ 
+
+a) panels with undulating walls (with disclaimer) (subject to convincing the 
+
+EPO that disclosure in JP is accidental) 
+
+b) claim 2   panels with 5-16 U/m 
+
+c) claim 4   panels with 17-30 U/m + >3 m long 
+
+ 
+
+If we enter national phases in other countries (US, JP), we will also be able to 
+
+obtain patents there. In the USA, by virtue of the grace period of 1 year, the 
+
+discloure of D1 will not be prior art against claims in PCT1 entitled to the priority 
+
+of IT1 since less than 1 year occurred between the two. We should check JP 
+
+legislation because also a grace period seems to exist there. Moreover, since 
+
+EPB was only filed in Europe, with no equivalent disclosures taking place 
+
+elsewhere, the effects of EPB as prior art as discussed above will be 
+
+constrained only to Europe, since its publication date (18 M from April’04, i.e. 
+
+around October’05) is well after the filing date of PCT1. 
+
+So in the USA Good will be able to obtain broader protection even than in 
+
+Europe, in particular claim 3 and 4 as contained in PCT1. 
+
+Once these patents are granted, Good will be able to stop Bad selling any solar 
+
+panel with undulating walls falling within the scope of their granted claims. 
+
+Since Bad is already offering panels and has in fact started selling at least in UK 
+
+and BE, I would strongly advise you to try to speed up as much as possible 
+
+prosecution of EuroPCT1 under the PACE program (OJ 2001, 459). Under 
+
+A67(1), from the date of publication of an EP application, this already confers 
+
+provisional protection. In certain countries, a published application does not 
+
+confer the full effects provided under A64, only the right to claim for reasonable 
+
+compensation. Certain countries require that claims be published in the 
+
+language of that state for that protection to become effective (A67(3)).  
+
+
+ 
+- 9 - 
+
+ 
+
+ 
+
+Since under A158(1) EPC publication of PCT1 takes the place of publication of 
+
+the EP application, provisional protection under EuroPCT1 is already available. 
+
+We should check national requirements and file translations as required. Copy 
+
+of the application and probably translations should be submitted to the infringer, 
+
+Mr Bad. 
+
+Also in the USA and other countries we may be entitled to provisional 
+
+protection. 
+
+We should monitor the activities of Bad and if he is going to act in any other 
+
+market in addition to Europe I would recommend to enter national phases under 
+
+PCT1 as soon as possible. 
+
+ 
+
+ 
+
+5) 
+Can Bad stop us? 
+
+ 
+
+Bad has only EPB as potential right to use against us. So, he can’t do anything 
+
+at all against us outside Europe. 
+
+As to EPB, from the information you had provided me, it would seem as if Bad 
+
+would have obtained information on your panels ilegally via your former 
+
+research manager, Mr Ugly. If that would be the case, it would be possible to try 
+
+to obtain title to EPB since an EP patent shall belong to the inventor or 
+
+successor in title and Mr Bad maybe is not the inventor. 
+
+In principle, proceedings could be started against him claiming entitlement to his 
+
+alleged invention and thereafter, once a final favourable decision was obtained, 
+
+claim the right to EPB under A61. However, from what you have told me, it 
+
+seems it may be extremely difficult to prove such an allegation, so it seems we 
+
+do not have much chances here. 
+
+So, assuming he retains EPB, he may be able to obtain a patent for whatever 
+
+new is disclosed in his application. I am not sure to have fully understood the 
+
+contents of EPB from your comments. You say it claims a new structure for 
+
+superposed panels. It seems to me that this is different to your structure in your 
+
+panels. If this is so, you should not concern much about his patent.  
+
+ 
+
+
+ 
+- 10 - 
+
+ 
+
+ 
+
+As long as your panels do not fall within the scope of their granted claims, Bad 
+
+will not be able to stop you. It is irrelevant if there is disclosure of panels such 
+
+as yours in the description, that has only relevance with regard to the effects of 
+
+EPB as prior art against you. In such a case, at the most he could try to obtain 
+
+claims directed to the only two specific embodiments of panels with undulating 
+
+walls disclosed, 10 U/m x 2 m and 20 U/m x 4 m. Those have as effective date 
+
+April’04. Though specifically these two panels have not been previously 
+
+disclosed in any prior art – the relevant prior art for them is the Tokyo 
+
+proceedings under A 54(2) and your EuroPCT1 under A54(3) for all commonly 
+
+designated states – it is very unprobable that he can get claims granted on 
+
+them since no effect is explained, so no technical teaching different over the 
+
+disclosure in Tokyo 2002. If he could get such claims, the effect would be that 
+
+while his patent would be dependent on yours since it has a later effective date, 
+
+you would not be able to sell such two panels without Mr Bad’s permission. Of 
+
+course, as stated under 4), he will not be able to sell without your permission. 
+
+So, in view of the fact that your EuroPCT1 is entitled at least to F1 and D1 
+
+dates, which are earlier than EPB date, it is hardly possible that EPB can get 
+
+any blocking claims. 
+
+As to his offer to withdraw embodiments, this does not make much sense. 
+
+Under A54(3), as stated above, his application is prior art as from its valid 
+
+publication, whatever happens later to his application. So even if he would 
+
+delete those embodiments now, that would not change the effect of EPB as 
+
+prior art under A54(3) (see my discussion earlier on). 
+
+Your position seems to be pretty good, so no need to discuss any agreement 
+
+with him. 
+
+Only if contrary to my understanding explained above, his application EPB 
+
+would indeed contain claims that would potentially cover your intended acts, i.e. 
+
+the panels you wish to manufacture, should we then consider starting 
+
+discussions with him. In any event, because you have an earlier effective date 
+
+in EuroPCT1, you will be able to obtain broader protection (your application 
+
+would moreover be prior art under A54(3) against him for all validly common 
+
+designated states) and so will always be in a better position for negotiating. 
+
+

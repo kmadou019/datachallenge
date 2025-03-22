@@ -1,0 +1,402 @@
+ 
+
+ 
+Examiner's Report Paper D 2011 - Part I 
+ 
+ 
+Generally, the candidates were able to deal with basic legal issues such as calculating 
+time limits. As in the recent years questions pointing to the EPC were better answered 
+than those dealing with the PCT. The candidates referred to the appropriate legal basis, 
+however not always with the necessary accuracy. This applies in particular to PCT articles 
+and rules. 
+ 
+ 
+Question 1 
+ 
+The majority of candidates realised that the period for filing an opposition has expired and 
+that "Intervention of the assumed infringer" under Art. 105 EPC and "Observations by third 
+parties" under Art. 115 EPC provide two possible options for company A. Some candidates 
+realised that a warning letter does not mean that infringement proceedings have been 
+instituted within the meaning of Art. 105(1)(a) EPC.  
+ 
+ 
+Question 2 
+ 
+For full marks, all aspects of the questions had to be dealt with, in particular the distinction 
+between the invitations according to Rule 62a(1) EPC and Rule 70a(1) EPC, as well as the 
+prosecution of the subject-matter of claim 3.  
+ 
+ 
+Question 3 
+ 
+Many candidates correctly stated that incorporation by reference is a remedy for the 
+missing claims upon filing. However, some of these could have collected full marks if they 
+had realised that the notification under Rule 20.4(i) PCT had not yet been issued and that 
+consequently the incorporation by reference could still be confirmed. 
+ 
+ 
+Question 4 
+ 
+The question was generally answered well. However, full marks were only given to 
+candidates who were aware that client C: 
+ 
+ had to attack claims 1 and 2 in order to ensure that claim 1 fell irrespective of the 
+outcome of the limitation proceedings, and 
+ is of Spanish nationality and therefore qualifies for the fee reduction independently 
+of his place of residence. 
+ 
+ 
+Question 5 
+ 
+The majority of candidates dealt well with this question and recognised the crucial point 
+that filing a European patent application by reference today appeared to be the only 
+solution to the situation. For all marks to be obtained, all the requirements for filing by 
+reference had to be given, and in particular the requirement for a filing date had to be 
+recognised. 
+
+- 1 -
+
+
+ 
+ 
+Question 6 
+ 
+Again, full marks could only be given to candidates who indicated in detail what steps had 
+to be taken in the present case for valid entry into the European phase, and that failure to 
+perform some of these steps led to the application being deemed to be withdrawn. 
+ 
+Further, it had to be stated that the two-month time limit for requesting further processing 
+according to Art. 121(1) and Rule 135(1) EPC is triggered by the notification of loss of 
+rights under Rule 112(1) EPC, which had not yet been received.  
+ 
+ 
+Question 7 
+ 
+Many candidates drew the correct conclusion that the amendment requested by P 
+contravened Art. 123(2) EPC, which was a new ground for opposition, admissible only with 
+P's consent. A full analysis distinguished between the different sets of claims granted for 
+the different contracting states. 
+ 
+ 
+Question 8 
+ 
+Most candidates were well aware of the possibility to correct the priority of a European 
+patent application and of the time limits to be observed. It was important to recognise that 
+the relevant 16-month time period runs from the earliest priority date (FR2).  
+Few candidates realised that EP1 could claim priority from FR1 if the application was re-
+dated according to Rule 56(2) EPC as a result of filing the missing drawing today. 
+ 
+ 
+
+- 2 -
+
+
+ 
+
+Possible solution - Paper D 2011 - Part I 
+ 
+ 
+Answer to question 1 
+ 
+Since the opposition period expired on 28 January 2011 a further opposition cannot be 
+filed, Art 99(1) EPC. 
+ 
+a) One option for Company A is to intervene in the opposition proceedings. To do so, they 
+need to institute proceedings for a court ruling that they are not infringing, 
+Art. 105 (1)(b) EPC. 
+Within 3 months from institution of the proceedings, Company A needs to 
+ 
+ file a notice of intervention in a written reasoned statement based on the novelty- 
+destroying prior art, and  
+ pay the opposition fee, Rule 89(1), (2) EPC. 
+ 
+b) Third party observations could be filed according to Art 115 EPC based on the novelty- 
+destroying prior art. The observations must be filed in writing and the grounds on which 
+they are based have to be stated, Rule 114(1) EPC.  
+ 
+For completeness, it is noted that, by intervening, the assumed infringer will be treated as 
+an opponent, Art.105(2) EPC, whereas by filing third party observations, the assumed 
+infringer will not become a party to the proceedings.  
+ 
+A less preferred option would be to make the opponent aware of the novelty-destroying 
+prior art.   
+ 
+ 
+Answer to question 2 
+ 
+a) The time limit for replying to the first invitation is 2 months; Rule 62a(1) EPC. 
+Thus: 09 April 2010 + 10 days (Rule 126(2)EPC) gives 19 April 2010 + 2 months, resulting 
+in 19 June 2010, which was a Saturday. Therefore the time limit was extended to Monday, 
+21 June 2010, according to Rule 134(1)EPC, and has expired. 
+As a means of legal redress, further processing is excluded by Rule 135(2)EPC and, 
+moreover,  makes no sense since the search report had already been published, thus 
+already established before that.  
+Even though re-establishment of rights according to Art. 122 EPC would be possible, it is 
+not likely to be granted (lack of any hint in the question). 
+ 
+The time limit for replying to the second invitation is 6 months after the mention of the 
+publication of the European search report, Rule 70a(1) and Rule 70(1)EPC, i.e. 
+25 February 2011, and thus has also already expired (today is 1 March 2011). 
+However, further processing is possible for the second time limit, Rule 135(2) EPC.  
+Thus: 
+ the European search opinion should be replied to, and further processing should be 
+requested by payment of the corresponding fee, Rule 135(1)EPC, Art. 2(1) No.12 RFees 
+ the examination fee and the respective further processing fee should be paid. 
+ 
+
+- 3 -
+
+
+b) Since claim 3 was not searched, amended claims may not relate to this subject-matter, 
+Rule 137(5) last sentence, EPC. 
+Since there is no communication from the Examining Division yet, the 24-month time limit 
+has not yet been triggered, Rule 36(1)(a) EPC. Hence, a divisional application for the 
+subject-matter of claim 3 can be filed. For this purpose, EP1 must be pending according to 
+Rule 36(1) EPC (cf. GL-A-IV-1.1.1.1 and G1/09). 
+ 
+ 
+Answer to question 3 
+ 
+According to Art. 11(1)(iii)(e) PCT, no international filing date has been accorded since the 
+claims were missing. 
+ 
+In order to avoid re-dating the application which would render the conference novelty 
+destroying, the applicant should, according to Rule 20.3(a)(ii) PCT, confirm that the claims 
+are incorporated by reference according to Rules 4.18 PCT and 20.6(a) PCT. By default, 
+the current Form PCT/RO/101 contains a statement of incorporation by reference under 
+Rule 4.18 PCT. 
+ 
+The time limit for requesting incorporation by reference is two months from the date of the 
+letter from the EPO, Rule 20.7(a)(i) PCT, i.e. 15.02.2011, Rule 80.6 PCT. Today is 
+1 March 2011, thus the time limit has lapsed. 
+ 
+However, according to Rule 20.7(b) PCT, the confirmation of incorporation by reference is 
+to be considered to have been received within the time limit if the notification under Rule 
+20.4(i) PCT had not been sent, which applies here. Therefore, it is possible to save the 
+filing date by immediately confirming the incorporation by reference, Rule 20.6(b) and 
+20.3(b)(ii) PCT.  
+ 
+ 
+Answer to question 4 
+ 
+a) The limitation fee (Art. 105a(1) EPC) amounts to €1050, Art. 2(1) No. 10a RFees and a 
+reduction of 20 % (Rule 6(3) EPC, Art. 14(1) RFees) applies if Spanish is used for the 
+request for limitation (€1050 - 20% = €840). Further, the publication fee has to be paid 
+pursuant to Rule 95(3), Art. 2(1) No. 8 RFees. 
+ 
+b) Even though third party observations according to Art. 115 EPC are possible in 
+limitation proceedings, patentability, e.g. novelty, is not examined, Rule 95(2) EPC. The 
+EPO does not consider such observations. Therefore, third party observations are 
+pointless. 
+ 
+The opposition period expires on 02 March 2011, Art. 99(1) EPC. Therefore, opposition 
+should be filed against EP in its entirety based on document X by tomorrow. In addition, 
+filing an opposition terminates the pending limitation proceedings, Rule 93(2) EPC. 
+Therefore the limitation fee has to be reimbursed, Rule 93(2), 2nd sentence EPC. 
+
+ 
+ 
+ 
+ 
+
+- 4 -
+
+
+ 
+
+Answer to question 5 
+ 
+The European patent application has to be filed no later than today. Otherwise the 
+symposium will constitute prior art according to Art. 54(2) EPC since it anticipates subject-
+matter Y. Since the priority period of IS1 has expired, no priority can be claimed, 
+Art. 87(1) EPC. The EP application has to be filed by reference because you are not in 
+possession of a copy of IS1, Rule 40(1)(c) EPC. To this end, you need to  
+ indicate that a patent is sought, Rule 40(1)(a) EPC, 
+ indicate the name or contact information of the applicant, Rule 40(1)(b) EPC, 
+ state the office, filing date and number of IS1, Rule 40(2) EPC.  
+Since the exact filing date is unknown, you cannot fulfil the requirements of Rule 40 EPC 
+immediately without further action. For instance, you might be able to obtain the filing date 
+e.g. by contacting the Icelandic Patent Office, or you could indicate a probable filing date 
+and subsequently request correction under Rule 139 EPC if necessary. 
+ 
+ 
+Answer to question 6 
+ 
+According to Rule 159(1) EPC the period for entering the European phase expires 
+31 months after the priority date, i.e. 3 July 2008 + 31m = 3 February 2011. 
+By then, the following requirements should have been fulfilled: 
+ specify the application documents, Rule 159(1)(b) EPC 
+ file the request for examination (already included in Form 1200), Rule 159(1)(f) EPC 
+and pay the examination fee 
+ pay the filing fee, Rule 159(1)(c) EPC 
+ pay the designation fee, Rule 159(1)(d) EPC 
+ pay the search fee for the supplementary European search, Rule 159(1)(e) EPC 
+(which will be reduced since an international search report from the USPTO is 
+available, OJ 03/2010, p.138) 
+ 
+To fulfil the requirements of Rule 159(1)(b) EPC, the application documents have to be 
+specified. Further, since none of the requirements of Rule 159(1)(c) - (f) EPC have been 
+fulfilled, the application is deemed to be withdrawn according to Rule 160(1) EPC. 
+Therefore, further processing according to Art. 121(1) and Rule 135(1) EPC should be 
+requested with respect to each of these requirements at the latest two months from a 
+notification under Rule 112(1) EPC which has not yet been received. The applicant has to 
+perform the omitted acts as required by Rule 135(1) EPC within the above time limit. 
+  
+Within this time limit, the following fees for further processing have to be paid according to 
+Art 2(1) No.12 RFees: 
+ 50% of each of the fees for examination, designation, filing and search, and  
+ the fee for the late submission of the request for examination (€225)  
+ 
+Additionally, within the 31-month time period, claims fees should have been paid for claims 
+exceeding 15, in the present case 2 claims fees, Rule 162(1) EPC. However, these fees 
+can still be paid within one month from a communication under Rule 162(2) EPC (as in 
+force until 30 April 2011). 
+ 
+ 
+ 
+ 
+ 
+
+- 5 -
+
+
+Answer to question 7 
+ 
+P requests the maintenance of the patent based on claim A as granted for DE and FR. As 
+far as these states are concerned, the claim is not open to an objection under 
+Art. 123(2) EPC, since  Art. 100(c) EPC is not admissible as a ground for opposition 
+unless the patent proprietor consents, G9/91, G10/91 or G1/95, G7/95. 
+ 
+The claim of the request with respect to AT and BE represents an amendment and is thus 
+subject to a full examination as to its compatibility with the requirements of the EPC, 
+including the provisions of Art. 123(2) EPC. A change to claim A for AT and BE would 
+violate Art.123(2) EPC since X was not originally disclosed.  
+ 
+Therefore, the patent cannot be maintained based on claim A for all of DE, FR, AT,  
+and BE. 
+ 
+ 
+Answer to question 8 
+ 
+The article was published after the filing date of FR1 but before the filing date of EP1. To 
+prevent the article constituting novelty-destroying prior art according to Article 54(2) EPC, 
+the priority of FR1 must be claimed. 
+ 
+The priority can be corrected within 16 months from the earliest priority date claimed, or, 
+where the correction would cause a change in the earliest priority date claimed, within 
+16 months from the corrected earliest priority date, whichever 16-month period expires 
+first, provided that such a notice may be submitted until the expiration of 4 months from the 
+date of filing accorded to the European patent application, Rule 52(3), EPC. The 16-month 
+periods respectively expire on 
+ 
+ 01 July 2011 for FR1 and 
+ 22 February 2011 for FR2 
+ 
+Thus, the relevant 16-month period expired on 22 February 2011. The 4-month time limit 
+from filing of EP1 also expired on 22 February 2011.  
+ 
+To be able to correct the declaration of priority, it is necessary to file the missing drawing, 
+so that the 4-month time limit starts running from the new date of filing and can be 
+observed.  
+ 
+Missing drawings can be filed within two months of the invitation, Rule 56(1) EPC, i.e. 
+4 January 2011 +10 days (Rule 126(2) EPC) + 2 months = 14 March 2011. 
+When the missing drawing is filed, the application will be re-dated, Rule 56(2) EPC. Since 
+the twelve-month priority period for FR1 expires today, Art. 87(1) EPC, the applicant has to 
+file the missing drawing today (1 March 2011). 
+ 
+The 4 month time limit for correction of the declaration of priority will then expire on 
+1 July 2011. By that date, the applicant has to correct the declaration of priority. 
+ 
+Alternatively, the applicant may request correction of the priority declaration according to 
+GL, A-V, 3 or the case law referred to therein. 
+
+- 6 -
+
+
+29 June 2011
+
+Examination Committee III agrees on .......... marks and recommends the 
+following grade to the Examination Board:
+
+COMPENSABLE FAIL 
+(45-49)
+FAIL 
+(0-44)
+PASS 
+(50-100)
+
+Candidate No.
+
+Paper D 2011 - Marking Sheet
+
+EXAMINATION COMMITTEE III
+
+Chairman of Examination Committee III
+
+__________________________________________
+
+Maximum 
+possible
+
+Marker
+Marker
+
+Marks awarded
+
+Question 1
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Question 7
+
+Question 8
+
+4
+
+6
+
+5
+
+5
+
+3
+
+6
+
+4
+
+7
+
+Question 1
+
+Question 2
+
+Question 3
+
+Question 4
+
+35
+
+11
+
+10
+
+4
+
+Total Part I + II
+100
+
+Part I
+
+Part II
+
+

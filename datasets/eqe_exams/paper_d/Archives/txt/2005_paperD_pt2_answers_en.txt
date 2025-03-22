@@ -1,0 +1,421 @@
+ 
+
+- 1 - 
+
+Candidate's Answer DII 
+Candidate's Answer - DII 
+
+Memo to Client 
+
+ 
+1. Foamed Core technology 
+
+ 
+[1.1] The process to make the wing and the wing itself are claimed in EP1. This was filed 
+
+without priority claim (deduced from publicn date = 18 months from filing date) on 
+
+29/4/02, in Danish which is OK (Art 14(2) EPC). The translation was filed in time (<3 
+
+month from filing date, Art 14(2)) so appears to be validly filed. 
+
+Lack of drawings = irrelevant provided disclosure = sufficient without. 
+
+No prior art found in search report and any disclosure after the filing date is irrelevant for 
+
+patentability, so no reason to believe EP1 is invalid for these claims. 
+
+No amendments made during exam, so no added matter. 
+
+Invention has an inventive step (lighter and cheaper). 
+
+Therefore claims to the foamed core technology are valid in EP1 and Mr Vinge will get a 
+
+valid patent provided he fulfills the requirements under R51(4) EPC for grant in April 
+
+2005. 
+
+ 
+[1.2] Use of recycled plastics material 
+
+The wing and process of EP1, but using recycled plastic core is claimed in PCT1, filed 
+
+without priority claim on 15/7/02 (publicn = Jan 04). PCT1 represents a selection 
+
+invention over EP1 effectively, with an inventive step based on the use of recycled 
+
+plastics, described by the client as obvious. 
+
+ 
+[1.3] EP1 is prior art under Art 54(3) and (4) EPC against the European application 
+
+derived from PCT1 so far the designated states overlap (R23a). It was not published 
+
+before PCT1 was filed so is not prior art under Art 54(2) EPC, therefore is not citeable 
+
+for inventive step against PCT1. 
+
+ 
+[1.4] The disclosure of the content of EP1 between Mr V and MOWE on 15/5/02 took 
+
+place under a secrecy agreement, therefore this is not prior art against PCT1. 
+
+ 
+[1.5] The presence of the wing incorporating all of the claimed invention of PCT1 at the 
+
+wedding did not disclose the invention in an enabling manner, because the foam core is 
+
+
+ 
+
+- 2 - 
+
+not visible (unless the wing is broken) (G1/92, T206/83, T26/85). Therefore this 
+
+exhibition is not prior art against PCT1. 
+
+[1.6] Mr Vinge apparently probably disclosed the details of the foam technology and the 
+
+recycled plastics (Mr Vinge knew the details of the wing on display at the wedding, ie 
+
+having recycled plastics in it) to Mr Cervantes at the wedding. 
+
+It is arguable that a discussion at a private gathering, albeit of a substantial number of 
+
+people, including competitors, should be taken to be under conditions of confidentiality. 
+
+However, as it seems unlikely that Mr V could, or would, be able to testify as to the exact 
+
+content of the disclosure, it would be difficult to use this as prior art against PCT1, as 
+
+proof of oral disclosure is required in detail. 
+
+ 
+
+Therefore it seems that there is no prior art which could be raised to help challenge the 
+
+novelty and/or inventive step of PCT1 and it appears PCT1 is therefore valid unless 
+
+client has any evidence to back up opinion that it is obvious (could file as 3rd party 
+
+observations, Art 115 EPC). 
+
+ 
+
+[1.7] However two factors need to be considered: 
+
+1) with EP1 and PCT1 both valid, it would seem likely that Mr Cervantes would need a 
+
+licence under EP1 in order to commercialise PCT1. He apparently is already selling 
+
+widely so need to check the exact words of the two claims to see if he owes a licence 
+
+fee under EP1. In this situation, EP1 might be well worth buying from Mr Vinge as might 
+
+be able to get a cross-licence to sell the recycled plastics version as claimed in PCT1. 
+
+ 
+
+[1.8] 2) It is quite likely that Mr Cervantes did in fact steal the information told to him by 
+
+Mr Vinge at the party and therefore MOWE is actually entitled to PCT1 and derived 
+
+applications. Therefore wouldn’t want to challenge validity. Should instead consider 
+
+arguments in favour of inventive step of PCT1.  
+
+In order to improve situation, I would suggest starting entitlement proceedings (in 
+
+Denmark) and request that the EPO suspends examination proceedings for the Euro-
+
+PCT1 application (R13 EPC) (it is too late to file own patent application under
+
+Art 55 EPC as PCT1 published >12 months ago and the Art 55 time limit = 6 months). 
+
+ 
+
+
+ 
+
+- 3 - 
+
+[1.9] In summary – strategy: 
+
+Before meeting: 
+
+- check whether PCT1 needs licence in Europe under EP1 to sell and buy EP1 
+
+- start entitlement proceedings and request suspension in EPO for Euro-PCT1 
+
+- will need separate entitlement proceedings in the USA for US equivalent but need to 
+
+consult a US attorney as to the best way to proceed in this valuable market (first to 
+
+invent, not first to file). Need to be very careful here – if successfully get Californian 
+
+tender and supply wings using the recycled foam technology, will be wilfully infringing a 
+
+granted US patent which leaves possibility of triple damages if client is not successful 
+
+with entitlement proceedings. 
+
+ 
+
+If client has bought EP1 and commercialisation under PCT1 needs a licence and have 
+
+shown willing to dispute entitlement to PCT1, client will be in a good bargaining position 
+
+in discussions with Mr Cervantes, for example to a cross-licence to save time, effort and 
+
+expense of entitlement proceedings, or a cheap assignment of PCT1 to client 
+
+(preferred). 
+
+ 
+
+ 
+
+2. 
+
+ 
+
+[2.1] The adjustable flap technology was claimed in EP2, filing date (without priority 
+
+claim re-dated to 25/5/02. 
+
+Granted 2/8/04, therefore opposition period (Art 99 EPC) expires 2/5/05 (Monday). 
+
+However the text of EP2 was actually present in EP1 as filed in Danish although were 
+
+erroneously omitted on translation.  
+
+According to Art 70(2), the authentic text of EP1 = the Danish text, not English 
+
+translation. 
+
+Therefore EP1 is Art 54(3) and (4) EPC prior art against EP2 and is novelty destroying 
+
+(identical disclosure) because it was filed earlier (29/4/02). All states designated (R23a), 
+
+all fees paid, so prior art for all states. 
+
+ 
+
+[2.2] However the English text can be brought into conformity with the Danish text at any 
+
+point during proceedings before the EPO (Art 14(2) EPC).Therefore, possible to 
+
+reinstate the missing seven pages into EP1. As EP1 has not yet granted, it would then 
+
+
+ 
+
+- 4 - 
+
+be possible to file a divisional application to the subject matter of EP2 (R25(1) EPC) and 
+
+retain EP1’s filing date (Art 76(1) EPC). Although EP1 does not have any drawings, it 
+
+seems that the flap technology can be sufficiently described without the drawings, so 
+
+their absence will not be detrimental to validity. 
+
+Any subsequent disclosure (eg of the wing at the wedding) cannot effect validity of the 
+
+application. As no prior art was found in the search report, and EP2 (with a filing date 
+
+later than EP1) cannot be prior art against EP1, the resulting patent should be valid 
+
+(after all, EP2 granted). 
+
+ 
+
+[2.3] Therefore, in summary, to improve the situation (in Europe) 
+
+whoever owned EP1 would have to correct the English text of EP1 and rapidly file a 
+
+divisional to the subject matter of EP2. 
+
+- EP2 is not valid so no point wasting money on it. 
+
+- Client should instead buy EP1 (much cheaper) and get access to both foamed core ad 
+
+flap technology in one go; need to hurry because grant of EP1 = due in April and 
+
+divisional must be filed by then; also need to register transfer (Art 71). 
+
+If Mr Vinge sold EP2 to Mr Cervantes, an opposition against EP2 could be filed using 
+
+EP1 as a ground under Art 100(a) EPC. As Mr Cervantes has signed a binding 
+
+agreement to buy all rights that MOWE does not, then he is bound to do this. 
+
+ 
+
+[2.4] In the USA – flap technology 
+
+There is no US patent application equivalent to EP2 (or EP1) which could protect the 
+
+flap technology in the USA, which is desirable in view of the tender for supply in 
+
+California. 
+
+EP1 and EP2 both published more than a year ago so no protection can be derived 
+
+using the US grace period. 
+
+If entitlement of MOWE to the recycled foam technology of US equivalent of PCT1 is 
+
+established, or a licence gained, it would be possible to use this technology in supplying 
+
+the Californian market, and protect it via this granted US patent (previously discussed in 
+
+paragraph 1.9) - would give partial protection to the wings that want to sell to Californian 
+
+company. As it has granted, it is too late to file a continuation-in-part to include the flaps 
+
+embodiment, even if MOWE owned the PCT and EP2. 
+
+Client should see what outcome of discussions with Mr Cervantes on 16/4/05 are and 
+
+then decide on a strategy for Californian tender due by 30/4/05. 
+
+
+ 
+
+- 5 - 
+
+3. Dimples and knobs 
+
+ 
+
+[3.1] Dimples – EP3 
+
+Client filed patent application on the day of the wedding, when the prototype was 
+
+displayed. This appears to be the first public disclosure of the dimples. Whether or not 
+
+the disclosure was enabling for the invention (that it is surprisingly noise reducing) is 
+
+irrelevant as the state of the art under Art 54(2) EPC only comprises disclosures made 
+
+before the date of filing. So showing the wing at the wedding does not constitute prior 
+
+art. (NB fax filing is sufficient to accord a filing date under Art 80 EPC; the EPO does not 
+
+have to be open to receive the fax – the filing date is accorded provided all of the 
+
+application is received before midnight). 
+
+So EP3 has a filing date of 4/7/02. 
+
+No prior art was found in the search so EP3 is novel. 
+
+The surprising effect gives inventive step. Therefore EP3 is valid. 
+
+ 
+
+[3.2] Dimples – EP4 
+
+Provided all of application was faxed through to the EPO before midnight on 4/7/02, EP4 
+
+will share the same filing date as EP3. In this situation EP3 and EP4 are not prior art 
+
+against each other and both would go to grant (Denmark and Germany are in the same 
+
+time zone). There is no precedent for taking into consideration the actual time that the 
+
+EPO received the application when two applications are received on the same day, so 
+
+time difference of faxes = irrelevant. 
+
+However Mr Cervantes stole the dimples invention after the discussion at the wedding. 
+
+The discussion took place after EP3 was filed and so cannot affect the validity of that 
+
+application. MOWE is entitled to this invention and could start entitlement proceedings 
+
+(in Denmark) for ownership of EP4, simultaneously requesting suspension of 
+
+proceedings. Once ownership was obtained, either EP3 or EP4 could be allowed to 
+
+lapse in order to prevent double patenting; alternatively MOWE could request refusal of 
+
+EP4 directly (Art 61(1)(c) EPC) (for at least the dimples technology). 
+
+This should be raised in discussion with Mr Cervantes on 16/4/05. 
+
+ 
+
+
+ 
+
+- 6 - 
+
+[3.3] Knobs – EP4 
+
+MOWE did not disclose knobs to Mr Cervantes and this aspect is not present in EP3. 
+
+However the knobs are merely a commonly known equivalent of the dimples. The 
+
+inventive concept of EP4 resides in the distribution and this is claimed in EP3. 
+
+So once entitlement to the dimples aspects of EP4 by MOWE is established, the 
+
+remaining knobs subject matter of EP4 will lack any inventive step (Art 56 EPC) and are 
+
+therefore not patentable on their own. 
+
+ 
+
+[3.4] Summary 
+
+Through entitlement proceedings MOWE should get exclusive ownership of a valid 
+
+patent to the dimples. DQWE will probably not get a patent to the knobs alone but will be 
+
+free to sell them because they will not be within the scope of EP3. However MOWE will 
+
+be equally at liberty to sell them. 
+
+To improve situation, client should initiate entitlement proceedings for EP4 dimples 
+
+invention prior to discussion with Mr Cervantes. 
+
+ 
+
+4. The actions recommended are: 
+
+1) buy EP1 and file divisional to EP2 subject matter after text correction. This doesn’t 
+
+involve DQWE. Need to hurry – delay grant? 
+
+2) If PCT-1 falls within the scope of EP1 consider infringement action against DQWE for 
+
+past sales in Europe of recycled foam. This could not be anonymous. 
+
+3) If DQWE buy EP2, file an opposition against EP2 by 2/5/05 using EP1 as grounds 
+
+under Art 100(a) EPC. The opposition could be filed in the name of a 3rd party (“straw 
+
+man”, G3/97 and G4/97) and this would not be an abuse of process. So could keep 
+
+involvement in this aspect a secret, although citation of EP1 might make it obvious. 
+
+4) File 3rd party observations against Euro-PCT1 (Art 115 EPC) showing it is obvious – 
+
+however need evidence and wouldn’t do if follow 5) below (would be anonymous 
+
+though) 
+
+5) start entitlement proceedings for Euro-PCT1 and US equivalent action. This can’t be 
+
+anonymous as whole point is to prove entitlement as the true inventor. This does give 
+
+the best chance of protecting commercialisation of the (now not secret) recycled plastics 
+
+foam. 
+
+6) start entitlement proceedings for EP4 – similarly can’t be anonymous. 
+
+

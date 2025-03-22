@@ -1,0 +1,519 @@
+- 1 - 
+
+Examiners' Report - Paper D 2007 - Part I 
+ 
+GENERAL 
+ 
+The candidates are reminded to read the questions carefully and to use the information 
+given therein. Failure to do so can result in overlooking issues, which are expected to be 
+discussed, or in applying inappropriate provisions (e.g. EPC instead of PCT) or simply in 
+answering questions not posed. 
+ 
+Candidates are also reminded to provide legal basis in their reasoning. 
+ 
+The candidates are expected to give a consistent answer to a question. When 
+contradictory alternatives are given, no marks are awarded. 
+ 
+Legible handwriting is appreciated.  
+ 
+ 
+Question 1 
+This question was generally well answered. Some candidates missed marks because they 
+either did not calculate the time limit for paying the fees at all or because they calculated it 
+incorrectly. A few candidates overlooked that the question was related to an international 
+application and not to a European application, because they referred to Art. 78(2) EPC for 
+the filing fee and the search fee. These candidates got no marks. 
+ 
+Question 2 
+Many candidates only referred to Art. 23(2) or 40(2) PCT and Rule 107 EPC and were not 
+aware that it is also necessary to request PACE for examination to start as soon as 
+possible. According to the Notice of the President, "PACE" is explicitly available also for 
+international applications entering the European phase. Only very few candidates correctly 
+noted that the start of examination can further be accelerated by waiving the right to 
+receive an invitation from the EPO to confirm that the applicant desires to proceed with the 
+application.  
+ 
+Question 3 
+The majority of candidates correctly noted that in principle protection in Germany can be 
+obtained via a European patent. But many candidates did not provide a satisfactory chain 
+of reasoning how this principle has to be applied starting from the given situation. In 
+particular only very few candidates calculated the time limit for entering the European 
+phase. This calculation was expected, because only if the time limit had not lapsed yet, 
+could a European patent be granted through which protection in Germany could be 
+obtained. In addition often no legal basis was cited at all. 
+ 
+Question 4 
+Most candidates correctly analysed the involved priority problem and concluded that the 
+priority of EP1 is invalid. However, many candidates completely ignored the information 
+given in the question concerning the internal processing error of the German Patent and 
+Trademark Office, which was an indication that the issue of non-prejudicial disclosure 
+under Art. 55 EPC was expected to be discussed. 
+
+
+- 2 - 
+
+Question 5 
+This question did not pose a serious problem to most candidates. However, a considerable 
+number of candidates did not discuss which filing date is accorded to an application filed 
+on a day when the EPO is not open. Only few candidates knew that this issue is treated in 
+a Notice of the EPO. 
+ 
+Question 6 
+A considerable number of candidates did not calculate the priority period and therefore did 
+not check whether EP1 had been filed within this period. 
+Furthermore many candidates erroneously applied Rule 20(3) EPC to the transfer of the 
+right of priority  based on EP1 thereby coming to the conclusion, that at the date of filing of 
+EP2 company M was not the successor in title of EP1 and thus priority was not validly 
+claimed. Some of these candidates were aware of J19/87 but argued that this decision is 
+concerned with the transfer of a national first application where national law applies 
+whereas the present case is concerned with the transfer of a European first application 
+where the provisions of the EPC should apply. From this, these candidates deduced that 
+Rule 20(3) EPC is applicable to the transfer of the right of priority based on the European 
+application EP1. This argumentation is not correct because Rule 20(3) applies to the 
+transfer of a European application and not to the transfer of a priority right as such, which 
+is never registered.  
+  
+Question 7 
+This question was generally well answered. Full marks could often not be awarded 
+because candidates did not realize that Rule 85(1) EPC is not applicable since the period 
+for filing a divisional application is not a time limit. In part b) some candidates wrongly 
+referred to Art. 122(5) EPC not realizing that in connection with divisional applications this 
+Article does not concern the period for filing such an application but the time limit for 
+paying fees therefor.  
+ 
+Question 8 
+Many candidates failed to distinguish clearly between the taking of evidence by hearing a 
+party and the taking of evidence by hearing a witness. The relevant Article 117(1)(a) and 
+(d) EPC was rarely mentioned. 
+ 
+Question 9 
+The majority of candidates correctly referred to Rule 87 EPC and suggested filing different 
+sets of claims for different states. The most common reason for losing marks was that the 
+time limit for paying the designation fees for D1 had not been estimated thus missing the 
+fact that the validly designated states were already determined. Some candidates 
+overlooked that D1 is a European application and not a national application. Some 
+candidates did not discuss the situation for not commonly designated states. 
+ 
+Question 10 
+This question was reasonably well answered. However, some candidates seem not to 
+have brought along the National law relating to the EPC to the exam and therefore could 
+not obtain many marks for this question. Surprisingly, some candidates thought it 
+necessary to file a translation for GB.
+
+
+- 1 - 
+
+Possible Solution - Paper D 2007 - Part I 
+ 
+ 
+Answer to question 1: 
+ 
+Fees to be paid are: 
+• the transmittal fee according to Rule 14.1 (a) PCT or Article 152(3) EPC 
+• the international filing fee according to Rule 15.1 PCT 
+• the search fee according to Rule 16.1 (a) (b) PCT 
+ 
+All fees have to be paid to the receiving Office, i.e. the EPO. 
+ 
+All fees have to be paid within one month from the date of receipt of the international 
+application (Rule 14.1 (c), Rule 15.4, Rule 16.1 (f), respectively). According to Rule 80.2 
+PCT, this period expires on 6 April 2007. This is Good Friday when the EPO is not open to 
+the public. According to Rule 80.5 (i) PCT, the one month period ends on the next 
+subsequent day when the EPO is open, which is Tuesday, 10 April 2007. 
+ 
+The fees can also be paid with late payment fee within one month from the date of an 
+invitation from the EPO (Rule 16bis.1 and Rule 16bis.2 PCT, or OJ 1992, 383). 
+ 
+The international filing fee and the search fee can be refunded, Rule 15.6 PCT and 16.2 
+PCT, respectively. 
+ 
+ 
+Answer to question 2: 
+ 
+Normally, a designated office is forbidden to start the processing of an international 
+application before the expiry of the time limit of the international phase (Art. 23(1), Art. 39 
+and 40(1) PCT). This can, however, be overruled by a request of the applicant, Art. 23 (2) 
+PCT or 40 (2) PCT, see also Guidelines, part E-IX, 5.5 and Notice of the President dated 
+01.10.03 (OJ 03, 509) and OJ 01, 586. 
+ 
+Hence, the applicant should request early processing. 
+ 
+The applicant should also perform all necessary steps in accordance with Rule 107 EPC, 
+i.e. request examination, pay the fee etc. 
+ 
+Upon entry into the European phase, he should request accelerated processing under 
+PACE in accordance with Notice of the President 01 October 2001 in OJ 2001, 459. 
+ 
+Furthermore, he should waive the right to receive a communication pursuant to Article 
+96(1) EPC. 
+
+
+- 2 - 
+
+Answer to question 3: 
+ 
+On the PCT request form PCT/RO/101, all states and regions are automatically 
+designated in the sense of Rule 4.9(a)(i) PCT. Hence, according to Rule 4.9 (a)(iii) PCT, 
+EP is also designated. 
+ 
+Patent protection in Germany can therefore still be obtained through the existing 
+designation of a European patent, in which the contracting state DE will have to be 
+designated. 
+ 
+The European phase for PCT-X has to be entered on or before 09 March 2007 (Rule 
+107(1) EPC). 
+ 
+ 
+Answer to question 4: 
+ 
+DE-1 is not a first application in the sense of Art. 87(1) EPC. Art. 87(4) EPC does not apply 
+here because DE-0 was withdrawn only after DE-1 was filed, see also Guidelines, part C-
+V, 1.4. 
+ 
+Since the priority of EP-1 is invalid, the effective date of EP-1 is its European filing date (01 
+Feb 2005). Thus, DE-0 was published before the effective date and is prior art against EP-
+1 according to Art. 54(2) EPC. 
+ 
+It is worth considering if the publication of DE-0 could be a non-prejudicial disclosure under 
+Art. 55 EPC. However, the publication of an application by a national office as a result of 
+an error is, according to T585/92 or Guidelines part C-IV 8.3 not an abuse in relation to the 
+applicant within the meaning of Art. 55(1)(a) EPC. 
+ 
+ 
+Answer to question 5: 
+ 
+a) Concerning the automated mailbox of the EPO, the provisions are laid down in OJ 
+2005, 44 or notice of the EPO dated 06 Dec 2004 or Guidelines, part A-II.1. According 
+to these provisions the automated mailbox of the EPO in Munich can be used at any 
+time, even on days when the EPO is not open. The date of posting the application in 
+the automated mailbox (Sunday) 05 March 2006 is the date of filing.  
+ 
+ 
+Hence, the time limit of Art. 87(1) EPC expired on 05 March 2007, so filing on 
+06 March 2007 is too late to validly claim priority. 
+ 
+b) The date of filing of the first application was 03 March 2006. The priority period 
+according to Art. 87(1) EPC ends on 03 March 2007. As 03 March 2007 was a 
+Saturday, the period is extended until 05 March 2007 according to R. 85(1) EPC. 
+ 
+Therefore the period expired on 05 March 2007 and the priority has been validly 
+claimed. 
+
+
+- 3 - 
+
+Answer to question 6: 
+ 
+According to Art. 87(1) EPC, the right of priority belongs to the applicant of the previous 
+application or his successor in title.  
+ 
+According to Guidelines part A-III, 6.1 or J19/87, a valid transfer of the priority right under 
+national provisions on or before the filing date of the subsequent application is sufficient. 
+Proof of such transfer can be filed later. 
+ 
+The transfer of EP1 - hence the transfer of the priority right - took place  in Nov 06 and was 
+valid under the national Polish provisions. Therefore, company M is the successor in title 
+for the purposes of Art. 87 (1) EPC on the filing date of EP2. 
+ 
+The right of priority can be enjoyed for 12 months from the date of filing of EP1, i.e. until 22 
+Dec 06. 
+ 
+Therefore, the priority of EP1 is validly claimed. 
+ 
+ 
+Answer to question 7: 
+ 
+a) Rule 25(1) EPC states that the parent application must still be pending. An application 
+is pending in the sense of Rule 25 (1) EPC up to but not including the date of 
+publication of the mention of the grant in the Bulletin, see Guidelines part A-IV, 1.1.1 or 
+OJ 2/2002, p.112, or notice of the EPO dated 09 Jan 2002. Hence, the divisional 
+application may be filed until 01 May 2007.  
+ 
+Although 01 May 2007 is a holiday, there is no extension to 02 May 2007 according to 
+Rule 85(1) EPC, since the period for filing a divisional is not a time limit. 
+ 
+b) The remedy of restitutio in integrum (Art. 122 EPC) applies to time limits vis-à-vis the 
+EPO. Since R. 25(1) EPC sets the condition that the earlier EP-application is pending, 
+it does not impose such a time limit. Hence, Art. 122 EPC is not applicable. This was 
+subject of the decisions J24/03 or J18/04 and is further referred to in the Guidelines, 
+part A-IV, 1.1.1. 
+ 
+ 
+Answer to question 8: 
+ 
+Generally, according to Art. 104(1)EPC or Guidelines, part E-IV 1.9, each party to 
+opposition proceedings shall meet the costs he has incurred.  
+ 
+Since Mr. A is a party to the opposition proceedings in the sense of Art. 99(4) EPC, the 
+taking of evidence was hearing of a party, Art. 117(1)(a) EPC. Hence, Mr. A is not entitled 
+to reimbursement. 
+ 
+Since Mr. X is a client of Mr. A, he is not a party to the proceedings. In his case, the taking 
+of evidence was the hearing of a witness or an expert in the sense of Art. 117(1)(d) or (e) 
+EPC. 
+
+
+- 4 - 
+
+According to Rule 74(2) EPC or Guidelines, part E-IV 1.10 or notice of the EPO in OJ 
+1983, p. 100, witnesses and experts shall be entitled to appropriate reimbursement of 
+expenses for travel and subsistence. Thus, Mr.  X is entitled to reimbursement. 
+ 
+ 
+Answer to question 9: 
+ 
+Rule 87 EPC allows different sets of claims for different contracting states in cases of 
+conflicting prior art,  
+- 
+either being prior art under Art. 54(3) EPC  
+
+ 
+- 
+or earlier national prior rights according to Art. 139(2) EPC. 
+ 
+Document D1 is prior right under Art. 54(3) EPC because it has an earlier filing date than 
+EP and because it was published only after the filing date of EP. D1 has prior art effect 
+only for those states which were designated in both EP and D1, Art. 54(4) EPC and for 
+which designation fees have been paid, Rule 23a EPC. These states can be determined 
+because the time limit for paying the designation fees for D1 has ended (in January 2004, 
+Article 79(2) EPC, + possible grace period). 
+ 
+Document D2 is a national prior right according to Article 139(2) EPC. 
+ 
+The following sets of claims should be filed in order to obtain the broadest scope of 
+protection possible: 
+
+ 
+- 
+A first set of claims for the overlapping states between EP and D1. The independent 
+claim thereof has the combination of features A and B. 
+
+ 
+- 
+A second set of claims for DE in order to overcome the conflict with D2. The 
+independent claim thereof has the combination of features A, B, and C.  
+
+ 
+- 
+A third set of claims may remain without amendments for all other states. 
+ 
+ 
+Answer to question 10: 
+ 
+According to Art. 65 (1) EPC, the contracting states may prescribe that a translation has to 
+be furnished in the national phase. According to the brochure “National Law relating to the 
+EPC”, table IV, the following steps are required in the respective contracting states: 
+ 
+- 
+for validation in TR, the patent has to be translated into Turkish. The translation into 
+Turkish should be filed within 3 months from the mention of the grant, hence until 28 
+February 2007, but can still be filed within further 3 months by payment of a 
+surcharge. In addition, an authorised professional representative in Turkey has to be 
+appointed. 
+
+ 
+- 
+for validation in FR, it is too late to file the translation into French. However, restitutio 
+according to national law in France can be tried. 
+
+ 
+- 
+for validation in GB, no action has to be taken. 
+
+
+ 
+
+ 
+
+EXAMINATION COMMITTEE III 
+Candidate No.   
+ 
+Paper D 2007 Schedule of marks 
+ 
+ 
+Marks awarded 
+ 
+Question 
+Maximum 
+possible 
+   Marker   
+
+ 
+   Marker    
+
+ 
+
+ 
+PART I 
+ 
+
+ 
+1 
+ 
+4 
+ 
+ 
+
+ 
+2 
+ 
+4 
+ 
+ 
+
+ 
+3 
+ 
+3 
+ 
+ 
+
+ 
+4 
+ 
+6 
+ 
+ 
+
+ 
+5 
+ 
+3 
+ 
+ 
+
+ 
+6 
+ 
+5 
+ 
+ 
+
+ 
+7 
+ 
+3 
+ 
+ 
+
+ 
+8 
+ 
+4 
+ 
+ 
+
+ 
+9 
+ 
+5 
+ 
+ 
+
+ 
+10 
+ 
+3 
+ 
+ 
+
+ 
+TOTAL PART I 
+ 
+40 
+ 
+ 
+
+ 
+PART II 
+ 
+ 
+ 
+ 
+
+ 
+1 
+ 
+18 
+ 
+ 
+
+ 
+2 
+ 
+14 
+ 
+ 
+
+ 
+3 
+ 
+11 
+ 
+ 
+
+ 
+4 
+ 
+5 
+ 
+ 
+
+ 
+5 
+ 
+12 
+ 
+ 
+
+ 
+TOTAL PART II 
+ 
+60 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total Parts I + II 
+ 
+100 
+ 
+ 
+
+ 
+ 
+Examination Committee III agrees on      marks and recommends the following grade to the Examination 
+Board: 
+ 
+ 
+ 
+PASS 
+FAIL 
+ 
+(50-100) 
+(0-49) 
+ 
+ 
+COMPENSABLE FAIL 
+ 
+ 
+(45-49, in the case the candidate sits the examination for the first time) 
+ 
+ 
+3 July 2007 
+ 
+ 
+ 
+ 
+ 
+Chairman Examination Committee III 
+
+ 
+ 
+
+

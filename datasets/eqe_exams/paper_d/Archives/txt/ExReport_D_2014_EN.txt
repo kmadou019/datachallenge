@@ -1,0 +1,582 @@
+- 1 - 
+ 
+
+Examiners’ Report Paper D 2014 
+ 
+General Comments 
+ 
+This year was the second year where the candidates had the flexibility to manage 
+the distribution of their time between part I and part II. It was once again observed 
+that some candidates had difficulties with time management. 
+Many candidates this year used in their answers an outdated version of the legal 
+provisions. Candidates are reminded that, according to the Implementing Provisions 
+to the Regulation on the European Qualifying Examination, the examination syllabus 
+covers the legal texts which are in force on 31 December of the year prior to the 
+examination. 
+Candidates are also reminded that they should not write their name or initials on any 
+of the sheets of EQE lined paper nor should they use their name or initials in their 
+answers.  
+Simply reciting the question does not gain any marks. 
+A complete answer requires an analysis and a conclusion. 
+
+
+- 2 - 
+ 
+
+Examiners’ Report Paper D - Part I 
+ 
+Question 1 (6 marks) 
+ 
+Many candidates recognised that Ms Mele should bring proceedings against Mr 
+Baum before a German court. However, candidates did not state that because the 
+new application to be filed under Article 61(1)(b) EPC is deemed to have the date of 
+filing of EP1, the scientific publication is not prior art. Most candidates did not provide 
+a sufficient legal basis for why protection can be obtained in all contracting states. 
+ 
+Question 2 (7 marks) 
+ 
+Many candidates correctly analysed the validity of the priority for subject-matter A 
+and A+B. However, far fewer candidates reached the conclusion that the priority of 
+IT1 is to be added in order to establish an effective date for subject-matter A before 
+the symposium. Some of those who did suggest adding the priority of IT1 wrongly 
+cited Rule 52(3) EPC instead of Rule 52(2) EPC. 
+Surprisingly, some candidates considered national application IT1 to be prior art 
+under Article 54(3) EPC. 
+ 
+Question 3 (8 marks) 
+ 
+Most candidates correctly applied Rule 70(1) EPC to calculate the time limit for 
+paying the examination fee. Only some candidates pointed out that this time limit is 
+suspended. Few candidates correctly calculated the part of the period still to elapse. 
+ 
+Question 4 (7 marks) 
+ 
+Not all candidates are familiar with the Rules of the PCT governing representation 
+before the EPO as receiving Office.  
+ 
+Question 5 (6 marks) 
+ 
+This question was very well answered. A few candidates lost marks because they 
+either did not calculate the time limits for filing the notice of appeal and the grounds 
+for appeal, or did not realise that the decision is deemed notified on the 10th day after 
+posting. 
+ 
+Question 6 (6 marks) 
+ 
+Although many candidates cited OJ 2009, 338, few candidates correctly determined 
+the number of pages on the basis of which the additional fee will be calculated. 
+Although 5 May 2014 was a closing day for the EPO branch in The Hague, this was 
+not indicated in the calendar given to the candidates. Candidates extending to 6 May 
+were not penalized. 
+Surprisingly some candidates wrongly considered that the filing fee could be paid 
+1 month after expiry of the time limit according to Rule 159(1) EPC. 
+
+
+- 3 - 
+ 
+
+Examiners’ Report Paper D 2014 - Part II 
+ 
+The second part of the D paper requires candidates to analyse a situation 
+concerning various existing patent rights and suggest specific actions that are 
+usually to be carried out within a time limit. Care should be taken to correctly 
+calculate the time limits. 
+ 
+This year the main aspects of the paper were: 
+ 
+- Claim 1 of EPCZ1 is patentable; it has two effective dates, one for compositions 
+comprising A and another one for compositions comprising B, C or D.  
+ 
+- EPFR3 confers protection to the direct product of the process, i.e. to Z, but not to A 
+which is substantially different from Z. 
+ 
+- A patent may be obtained on the basis of PCTCZ2 because GD has not been 
+notified about the loss of rights and therefore further processing is still available.  
+ 
+- Although CLC has a stronger position because of EPFR1, the position of GD may 
+be improved by offering CLC a licensing or a transfer of the rights of PCTCZ2. 
+ 
+Regarding the specific questions: 
+ 
+Question 1 (33 marks) 
+ 
+The vast majority of candidates realised that in claim 1 of EPCZ1 compositions 
+comprising B, C or D do not enjoy the priority of CZ1. Nevertheless, many either did 
+not realise or did not explicitly state that claim 1 has two effective dates. Many 
+candidates did not recognise that claim 1 of EPCZ1 is novel over EPFR2 and that no 
+amendment is required, provided that the priority right is maintained. 
+ 
+A surprisingly large number of candidates referred to the version of Rule 53 EPC 
+valid prior to 1 April 2013, which does not apply in the present case, and 
+consequently provided the wrong time limit for filing the translation of the previous 
+application. 
+ 
+Some candidates mentioned that a claim is novel and/or inventive without referring 
+to the relevant piece of prior art and/or without providing any explanation to this 
+effect.  
+ 
+Question 2 (9 marks) 
+ 
+Most candidates correctly stated that the protection conferred by EPFR3 extends to 
+the direct product of the process. However, fewer specified that this direct product is 
+Z.  
+Only a minority stated that A is substantially different from Z due to the fact that A is 
+produced from Z by a multistep process and/or A exhibits different properties than Z. 
+This means that A cannot be considered as the direct product of the process of 
+EPFR3 and importation of A into Europe would not constitute infringement of this 
+patent. 
+
+
+- 4 - 
+ 
+
+Some candidates mentioned that A is different from Z without providing any 
+explanation. This led to candidates not earning all the available marks. 
+ 
+Question 3 (9 marks) 
+ 
+The majority of candidates realised that the entry of PCTCZ2 into the European 
+phase is still possible because GD has not yet been notified about the loss of rights.  
+However, some candidates erroneously thought that in the present case the time 
+limit for the entry into the European phase could be changed by withdrawing the 
+priority claim.  
+Some candidates either did not spot the possibility of further processing or wrongly 
+calculated the respective time limit. Re-establishment of rights was not an option. 
+ 
+Question 4 (9 marks) 
+ 
+Most candidates recognised that GD could not commercialise any of its products 
+without a license from CLC, due to EPFR1. 
+Most candidates also correctly mentioned that the product of EPFR2 could not be 
+commercialised by CLC without a license from GD, due to EPCZ1. 
+Only a few candidates stated that EPFR2 would not present a problem to GD, since 
+the products that it intends to commercialise do not contain W. 
+Many candidates indicated the possibility of a cross-licensing agreement; however, 
+not all explained the motivation and the respective rights involved. 
+A number of candidates correctly stated that the negotiating position of GD might be 
+improved by offering CLC a license or a transfer of rights arising from PCTCZ2 with 
+respect to Europe.  
+ 
+
+
+- 5 - 
+ 
+
+Possible solution - Paper D 2014 - Part I 
+ 
+Answer to question 1 
+ 
+a)  
+Mr Baum has his residence in Germany. Therefore, according to Article 2 of the 
+Protocol on Recognition, proceedings must be brought against him in a German 
+court. 
+Since EP1 has not been granted, in accordance with Rule 16(1)(b)EPC, Ms Mele 
+may avail herself of the remedies under Article 61(1) EPC. Because EP1 is no longer 
+pending, Ms Mele should file a new application under Article 61(1)(b) EPC. 
+According to G3/92, EP1 does not have to be pending for a new application to be 
+filed. 
+The new application should be filed no later than three months after the decision 
+recognising that Ms Mele is entitled has become final, Rule 16(1)(a) EPC. 
+Article 76(1) EPC applies mutatis mutandis to the new application, Article 61(2) EPC. 
+Therefore, the new application shall be deemed to have been filed on the date of 
+filing of EP1 in January 2013. This precedes the publication of the scientific article in 
+July 2013. Hence, this publication will not be prior art under Article 54(2) EPC for 
+subject-matter A.  
+For the new application, the filing fee and search fee are to be paid within 1 month of 
+filing, Rule 17(2) EPC. 
+Thus, Ms Mele can obtain patent protection for subject-matter A. 
+ 
+b) 
+According to Article 9 of the Protocol on Recognition, final decisions given in 
+any Contracting State on the right to the grant of a European patent, shall be 
+recognised in the other Contracting States. Therefore, the final decision of the 
+German court shall be recognised in the other Contracting States. 
+In accordance with Article 79(1) EPC, all the Contracting States were deemed to be 
+designated in EP1. Therefore, the new application can be filed for all Contracting 
+States, Rule 16(2) EPC. 
+ 
+Answer to question 2 
+ 
+EP1 was filed within 12 months of the date of filing of IT2, Article 87(1) EPC. 
+IT1 is the first application which discloses subject-matter A and it had not been 
+withdrawn at the date of filing of IT2. Therefore, in accordance with Article 87(4) 
+EPC, IT2 is not considered as the first application for the purpose of determining 
+priority for subject-matter A. However, IT2 is the first application within the meaning 
+of Article 87(1) EPC for subject-matter A+B. Therefore the priority claimed in EP1 is 
+not valid for subject-matter A (i.e. claim 1), but valid for subject-matter A+B (i.e. 
+claim 2).  
+Thus, the disclosure at the symposium will be prior art under Article 54(2) EPC for 
+subject-matter A. Subject-matter A lacks novelty with respect to said disclosure. 
+The applicant should file a request to add the priority claim to IT1, Rule 52(2) EPC. 
+EP-1 was filed on 3 December 2013, i.e. within 12 months of the date of filing of IT1. 
+Thus, priority of IT1 can be claimed, even though IT1 has been withdrawn, Article 
+87(3) EPC. 
+Once the claim to priority to IT1 has been added, the symposium will no longer be 
+prior art under Article 54(2) EPC.  
+
+
+- 6 - 
+ 
+
+Thus, EP1 can be granted provided that applicant X files a request to add a priority 
+claim to IT1 at the latest on 3 April 2014, i.e. 16 months from the earliest priority 
+date, Rule 52(2) EPC.  
+ 
+Answer to question 3 
+ 
+Form 1001 contains the written statement for requesting examination. However, the 
+request for examination shall not be deemed to be filed until the examination fee has 
+been paid, Article 94(1) EPC. The applicant may request examination up to 6 months 
+after the date on which the European Patent Bulletin mentions the publication of the 
+European search report, i.e. until 21 February 2014, Rule 70(1) EPC. 
+According to J7/83 or Guidelines E-VII,1.4,  when proceedings are interrupted the 
+time limit for paying the fee for examination is suspended. On the day on which the 
+proceedings are resumed, the period resumes for the part still to elapse, or for at 
+least the two months prescribed by Rule 142(4), second sentence. 
+The last day of the part of the period which has already elapsed is 19 November 
+2013. Thus the part of the period still to elapse ran from 20 November 2013 until 21 
+February 2014, i.e. for 3 months and 1 day. This is more than two months, therefore 
+the period resumes for 3 months and 1 day.  
+The time which has not yet elapsed begins to run as from the date on which 
+proceedings are resumed, J7/83. Thus, the applicant has 3 months and 1 day, 
+starting on 20 January 2014, i.e. until Sunday 20 April 2014, to pay the examination 
+fee. Since the EPO is closed on Easter Monday, 21 April 2014, this period is 
+extended until Tuesday 22 April 2014, Rule 134(1) EPC. 
+ 
+Answer to question 4 
+ 
+a) 
+According to Rule 4.15 PCT the request is to be signed by the applicant. The 
+signature of the agent on the request has the effect of the signature by the applicant 
+himself, Rule 90.3(a) PCT.  
+The EPO as receiving Office has waived the requirement under R. 90.4(b) PCT that 
+a separate power of attorney is to be submitted, see Rule 90.4(d) PCT and Notice 
+from the EPO OJ 2010, 335. Since a separate power of attorney is not required, the 
+missing signature on the power of attorney does not constitute a defect.  
+b) 
+The notice of withdrawal is to be addressed to the International Bureau or the 
+EPO as receiving Office, see Rule 90bis.1(b) PCT. 
+Either the applicant signs the notice of withdrawal, Rule 90bis.5(a) PCT, or it is 
+signed by the agent. In the latter case, a separate power of attorney signed by the 
+applicant must be filed because the waiver under Rule 90.4(d) PCT does not apply 
+to withdrawals, see Rule 90.4(e) PCT. 
+ 
+Answer to question 5 
+ 
+a) 
+According to Article 108 EPC, the notice of appeal must be filed within 2 
+months of notification of the decision. The decision is deemed to be notified 10 days 
+after posting, i.e. 16 August 2013, Rule 126(2) EPC. Thus, the notice of appeal must 
+be filed by 16 October 2013. The notice is not deemed to have been filed until the 
+fee has been paid, Article 108 EPC. It was paid on 4 October 2013. Therefore, the 
+appeal was filed on time. 
+
+
+- 7 - 
+ 
+
+The statement of grounds must be filed within 4 months of notification of the 
+decision, i.e. by 16 December 2013, Article 108 EPC. Thus, the statement of 
+grounds was filed on time. 
+Thus the appeal is admissible.  
+ 
+b) 
+As previously indicated by the examining division, the new single claim meets 
+the requirements of the EPC. Therefore, the amendment overcomes the objections 
+given in the decision and renders the appeal well founded, see Guidelines E-X- 7.1 iii 
+or T 139/87. As the appeal is admissible and well founded, the examining division 
+will rectify its decision in accordance to Article 109(1) EPC. 
+As there was no substantial procedural violation, the fee will not be reimbursed, Rule 
+103(1)(a) EPC. 
+ 
+Answer to question 6 
+ 
+a) 
+Because the documents for entry into the European phase are not filed online, 
+the filing fee is 200 EUR, see Article 2(1)1 EPC Rules relating to Fees. The 
+additional fee specified by Rule 38(2) EPC and Article 2(1)1a Rules relating to Fees 
+is 14 EUR for the 36th and each subsequent page. 
+According to the Notice supplementing the notice from the EPO dated 26 January 
+2009 concerning the 2009 fee structure, OJ 2009, 338, if an amended set of claims 
+is filed, the additional fee will be calculated on the basis of the number of pages of 
+the description belonging to the international application as published by WIPO and 
+the replacement pages containing the amended set of claims in English as the 
+language of proceedings. Thus, the fee is calculated on the basis of 40 pages of 
+description of the publication of PCT-CN, 3 pages of amended claims in English and 
+1 page for the abstract, see Notice and also Notice from the EPO dated 26 January 
+2009, OJ 2009,122. Therefore an additional fee for 9 pages, i.e. 126 EUR, has to be 
+paid. The total fee to be paid is 326 EUR. 
+ 
+b) 
+According to Rule 159 (1)(c) EPC the filing fee has to be paid within 31 months 
+from the date of filing. The 31-month period ends on Sunday, 4 May 2014. Since 
+periods for payments are also extended, Guidelines A-X, 6.1 or J 1/81, the period for 
+paying the fee is extended to 5 May 2014, Rule 134(1) EPC. 
+ 
+
+
+- 8 - 
+ 
+
+Possible solution - Paper D 2014 - Part II 
+ 
+Question 1 
+ 
+EPFR1/FR1 
+ 
+FR1 is the first application for cream compositions of a compound of family K and X. 
+EPFR1 was filed within the priority year and belongs to the same applicant as FR1. 
+EPFR1 is directed to the same invention (filed by reference) as FR1. Therefore, the 
+priority claim is valid. 
+ 
+There is no relevant prior art for EPFR1. Therefore, there is no reason to doubt the 
+validity of EPFR1. 
+ 
+EPCZ1/CZ1 
+ 
+CZ1 is the first application for cream compositions containing A, X and Y. EPCZ1 
+was filed well within the priority year and it belongs to the same applicant as CZ1. 
+CZ1 can be used as a priority application even if it has been withdrawn.  
+ 
+Since CZ1 does not disclose compositions containing any one of B,C or D, claim 1 of 
+EPCZ1 does not enjoy the priority of CZ1 for cream compositions containing B, C or 
+D. On the other hand, claim 1 enjoys the priority of CZ1 for cream compositions 
+containing A. Thus, claim 1 has two effective dates, 16 April 2012 and 
+10 August 2012 (which is possible because claim 1 is directed to a limited number of 
+clearly defined alternative subject-matters (G2/98)). 
+ 
+Claim 2 enjoys the priority of CZ1 and its effective date is 16 April 2012. 
+ 
+EPFR1 is prior art for both claims of EPCZ1. Both claims of EPCZ1 are novel over 
+EPFR1 because the compositions of EPCZ1 contain the additional ingredient Y. The 
+addition of Y provides an unexpected effect. Therefore, both claims are also 
+inventive over EPFR1. 
+ 
+EPFR2 is prior art under Art. 54(3) EPC for the part of claim 1 of EPCZ1 which has 
+as effective date 10 August 2012 (compositions comprising B, C or D) and may be 
+taken into account only with regard to novelty. Claim 1 of EPCZ1 is novel over 
+EPFR2 because the latter does not disclose compositions comprising B, C or D. 
+ 
+On the other hand, if EPCZ1 loses its priority right, EPFR2 will become novelty 
+destroying for both claims of EPCZ1. 
+ 
+If the translation of the priority document is filed, the EPO will accept that EPFR2 is 
+not novelty destroying for claims 1 and 2 of EPCZ1. 
+ 
+Since there is no other relevant prior art, both claims of EPCZ1 are patentable. The 
+patent resulting from EPCZ1 will be dependent on EPFR1.   
+ 
+
+
+- 9 - 
+ 
+
+EPFR2 
+ 
+Taking into account its priority date, EPCZ1 is prior art for EPFR2 under Art. 54(3) 
+EPC with respect to compositions containing A. Claim 1 of EPFR2 is novel over 
+EPCZ1 since it contains the additional feature W. 
+ 
+EPFR1 is also prior art for EPFR2, however claim 1 of EPFR2 is novel over EPFR1 
+since the latter does not disclose compositions containing A and/or because the 
+composition of EPFR2 contains in addition Y and W. It also appears that claim 1 of 
+EPFR2 involves an inventive step over EPFR1, since the stability of the composition 
+has been unexpectedly increased. Thus it appears that EPFR2 will proceed to grant. 
+The patent resulting from EPFR2 will be dependent on EPFR1 and EPCZ1. 
+ 
+Actions that we should take in the next four months: 
+ 
+Within the next four months we have to file the translation of the previous application 
+CZ1. 
+ 
+We also have to pay the examination and designation fees for EPCZ1.  
+ 
+Furthermore, we have to review the search opinion of EPCZ1 because a negative 
+opinion requires a response. 
+ 
+The translation of the previous application has to be filed by 18 June 2014. 
+ 
+The remaining actions also have to be performed by 18 June 2014. 
+ 
+Question 2 
+ 
+EPFR3 confers protection to the direct product of the claimed process, i.e. Z. 
+ 
+However, A is different from Z. Compound A is produced by a further transformation 
+of Z. This transformation is substantial since Z does not exhibit the anti-ageing 
+properties of A and/or in order to arrive at A, a multistep process has to be 
+employed.  
+ 
+Furthermore, the product imported from India does not contain any Z. 
+ 
+Therefore, there is no infringement by the importation of A into the Czech Republic 
+and thus GD can continue to obtain A from its supplier in India. 
+ 
+Question 3 
+ 
+The time limit for entering the European phase for PCTCZ2 expired on 
+7 October 2013. Since the required acts have not been carried out, the application is 
+deemed to be withdrawn. Nevertheless, the EPO has to communicate the loss of 
+rights to the applicant. Even if said communication was sent by the EPO, GD has not 
+received it and therefore it has not been notified. Therefore, further processing for 
+entering the European phase is still available.  
+ 
+
+
+- 10 - 
+ 
+
+GD has to pay the fee for further processing and perform the omitted acts for the 
+entry into the European phase.  
+ 
+However, further processing does not apply to the payment of the renewal fees. The 
+3rd year renewal fee was due on 7 October 2013 and it may be paid with surcharge 
+until 7 April 2014. 
+ 
+Therefore, a patent may still be obtained in Europe on the basis of PCTCZ2. 
+ 
+Question 4 
+ 
+The commercial exploitation of cream compositions containing any one of the 
+compounds of family K in combination with X and Y would infringe EPFR1. 
+Therefore, GD has to obtain a licence from CLC. 
+ 
+GD’s product would not infringe EPFR2 because it does not contain W. 
+ 
+CLC will not be able to commercialise products containing a member of the K family, 
+X and Y, (with or without W), without a license from GD, due to the protection 
+conferred by EPCZ1. 
+ 
+Since the compositions containing X and Y represent an improvement over the 
+compositions of EPFR1, CLC may be interested in a cross licence agreement. 
+However, CLC may commercialise products containing only a member of the K 
+family and X without infringing EPCZ1. 
+ 
+In order to strengthen its negotiating position, GD may offer a license or a transfer of 
+the European part of PCTCZ2. Since CLC is active in the preparation of compounds 
+of the K family, it may be interested in such licence/transfer, especially since 
+PCTCZ2 represents a great improvement over the process that it is currently using. 
+ 
+GD does not have to make any payments with respect to PCTCZ2 before the 
+meeting with CLC. 
+ 
+
+
+Part I
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Part II
+Question 1
+
+Question 2
+
+Question 3
+
+Question 4
+
+6
+
+7
+
+8
+
+7
+
+6
+
+6
+
+33
+
+9
+
+9
+
+9
+
+1,5
+
+4
+
+2
+
+2
+
+5,5
+
+2,5
+
+4
+
+4
+
+6,5
+
+5
+
+1,5
+
+3,5
+
+2,5
+
+1,5
+
+5,5
+
+2
+
+4
+
+4
+
+6,5
+
+5,5
+
+Total
+100
+37
+36,5
+
+EXAMINATION COMMITTEE III
+Candidate No. ________
+
+Paper D 2014 - Marking Sheet
+
+Category
+Maximum 
+possible
+
+Marks awarded
+
+Question 1
+
+Examination Committee III agrees on ........ marks and recommends the following 
+grade to the Examination Board:
+
+PASS
+(50-100)
+
+COMPENSABLE FAIL
+(45-49)
+
+FAIL
+(0-44)
+
+X
+
+24 June 2014
+
+Chairman of Examination Committee III
+
+

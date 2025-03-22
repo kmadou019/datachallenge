@@ -1,0 +1,483 @@
+- 1 - 
+
+Examiners’ Report - Paper D 2007 - Part II 
+ 
+ 
+This year about half of the marks awarded related to an analysis of Caledonian’s [and their 
+subsidiary Sean Insulation] patent portfolio and making appropriate recommendations 
+bearing in mind the constraints imposed by Caledonian. The remaining marks were 
+awarded to analysis of the situation relating to Goldfinger and Ms. Moneypenny. Generally 
+the candidates answered the first part reasonably well and the second part not so well. 
+ 
+Crucial issues in the paper were: 
+• 
+the invalidity of the priority claim for EP2 
+• 
+whether the date shown on a document is actually the date of public availability 
+• 
+ensuring that the client continues to have rights to composition B+A after disposal of 
+ 
+Sean Insulation 
+and 
+• 
+sufficiency of disclosure of EP-Gold and UK-Penny 
+ 
+Candidates did not need to get all of these points to pass, although those who got fewer 
+than two of these points were unlikely to pass. 
+ 
+In more detail: 
+ 
+The candidates were expected first to analyse the situation, including priority claims and 
+ownership of the different patent rights, then to provide advice to obtain the best protection 
+possible for the client.  Many candidates were able to analyse the situation correctly, but 
+only some of them were also able to formulate useful and complete advice to solve the 
+conflicts with the competitor. 
+ 
+In their analysis, some candidates failed to notice that there were prior art publications that 
+could cause problems if priorities were lost.  Some others failed to notice the invalidity of 
+the priority claim of EP2.  Some others failed to comment on the effects of the various co-
+pending applications upon each other.  Some others simply did not doubt that the date 
+shown on AJSS was actually the date of its public availability, although there was clearly 
+no guarantee in this respect. 
+ 
+Most candidates determined that new application(s) were to be filed, but not all of them 
+clearly indicated who should have been the applicant(s) for these applications, what 
+content and what priority claims the application(s) should have had.  
+ 
+Not many candidates gave advice that actually took into account the intention to sell 
+company Sean Insulation.  
+ 
+Many candidates showed difficulties in spotting the weak aspects of the patent position of 
+competitor Goldfinger thoroughly, particularly the insufficient disclosure of EP-Gold.  Some 
+of those candidates gave advice elaborating on entitlement proceedings, although the 
+client explicitly excluded to follow that way;  some others simply concluded that a cross 
+licence might be a solution, without considering other much more favourable options. 
+ 
+The opportunities offered by the patent application filed by the former employee, Ms. 
+Moneypenny, were properly considered by most candidates. 
+ 
+Quite surprisingly, some candidates didn't realize that any patent validly claiming ALFA 
+would have blocked the exploitation of BETA as well. 
+
+
+- 1 - 
+
+Possible Solution - Paper D 2007 - Part II 
+ 
+ 
+
+Question 1  
+ 
+EP-1 is in the name of Caledonian and has earliest filing date for the new foaming 
+process, for flexible thin sheets made from B+A, for foamed sheets of B alone and for 
+scuba suits and costumes made from B+A or from B alone. EP-1 is deemed withdrawn 
+because no fee was paid and it cannot be revived. However, since it received a filing date, 
+priority from EP-1 can still be claimed. 
+ 
+EP-2 is the first filing for compositions B+C, B+D and B+E and thin flexible foamed sheets 
+of these compositions and scuba costumes/suits made of these sheets. There may be 
+basis in EP-2 to claim a more general polymer composition of B+ class Z. EP-2 claims 
+priority of UK-1 but this claim is not valid because EP-2 is in the name of Caledonian and 
+UK-1 is in the name of Sean Insulation. Therefore, the effective date for EP-2 is 19.06.06 
+(the filing date). 
+ 
+The article in AJSS is dated 16.06.06 but may have been made available to the public 
+earlier or later. If AJSS was available to the public before 19.06.06 (filing date of EP-2) it 
+will be full prior art against EP-2. It will thus destroy the novelty of B+A, B+C, B+D and 
+possibly of thin sheets in general. Since polymer E belongs to the same polymer class with 
+B, C, and D (class Z) and is similar to them, the combination B+E will most probably be not 
+inventive over AJSS either. Under these circumstances, no protection can be obtained for 
+compositions B+C/D/E. However, if AJSS was made available to the public on, or after 
+19.06.06 it will not be prior art against EP-2.  
+The new process for producing thin sheets of EP-2 is not disclosed in AJSS and is 
+therefore not anticipated in any event. 
+ 
+EP-3 is the first filing for the manufacturing process for fibers and yarns and for the textiles 
+made thereof. EP-3 claims polymer compositions B+class Z, but EP-2, which discloses 
+compositions of B+A/C/D/E will be prior art relevant only for novelty (under Art. 54(3) (4) 
+EPC) against the claims to B+ class Z of EP-3. 
+ 
+AJSS discloses B+A/C/D and, because of the difference in dates between that shown on 
+AJSS and the filing date of EP-3, is almost certainly prior art against EP-3. 
+ 
+US-Spectre does not disclose any combination of polymers and is not relevant against any 
+application. 
+ 
+The press release was made in August 2006 which is later than any effective date of the 
+three applications. It is thus irrelevant in respect to them. 
+ 
+Thin sheets of foamed polymer B alone and suits made of these sheets were disclosed in 
+EP-1, but are not disclosed or claimed by any of the presently pending applications. Thin 
+sheets of B alone and suits made thereof are suggested in AJSS. 
+
+
+- 2 - 
+
+UK-1 is in the name of Sean Insulation. If Sean Insulation decides to continue with it, then 
+UK-1 will be a national prior  right for EP-2 and EP-3 if/when they are granted and 
+validated in UK. UK-1 has the earliest filing date (or Sean-PCT has earliest priority date) 
+for composition B+A and for insulating foamed sheets from B+A. 
+ 
+Sean-PCT has the same description and claims as UK-1 and validly claims priority of UK-
+1. Once it enters the European phase, it will be prior art relevant for novelty only (under 
+54(3) EPC) against EP-2 and EP-3 for commonly designated states. UK-1 and Sean-PCT 
+disclose composition B+A, which would destroy the novelty of any unamended claim 
+directed to compositions B+Z. 
+ 
+ 
+
+Question 2 
+ 
+Actions to be taken: 
+ 
+Check when AJSS was made available to the public in order to determine whether it is 
+relevant prior art against EP-2 and EP-3 or not. 
+ 
+EP-1 is the only application which definitely has a filing date prior to the publication of 
+AJSS. By claiming priority from EP-1 anticipation by AJSS could be avoided. 
+ 
+Furthermore, protection for thin sheets of B alone is requested since they have become 
+commercially interesting and this feature is disclosed in EP-1 but is missing from any other 
+application. 
+ 
+Thus,  
+ 
+ 
+- file a PCT application claiming priority of EP-1, EP-2 and EP-3 (multiple priorities are 
+allowable) or more than one with suitable priorities;  
+- disclose and claim all features claimed in EP-1, EP-2 and EP-3 and add extra claims to: 
+ 
+- sheets made of foamed B alone as per EP-1; 
+ 
+- scuba diving suits and costumes made of woven textiles; 
+ 
+- compositions B+ class Z, except B+A; 
+ 
+- compositions B+C/D/E and thin foamed sheets made thereof; 
+ 
+- scuba diving suits and costumes made of foamed B+A; 
+ 
+- use of non-woven textiles as liners for insulation panels and lined panels, for future 
+transfer to Sean Insulation. 
+ 
+Preferably, file a first PCT application, claiming priority from EP-1, EP-2 and EP-3, 
+claiming only what should be assigned to Sean Insulation and a second PCT application, 
+claiming also priority from EP-1, EP-2, EP-3 with claims directed to all that Caledonian 
+wants to keep. Alternatively, file one PCT application and later, during national/regional 
+phases file divisionals to assign to Sean Insulation the subject matter interesting to them. 
+ 
+You can withdraw EP-2 and EP-3 or abandon them by not paying examination and 
+designation fees in order to save costs. Continue with PCT application(s) only and request 
+partial refund of search fee(s) for PCT application(s) on the basis of EP-2 and/or EP-3. 
+
+
+- 3 - 
+
+New applications must be filed before the end of the priority year of EP-1 (18.03.07, 
+Sunday, postponed to 19.03.07) and preferably before publication of UK-1, EP-2 and 
+Sean-PCT, that will be on or after 16.03.2007 to limit their relevance as prior art to novelty 
+only. 
+ 
+If Sean-PCT enters national and regional phases and is granted, Sean Insulation will have 
+rights to the composition B+A and to any type of product comprising composition B+A. 
+This might hinder your business later. Therefore it is essential to ensure that rights for B+A 
+compositions are transferred to Caledonian before selling Sean Insulation. You can buy or 
+transfer Sean-PCT and UK-1 from Sean Insulation to Caledonian or obtain a license for 
+B+A for Caledonian or arrange for joint ownership with exploitation agreement. Keep rigid 
+panels only in the name of Sean Insulation by later filing divisional applications for 
+example. 
+ 
+ 
+Question 3  
+ 
+EP-Gold has the first filing date for weaving process ALFA. EP-Gold claims also woven 
+fabric, but woven fabric is disclosed and claimed by EP-3 and by PCT application(s) to be 
+filed claiming priority from EP-3 as suggested above. These applications would be prior art 
+relevant only for novelty and for commonly designated states against EP-Gold (Art. 54(3) 
+(4) EPC) when they enter the EP regional phase. 
+ 
+EP-Gold, on the other hand, could be prior art relevant only for novelty (under 54(3) (4) 
+EPC) against any application claiming priority from UK-Penny, only for commonly 
+designated states and only if Goldfinger pays designation fees. 
+ 
+EP-Gold, however, does not disclose how to make fibres and yarns from composition B+A 
+(extrusion process) and the claimed weaving process ALFA can only work with those 
+fibres and yarns. This extrusion process was neither common knowledge, nor publicly 
+disclosed at the date of filing of EP-Gold. As a result, EP-Gold suffers from a lack of 
+sufficient disclosure since the starting material for the weaving process ALFA was not 
+available. This claim of EP-Gold seems to be not patentable. 
+ 
+In addition to that, since EP-Gold is not an enabling disclosure, it cannot be part of the 
+state of the art and novelty destroying to a claim for process ALFA based on the disclosure 
+of UK-Penny. 
+ 
+Furthermore, if EP-Gold is in breach of the secrecy agreement between Ms Moneypenny 
+and Goldfinger, its publication would be an abusive publication and it cannot be 
+considered as prior art against any claim to process ALFA based on the disclosure of UK-
+Penny. 
+ 
+UK-Penny has the first filing date for weaving process BETA. UK-Penny has enabling 
+disclosure for: 
+- 
+process BETA because any fibres can be used (thanks to feature Y); 
+- 
+process ALFA because it refers to press release and the extrusion process for the 
+necessary starting material (yarns) had become publicly available. 
+ 
+In the absence of prior art against process ALFA, corresponding claims of EP-Gold are 
+likely to be granted if no action is taken. 
+
+
+- 4 - 
+
+Question 4 
+ 
+Weaving process BETA is based on process ALFA plus additional feature Y and is, 
+therefore, within the scope of EP-Gold. 
+ 
+EP-Gold could be used by Goldfinger to threaten customers and may be asserted in those 
+designated states permitting patent infringement action based on an application. 
+ 
+If EP-Gold is granted, Goldfinger would have a patent to process ALFA for designated 
+states where the patent will be validated and which could be asserted against use of 
+process ALFA as well as BETA in those states. The products directly produced by these 
+processes would also fall under the scope of EP-Gold and Goldfinger would have the 
+rights to them as well. 
+ 
+Since EP-Gold was filed less than one year ago, it can still be basis for filing applications 
+in other countries or jurisdictions. 
+ 
+ 
+Question 5 
+ 
+Reach an agreement with Ms Moneypenny and file an EP or PCT application claiming 
+priority of UK-Penny as soon as possible. If Caledonian is sole applicant priority rights 
+have to be assigned before filing; otherwise file jointly with Ms. Moneypenny. Alternatively, 
+Ms Moneypenny can be the sole applicant and assign the application (in whole or in part) 
+to Caledonian subsequently. UK-Penny has full disclosure of weaving process ALFA and 
+BETA but only BETA is claimed, so, in the application to be filed, claim also process ALFA, 
+i.e. process without additional feature Y. 
+ 
+Caledonian will have a patent to fibres, yarns and woven fabric made of polymer 
+composition B+Z in all states from the PCT application(s) claiming priority of EP-3.  
+ 
+PCT application(s) deriving from EP-3 will be prior art against EP-Gold relevant only for 
+novelty (Art. 54(3)(4) EPC) when European phase is entered so at that time all countries 
+should be designated and fees paid to ensure that no protection can be obtained by 
+Goldfinger for woven fabric. 
+ 
+If EP-Gold and its search report have been published (earlier publication), file third party 
+observations with a copy of the PCT application(s) claiming priority of EP-3 and EP-3 itself. 
+ 
+EP-Gold is also invalid because of insufficient disclosure, so you can add this remark 
+when filing observations or you can file an opposition if/when it is granted. 
+ 
+Monitor whether EP-Gold has family members in other countries. 
+ 
+In any case, because the weaving process ALFA in EP-Gold is dedicated to weaving yarns 
+of polymer composition B+A only, it cannot be used without consent of Caledonian/Sean 
+Insulation that have a right to woven polymer fabrics. 
+ 
+So, write to Goldfinger pointing out all the above remarks on the patentability and 
+insufficiency of EP-Gold and demand they withdraw it before publication. 
+ 
+All the above is based on European Law, if Goldfinger is in a better position in other 
+jurisdictions, a cross licensing agreement may be necessary 
+
+
+ 
+
+ 
+
+EXAMINATION COMMITTEE III 
+Candidate No.   
+ 
+Paper D 2007 Schedule of marks 
+ 
+ 
+Marks awarded 
+ 
+Question 
+Maximum 
+possible 
+   Marker   
+
+ 
+   Marker    
+
+ 
+
+ 
+PART I 
+ 
+
+ 
+1 
+ 
+4 
+ 
+ 
+
+ 
+2 
+ 
+4 
+ 
+ 
+
+ 
+3 
+ 
+3 
+ 
+ 
+
+ 
+4 
+ 
+6 
+ 
+ 
+
+ 
+5 
+ 
+3 
+ 
+ 
+
+ 
+6 
+ 
+5 
+ 
+ 
+
+ 
+7 
+ 
+3 
+ 
+ 
+
+ 
+8 
+ 
+4 
+ 
+ 
+
+ 
+9 
+ 
+5 
+ 
+ 
+
+ 
+10 
+ 
+3 
+ 
+ 
+
+ 
+TOTAL PART I 
+ 
+40 
+ 
+ 
+
+ 
+PART II 
+ 
+ 
+ 
+ 
+
+ 
+1 
+ 
+18 
+ 
+ 
+
+ 
+2 
+ 
+14 
+ 
+ 
+
+ 
+3 
+ 
+11 
+ 
+ 
+
+ 
+4 
+ 
+5 
+ 
+ 
+
+ 
+5 
+ 
+12 
+ 
+ 
+
+ 
+TOTAL PART II 
+ 
+60 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total Parts I + II 
+ 
+100 
+ 
+ 
+
+ 
+ 
+Examination Committee III agrees on      marks and recommends the following grade to the Examination 
+Board: 
+ 
+ 
+ 
+PASS 
+FAIL 
+ 
+(50-100) 
+(0-49) 
+ 
+ 
+COMPENSABLE FAIL 
+ 
+ 
+(45-49, in the case the candidate sits the examination for the first time) 
+ 
+ 
+3 July 2007 
+ 
+ 
+ 
+ 
+ 
+Chairman Examination Committee III 
+
+ 
+ 
+
+

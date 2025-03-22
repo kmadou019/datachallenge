@@ -1,0 +1,492 @@
+ 
+- 1 -
+
+Candidate’s answer 
+Q1. 
+ 
+ 
+Dec. 
+Received 
+R. 140. Dec. 
+Rec. 
+ 
+ 
+        27/12/11 
+   29/12/11             24/1/12                       26/1/12 
+ 
+ 
+ The original decision was in error because a lack of novelty falls under A. 54 
+EPC, not A. 56 EPC (which is inventive step). 
+ R. 140 allows for decisions to be corrected for obvious mistakes, which is 
+clearly the case here.  
+ The timetable for filing appeal therefore depends upon which decision is 
+appealed: 27/11/11 or 24/1/12. 
+ According to T 212/88, correction under R. 140 has retrospective effect, 
+meaning that the 27/11/11 decision is “correct”. 
+ Hence the time table for appeal is as follows: 
+ 
+ 
+File Notice of Appeal:  
+2m from “decision” (A. 108 EPC) 
+ 
+i.e. 27/12/11 + 10d (notification; R. 126(2) EPC) 
+ 
+ 
+ 
+= 6/1/12 
+ 
+ 
++ 2m  = 6/3/12 (R. 131(4) EPC) (Tuesday) 
+ 
+ Since today is the final day for filing notice of appeal, I will inform client of this.  
+ If client wants to appeal, I can do the following: 
+ Time can be saved by filing notice of appeal by fax (R. 2(1); OJ 2007, SE3, 
+A.3) 
+ Client must at least file notice of appeal to keep options open. 
+ Appeal fee also needs to be paid by 6/3/12 (A. 108 EPC). 
+ Whilst the appeal fee is expensive, it must be paid. 
+ Client then has 4m from decision to file grounds of appeal (A. 108 EPC), thus 
+client can make his final decision by: 
+ 
+ 
+ 
+ 
+27/12/11 + 10d (R. 126(2) EPC) = 6/1/12 
+ 
+ 
+ 
+ 
+ 
+     + 4m (A. 108)  = 6/5/12 (Sunday) 
+Extends to Monday 7/5/12 (R. 134(1) EPC) 
+Q2. 
+ 
+ 
+ 
+EP1 (EN), 1st E.D  = 13/11/07 
+ 
+DIV-1 (EN)   
+= 14/12/09 (Munich) 
+ 
+ 
+ 
+ 
+    6/10/11 = S.R. A. 83, no s. fee 
+ 
+DIV-2 (EN) =  
+30/09/10 (Berlin!) 
+ 
+ EP1 was filed before 13/12/07, and was therefore filed under EPC 1973. 
+ However DIV-1 and DIV-2 were filed after entry into force of EPC 2000, so 
+EPC  2000 applies. 
+
+
+ 
+- 2 -
+
+ 
+a)  
+ 
+DIV-1 
+ EP1 must still have been pending when DIV-1 was filed (R. 36(1) EPC). 
+ Decision CA/D 2/09 of Admin. Council had not taken effect, so no other time 
+limit applied except pendency of the parent EP1. 
+ DIV-1 filed in same language as EP1, so the requirement of GL, A-IV-1.3 and 
+GL, A-VIII-1.3 was met as required until 1/4/10. 
+ Filing at Munich is acceptable (R. 36(2)). 
+ 
+DIV-2 
+ Filed after 1/4/10, so Decision CA/9 2/09 takes effect. 
+ Although disunity was raised in EESR, this is not a Communication from Exam. 
+Div, so R. 36(1)(b) does not take effect (GL, A-IV-1.1.1.2). 
+ Thus, DIV-2 is a “voluntary” divisional (R. 36(1)(a) EPC). 
+ As such, the 24m time limit runs from the first communication from Exam. 
+Division for the original application EP1 (R. 36(1)(a); OJ 2009, 481; GL, A-IV-
+1.1.1.2). 
+ So, time limit = 13/12/07 + 10d (R. 126(2); GL A-IV-1.1.1.3) = 23/12/07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ 24 m = 23/12/09 (R. 
+131(4)) 
+ 
+i.e. DIV-2 filed too late, but … 
+ However, Decision CA/D 2/09 provided an amnesty until 1/10/10 where the 
+divisional deadline had passed by 1/4/10, so DIV-2 filed in due time. 
+ Filing divisional DIV-2 at Berlin is also acceptable (R. 36(2) EPC). 
+ 
+ 
+ 
+b)  
+ Yes, divisionals cannot be filed from EP1/DIV-2 since they are withdrawn i.e 
+not pending (R.36(1) EPC). 
+ ‘Mandatory’ divisionals can be filed from DIV-1 provided it is still pending and 
+that Exam. Div raises a disunity objection (R. 36(1)(b) EPC). 
+ This would trigger a new 24m term (R. 36(1)(b) EPC). 
+ If no disunity objection is raised by Exam. Div., then no more divisionals. 
+ 
+ 
+Q3. 
+ 
+ 
+ Yes, this can be done by using EPO as SISA (A. 17(1); R. 45bis PCT). 
+ Request for SIS must be filed at IB within 19m of filing date along with payment 
+of handling fee and supplementary search fee (to IB) (R. 45bis1(a); R. 
+45bis2(a); and R. 45bis3(a) PCT). 
+ Request must indicate EPO as SISA (R. 45bis1(b)(ii) PCT). 
+ Deadline = 5/10/12 + 19m = 5/5/12 (Saturday) 
+ 
+
+
+ 
+- 3 -
+
+ 
+ 
+ 
+ 
+     7/5/12 (Monday) (R.80.5 PCT). 
+ 
+ In request, applicant must indicate that the EPO search is intended to cover the 
+second invention (R. 45bis1(d)). 
+ EPO as SISA will only search in EN, FR, DE (AG-IP; Annex SISA). 
+ However, SPTO as rO only accept Spanish (AG-IP; Annex C) 
+ Hence, applicant must submit a translation into EN, FR or DE along with the 
+request (OJ 2010, 316). 
+ Applicant not required to provide an official representative (A. 49; R.90.1(a) 
+PCT). 
+ 
+ 
+Q4. 
+ 
+ 
+EP-X (paper)  
+ 
+ 
+A (A.80 = 20/12/09) 
+ 
+ 
+ 
+ 
+R.45 = 15/2/10 = A1 
+PCT1 @ USPTO = EP-X, priority 
+ 
+a) 
+ 
+ Draft paper is the description of EP-X (R.40(1)(c) EPC). 
+ PCT1 filed 17/11/10, which is less than 12m after EP-X filing date of 20/12/09 
+(A. 8(2)(a) PCT; A. 4C(1)(2) PC). 
+ Claim not required for EP filing date (A. 80; R. 40(1) EPC). 
+ The description of PCT1 is the same as EP-X (A. 4C(2) PC), so priority is 
+probably valid in the international phase. 
+ The claim to A1 in PCT1 would have been present at filing (A. 3(2) PCT), so no 
+added-matter issue. 
+ IPRP probably favourable since the document disclosing A1 was published 
+after the priority date. 
+ On entry into the EP phase (31m from priority – R. 159(1) EPC: 20/6/12 since 
+priority will be assumed valid). 
+ EPO will conduct supplementary search (GL, B-11-4.3) which might find the 
+document disclosing A1. 
+ Otherwise, the ISR will be part of the EP file, so Examiner will see it. 
+ Examiner will investigate priority validity since A1 was disclosed between 
+priority and filing date (GL, C-V-2.1). 
+ Priority will be deemed invalid because A1 is not unambiguously derivable from 
+the application as filed (G 2/98; GL C-V-2.2; A. 87(1) EPC). 
+ In this regard, the claim to A1 in EP-X is not part of the first application 
+because it was not present on the filing date (A. 70(2) EPC). 
+ Effective date of PCT-1 claim to A1 is therefore 17/11/10 (A. 89 EPC). 
+ Claim will lack novelty over the disclosure of A1 in March 2010 (A. 54(2) EPC). 
+
+
+ 
+- 4 -
+
+b) 
+ 
+ Draft paper includes unambiguous disclosure of A1, so priority claim is valid in 
+EP (A. 87(1) EPC; G 2/98). 
+ Effective date of claim to A1 in PCT-1 is 20/12/09 (A. 89 EPC) 
+ Hence, A1 is not state of the art and the claim to A1 will be novel (A. 54(2) 
+EPC) and likely inventive (A. 56 EPC). 
+ There should be no double patenting objection to identical claims of A1 in EP-X 
+and PCT-1 because Applicant has ‘legitimate’ interest in obtaining prolonged 
+protection from PCT-1 (T 1423/07). 
+ For completeness, the claim to A1 in EP-X was filed in due time (GL, A-III-15; 
+R. 57(c) EPC). 
+ 
+Q5. 
+PCT – CN @ SIPO  
+ 
+ 
+ISR 
+ 
+ 
+ 
+?/9/10 
+?/9/11 
+ 
+a) 
+ 
+ Chinese is a language of publication, so the specification will be published in 
+Chinese (R. 48.3(a) PCT) 
+ The abstract will be additionally published in English (R. 48.3(c) PCT) 
+ The title, declaration according to A. 17(2)(a) PCT, International Search 
+Report, and text pertaining to figure(s) in abstract will also be published in 
+English (R. 48.3(c) PCT). 
+ The A. 19 PCT amendments will be published (R. 48.2(f) PCT) in Chinese. 
+ 
+b) 
+ 
+ Yes, WIPO makes abstract available in all languages of publication (R. 48.3(a) 
+PCT), including French. 
+ 
+Q6. 
+ 
+ 
+IT1 – INV1   
+ 
+IT2 – INV2 
+= 28/10/10 
+ 
+ EP1 filed in due time to claim priority from IT1 and IT is a PC state, so priority 
+is valid (A. 87(1) EPC). 
+ Effective date for Inv1 is EP1 is 28/10/10 (A. 89), so D is not state of the art (A. 
+54(2)) and Inv1 is novel. 
+ At present, Inv2 has an effective date of 28/10/11 (A. 89) and lacks novelty 
+over D (A. 54(2)). 
+ Applicant should claim priority from IT2 to make effective date of Inv2 also 
+28/10/10 (A. 89 EPC). 
+ Multiple priorities are allowable (A. 88(2) EPC; G 2/98). 
+
+
+ 
+- 5 -
+
+ Priority claim can be added up to 16m from the earliest priority date (i.e. 
+28/10/10) (R. 52(2) EPC). 
+ So, deadline is 28/10/10 + 16m = 28/02/2012 (R. 131(4)). 
+ Hence, the deadline has been missed (R 52(2)). 
+ FP is not available (A. 121; R. 135(2) EPC). 
+ Applicant can apply for re-establishment (A. 122) if he can prove missed 
+deadline was despite ‘all due care’. 
+ Without successful RE, applicant can use EP1 to get prosecution for whole of 
+EP for Inv1 with EP1 and Inv2 in IT with IT2. 
+ 
+Q7. 
+ 
+ Methods of Diagnosis are not patentable according to A. 53(a) EPC 
+ However, not all methods of diagnosis are excluded (GL, C-IV-4.8.1), only 
+those methods including: 
+1. Examination phase 
+2. Comparison with known values 
+3. Finding deviation 
+4. Decision phase  (G 1/04; GL, C-IV-4.8.1). 
+ 
+ If all these phases are present, then it is prohibited. 
+ However, if it not clear whether ‘on the basis of the tissue sample in the 
+analysing liquid’ constitutes steps 2 + 3 above, this requires further 
+investigation. 
+ Moreover, even the implicit presence of steps 1 to 4 results in prohibition under 
+A. 53(c) (G 1/09) 
+ So, method is probably not patentable. 
+ Although step a) represents surgery which is prohibited, (A. 53(c)), this is not 
+essential so does not bar patentability. 
+ Instead, applicant should claim materials used in method. 
+ E.g.  
+chemical components per se. 
+chemicals for us in any method (A. 54(4) EPC) 
+chemicals for use in this method (A. 54(5) EPC; G 2/08) 
+ 
+ 
+All of which are not excluded by A. 53 EPC 
+ 
+ 
+Q8. 
+ 
+EP1 pub.  
+Amend. 
+EP2 
+ 
+ 
+         
+ 
+ 
+10/3/10 
+?/6/11 
+9/12/11 
+ 
+N?! 
+ 
+I/S?! 
+
+
+ 
+- 6 -
+
+EP1 
+ The publication of EP1 on 10/3/10 becomes part of the sate of the art (A. 54(2) 
+EPC). 
+ After publication, the file of EP1 is open to public inspection (A. 128(4)). 
+ The matter filed in June 2011 is ‘new’ and ‘inventive’ over the application as 
+filed (A. 70(2) EPC). 
+ In view of the unitary concept of disclosure in the EPC (G 2/98; G 2/04; G 
+2/10), matter which is new and inventive cannot be unambiguously derivable 
+therefrom. 
+ Accordingly, the new matter will not be granted via EP1 because it adds 
+subject-matter (A. 123(2) EPC), so no protection via EP1. 
+ 
+EP2 
+ As explained above, the file of EP1 is open to public inspection as from 
+publication (A. 128(4)). 
+ Hence, applicant’s reply in June 11 will also be publicly available (A. 54(2) 
+EPC). 
+ There may be a delay before the Applicant’s reply is published, but it will be 
+available before 9/12/11 (i.e. effective date of EP2 – A. 89 EPC). 
+ Thus, applicant’s reply will anticipate EP2 (A. 54(2) EPC). 
+ For completeness, it is noted that since the new matter is sufficient (A. 83), 
+then it must also be enabling (GL, C-IV-6.3). 
+ Hence, EP2 is anticipated by Applicant’s reply to Exam. Division in EP1 (A. 
+54(2) EPC). 
+ So, neither EP1 nor EP2 will provide protection for the improved matter. 
+ 
+
+
+Part I
+
+Question 2
+
+Question 3
+
+Question 4
+
+Question 5
+
+Question 6
+
+Question 7
+
+Question 8
+
+Part II
+Question 1
+
+Question 2
+
+Question 3
+
+5
+
+6
+
+5
+
+4
+
+5
+
+6
+
+4
+
+5
+
+20
+
+9
+
+12
+
+19
+Question 4
+
+4
+
+5
+
+3,5
+
+4
+
+3
+
+4,5
+
+0,5
+
+4,5
+
+15,5
+
+8,5
+
+6,5
+
+17
+
+4
+
+5
+
+3,5
+
+4
+
+2
+
+4,5
+
+1
+
+4,5
+
+17,5
+
+7,5
+
+7,5
+
+16,5
+
+Total
+100
+76,5
+77,5
+
+EXAMINATION COMMITTEE III
+Candidate No.
+
+Paper D 2012 - Marking Sheet
+
+Category
+Maximum 
+possible
+
+Marks awarded
+
+Marker 
+Marker 
+
+Question 1
+
+Examination Committee III agrees on 77 marks and recommends the following grade to the 
+Examination Board:
+
+PASS
+(50-100)
+X
+COMPENSABLE FAIL
+(45-49)
+
+FAIL
+(0-44)
+
+28 June 2012
+
+Chairman of Examination Committee III
+
+

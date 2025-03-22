@@ -1,0 +1,656 @@
+ 
+
+ 
+
+Examiners’ Report on Paper DI 
+
+Examiners’ Report - Paper D Part I 0  
+
+The examiners’ hope for better structured responses was often disappointed. 
+Particularly, candidates failed to respond with detailed reasoning in which provisions of 
+law are applied to the case presented. In detail, the following observations are made: 
+ 
+Question 1: 
+Most candidates found the solution for part a) according to which the renewal fees had 
+to be paid for the 3rd and 4th year. This is also true for the time limit asked for in part b). 
+Most candidates, however, failed to correctly respond to part c) in that they did not 
+distinguish the differing time limits for paying the renewal fees for the 3rd and 4th years 
+with surcharge. 
+ 
+Question 2: 
+Surprisingly many candidates failed to identify that the priority of PCTLATE is not valid. 
+A good portion of those candidates who correctly identified the priority problem referred 
+to the EPC provisions instead of the provisions of the Paris Convention and the PCT. 
+Very few candidates considered that valuable protection in Germany is anyway given by 
+the utility model. 
+ 
+Question 3: 
+The majority of candidates correctly responded to this question. Most candidates, 
+however, missed to mention the exceptions to the general rule of no reformatio in peius 
+outlined in G1/99. 
+ 
+Question 4: 
+Even though a majority of candidates answered that the International Bureau will act as 
+Receiving Office in this case, most candidates failed to explain to whom and until when 
+the various fees had to be paid.  
+ 
+Questions 5: 
+This question was generally well answered, even if only few candidates proposed the 
+simple option to refile the application. 
+ 
+Question 6: 
+Most candidates failed to mention that, for EP3, there would have been a possibility to 
+designate. Other than that, the question was generally well answered. 
+
+
+ 
+ 
+
+ 
+
+Question 7: 
+With regard to part b) and c), some candidates wrongly proposed to file an appeal 
+against the communication according to Rule 69 (1) EPC, without requesting an 
+appealable decision under Rule 69(2). 
+ 
+Question 8: 
+In general, the legal situation was correctly understood, but many candidates ignored 
+the instructions from the client not to pay the extra fees. 
+ 
+Question 9: 
+Most candidates responded following the principal idea to which this question was 
+directed. However, the provisions in the PCT in part a) were often not correctly and 
+sufficiently cited. 
+ 
+Question 10: 
+Again, most candidates responded following the principal idea to which this question 
+was directed. However, the responses were often not elaborated in sufficient detail. In 
+particular, the requirement of filing the statement together with the application was often 
+missed.  
+ 
+Question 11: 
+Many candidates failed to mention that it is the applicant who has to file the request for 
+further processing. Most candidates, however, correctly identified that the request 
+eventually was not validly filed. 
+
+
+Possible Solution DI/2004 
+
+ 
+
+Question 1 
+
+ 
+
+a) 
+The renewal fee for the third year (Rule 37(3) EPC, first sentence) and the renewal 
+
+fee for the fourth year (Rule 37(3) EPC, second sentence) both have to be paid in 2004. 
+
+ 
+
+b) 
+According to Rule 37(3) EPC, second sentence, the two renewal fees can be paid 
+
+without an additional fee within four months of the filing date of the divisional application, i.e. 
+
+until 29 May 2004, extended to 01 June 2004 (Rule 85(1) EPC). 
+
+ 
+
+c) 
+The renewal fee for the third year can be paid with surcharge until 29 July 2004 in 
+
+accordance with Rule 37(3) EPC, third sentence. 
+
+The renewal fee for the fourth year can be paid with surcharge within the six-month grace 
+
+period of Article 86(2) EPC, which applies ("de ultimo ad ultimo") from the end of one month to 
+
+the end of the other, (Rule 37(1) EPC and J4/91). Therefore the renewal fee for the fourth year 
+
+can be paid until 31 August 2004. 
+
+ 
+
+ 
+
+Question 2: 
+
+ 
+
+The priority claim of PCTLATE is not valid. 
+
+The German utility model is the first application for the invention. A did not claim priority from 
+
+the first application (Article 4 C (4) Paris Convention and Article 8(2)(a) PCT). Consequently, 
+
+PCTLATE has the filing date as the relevant date. 
+
+The German utility model was made available to the public before the filing date of PCTLATE 
+
+and is therefore prior art for PCTLATE. 
+
+Only the German utility model provides protection for the invention.  
+
+ 
+
+ 
+
+Question 3: 
+
+ 
+
+In principle, the patent proprietor cannot reinstate the granted claim 1 during the appeal 
+
+proceedings. 
+
+According to G9/92 or G4/93 (no reformatio in peius), the patent proprietor who did not himself 
+
+file an admissible appeal may, in principle, only defend the patent in the form in which it was 
+
+maintained by the opposition division in its decision.  
+
+
+However, exceptions to this are outlined in G1/99. 
+
+ 
+
+ 
+
+Question 4: 
+
+ 
+
+The EPO transmits the international application to the IB on the basis of Rule 19. 4 PCT. 
+
+When the EPO acts as a receiving office, the PCT-application must be filed in one of the 
+
+official languages of the EPO, i.e. English, French or German (Rule 104(1) EPC). 
+
+The international application so transmitted shall be considered to have been received by the IB 
+
+and the International Bureau acts as receiving office according to Rule 19.4 PCT. 
+
+The date of receipt is the date on which the EPO received the PCT-application. 
+
+The date of receipt of the transmitted application at the IB is used for the calculation of the due 
+
+dates of the transmittal fee, the international fee and the search fee (Rule 19.4 (c) PCT). 
+
+Fees have to be paid to the IB either directly without surcharge or after notification by the IB 
+
+with surcharge. 
+
+All fees already paid to the EPO will be reimbursed (OJ 1993, p 764). 
+
+ 
+
+ 
+
+Question 5: 
+
+ 
+
+a) 
+ According to Art. 14(2) EPC, a European patent application may be filed in Greek 
+
+language for the Greek national. 
+
+According to Rule 6 (1) EPC, a translation should have been filed within 3 months after the 
+
+filing, but not later than 13 months after the priority date, i.e. at the latest on 13 March 
+
+(Saturday), extended to 15 March 2004 (R.85(1) EPC). 
+
+Since no translation has been filed, the application is deemed to be withdrawn in accordance 
+
+with Article 90(3) EPC. 
+
+ 
+
+b)  
+Since the original application has not yet been published, the application could be 
+
+refiled. However, priority can no longer be claimed. 
+
+ 
+
+If there are arguments that the "all due care" requirement was met, a request for restitutio in 
+
+integrum (Article 122 EPC) is to be filed. 
+
+ 
+
+ 
+
+
+Question 6: 
+
+ 
+
+The designation fees for EP1 had to be paid within 6 months of the mention of the publication 
+
+of the search report (Article 79(2) EPC), i.e. by 02 October 2003. 
+
+ 
+
+EP1 validly designates AT, BE, ES and DE. The designation fees were duly paid by the 
+
+deadline of 02 October 2003. 
+
+ 
+
+EP2 was filed within the time limit of Art. 79(2) EPC. Therefore EP2 may validly designate all 
+
+contracting states, including NL (see G4/98), even though EP1 did not validly designate NL. 
+
+ 
+
+EP3 was filed after the time limit of Art. 79(2) EPC. Thus EP3 may only validly designate those 
+
+states which are validly designated in EP1 (see G4/98).  
+
+ 
+
+The two-month grace period of Rule 85a(2) expired on 2 December 2003. 
+
+ 
+
+At the time of filing EP3, the Rule 85a(2) time limit had not yet expired. Thus although we are 
+
+told that designation fees were only paid for AT, BE, ES and DE for EP1, at the time of filing 
+
+EP3, it was still possible to pay further designation fees including the designation fee for NL for 
+
+EP1. Thus provided that this/these designation fee(s) was/were paid before 02 December 
+
+2003, also NL could have been validly designated in EP3. Otherwise only AT, BE and DE may 
+
+be validly designated in EP3.   
+
+ 
+
+A further consideration concerns the grace period of Rule 85a(1) EPC. Since the designation 
+
+fee for NL was not paid by 2 October 2003, a communication under Rule 85a(1) must be 
+
+issued. As long as the grace period triggered by receipt of this communication has not yet 
+
+expired, it may still be possible today (24 March 2004) to pay the designation fee for NL in 
+
+EP1. If this is still possible, then EP3 can still validly designate NL. Otherwise, only AT, BE 
+
+and DE may be validly designated in EP3. 
+
+ 
+
+ 
+
+Question 7: 
+
+ 
+
+a) The application is deemed to be withdrawn (Article 96(3) EPC). 
+
+ 
+
+To save the application, I would request further processing under Article 121 EPC.  
+
+ 
+
+
+The loss of rights was notified under Rule 69(1) EPC on 01 February 2004 (Rule 78(2) EPC). 
+
+Further processing should be requested, the corresponding fee should be paid and the reply 
+
+to the communication should be filed within two months from notification of the loss of rights, 
+
+i.e. until 01 April 2004. 
+
+ 
+
+b) The rejection of the further request in communication C2 as such cannot be appealed, as it 
+
+does not terminate the proceedings (Article 106(3) and Rule 65 EPC). An appeal would 
+
+therefore not be admissible. 
+
+ 
+c) C3 is a communication under Rule 69(1) EPC. 
+
+Within two months after notification of C3, I can apply for a decision under Rule 69(2) EPC on 
+
+the finding that the application is deemed to be withdrawn. 
+
+This decision is appealable (Article 106(1) EPC). Thus the finding of loss of rights can be 
+
+reviewed by a Board of Appeal. 
+
+ 
+
+ 
+
+Question 8: 
+
+ 
+
+a) Under the given circumstances, since no additional fee is paid, an official protest procedure 
+
+is not possible (Rule 40.2(c) PCT). 
+
+ 
+
+b) There will be an International Search Report indicating that the search was performed only 
+
+for the main invention, i.e. the invention first mentioned in the claims (Article 17(3)(a) PCT and 
+
+Rule 47(3) PCT). 
+
+The International preliminary examination need not be carried out for the inventions for which 
+
+no search was carried out (Rule 66.1(e) PCT) and the EPO as IPEA will not do so. 
+
+ 
+
+ 
+
+Question 9: 
+
+ 
+
+a) Rule 64(1)(a) PCT states that, for the purposes of Article 33(2) and (3) PCT, everything 
+
+made available to the public by means of written disclosure prior to the relevant date shall be 
+
+considered prior art. The relevant date is the international filing date (Rule 64(1)(b)(i) PCT). 
+
+Although Prof. A's oral disclosure was before the relevant date, the written version was only 
+
+made available to the public later than the relevant date.  
+
+According to Rule 64(2) PCT, such a non-written disclosure is not considered part of the prior 
+
+art. However, the IPER shall mention such disclosure according to Rule 70.9 PCT. 
+
+ 
+
+
+b) In the regional phase before the EPO, Prof. A's disclosure will be considered part of the 
+
+prior art since Article 54(2) EPC refers to written or oral description. 
+
+ 
+
+ 
+
+ 
+
+ 
+Question 10: 
+
+ 
+
+The IGA 2003 is an international exhibition as referred to in Article 55(1)(b) EPC (see e.g. 
+
+official list published in OJ 2003) 
+
+If the client proceeds as planned, the disclosure of the gardening tool at IGA 2003, would have 
+
+to be taken into consideration for the application of Article 54 EPC since it occurred earlier 
+
+than six months before the planned filing date of EP-1.  
+
+In accordance with G3/98 or G2/99, the relevant date for the calculation of the six-month 
+
+period of Article 55(1) EPC is the filing date, not the priority date.  
+
+Hence EP-1 would be lost for lack of novelty over the disclosure at IGA 2003. 
+
+ 
+
+The six-month period of Article 55(1) EPC started on the date of the first disclosure, i.e. on 
+
+24.09.2003 and thus expires today.  
+
+Instead of the national first filing CH-1, the client should therefore file EP-1 today and include 
+
+on filing the statement under Article 55(2) EPC.  
+
+ 
+
+Within four months from the filing date of EP-1, i.e. until 24.07.2004 extended to 26.07.2004 
+
+(Rule 85(1) EPC), the certificate referred to in Article 55(2) EPC and the accompanying 
+
+documents, which are available to client, must be filed in accordance with Rule 23 EPC. 
+
+ 
+
+ 
+
+Question 11: 
+
+ 
+
+No, the request for further processing was not validly filed. 
+
+ 
+
+The period for filing the request for further processing expired on 14.11.2003 (Article 121(2) 
+
+EPC, Rule 78(2) EPC). The request was therefore filed on time. 
+
+ 
+
+However, the request for further processing must be filed by the applicant (Article 121(1) 
+
+EPC). 
+
+A transfer shall have effect only when the documents satisfying the EPO that a transfer has 
+
+taken place have been produced (Rule 20(3) EPC). The declaration of transfer signed by both 
+
+companies is satisfactory (GL E-XIII, 1.2) and so the transfer is registered on 27.11.2003.  
+
+
+The newly registered applicant B became applicant only after expiry of the period for filing the 
+
+request for further processing and therefore could not have filed the request for further 
+
+processing.  
+
+
+ 
+
+ 
+
+EXAMINATION COMMITTEE III 
+Candidate No.   
+
+Marking Schedule 0 
+Paper D Schedule of marks 
+ 
+Marks awarded 
+ 
+Question 
+Maximum 
+possible 
+   Exr    
+
+ 
+   Exr    
+
+ 
+
+ 
+PART I 
+ 
+
+ 
+1 
+ 
+5 
+ 
+ 
+
+ 
+2 
+ 
+4 
+ 
+ 
+
+ 
+3 
+ 
+2 
+ 
+ 
+
+ 
+4 
+ 
+5 
+ 
+ 
+
+ 
+5 
+ 
+4 
+ 
+ 
+
+ 
+6 
+ 
+5 
+ 
+ 
+
+ 
+7 
+ 
+5 
+ 
+ 
+
+ 
+8 
+ 
+3 
+ 
+ 
+
+ 
+9 
+ 
+3 
+ 
+ 
+
+ 
+10 
+ 
+5 
+ 
+ 
+
+ 
+11 
+ 
+4 
+ 
+ 
+
+ 
+TOTAL PART I 
+ 
+45 
+ 
+ 
+
+ 
+PART II 
+ 
+ 
+ 
+ 
+
+ 
+A 
+ 
+17 
+ 
+ 
+
+ 
+B 
+ 
+5,5 
+ 
+ 
+
+ 
+C 
+ 
+8 
+ 
+ 
+
+ 
+D 
+ 
+24,5 
+ 
+ 
+
+ 
+TOTAL PART II 
+ 
+55 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Total Parts I + II 
+ 
+100 
+ 
+ 
+
+ 
+Examination Committee III agrees on                   marks 
+and recommends the following grade to the Examination Board: 
+ 
+ 
+PASS 
+FAIL 
+ 
+(50-100) 
+(0-49) 
+ 
+ 
+COMPENSABLE FAIL 
+ 
+ 
+(45-49, in the case the candidate sits the examination for the first  
+ 
+ 
+time) 
+ 
+Munich, 9 September 2004 
+ 
+ 
+Chairman Examination Committee III 
+
+ 
+ 
+
+

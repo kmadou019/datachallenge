@@ -1,0 +1,1111 @@
+1
+
+CANDIDATE’S ANSWER 
+
+ 
+
+D-I. QUESTION 1 
+
+ 
+
+ 
+ 
+ 
+Prio 
+ 
+ 
+ 
+ 
+ 
+ 
+UK1 &UK2 public 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17/2/2015 
+ 
+20/2/2015 
+
+ 
+| 
+ 
+ 
+ 
+ 
+ 
+| 
+ 
+ 
+| 
+
+ 
+UK1  
+ 
+ 
+ 
+ 
+EP1=UK1 
+ 
+UK2  
+ 
+ 
+ 
+ 
+EP2=UK2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(+copies of UK1 & UK2) 
+ 
+
+EP1 – EP2 
+
+- 
+Missing drawings can be filed within 2m of the date of filing (or upon invitation 
+from the EPO) – R56(2) EPC 
+- 
+This will cause a redating of the application to the date on which the missing 
+parts were filed; 
+- 
+Thus, the filing date of EP1 and EP2 will change to 23/2/2015 
+- 
+This means that the priority is no longer validly claimed (A87(1) EPC), 
+because EP1 and EP2 are outside the 12m period to claim priority (17/2/2015 
+was last day of priority period) 
+- 
+This means that UK1 and UK2, publicly available since 20/2/2015 are A54(2) 
+prior art documents for EP1 and EP2. 
+- 
+Since UK1 = EP1 and UK2=EP2, EP1 and EP2 are not novel over UK1 and 
+UK2, respectively and EP1 and EP2 will not be granted 
+
+ 
+
+Correction of the situation 
+
+A/ EP1 
+
+- 
+The EPO will send us a notification under R56(2) informing us of the redating 
+of the application. 
+- 
+Within 1m of this notification we should withdraw the missing drawings filed, 
+thus nullifying the redating (R56(6) EPC) 
+- 
+After withdrawal, we can reintroduce the missing drawings under R56(3) EPC, 
+without redating by filing a request to this effect 
+ also within 2m of filing, thus by 17/2/2015 + 2m ---------> 17/4/2015 
+(Friday)  
+ 
+ 
+ 
+ 
+ 
+ 
+       [R131(4)] 
+      we should also withdraw the missing drawings filed in this period 
+ we already claim priority of UK1 
+ the missing drawings are completely contained in UK1 
+
+
+2
+
+ we do not need to file a copy of UK1 as already available to EPO 
+[R56(3)(a)] 
+ translation is presumably not necessary [R56(3)(b)], as UK1 is 
+presumably in English which is an official language of the EPO 
+ we have to indicate where the missing drawings are completely 
+contained in UK1 
+- 
+Thus drawings can be introduced in EP1 without redating. Priority will remain 
+validly claimed. Effective date of EP1 is filing date of UK1 and UK1 (published 
+on 20/2/2015) is no longer prior art document 
+
+B/ EP2 
+
+The above setup for EP1 does not work for EP2 (because UK2 does not contain 
+drawings) 
+
+To avoid redating and the novelty destroying UK2 publication: 
+
+- 
+We should, like for EP1, withdraw the missing drawings filed within one month 
+of the EPO notification under R56(2), thus avoiding the redating 
+- 
+This way, we keep the filing date of 17/2 also for EP2 and priority will still be 
+validly claimed. 
+- 
+Presumably, since the applicant only noted that drawings were missing for 
+EP1, there will be no reference to the drawings in UK2 and EP2. The absence 
+of drawings will thus not affect the further prosecution of EP2  
+
+ 
+ 
+
+
+3
+
+D-1. QUESTION 2 
+
+ 
+ 
+ 
+prio 
+
+ 
+ 
+ 
+2/1/’10 
+ 
+13/9/’10 
+2/10  
+2/1/’11 
+ 
+10/’13 
+ 
+12/11/’14 
+
+ 
+| 
+ 
+| 
+ 
+| 
+ 
+| 
+ 
+| 
+ 
+ 
+| 
+
+ 
+IT1 
+ 
+EP2 (X) 
+ 
+article  
+EP1 (X) 
+ 
+invitation to
+ 
+        EP2 grant  
+ 
+(withdrawn)  
+ 
+ 
+ 
+ 
+ 
+file translation 
+ 
+ 
+
+- EP1 claims priority from IT1, which has been withdrawn, but this does not affect the 
+right to claim priority [A87(3) EPC] 
+
+- priority claim from utility model application is allowed [A87 (1) EPC] 
+
+- article is published in priority period 
+
+- Thus, if priority claim is valid, then article is not an A54(2) document (because 
+effective date of EP1 would be filing date of IT1) 
+
+- however, if priority claim is invalid 
+
+ effective date of EP1 is filing date of EP1 and article would be A54(2) 
+document and destroys novelty of EP1 
+
+- thus, the validity of the priority claim is relevant for the patentability of EP1 (inv X)  
+R53(3): EPO invites B to file translation (this occurred in 10/2013) 
+
+- B has not filed translation  loss of rights is loss of right to priority of EP1 (under 
+R53(3) 
+
+ 
+
+(A) 
+
+With the priority right lost according to R53(3) 
+
+- the effective date of EP1 is filing date of EP1 (2/01/2011) 
+
+- article is published before filing date of EP1 and is hence a novelty 
+destroying A54(2) document 
+
+- EP1 claiming X will not be novel over article (X) and will not be validly 
+granted 
+
+(B) with a valid priority claim EP1, having as effective date the filing date of IT1, 
+which is before the filing date of EP2, and published after filing date of EP2, EP1 is a 
+A54(3) EPC prior art document relevant for the novelty of EP2 
+
+
+4
+
+Since EP1 discloses X, EP1 would be novelty destroying for EP2 (claiming X) 
+
+ 
+
+In the present context, EP1 is published in early July 2011 (18 after priority date: 
+01/2010 + 18m  07/2011). EP1 was thus published with the priority claim. 
+
+According to GL F-VI, 3.4, for reasons of legal certainty, the right of priority remains 
+effective for determining the state of the art for the purposes of A54(3) in respect of 
+any other EP application, thus also including EP2 
+
+In this respect, it is immaterial whether the translation has been filed: changes taking 
+effect after the date of publication, as is the case here, do not affect the application of 
+A54(3) 
+
+Thus, EP1 is still an A54(3) doc for EP2 
+
+ 
+
+With mention of the grant published on 12/11/2014, the 9m opposition period [A99(1) 
+EPC] ends at 12/11/2014 + 9m – R131(4) --> 12/8/2015 (wed) 
+
+ 
+
+Thus, B can duly file an opposition against EP2 (before 12/8/2015, file notice of 
+opposition + pay opposition fee), based on the ground of lack of novelty [A100 (a) 
+EPC] using EP1 as an A54(3) document. 
+
+With EP1 disclosing X and EP2 claiming X  EP2 will be revoked by the opposition 
+division. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+5
+
+D-1. QUESTION 3 
+
+ 
+
+(A) PCT-A vs claiming priority of A 
+
+-Argentina is a state party to the Paris Convention and a member of the WTO. 
+
+-A is regular national application 
+
+-A PCT application may claim priority from an application filed in or for any country 
+party to the Paris Convention ([Art 8(1) PCT] 
+
+-yes, PCT-A may contain a declaration claiming priority of application A 
+
+- in addition, for claiming priority, applicants of PCT-A and A are the same 
+
+ 
+
+(B) Hans and EE: joint applicants 
+
+-any resident or national of a PCT CS may file an international application 
+
+-Hans, as German national, with Germany as PCT CS may file an international 
+application 
+
+-EE is an Argentinian resident, and Argentina is not a PCT CS, so EE may in itself 
+not file a PCT application 
+
+-However, a PCT application may have several applicants [Art 9(3) PCT] 
+
+-according to R18.3, if there are 2 or more applicants the right to file a PCT 
+application shall exist if at least one of them is entitled to file an international 
+application 
+
+-Here: Hans is entitled to file 
+
+-So, EE + Hans may file jointly PCT A 
+
+ 
+
+(C) 1. EPO as RO 
+
+-competent RO: also R19 PCT 
+
+-EPO is competent RO if applicant is a resident or national of a PCT and EPC 
+contracting State [Art 151 EPC; R157(1) EPC] 
+
+-Hans is German national – Germany is PCT and EPC CS 
+
+-English is a language accepted by EPO as RO [R157(2)] 
+
+So, if PCT A is filed directly at EPO in English, EP will be the competent RO for PCT-
+A 
+
+ 
+
+(C) 2. GPTO [see PCT applicant’s guide Annex C (DE)] 
+
+
+6
+
+- GPTO is competent RO for nationals of Germany. Hans fulfils this criteria 
+
+-However, GPTO only accepts PCT applications filed in German 
+
+-with PCTA in English, GPTO will not act as RO for PCT-A. In this case, GPTO will 
+transmit PCT-A to the IB [R19.4(ii) PCT] 
+
+ GPTO will be considered to have received PCT-A on behalf of IB as RO 
+
+ 
+
+R19.2 PCT shows that in case of multiple applicants at least one applicant should be 
+entitled to file at the RO. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+7
+
+D-1. QUESTION 4 
+
+ 
+ 
+Prio 
+ 
+ 
+24/3/2014 
+ 
+ 
+24/9/2014 
+ 
+ 
+ 
+ 
+today 
+
+ 
+| 
+ 
+ 
+ 
+| 
+ 
+ 
+ 
+ 
+| 
+
+JP(D)  
+ 
+ 
+ 
+EP-D1 (Japanese), Cl 1 
+Japanese, cl 1 & cl 1 
+ 
+ 
+EP-D2 (English), Cl 2 
+ 
+
+ 
+
+EP-D1  
+
+ filed in Japanese + English translation 
+
+ 
+
+- 
+According to Art 14(2) EPC, an European patent application may be filed in 
+any language (including Japanese), provided a translation is filed within 2m of 
+filing [R 6(1) EPC] in an official EPO language 
+- 
+English is an official EPO language – translation was duly filed  comply with 
+EPC  
+- 
+English text is authentic text [A70 (1)] 
+- 
+The Japanese text remains the application as filed according to A70(2) & 
+A14(2),  
+- 
+throughout the proceedings before the EPO, the (English) translation may be 
+brought into conformity with the (Japanese) application as filed. 
+ 
+- 
+Since JP-D (claim to apparatus 1) presumably corresponds to the Japanese 
+text of EP-D1 as filed, we can correct the translation of « µm » in the English 
+translation 
+ 
+- 
+Thus, prosecution of EP-D1 (cl 1) with the correction of © to µm (based on the 
+Japanese text as filed) can continue without further additional measures. 
+ 
+
+EP-D2 
+
+ in this case, the English text is the text as filed as well as the authentic text of EP-
+D2 
+
+- 
+Under R139 EPC, correction of errors is possible in any document filed with 
+the EPO. However, in case such an error concerns the description or claims, it 
+must be an obvious error : it must be immediately evident that nothing else 
+could have been intended than what is offered as the correction. 
+- 
+This is not the case here : the replacement of © by µm is not evident. 
+- 
+Thus, correction under R139 is not possible 
+
+
+8
+
+- 
+Correction of the translation is also not possible, as for EP-D2 there is no 
+translation : text as filed & authentic text are in English (it is irrelevant that 
+priority application is in Japanese) 
+
+ 
+- 
+Option is to withdraw EP-D2 and refile with the correct « µm » 
+o Priority can still be validly claimed [A87(1)] 
+ 24/3/2014 + 12m  R131(4)  24/3/2015 (Tuesday) 
+o Thus, refiling of EP-D2 before 24/3/2015 
+- 
+With priority validly claimed (within 12 m, same applicant D, same invention 
+(apparatus 2), JP-D is first application for apparatus 2): effective date of EP-
+D2(bis) remains filing date of JP-D, so state of the art will not change and thus 
+no influence on further prosecution of EP-D2(bis) 
+- 
+EP-D2(bis) should be directed to apparatus 2. Preferably, EP-D2bis can also 
+be filed in Japanese & English translation, so as to be able to correct other 
+translation mistakes in the future (outside priority period). 
+
+ 
+
+ 
+ 
+
+
+9
+
+D-1. QUESTION 5 
+
+ 
+
+- 
+R30(1) EPC requires that for an European patent application disclosing amino 
+acid sequences, the description must contain a sequence listing. 
+- 
+This sequence listing should follow the rules for the standard representation of 
+sequence listings, as laid down in decision of the President of 30.05.2011 (OJ 
+2011, 372) and must comply with the WIPO Standard ST.25 
+- 
+E has not filed a sequence listing. 
+- 
+Thus, R30(3) EPC : the EPO shall invite E to furnish the sequence listing + 
+pay the late furnishing fee 
+- 
+ communication received by E is thus R30(3) communication 
+
+ 
+
+a) E has to provide the sequence listing and pay the late furnishing fee [Rfees 
+2(1)14a = 230 EUR] 
+This should be done within 2m from communication R30(3) 
+ 
+18/2/2015 + 10d [R126(2) EPC]  28/2/2015 + 2m  28/4/2015 (Tuesday) 
+ 
+b) Legal consequence of not remedying the defect is refusal under R30(3) 
+Further processing under Art 121 & R135(1) may be used if this time limit is 
+not met, and may be requested until 2m after notification of the loss of rights. 
+Further processing should be requested for any of the omitted acts: 
+ Pay the fee: FP fee equals to 50% of late furnishing fee 
+(50% of 230 = 115 EUR) 
+ Furnish sequence listing: FP fee is fixed fee of 250 EUR [Rfees 
+2(1)12] 
+
+and the omitted acts should be completed as well for a successful FP 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+10
+
+D-2 
+
+I. 
+ANALYSIS 
+
+1/ analysis EP-X1 
+
+Applicant TIPOGRAF-X (further TIPO-X) 
+
+Filing date : 07/2012 
+
+Priority claimed : none 
+
+Disclosed : M+A 
+
+Claim 1 : M+A 
+ 
+ 
+ 
+ 
+Effect of A : increased speed 
+
+Status : 10/2013 : ESR  prior art EP-Z 
+
+ 
+
+2/ analysis EP-Z 
+
+Applicant DRUCK-Z 
+
+Filing date 03/2012 
+
+Priority claimed : none 
+
+Disclosed & claimed : M+A 
+
+EP-Z is earliest application for M+A 
+
+Status : withdrawn in 11/2013; entitlement proceedings by TIPO-X  successful for 
+TIPO-X 
+
+ 
+
+3/ analysis of EP-X2 
+
+Applicant TIPO-X 
+
+Filed 10/03/2014 
+
+No priority claimed: priority period expires +12m  10/3/2015 (TUE) 
+
+Disclosed: 
+M+A+B  
+ 
+(effect: use of various type of papers) 
+
+ 
+ 
+M+A+C 
+ 
+(effect: fewer misprints) 
+
+ 
+ 
+M+A+B+C 
+(effect: less noise) 
+
+Claimed:  
+1) M+A+B 
+
+ 
+ 
+2) M+A+C 
+
+ 
+ 
+3) M+A+B+C 
+
+Status: pending 
+
+EP-X2 is earliest application for M+A+B+C 
+
+
+11
+
+4/ analysis EP-X3 
+
+Applicant TIPO-X 
+
+Filed 20/01/2015 
+
+Priority claimed: none 
+
+Description is identical to EP-X2 
+
+Not disclosed: D 
+
+Claim M+A+B+C+D 
+
+EP-X3 is earliest application for M+A+B+C+D 
+
+ 
+
+5/ analysis PCT-L 
+
+Applicant PRINT-L 
+
+Filed 08/09/2012 
+
+No priority claimed (because entry was not yet performed by 02/2015 at the trade 
+fair) 
+
+Disclosed + claim 1: M+A+C 
+
+Status:  
+positive IPER 
+
+ 
+National entry due at 30m  08/03/2015 (SUN)  09/03/2015 
+
+ 
+ 
+ 
+ 
+At 31m  08/04/2015 (WED) 
+
+ 
+Published 13/9/2014 
+
+PCT-L is earliest application for M+A+C 
+
+ 
+
+6/ analysis of EP-G 
+
+Applicant ICPR-G 
+
+Filed 05/2012 
+
+No priority claimed 
+
+Disclosed + claims 1) M+A & 2) M+A+B    (+ effects) 
+
+Status: ESR does not mention any relevant documents 
+
+EP-G is earliest application for M+A+B 
+
+ 
+
+II. 
+Question 1 - SITUATION FOR M+A 
+
+3 applications claim M+A: EP-Z; EP-G and EP-X 
+
+
+12
+
+(i) 
+EP-Z (cl 1 = M+A) 
+- no priority claimed: effective date is filing date EP-Z: 03/2012 
+- earliest application for M+A; no A54(2) or A54(3) docs known, so cl1 is 
+novel 
+- effect of A (increased speed) forms basis of inventive step, thus cl 1 is 
+deemed novel and inventive and would be validly granted 
+- however, EP-Z is withdrawn 
+- so, cl 1 (M+A) will not be granted and DRUCK-Z will get no protection for 
+M+A in Europe and can hence not stop others from producing/using M+A 
+ 
+
+(ii) 
+EP-G (cl 1 = M+A) 
+- no priority claimed: effective date is filing date EP-G: 05/2012 
+- EP-Z is A54(3) prior art for EP-G: filed before EP-G + published thereafter 
+(assumption based on fact that EP-Z was cited in search report of EP-X1) 
+- EP-Z is relevant for novelty only of EP-G 
+EP-Z discloses M+A, so cl1 (EP-G) is not novel over EP-Z and will thus not 
+be validly granted. 
+- ICPR-G will thus not get protection for M+A. With no rights in Europe 
+ICPR-G cannot stop others from exploiting M+A 
+ 
+
+(iii) 
+EP-X1 (cl1 = M+A) 
+- no priority claimed: effective date = 07/2012 
+- both EP-Z and EP-G are A54(3) docs (filed before EP-X1 and published 
+thereafter – EP-G is close to grant) 
+- so cl1 (M+A) of EP-X1 is not novel, since both EP-Z and EP-G disclose 
+M+A 
+- TIPO-X will not get patent protection for M+A in Europe and with no rights 
+in Europe cannot stop others from commercialising M+A 
+ 
+
+* Disclosure of M+A to DRUCK-Z is no public disclosure because of confidentiality 
+and is thus not an A54(2) disclosure 
+
+ 
+
+III. 
+Question 1 - SITUATION FOR M+A+B 
+
+2 applications claim M+A+B: EP-G and EP-X2 
+
+ 
+
+(i) 
+EP-G (cl2 = M+A+B) 
+-no priority claimed: effective date is filing date of EP-G 
+-EP-G is earliest application for M+A+B 
+-search report shows no relevant docs  no A54(2) or A54(3) prior art 
+-cl 2 is novel over Prior art 
+-effect of B (use of multiple papers) forms basis of inventive step 
+-cl2 (M+A+B) is novel and inventive 
+
+
+13
+
+-cl2 will be validly granted and give protection for M+A+B in all EPC states 
+where validated. To cover IT, they will have to file a translation of EP-G in 
+Italian 
+-assuming validation and payment of renewal fees: after grant ICPR-G can 
+stop others from producing, selling, using M+A+B in validated EPC 
+contracting states 
+ 
+
+(ii) 
+EP-X2 (cl1 (M+A+B) 
+-no priority claimed  effective date is filing date of EP-X2 
+-EP-Z is presumably A54(2) document for EP-X2 (presumably published in 
+03/2012 + 18m = 09/2013). EP-Z discloses only M+A, while cl1 is directed 
+to M+A+B 
+-cl 1 is novel over EP-Z 
+-EP-G is presumably also A54(2) (publication in 05/2012+18m = 11/2013) 
+-EP-G discloses M+A+B, so cl1 (EP-X2) is not novel over EP-G 
+EP-X2 (cl1) will not be validly granted 
+TIPO-X will not get protection for M+A+B and can thus not stop others from 
+exploiting M+A+B 
+ 
+ 
+IV. 
+Question 1 - SITUATION FOR M+A+C 
+
+2 applications claim M+A+C: PCT-L and PE-X2 
+
+ 
+
+(i) 
+PCT-L (cl1 M+A+C) 
+-no priority claimed: effective date = filing date 
+-assuming PRINT-L will take the necessary steps for national entry in 
+Europe by performing the acts under R159(1) (I’ll check this) by 8/4/2015:  
+-EP-Z and EP-G will then be considered A54(3) docs (relevant for novelty 
+only) 
+-EP-Z and EP-G only disclose M+A and M+A+B 
+-PCT-L is earliest application for M+A+C 
+-positive IPER + effect C forms basis for inventive step 
+-  Cl 1 (PCT-L) will be novel and inventive and will be validly granted in 
+Europe 
+- Thus, PRINT-L will have protection in all EPC contracting states were 
+validated and can stop others from commercialising M+A+C in the states 
+were validated 
+ 
+
+(ii) 
+EP-X2 (cl2 = M+A+C) 
+-assuming duly national entry in EP for PRINT-L: 
+-PCT-L (EP) will be A54(3) prior art for EP-X2 
+-PCT-L discloses M+A+C 
+-so cl2=M+A+C is not novel over PCT-L 
+-And M+A+C (cl2) will not be validly granted 
+
+
+14
+
+-TIPO-X will not get any patent rights for M+A+C and can thus not stop 
+others from exploiting M+A+C 
+ 
+If however, PRINT-L does not enter EP: 
+-PRINT-L will not get any rights on M+A+C in Europe 
+-PCT-L is not an A54(3) doc (if filed in Chinese – I’ll check that) 
+-in this case TIPO-X may obtain patent protection for M+A+C (because EP-
+Z and EP-G as A54(2) documents do not disclose M+A+C) 
+ 
+V. 
+Question 1 - SITUATION FOR M+A+B+C 
+1 application: EP-X2 
+ 
+-no priority claimed: effective date is filing date of EP-X2 
+-EP-X2 is earliest application for M+A+B+C 
+-PCT-L (assuming A54(3) doc) and EP-Z and EP-G only disclose M+A 
+and/or M+A+B or M+A+C 
+-so EP-X2 (cl 3) for M+A+B+C is novel over prior art 
+-inventive step seems ok as well, because of synergistic effect of B+C 
+(noise reduction) 
+-thus cl3 is novel and inventive 
+-cl 3 will be validly granted and give protection for M+A+B+C in all EPC CS 
+were validated 
+-thus after grant of cl3, TIPO-X can stop others from exploiting M+A+B+C, 
+including M+A+B+C+D (since it comprises M+A+B+C) in CS were 
+validated and renewal fees are paid to keep EP-X2 (cl3) in force. 
+ 
+VI. 
+Question 1 - SITUATION FOR M+A+B+C+D 
+1 application EP-X3 (cl1) 
+ 
+-no priority claimed: effective date is filing date EP-X3 
+-earliest application for M+A+B+C+D 
+-A54(2) documents known (EP-X1, EP-Z, EP-G, PCT-L) do not disclose 
+M+A+B+C+D 
+-EP-X2 is A54(3) document, but also does not disclose this combination 
+-EP-X3, cl1 is novel over prior art 
+-effect of D (ink consumption reduction) forms basis of inventive step 
+-EP-X3 is novel and inventive 
+-however, D is insufficiently disclosed: an A83 objection can be made 
+during examination or opposition 
+-thus, EP-X3 cl1 will not be validly granted 
+And TIPO-X will not get patent protection for M+A+B+C+D in EP and 
+cannot stop others from exploiting M+A+B+C+D based on EP-X3 
+ 
+VII. 
+Question 2  
+No: TIPO-X is not free to exploit M+A+B+C+D 
+ 
+
+
+15
+
+- 
+Currently, nobody will get a valid claim for M+A: nobody can using (M+A) 
+patent rights stop TIPO-X from exploiting M+A+B+C+D (M+A would be 
+dominating for M+A+B+C+D, because the latter includes M+A) 
+- 
+With ICPR-G obtaining valid protection for M+A+B, they can stop TIPO-X from 
+producing/selling/using M+A+B+C+D, because the latter includes M+A+B. 
+TIPO-X would thus infringe EP-G (M+A+B) 
+- 
+Assuming entry in EP: PRINT-L will obtain valid protection for M+A+C and can 
+stop TIPO-X from exploiting M+A+B+C+D, because PCT-L (EP) dominates 
+EP-X3 and the latter invention includes M+A+C. TIPO-X would thus infringe 
+PCT-L (M+A+C) 
+ 
+So: TIPO-X with M+A+B+C+D will infringe EP-G (cl2) and PCT-L (if entered in 
+EP) 
+ 
+- 
+Based on EP-X2 (cl3) TIPO-X can stop others from producing in Europe 
+M+A+B+C, including M+A+B+C+D.  
+- 
+Currently, TIPO-X has no valid patent rights on M+A+B+C+D itself 
+- 
+Nobody can thus produce M+A+B+C+D without infringing patent rights 
+
+ 
+
+VIII. 
+Question 3 - Improvements 
+
+ 
+
+I – Take the necessary steps to fully claim EP-Z (M+A) from DRUCK-Z (Art61) 
+
+-TIPO-X has obtained a final decision that it is entitled to EP-Z (M+A) 
+
+-TIPO-X should file a new patent application for M+A (cl 1 = M+A) 
+
+-EP-Z was not granted  so condition of R16 OK 
+
+-TIPO-X should take this step within 3m of decision: 15/1/15 + 3m  15/4/15 
+
+-protocol on recognition recognizes entitlement decision in all EPC CS  new 
+application will get protection in all EPC CS. 
+
+-the fact that EP-Z is withdrawn does not matter for filing a new application (G3/92) 
+
+ 
+
+Thus, TIPO-X will have a new application on M+A with effective date = EP-Z 
+
+As discussed before [see DII – II (i)]: 
+
+-M+A is novel and inventive and will be validly granted 
+
+-TIPO-X will get protection for M+A in Europe were validated: 
+
+ 
+IT: file IT translation 
+
+ 
+IS (party to London Agreement): file claim translation 
+
+ 
+DE (party to London Agreement): automatic validation 
+
+
+16
+
+(+ renewal fees should be paid to keep in force) 
+
+-TIPO-X can thus stop others from producing/selling/exploiting M+A; including 
+M+A+C (PRINT-L) & M+A+B (ICPR-G), because these inventions include M+A, in all 
+EPC CS were validated and renewal fees paid. 
+
+-TIPO-X would thus obtain the dominating patent 
+
+ 
+
+II – file 3rd party observations indicating EP-Z to examiner of EP-G 
+
+This way, the A54(3) document will be used to destroy the novelty of EP-G cl1 (M+A) 
+
+ 
+
+III – improve EP-X3 
+
+-introduction of missing paragraph will cause redating of EP-X3 (missing paragraph 
+was not disclosed in EP-X2, so claiming priority from EP-X2 + trying to incorporate 
+the missing paragraph is not possible) 
+
+-redating of EP-X3 (to the date when the missing paragraph is filed) would mean that 
+the trade fair of 10/02/2015 would be an A54(2) disclosure of M+A+B+C+D 
+
+-however, a novelty destroying disclosure requires a sufficiently enabled disclosure 
+M+A+B+C+D was on display, so only its visible features were disclosed (T1085/92) 
+and made available to the public 
+
+-thus, even with a redated EP-X3: 
+
+ 
+* the trade fair is not a novelty destroying A54(2) disclosure 
+
+ 
+* the effect of D forms the basis for the inventive step 
+
+ 
+ Thus cl (M+A+B+C+D) will be novel and inventive 
+
+ M+A+B+C+D would be validly granted in EP and give protection for M+A+B+C+D 
+in all CS were validated. 
+
+-TIPO-X would then be able to stop others form exploiting M+A+B+C+D in CS were 
+validated 
+
+Filing the missing paragraph under R56(2) should be done within 2m of filing (it is 
+uncertain the EPO will issue a communication about the missing paragraph), i.e. by: 
+
+20/01/2015 + 2m  20/03/2015 (but the sooner the better) 
+
+Alternatively, for EP-X3 – we can withdraw EP-X3 (to avoid publication) and refile a 
+PCT application (PCT-X3) – see next section 
+
+ 
+
+ 
+
+IV – in view of PRINT-L – extend geographic protection 
+
+
+17
+
+The priority year of EP-X2 and EP-X3 (as redated) is not yet over: 
+
+ File a PCT application  
+o PCT-X2, directed  to cl M+A+B+C 
+o PCT-X3, directed to cl M+A+B+C+D 
+
++ claiming priority from EP-X2 and EP-X3 (respectively) 
+
+-as discussed above, these claims will be novel and inventive, and depending on the 
+national phases entered (to be decided in light of production/markets of PRINT-L), 
+TIPO-X will obtain valid protection for M+A+B+C and M+A+B+C+D in these 
+countries, and can thus stop others from exploiting M+A+B+C and M+A+B+C+D 
+
+ 
+
+• Priority can still be validly claimed from EP-X2 and EP-X3 (if EP-X3 is 
+corrected to include paragraph D): 
+-within 12m 
+-1st application of TIPO-X for M+A+B+C and M+A+B+C+D, respectively 
+-same invention (in paragraph D is included in EP-X3) 
+ 
+ 
+IX. 
+Final note on business aspects after improvements 
+
+-with TIPO-X having the dominating patent M+A (dominating for M+A+B of ICPR-G), 
+in particular when validated in IS, ICPR-G would infringe TIPO-X patent on M+A if 
+they exploit M+A+B in IS 
+
+-however TIPO-X would still infringe EP-G when exploiting M+A+B+C+D in IS 
+
+-this crosslicense situation can be exploited to get more reasonable terms from 
+ICPR-G relating to their EP-G, because they need the rights on M+A to produce 
+M+A+B 
+
+ 
+
+-with TIPO-X  having the dominating patent M+A with regard to M+A+C from PRINT-
+L 
+
+ PRINT-L would need a license from TIPO-X to exploit M+A+C in Europe (CS 
+where validated) 
+
+ perhaps they can be persuaded not to enter EP? (which would mean as discussed 
+before that TIPO-X would also be able to obtain protection for M+A+C in EP 
+
+however, if PRINT-L enters EP, TIPO-X would still need a license from PRINT-L to 
+exploit M+A+B+C+D 
+
+with PCT(X2) and PCT(X3) we will be able to protect M+A+B+C and M+A+B+C+D on 
+PRINT-L’s home market (but TIPO-X will need a license from PRINT-L on PCT-L to 
+exploit M+A+B+C+D 
+
+
+18
+
+- 
+Since PRINT-L was open to collaboration, a big crosslicense deal involving 
+rights to 
+o EP-Z (refiled/taken over by TIPO-X) in EP (from TIPO-X to PRINT-L) 
+o PCT-L(EP) in EP (from PRINT-L to TIPO-X) 
+o Rights in Asia (PCT-L) (from PRINT-L to TIPO-X) 
+
++ if TIPO-X is not interested in Asia: give (license) rights of PCT(X2) and/or 
+PCT(X3) to PRINT-L in Asia 
+
+ 
+
+ 
+
+ 
+ 
+
+
+19
+
+ 
+
+

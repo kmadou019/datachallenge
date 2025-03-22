@@ -1,0 +1,886 @@
+- 1 -
+
+Examiners’ Report – Paper D 2019 
+
+Purpose and extent of the examiners' report  
+
+The purpose of the present examiners' report is to enable candidates to prepare for future 
+
+examinations (cf. Art. 6(6) of the Regulation on the European qualifying examination for 
+
+professional representatives).  
+
+General comments  
+
+Candidates are reminded that they should pay attention to the way the questions are 
+
+asked and should not simply repeat information from the paper in the answer. Repeating 
+
+information per se is not awarded any marks. Alternative answers, one being correct and 
+
+one being wrong, to the choice of the markers do no attract any marks. 
+
+In Part I, full marks were only awarded when the full legal basis was cited to support the 
+
+analysis. Citing only the legal basis without any further explanation or reasoning does 
+
+generally not attract any marks. However, alternative relevant legal bases also attracted 
+
+marks.  
+
+An unnecessary amount of points was sometimes lost due to miscalculation of time limits.  
+
+It is still noticed that candidates skip entire questions from D1. However, these candidates 
+
+typically do not pass. All-round knowledge of the syllabus, as tested in Part I, is required to 
+
+successfully do the legal assessment in Part II. 
+
+Candidates are reminded that the PCT questions may make up a substantial part  
+
+of paper D. 
+
+
+- 2 -
+
+Examiners’ Report – Paper D 2019, Part I 
+
+Question 1 (9 marks)  
+
+Most candidates correctly mentioned Art. 61 EPC, however very few noted that, according 
+
+to Rule 16(1)(b) EPC, this article is applicable only as long as EP-A has not yet been 
+
+granted. 
+
+Few candidates realized that the period for payment of the renewal fees is not interrupted. 
+
+It was often not realized that the divisional application for claim 3 could only be filed after 
+
+resumption. Candidates mostly spotted that the parent application has to be pending, but 
+
+many failed to attract the full marks because they did not cite the legal basis. Filing a new 
+
+application pursuant to Art. 61(1)(b) EPC, was not an option, as this would cause the 
+
+parent to be deemed to be withdrawn. 
+
+Question 2 (7 marks)  
+
+While third party observations may address an alleged lack of clarity under EPC, third 
+
+party observations concerning a lack of clarity are rejected when filed under PCT. More 
+
+candidates than expected missed this issue. 
+
+It is important to carefully read the question. The specification “while the competitor’s 
+
+application is pending”, render arguments relating to opposition moot. 
+
+Question 3 (9 marks)  
+
+This question was reasonably well answered. Most of the candidates realised that the PCT 
+
+form PCT/RO/101 automatically includes a statement of incorporation by reference, which 
+
+can be confirmed later, so that the claims of the earlier application DE1 can still be 
+
+incorporated into the PCT application. Candidates also appreciated the different 
+
+requirements between EPC and PCT for obtaining a filing date. 
+
+Some candidates suggested to file missing parts pursuant to Rule 56 EPC for the EP 
+
+application, but they did not realise that that is limited to the description and drawings. 
+
+
+- 3 - 
+ 
+
+ 
+
+Question 4 (7 marks)  
+
+ 
+
+This question concerned losing a right to priority because competitor Y had claimed priority 
+
+from an application that was not the first application. 
+
+ 
+
+Several candidates missed this and even mistook CA1 as Art. 54(3) EPC prior art for EP1, 
+
+which is not possible for a national application. In fact, CA1 is full prior art under Art. 54(2) 
+
+EPC. 
+
+ 
+
+Many candidates failed to see that, irrespective of the contents of KR1, the priority claim is 
+
+invalid, and therefore the translation of KR1 is not needed for determining the validity of 
+
+the priority claim. 
+
+ 
+
+Question 5 (8 marks)  
+
+ 
+
+This question was generally not well answered. Essential in this question were the 
+
+Arrangements for Deposit Accounts (ADA) and its Annex A.1, the Arrangements for the 
+
+automatic debiting procedure (AAD). Very few candidates mentioned that the payment is 
+
+considered to have been made on the date on which the deposit account is duly 
+
+replenished with sufficient funds. The majority of the candidates realized the 10-day fail-
+
+safe arrangement from Art. 7(3) Rfees. 
+
+ 
+
+ 
+ 
+
+
+- 4 -
+
+Possible Solution – Paper D 2019, Part I 
+
+References to the legal basis are referring to the status on 31 October 2018. 
+
+Answer to Question 1 (9 marks)  
+
+(a) EP-A is not yet granted. The Rule 71(3) EPC communication was issued only today,
+
+therefore, according Rule 16(1)(b) EPC, Art. 61 EPC is applicable.
+
+Company B has to provide evidence to the EPO that it has instituted proceedings against 
+
+Applicant A. The effect is that proceedings are stayed according to Rule 14(1) EPC and 
+
+the period for replying to the Rule 71(3) EPC communication is interrupted,  
+
+Rule 14(4) EPC. 
+
+According to Rule 14(4) EPC, the period for payment of renewal fees is not interrupted. 
+
+Company B should make sure the renewal fees are paid (if not by A, then by B) during the 
+
+stay. 
+
+Once a final decision in favour of Company B has been taken, Company B has to provide 
+
+evidence to that effect to resume the proceedings to grant, Rule 14(2) EPC, within 3 
+
+months after the decision recognising entitlement has become final, Rule 16(1)(a) EPC. 
+
+Company B has to inform the EPO that it wants to prosecute EP-A as its own application, 
+
+Art. 61(1)(a) EPC. Company B also has to file a new independent claim based on original 
+
+claims 1 and 2 upon resumption within the time which has not yet elapsed under  
+
+Rule 71(6) EPC, (or within 2 months, Rule 14(4) EPC, Rule 71(6) EPC) and delete claim 3. 
+
+Company B can either wait for a new Rule 71(3) EPC communication, or expressly waive 
+
+a further Rule 71(3) EPC communication, OJ 2015, A52, and at the same time file a 
+
+translation of the new claims into the other two official languages and pay the fee for grant 
+
+and publishing. 
+
+
+- 5 - 
+ 
+
+(b) After the proceedings are resumed, J 9/12, Company B has to file a divisional 
+
+application for claim 3, Art.76(1) EPC. EP-A has to be pending Rule 36 (1) EPC, hence the 
+
+divisional application must be filed at least one day before the mention of the grant in the 
+
+bulletin of EP-A. 
+
+ 
+
+Answer to Question 2 (7 marks)  
+
+ 
+
+(a) In the international phase, third party observations may only be filed electronically at 
+
+the IB, GL/PCT-EPO E-II, within 28 months from the international filing date.  
+
+The 28 months expire on 13 August 2019. The 3rd party observations may only relate to 
+
+novelty and inventive step. 
+
+ 
+
+Therefore, claim 2 cannot be objected to under clarity in a third party observation, because 
+
+observations relating to clarity, Art. 6 PCT, will not be communicated to any international 
+
+authority, and will not be open to public inspection. 
+
+ 
+
+The client should file a third party observation relating to lack of novelty (Art. 33.2 PCT) of 
+
+claim 1 in view of the document.  
+
+ 
+
+(b) Third party observations can be filed according to Art. 115 EPC once the application 
+
+has entered the European regional phase and may also relate to Art. 84 EPC according to 
+
+GL E-VI, 3. 
+
+ 
+
+The client should file a third party observation under (Art. 115 EPC) raising lack novelty in 
+
+view of the disclosure against claim 1 and raise a lack of clarity objection for claim 2. 
+
+ 
+
+Answer to Question 3 (9 marks)  
+
+ 
+
+(a) In the absence of claims, a date of filing cannot be obtained for the PCT application Art. 
+
+11.1(iii)(e) PCT. An applicant can file the claims on his own volition Rule 20.7(a)(ii) PCT 
+
+within 2 months from the date of filing, or the rO will invite the Applicant to correct a 
+
+deficiency under Art. 11(1) PCT, Rule 20.3 PCT, in response to which he can file the 
+
+claims, Rule 20.7(a)(i) PCT within 2 months. 
+
+ 
+
+
+- 6 - 
+ 
+
+The PCT form (PCT/RO/101) automatically includes a statement of incorporation by 
+
+reference according to Rule 4.18 PCT. 
+
+ 
+
+The Applicant should send a written notice under Rule 20.6(a) PCT, confirming that the 
+
+missing claims are incorporated by reference, accompanied by sheet(s) containing the 
+
+claims as contained in the priority application DE1, a copy of the earlier application DE1 
+
+and indication of where they are contained. 
+
+ 
+
+The filing date is then the date when the application was received by the Office, Rule 
+
+20.3(b)(ii) PCT. Hence, the priority is validly claimed for both capsules made of aluminium 
+
+and capsules made of metal. 
+
+ 
+
+Therefore, yes, the applicant can get protection for capsules made of aluminium and 
+
+capsules made of metal, because the article does not become prior art under  
+
+Art. 33(2) PCT. 
+
+ 
+
+(b) A filing date will be accorded to EP1, even without claims, Art 80 EPC, Rule 40 EPC. 
+
+ 
+
+The applicant can remedy the deficiency under Rule 57(c) EPC, requiring at least one 
+
+claim, by voluntarily filing the claim, GL A-III, 15, or he can do so in response to an 
+
+invitation pursuant to Rule 58 EPC, within 2 months. 
+
+ 
+
+Applicant C should file a claim directed to capsules made from aluminium on the basis of 
+
+the description that does not contravene Art. 123(2) EPC. A claim to capsules made from 
+
+metal cannot be included as that would contravene Art. 123(2) EPC. 
+
+ 
+
+The priority claim is valid, and the article is not prior art under Art. 54(2) EPC 
+
+ 
+
+Answer to Question 4 (7 marks)  
+
+ 
+
+(a) The patent was granted on 30 May 2018, so the 9 month opposition period,  
+
+Art. 99(1) EPC, expires on 28 February 2019, on last day of the month, Rule 131(4) EPC. 
+
+ 
+
+
+- 7 - 
+ 
+
+Pursuant to Art. 87(1) EPC, to give rise to a right to priority, the application must, inter alia, 
+
+be the first application for this invention. 
+
+ 
+
+CA1 was filed before KR1 by the same applicant and pertains to the same device A. Art. 
+
+87(4) EPC is not applicable, since CA1 not filed in the same country. Thus, KR1 is not the 
+
+first application for that subject-matter, whether KR1 discloses device A or not. 
+
+  
+
+The priority is thus invalid. The relevant date for subject matter A in EP1 is its filing date, 
+
+GL F-VI 1.4. Consequently, CA1 belongs to the state of the art under Art. 54(2) EPC and 
+
+anticipates EP1. 
+
+ 
+
+An opposition filed on the ground of Art. 100(a), lack of novelty over CA1, will be 
+
+successful. 
+
+ 
+
+(b) No, a translation is not needed for determining the validity of the priority claim,  
+
+GL F-VI, 3.4. 
+
+ 
+
+Answer to Question 5 (8 marks)  
+
+ 
+
+(a) The time limit for paying the additional search fee expired within 1 month from the date 
+
+from the invitation, Rule 40.1(ii) PCT, i.e. on 25 February 2019, Rule 80.2 PCT. 
+
+ 
+
+Since at the date of expiry of the time limit of Rule 40.1(ii) PCT, the account did not contain 
+
+sufficient funds to cover the additional search fee, the debit order is not carried out,  
+
+GL A-X, 4.3. 
+
+ 
+
+The payment is considered to have been made on the date on which the deposit account 
+
+is duly replenished (GL A-X, 4.2.4, AAD 8), i.e. today. The additional search fee has not 
+
+been paid, and the ISR and WOISA will cover the first claimed invention only, 
+
+ Art.17(3)(a) PCT. 
+
+ 
+
+(b) A 10-days fail-safe arrangement under Art. 7(3) RFees, applies to payments to 
+
+replenish deposit accounts, ADA 4.1. 
+
+ 
+
+
+- 8 - 
+ 
+
+After the EPO is made aware that, the order was given to the banking establishment more 
+
+than 10 days before expiry of the period under Rule 40.1(ii) PCT, the EPO will debit the 
+
+additional search fee, because € 10 000 is more than sufficient. 
+
+ 
+
+The final ISR and WOISA will cover both inventions, Art.17(3)(a) PCT. 
+
+ 
+ 
+
+
+- 9 -
+
+Examiners’ Report – Paper D 2019, Part II 
+
+This year’s Part II of paper D required candidates to demonstrate their knowledge relating 
+
+to (partial) priority, numerical ranges, the contents of the application as filed, evident abuse 
+
+and priority claims.  Following their analysis of the current situation of the client’s various 
+
+patent rights, the candidates were required to come up with solutions maximising the 
+
+freedom to operate for and scope of protection obtained by their client in different 
+
+contracting states.   
+
+Candidates generally did well on the analysis and spotted most of the relevant 
+
+relationships between the various rights and how they affect the freedom to operate of the 
+
+parties involved. 
+
+It is noted that candidates who immediately proposed improvements without fully analysing 
+
+the situation as outlined in the paper, missed a lot of relevant issues. 
+
+The majority of candidates noticed that EP-F2 contained subject matter that was not 
+
+covered by its priority application EP-F1. Only some candidates made the right 
+
+assessment and distinguished between the different parts of the “OR-claim”. Many 
+
+candidates also did not recognise the consequence of partial lack of novelty for the claim 
+
+as a whole. 
+
+Many candidates did not realise that announcement B also constitutes prior art under Art. 
+
+54(2) EPC. 
+
+Overall, the legal status of EP-F1 and EP-F3 was correctly assessed.  Some candidates 
+
+speculated on possible re-establishment of rights, without any indication in the paper, 
+
+thereby losing time. 
+
+The assessment of the situation on selling and producing soles A and B in Austria and 
+
+Germany was generally done well. The national effect of AT-H was usually correctly 
+
+assessed. In the assessment of selling and producing Sole B, in particularly in view of EP-
+
+H, very few candidates noticed that the EP-H was only recently granted and would not 
+
+
+- 10 - 
+ 
+
+necessarily have been validated in contracting states that are not party to the London 
+
+Agreement, such as Austria. 
+
+ 
+
+On the improvement of the situation, most candidates spotted the need to oppose EP-H on 
+
+the ground of added subject matter. 
+
+ 
+
+The possibility of adding a priority claim to EP-F3 in EP-F2 was also generally well 
+
+recognised. However, while the candidates understood that the earlier effective date 
+
+added another part to the “OR-claim” they neither applied it to the partial (lack of) novelty 
+
+of specific parts of the “OR-claim” in their original assessment, nor did they realise that just 
+
+adding the priority claim without making claim amendments is not sufficient to get a 
+
+granted patent out of EP-F2. 
+
+ 
+
+The evident abuse and the consequences of being able to file a new application was well 
+
+recognised. The majority of candidates overlooked that despite the provision for a 6 month 
+
+period to file the new application, the product launch was intended within 2 months from 
+
+the date of the exam. 
+ 
+
+
+- 11 -
+
+Possible Solution – Paper D 2019, Part II 
+
+1.
+Outline the patent situation as it currently stands for the claims of FASTER’s
+
+applications. 
+
+(a) EP-F2
+
+EP-F2 is still pending.  
+
+EP-F1 is the first filing for Copper (Cu) nanoparticles up to 40 nm, it was filed by the same 
+
+applicant and EP-F2 was filed within priority year.  
+
+Claim 1 of EP-F2 enjoys partial priority (G1/15) from EP-F1 for the part directed to copper 
+
+nanoparticles up to 40 nm. The remaining parts of claim 1, i.e. the part directed to metal 
+
+nanoparticles from metals other than copper and the part directed to copper nanoparticles 
+
+larger than 40 nm, have the filing date of EP-F2 (25 Feb 2018) as relevant date. AT-H 
+
+belongs to the state of the art under Art. 54(2) EPC for claim 1 of EP-F2.  
+
+All claims of EP-F2 are novel over AT-H, since the specific metal nanoparticles are novel 
+
+over the generic nanoparticles in AT-H. The claims of EP-F2 also involve an inventive step 
+
+over AT-H. AT-H does not mention energy storage and does not disclose metal 
+
+nanoparticles. 
+
+For the remaining part of claim 1 of EP-F2, the Announcement B (and English publication 
+
+of EP-H) belong to the state of the art under Art. 54(2) EPC. The specific copper 
+
+nanoparticles from 70 to 80 nm destroy novelty of that remaining part. Therefore, claim 1 
+
+of EP-F2 lacks novelty over announcement B (and EP-H).  
+
+Claim 2 of EP-F2 only enjoys partial priority from EP-F1 for the part directed to copper 
+
+nanoparticles up to 40 nm. The remaining parts of claim 2, i.e. the part directed to metal 
+
+nanoparticles from metals other than copper and the part directed to copper nanoparticles 
+
+larger than 40 and up to 80 nm, have the filing date of EP-F2 as relevant date. For the 
+
+remaining part of claim 2, announcement B (and the English publication of EP-H) belong to 
+
+the state of the art under Art 54(2) EPC. Announcement B (and the English publication of 
+
+
+- 12 - 
+ 
+
+EP-H) disclose (specific) copper nanoparticles from 70 to 80 nm, which destroy novelty of 
+
+that remaining part. Claim 2 of EP-F2 therefore lacks novelty over announcement B 
+
+(and EP-H). 
+
+ 
+
+Claim 3 of EP-F2 enjoys partial priority from EP-F1 for the part directed to copper 
+
+nanoparticles up to 40 nm. The remaining part of claim, i.e. the part directed to metal 
+
+nanoparticles from metals other than copper and the part directed to copper nanoparticles 
+
+larger than 40 and up to 80 nm, has the filing date of EP-F2 as relevant date. For that 
+
+remaining part, announcement B (and the English publication of EP-H) belong to the state 
+
+of the art under Art. 54(2) EPC. The announcement B (and English publication of EP-H) 
+
+disclose copper nanoparticles from 70 to 80 nm, which destroy novelty of that remaining 
+
+part. Claim 3 of EP-F2 therefore lacks novelty over announcement B (and EP-H). 
+
+ 
+
+(b) EP-F1 
+
+ 
+
+The notice of loss of rights was received in June 2018. Further processing is no longer 
+
+available for EP-F1. EP-F1 is irretrievably lost. 
+
+ 
+
+(c) EP-F3 
+
+ 
+
+The notice of loss of rights was received in July 2018. Further processing is no longer 
+
+available for EP-F3. EP-F3 is irretrievably lost. 
+
+ 
+
+2. 
+As the situation currently stands, are FASTER or HIKE free to produce or sell the 
+
+following products in Austria or Germany? 
+
+ 
+
+(a) shoes with sole A 
+
+ 
+
+AT-H is in force. Sole A falls within the scope of protection of AT-H, claiming a shoe sole 
+
+with nanoparticles of unspecified material and unspecified size, in Austria. In Austria, HIKE 
+
+can prevent FASTER from selling or producing shoes with sole A. In Germany there is no 
+
+relevant patent, and FASTER is free to produce or sell shoes with sole A.  
+
+ 
+
+In Austria and Germany, HIKE is free to produce or sell shoes with sole A. 
+
+
+- 13 - 
+ 
+
+ 
+
+(b) shoes with sole B 
+
+ 
+
+Sole B falls within the scope of protection of granted EP-H in all validated states. Germany 
+
+is a contracting state to the London agreement and has an official language in common 
+
+with the EPO. No translation of EP-H needs to be supplied in Germany. EP-H is therefore 
+
+currently in force in Germany. Austria is not a contracting state to the London agreement. 
+
+For Austria, a translation of EP-H into German needs to be supplied within 3 months of 
+
+grant, i.e. by 16 April 2019. 
+
+ 
+
+In Austria, sole B also falls within the scope of protection of AT-H.  
+
+ 
+
+In Austria and Germany, HIKE is free to produce and sell shoes with sole B. In Austria, 
+
+HIKE can prevent FASTER from selling or producing shoes with sole B via AT-H and via 
+
+EP-H, provided EP-H is validated in Austria. In Germany, HIKE can prevent FASTER from 
+
+producing and selling shoes with sole B via EP-H. 
+
+ 
+
+3. 
+How can you improve the situation for FASTER? 
+
+ 
+
+Sole B: “opposition against EP-H” 
+
+ 
+
+EP-H was filed in Chinese and translated into English. For EP-H, the Chinese text 
+
+constitutes the application as filed. The English claim of EP-H is directed to “nanometers”, 
+
+and therefore extends beyond the content of the application EP-H as filed, disclosing 
+
+“micrometers”. 
+
+ 
+
+The mention of the grant of EP-H was published on 16 January 2019. The period for filing 
+
+an opposition against EP-H runs until 16 October 2019 (Wednesday). File an opposition 
+
+against EP-H within that period based on the ground for opposition of added subject-
+
+matter (under Art.100(c) EPC).  
+
+ 
+
+EP-H will not be maintained in opposition with a claim directed to nanoparticles. 
+
+Thereafter, sole B will no longer be protected outside Austria. 
+
+ 
+
+
+- 14 - 
+ 
+
+Sole B: adding priority claim to EP-F2 
+
+ 
+
+EP-F3 is the first filing of a shoe sole with metal nanoparticles in the range of from 35 to 80 
+
+nm as far as it is not covered by EP-F1. EP-F3 and EP-F2 were filed by the same 
+
+applicant, the filing dates of EP-F3 and EP-F2 lie within a period of 12 months. 
+
+ 
+
+A priority claim to EP-F3 can be added to EP-F2 within 16 months from the earliest priority 
+
+date claimed, i.e. 19 January 2018 + 16M = 19 May 2019 (Sunday), carried on to 
+
+ 20 May 2019 (Monday). 
+
+ 
+
+Thereafter, the part of the claims of EP-F2 directed to “metal nanoparticles from 35  
+
+to 80 nm”, as far as it is not covered by EP-F1, has the filing date of EP-F3 as relevant 
+
+date.  
+
+ 
+
+For that part, announcement B does not belong to the state of the art any longer since the 
+
+filing date of EP-F3 lies before the publication date of announcement B and EP-H only 
+
+belongs to the state of the art under Art. 54(3) EPC. 
+
+ 
+
+The Chinese text of EP-H is “the application as filed” for establishing the content of the 
+
+prior right. It only discloses ”micrometers”. Therefore, claims 1 and 2 of EP-F2 are novel. 
+
+Claim 3 still lacks novelty over announcement B, since EP-F3 does not disclose copper 
+
+nanoparticles. 
+
+ 
+
+For metal nanoparticles above 80 nm, the effective date of claim 1 of EP-F2 is the filing 
+
+date. Claim 1 of EP-F2 still does not involve an inventive step over announcement B, and 
+
+should be deleted. 
+
+ 
+
+Claim 2 of EP-F2 involves an inventive step over announcement B, because there is no 
+
+indication in announcement B to use a metal other than copper, or a particle size of less 
+
+than 35 nm.  
+
+ 
+
+Due to the lack of novelty over announcement B, claim 3 of EP-F2 should be amended 
+
+and be restricted to copper nanoparticles up to 40 nm, which has priority from EP-F1. 
+
+ 
+
+
+After addition of the priority claim to EP-F3, consider quickly obtaining (provisional) 
+
+protection, because a shoe with sole B falls within the scope of protection of claim 2  
+
+of EP-F2. FASTER will then be able to stop HIKE from manufacturing in Austria or selling 
+
+in Germany and/or Austria shoes with sole B based on the patent originating from EP-F2. 
+
+Sole A: filing EP-NEW  
+
+Announcement A may be regarded an evident abuse in relation to Ms Fast. The evident 
+
+abuse will be accepted by the EPO. The written statement of Mr Furious is a proof. File a 
+
+new European patent application EP-NEW directed to a shoe sole comprising silica 
+
+nanoparticles from 35 to 45 nm (Sole A). EP-NEW could be filed within six months from 
+
+the abusive disclosure. There is still time, however, your intended sale of shoes with Sole 
+
+A starting in April 2019 will generate prior art. EP-NEW must therefore be filed at the latest 
+
+on the first day of sale. The claim of EP-NEW will be novel and inventive, as there is no 
+
+relevant prior art. 
+
+FASTER will then be able to stop HIKE from manufacturing or selling shoes with sole A, 
+
+based on the patent originating from EP-NEW (amongst others in Germany and Austria). 
+
+Therefore, consider quickly obtaining (provisional) protection. 
+
+Licensing 
+
+A cross-license (at least for AT) should be negotiated taking into account AT-H, EP-F2 and 
+
+EP-NEW. 
+
+- 15 -
+
+
+ Examination Committee III: Paper D - Marking Details - Candidate No
+
+Category
+Max.
+Marks
+possible
+Marker 1
+Marker 2
+
+Part I
+Part I - Question 1
+9
+Part I
+Part I - Question 2
+7
+Part I
+Part I - Question 3
+9
+Part I
+Part I - Question 4
+7
+Part I
+Part I - Question 5
+8
+Part II
+Part II - Question 1a
+17
+Part II
+Part II - Question 1b
+2
+Part II
+Part II - Question 1c
+2
+Part II
+Part II - Question 2a
+4
+Part II
+Part II - Question 2b
+8
+Part II
+Part II - Question 3
+27
+
+Total
+
+- 16 -
+
+
