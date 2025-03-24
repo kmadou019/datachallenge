@@ -3,7 +3,7 @@
 run:
 	./rag.py
 clean:
-	
+	rm db/*
 install:
 	pip install -r require.txt
 
