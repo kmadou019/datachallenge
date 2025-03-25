@@ -1,447 +1,332 @@
 [
     {
         "Question": {
-            "heading": "European patent application EP-A1 was filed in 2018 by applicant A in English. It describes two different inventions, X and Y, and claims invention X only. The European search report was drawn up for invention X only. A communication pursuant to Article 94(3) EPC setting out a time limit of four months was issued by the EPO on 5 October 2020 and received by applicant A on 8 October 2020. No response has been filed. Applicant A is now interested in invention Y. In January 2021, he filed a European divisional application EP-A2 based on EP-A1, claiming and describing invention Y. EP-A2 was filed in French. What should applicant A do to have invention Y searched by the EPO?",
-            "Options": []
+            "heading": "European patent application EP-A1 was filed in 2018 by applicant A in English. It describes two different inventions, X and Y, and claims invention X only. The European search report was drawn up for invention X only. A communication pursuant to Article 94(3) EPC setting out a time limit of four months was issued by the EPO on 5 October 2020 and received by applicant A on 8 October 2020. No response has been filed. Applicant A is now interested in invention Y. In January 2021, he filed a European divisional application EP-A2 based on EP-A1, claiming and describing invention Y. EP-A2 was filed in French.",
+            "Options": [
+                "What should applicant A do to have invention Y searched by the EPO?"
+            ]
         },
-        "Answer": {
-            "a": "(9 marks)    Most candidates realized that filing a divisional application was a good step, but that in order to have the invention searched it is necessary to pay a search fee. Some candidates confused a communication under Article 94(3) EPC with a Rule 71(3) EPC communication. Only few candidates realised that the application could not be filed in French and that a translation is required."
+        "Answer": "Applicant A should file a new divisional application (EP-A3) in English claiming invention Y. EP-A1 must be revived through further processing by paying the fee and responding to the Art. 94(3) EPC communication. Filing and search fees must be paid for EP-A3.",
+        "Explanation": "EP-A2 is invalid as a divisional due to language issues (Rule 36(2) EPC). EP-A1 is still pending and can be revived (Art. 121 EPC). A valid divisional (EP-A3) must be in the correct language and filed while the parent is pending.",
+        "Legal basis": "Rule 36(1)-(3) EPC, Rule 36(2) EPC, Art. 121(3) EPC, Art. 86(1) EPC, Rule 51(3) EPC"
+    },
+    {
+        "Question": {
+            "heading": "On 2 August 2018, applicant B filed US application US-B in English. Despite all due care being taken by applicant B, international application PCT-B claiming priority from US-B was only filed on 9 August 2019. The USPTO, acting as receiving Office, granted the applicant’s request for restoration of the right of priority based on the criterion that the failure to file PCT-B within the priority period was unintentional. Today, 2 March 2021, applicant B took all of the steps required under Rule 159 EPC to enter PCT-B into the European phase before the EPO.",
+            "Options": [
+                "Does applicant B need to take action before the EPO as designated Office to ensure that the restoration of the right of priority is effective in the European phase? If so, what steps are required and when do they need to be taken by?"
+            ]
         },
-        "Explanation": "",
+        "Answer": "Yes, applicant B must request restoration of priority before the EPO within one month from expiry of the 31-month time limit. The request must include a statement of reasons and the restoration fee must be paid.",
+        "Explanation": "The EPO is not bound by the USPTO’s decision under the 'unintentional' criterion. The applicant must act under Rule 49ter.2(b) PCT to restore priority within the set deadline.",
+        "Legal basis": "Rule 49ter.2(b)(i)-(iii), (d) PCT, Rule 159(1) EPC, OJ 2007 p.694"
+    },
+    {
+        "Question": {
+            "heading": "European patent EP-F was granted with a single claim reading 'A food composition comprising 1 to 5% meat'. The description of EP-F discloses a food composition comprising 1 to 5% beef meat. The patent proprietor F has become aware of a German national patent application DE-G having an earlier effective date and published after the effective date of EP-F. DE-G discloses a food composition comprising 3% of meat, wherein the meat is pork. The proprietor F would like to amend EP-F before the EPO in respect of Germany only and proposes a claim for Germany reading 'A food composition comprising 1 to 5% beef meat'.",
+            "Options": [
+                "1. What procedural steps have to be taken before the EPO to request amendment of the claim in respect of Germany?",
+                "2. Will the EPO hold allowable a request with the claim proposed by the proprietor?"
+            ]
+        },
+        "Answer": "The proprietor must request limitation under Art. 105a EPC and file amended claims, particularly for Germany, with reference to DE-G under Rule 138 EPC. However, the proposed amendment is not allowable as it extends the scope of protection, violating Art. 123(3) EPC.",
+        "Explanation": "The EPO will reject the request as the amendment shifts the claim scope from general 'meat' to 'beef meat' only, which could allow combinations not covered in the original claim.",
+        "Legal basis": "Art. 105a(1) EPC, Rule 92(2) EPC, Rule 138 EPC, Art. 123(3) EPC, Rule 95(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Your client C has two pending European patent applications: EP-C1 and EP-C2. The search and examination fees for both applications were paid on filing. As regards EP-C1, you received last week an invitation pursuant to Rule 58 EPC to file one or more claims. EP-C2 was filed using EPO Form 1001, with the applicant waiving his right under Rule 70(2) EPC. The European search report was transmitted last month. It cited a novelty-destroying document. Following a strategic reorientation, your client C is no longer interested in the two applications.",
+            "Options": [
+                "He asks you whether the search and/or examination fees can be refunded and at which rate. What do you have to do to obtain the refunds?"
+            ]
+        },
+        "Answer": "For EP-C1, the search and examination fees can be refunded in full by actively withdrawing the application or not responding to the invitation under Rule 58 EPC. For EP-C2, the search fee cannot be refunded, but 50% of the examination fee can be reimbursed if the application is withdrawn before the reply deadline to the Art. 94(3) EPC communication.",
+        "Explanation": "EP-C1 has not yet had a search performed, and examination has not begun, so full refunds apply. For EP-C2, since the search report has been issued and examination has started, only a partial refund of the examination fee is possible.",
+        "Legal basis": "RFees Art. 9(1), RFees Art. 11(a), (b), Art. 92 EPC, Rule 10(4) EPC"
+    },
+    {
+        "Question": {
+            "heading": "On 8 June 2020 applicant D filed European patent application EP-D1 claiming priority from US patent application US-D filed on 7 June 2019. EP-D1 describes and claims a bolt made of metal. The contents of EP-D1 and US-D are identical. The European search report for EP-D1 cites European patent application EP-D0 filed by applicant D in February 2019 and published in August 2020. EP-D0 relates to the same technical field and discloses the same bolt but made of aluminium. EP-D0 does not mention any other metal than aluminium.",
+            "Options": [
+                "(a) Is EP-D0 novelty destroying for the subject-matter of the claim of EP-D1?",
+                "(b) If yes, can the claim of EP-D1 be amended to make its subject-matter novel?",
+                "(c) What would be the answer to (a) and (b) if EP-D0 had been early published in April 2020?"
+            ]
+        },
+        "Answer": "(a) Yes, EP-D0 is novelty destroying under Art. 54(3) EPC. (b) Yes, the claim of EP-D1 can be amended by disclaiming aluminium. (c) If EP-D0 had been published in April 2020, then (a) remains Yes and (b) becomes No due to added matter concerns.",
+        "Explanation": "EP-D0 is a prior right under Art. 54(3) EPC. Amending the claim with a disclaimer is allowable (G1/16). If EP-D0 were early published, the effective dates differ for different subject-matter (G1/15), and the disclaimer might violate Art. 123(2) EPC.",
+        "Legal basis": "Art. 54(3) EPC, G1/16, G1/15, Art. 87(1) EPC, Art. 123(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Applicant E, resident and national of Portugal, filed an international application PCT-E on 3 January 2021 at the EPO. The EPO was chosen as the International Searching Authority (ISA) in the request. Last month, applicant E received a notification from the receiving Office dated 29 January 2021, inviting him to furnish a translation. Consider the following situations: Situation A: PCT-E was filed in Portuguese. Situation B: PCT-E was filed in English, with the exception of the drawings, which contained text in Portuguese.",
+            "Options": [
+                "(1) What is the receiving Office?",
+                "(2) What translation must be filed and by when?",
+                "(3) What is the receiving Office?",
+                "(4) What translation must be filed and by when?"
+            ]
+        },
+        "Answer": "In Situation A, the receiving Office is the International Bureau (IB), and a full translation into EN/DE/FR must be filed by 3 March 2021 at the latest. In Situation B, the receiving Office is the EPO, and only a translation of the text in the drawings into English is required by 29 March 2021.",
+        "Explanation": "Portuguese is not accepted by the EPO, so IB takes over as receiving Office in Situation A. A full translation is needed for the search. In Situation B, the EPO accepts English filings, but the drawing text must be translated under Rule 26.3ter(a) PCT.",
+        "Legal basis": "Rule 157(2) EPC, Rule 19.4 PCT, Rule 12.3(c)(ii) PCT, Rule 26.3ter(a) PCT"
+    },
+    {
+        "Question": {
+            "heading": "Today is 2 March 2021. You are advising PUGZ, a British manufacturer of pet products, regarding their SPRINGY leash with various innovations (OH-NO fastener, COMEBACK cable, YELP and AHHH modifications, sound barrier). WUFF, a competitor, has a European patent (W-EP) with related claims and has filed an opposition against your client’s European patent P-EP. Your client wants advice on the current patent situation, how to defend P-EP, possible improvements, and enforcement rights.",
+            "Options": [
+                "(1) What is the current patent situation in respect of:\n• SPRINGY leashes in general (S)?\n• A SPRINGY leash with an OH-NO fastener (S+O)?\n• A SPRINGY leash with an OH-NO fastener and a COMEBACK cable (S+O+C)?\n• A SPRINGY leash with the YELP modification (S+Y)?\n• A SPRINGY leash with the YELP modification and the AHHH modification (S+Y+A)?\n• A SPRINGY leash with the YELP modification and a sound barrier (S+Y+B)?",
+                "(2) Can we save our patent P-EP and why? Give a reasoned analysis.",
+                "(3) What improvements can we make to the current patent situation?",
+                "(4) After our improvements:\n• Which products will we be able to stop WUFF from making and selling?\n• Which products will WUFF be able to stop us from making and selling?"
+            ]
+        },
+        "Answer": "No valid protection currently exists for SPRINGY leashes (S). W-EP likely to be maintained for S+O and S+Y. HP-PCT not in EP phase yet, so no protection for S+O+C in Europe. P-EP claims S+Y+B but is insufficiently disclosed and likely to be revoked. S+Y+A is disclosed but not claimed. Improvements include entering EP phase for HP-PCT and using it as prior art. After improvements, PUGZ can stop WUFF from selling S+O+C in validated states; WUFF can stop PUGZ from using S+Y.",
+        "Explanation": "P-EP is fatally flawed due to insufficient disclosure of B. W-EP's amended claims are valid and inventive. HP-PCT can be revived and used against W-EP in EP phase. W-IT is not the first application for S or S+O, so W-EP’s priority is invalid there. Submissions and translations must be made for provisional protection and oppositions.",
         "Legal basis": ""
     },
     {
         "Question": {
-            "heading": "On 2 August 2018, applicant B filed US application US-B in English. Despite all due care being taken by applicant B, international application PCT-B claiming priority from US-B was only filed on 9 August 2019. The USPTO, acting as receiving Office, granted the applicant’s request for restoration of the right of priority based on the criterion that the failure to file PCT-B within the priority period was unintentional. Today, 2 March 2021, applicant B took all of the steps required under Rule 159 EPC to enter PCT-B into the European phase before the EPO. Does applicant B need to take action before the EPO as designated Office to ensure that the restoration of the right of priority is effective in the European phase? If so, what steps are required and when do they need to be taken by?",
-            "Options": []
+            "heading": "European patent application EP-F was filed in January 2017 by applicant F. The EPO issued a communication under Article 94(3) EPC dated 1 September 2020 and which sets a time limit of four months. Thereafter no acts, including the payment of fees, were performed with respect to EP-F. Since applicant F did not reply to the communication, the EPO issued a communication dated 4 March 2021 notifying a loss of rights under Rule 112(1) EPC. Despite exercising all due care required by the circumstances, applicant F only became aware of the notification of loss of rights on 3 February 2022.",
+            "Options": [
+                "Which steps need to be performed to ensure that the prosecution of EP-F continues?",
+                "By when do these steps have to be performed?"
+            ]
         },
-        "Answer": {
-            "a": "(8 marks)    This question was reasonably well answered. Many candidates correctly identified that a request for restoration of the right of priority must be filed before the EPO and that the EPO applies the 'due care' criterion. Good candidates realised that the request must be filed within one month of the expiry of the 31-month period, and that the fee must be paid. Few candidates mentioned that the request must state the reasons for the failure to file the international application in due time."
+        "Answer": "Applicant F must file a request for re-establishment of rights under Article 122 EPC with payment of the re-establishment fee, complete the omitted acts (i.e. request further processing by paying the fee and replying to the communication), and pay the 5th and 6th year renewal fees. All steps must be performed by 4 April 2022.",
+        "Explanation": "Further processing deadline expired. Re-establishment must be filed within 2 months of 3 February 2022 (i.e. by 4 April 2022). Renewal fees are due after a loss of rights and can be paid within 4 or 6 months of the re-establishment decision.",
+        "Legal basis": "Art. 122(1) EPC, Rule 136(1)-(3) EPC, Art. 121(1) EPC, Rule 135(1) EPC, Rule 126(2) EPC, Rule 51(4)(a) EPC"
+    },
+    {
+        "Question": {
+            "heading": "On 22 February 2019 applicant B filed a European patent application EP-B in English with 15 claims. The European Patent Bulletin mentioned the publication of the European search report in August 2020. In the examination phase, applicant B filed an amended set of 16 claims. On 12 November 2021 the Examining Division issued a communication informing applicant B that it intended to grant a patent based on EP-B with these 16 claims. Since this communication, no acts have been performed by or on behalf of applicant B.",
+            "Options": [
+                "Applicant B wants to correct a spelling mistake in one of the 16 claims, and requests that the patent be granted as soon as possible and take effect in the Netherlands. What steps have to be taken and by when?"
+            ]
         },
-        "Explanation": "",
+        "Answer": "Request correction under Rule 139 EPC with justification, respond quickly to second Rule 71(3) communication, pay grant and publication fee, provide claim translations, pay claim fee for claim 16, and pay the 4th year renewal fee with surcharge. For NL effect: file claim translation in Dutch and pay special fee within 3 months from mention of grant.",
+        "Explanation": "The EPO must issue a second Rule 71(3) communication after accepting correction. To expedite grant, respond quickly. To take effect in NL, national requirements under Art. 65(1) EPC apply.",
+        "Legal basis": "Rule 139 EPC, Rule 71(3)-(6) EPC, Rule 51(2) EPC, Rule 71a(1) EPC, Art. 65(1)-(2) EPC, London Agreement, Rule 126(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Chinese company C filed an international application PCT-C on 26 May 2020 with the Chinese Patent Office (CNIPA) as receiving Office. PCT-C was filed in English without claiming priority. The only claim of PCT-C pertains to subject-matter C1, and its description discloses subject-matter C1 and subject-matter C2. Subject-matter C1 and subject-matter C2 are not linked by a single general inventive concept. The international search report (ISR) was established by CNIPA on subject-matter C1.",
+            "Options": [
+                "1. (a) What should be done to request the SISR for subject-matter C1?",
+                "1. (b) Can the SISR cover subject-matter C2?",
+                "2. Can Euro-PCT-C be examined for subject-matter C2?"
+            ]
+        },
+        "Answer": "1.(a) File request for SISR with IB by 28 March 2022 and pay required fees. 1.(b) No, the SISR cannot cover C2 as it's not in the claims. 2. Upon entry into EP phase, amend claims to C2 and pay additional search fee under Rule 164(2) EPC for it to be searched and examined.",
+        "Explanation": "SISR is based on claims as filed and cannot extend to unclaimed invention C2. In EP phase, subject-matter C2 can be searched and examined after amendment and payment of the additional fee.",
+        "Legal basis": "Rule 45bis.1(a)-(c), Rule 45bis.5(b) PCT, Art. 153(7) EPC, Rule 161(1) EPC, Rule 164(2) EPC"
+    },
+    {
+        "Question": {
+            "heading": "Applicant D filed European patent application EP-D1 in January 2019... identical to the one disclosed in EP-D3.",
+            "Options": [
+                "(a) Does EP-D2 sufficiently disclose product D2?",
+                "(b) Is the subject-matter of the claim to product D2 in EP-D3 novel?"
+            ]
+        },
+        "Answer": "(a) No, EP-D2 does not sufficiently disclose product D2 because it does not enable the skilled person to obtain D1. (b) No, EP-D3 is not novel over EP-D4, which is prior art under Article 54(3) EPC.",
+        "Explanation": "EP-D1 was withdrawn before publication, so EP-D2 cannot rely on its content. EP-D2 lacks an enabling disclosure of D1. EP-D3 lacks entitlement to priority due to insufficient disclosure in EP-D2. EP-D4, filed before and published after, is novelty-destroying.",
+        "Legal basis": "Art. 83 EPC, Art. 54(3) EPC, G1/15, Rule 67(2) EPC, Case Law II.D.3.1.6"
+    },
+    {
+        "Question": {
+            "heading": "On 2 June 2020 company E filed European patent application EP-E claiming a composition... only possible correction would be a composition comprising 15% of the compound E1.",
+            "Options": [
+                "Is the article novelty-destroying for the subject-matter claimed in EP-E?"
+            ]
+        },
+        "Answer": "No, the article is not novelty-destroying for the claimed composition in EP-E because the corrected interpretation discloses 15% E1, which is within the range entitled to priority (10–20%).",
+        "Explanation": "The skilled person would recognize that the disclosure of 40% is erroneous and would correct it to 15%. Since 15% falls within the priority-entitled range, the article does not affect novelty.",
+        "Legal basis": "Art. 54(2) EPC, G3/93, G1/15, Guidelines G-IV, 9"
+    },
+    {
+        "Question": {
+            "heading": "European patent EP-A was granted with independent claim 1 directed to apparatus A1 and independent claim 2 directed to apparatus A2... D1 is prior art according to Article 54(3) EPC and discloses apparatus A1 only.",
+            "Options": [
+                "(a) How will the opposition proceedings continue?",
+                "(b) What can the patent proprietor do to address the lack of novelty?",
+                "(c) How will the appeal proceedings continue?",
+                "(d) What steps can be taken before the EPO to address the lack of novelty?"
+            ]
+        },
+        "Answer": "(a) The opposition proceedings continue ex officio. (b) The proprietor can amend the claims, limiting to claim 2. (c) The appeal proceedings are terminated since the appeal is withdrawn. (d) The proprietor can file a request for limitation under Article 105a EPC.",
+        "Explanation": "The opposition division continues proceedings under Art. 114(1) and Rule 84(2) EPC. Limitation during opposition is possible. Appeal is terminated due to G8/93. Limitation is then possible post-appeal under Art. 105a EPC.",
+        "Legal basis": "Art. 114(1) EPC, Rule 84(2) EPC, Rule 80 EPC, Art. 101(3)(a) EPC, G8/93, Art. 105a EPC, Rule 92 EPC"
+    },
+    {
+        "Question": {
+            "heading": "You are advising Optimisme (OPT), an Italian plastic recycling company, regarding several patent filings, a secrecy agreement with TOR, and issues around inventions FEED, SPRAY, and CLEAN. There is an opposition against OPT-EP1, priority questions around OPT-EP2 and OPT-PCT, and a potential infringement problem with TOR-EP-old. There is also a planned joint venture with Avidus.",
+            "Options": [
+                "1. Outline the patent situation as it currently stands for:\n(a) the FEED machine with a feeding duct at the bottom of the mill\n(b) the FEED machine with two feeding ducts at the bottom of the mill\n(c) the CLEAN feeding process\n(d) the SPRAY water spray device\n(e) the FEED machine with the SPRAY water spray device",
+                "2. How would you advise us to respond to the opposition against OPT-EP1?",
+                "3. What could we do to improve our situation?",
+                "4. After the improvements, what products and methods could we stop TOR from making or using, and in which countries?"
+            ]
+        },
+        "Answer": "1. (a) TOR-EP is likely to be granted and acts as prior art under Art. 54(3) EPC for later applications. It was filed in violation of a secrecy agreement. (b) OPT-EP1 is the first valid filing for two ducts (FEED-2) and is novel and inventive. (c) CLEAN is a novel and inventive process, not yet filed. (d) SPRAY is not novel over a 2014 public disclosure. (e) FEED+SPRAY is novel and inventive and only claimed in OPT-PCT.\n\n2. Respond by limiting the claims of OPT-EP1 to two ducts. Do not mention CLEAN in the opposition response.\n\n3. File a new patent application for CLEAN before any disclosure. Enter EP phase for OPT-PCT with claims to FEED+SPRAY. Consider entitlement action for TOR-EP. Initiate national court proceedings to enable intervention in appeal.\n\n4. After improvements, OPT can stop TOR from making or using FEED (one or two ducts), CLEAN, and FEED+SPRAY in countries where respective rights are granted or OPT-PCT enters national phase.",
+        "Explanation": "The priority situation, prior art, and novelty status differ across the applications. OPT-EP1 and OPT-PCT cover different inventions. SPRAY is publicly disclosed and not patentable. CLEAN must be filed before any public mention. Intervention requires timely national action.",
         "Legal basis": ""
     },
     {
         "Question": {
-            "heading": "European patent EP-F was granted with a single claim reading \"A food composition comprising 1 to 5% meat\". The description of EP-F discloses a food composition comprising 1 to 5% beef meat. The patent proprietor F has become aware of a German national patent application DE-G having an earlier effective date and published after the effective date of EP-F. DE-G discloses a food composition comprising 3% of meat, wherein the meat is pork. The proprietor F would like to amend EP-F before the EPO in respect of Germany only and proposes a claim for Germany reading \"A food composition comprising 1 to 5% beef meat\". The proprietor is looking for your advice. 1. What procedural steps have to be taken before the EPO to request amendment of the claim in respect of Germany? 2. Will the EPO hold allowable a request with the claim proposed by the proprietor ?",
-            "Options": []
+            "heading": "Applicant A filed a European patent application EP-A, which describes and claims two inventions: (1) with alternative solutions B+C and B+D, and (2) invention E+F. B is indispensable. Only B+C was searched and found lacking novelty. DIV1 claims only D; DIV2 claims B+D+F. EP-A was refused. DIV1 and DIV2 are still pending.",
+            "Options": [
+                "(a) Can valid patents be obtained for DIV1 and DIV2 and what should be done?",
+                "(b) Can applicant A still prosecute invention E+F and what should be done?"
+            ]
         },
-        "Answer": {
-            "a": "(8 marks)    The question regarding the amendment of the claim for Germany was not very well answered. Few candidates were aware of the option of limiting the patent under Article 105a EPC and of the requirements of Rule 95 EPC. Candidates were often not aware of the Guidelines requirements for such a limitation, e.g. the claim must be a verbatim insertion of one of the dependent claims and must not include subject-matter from the description. The reasoning on added subject-matter was in general good."
+        "Answer": "(a) DIV1 cannot lead to a valid patent (violates Art. 76(1) EPC). B is indispensable and cannot be reintroduced (violates Art. 123(2) EPC). DIV2 can be valid if optional feature F is removed to satisfy Art. 76(1) EPC. (b) EP-A is pending until 13.03.2023, so a divisional application claiming E+F can be filed until then.",
+        "Explanation": "Removing F is allowed since it's optional and not essential. EP-A remains pending during the appeal period per G 1/09. A new divisional can be filed before 13 March 2023 to claim E+F.",
+        "Legal basis": "Art. 76(1) EPC, Art. 123(2) EPC, Rule 36(1) EPC, G 1/05, G 1/09"
+    },
+    {
+        "Question": {
+            "heading": "Applicant B filed PCT-B on 5 May 2022 claiming priority from US-B (9 July 2021), but made a typographical error in the application number. The certified copy was included. The EPO invited correction but B did not respond. The ISR was transmitted on 12 July 2022.",
+            "Options": [
+                "(a) Is the priority claim considered to have been made for the PCT procedure?",
+                "(b) What is the last day to file a demand for international preliminary examination?",
+                "(c) Is it still possible to rectify the priority claim in the international phase?"
+            ]
         },
-        "Explanation": "",
+        "Answer": "(a) Yes, the priority claim is considered made due to Rule 26bis.2(c) PCT. (b) The last day is 9 May 2023. (c) Yes, rectification under Rule 91.1 PCT is possible until 11 September 2023.",
+        "Explanation": "The inconsistency can be corrected since PCT-B was filed within 12 months. Rectification is possible as the intent was clear, the certified copy is correct, and the rest of the application matches US-B.",
+        "Legal basis": "Rule 26bis.2(c) PCT, Rule 54bis.1(a) PCT, Rule 91.1(b)-(f) PCT, Rule 80.5 PCT"
+    },
+    {
+        "Question": {
+            "heading": "Company D plans to oppose EP-C, granted on 8 June 2022. D discovers that C filed a faxed revocation request with fee debit order. C has not paid German renewal fees.",
+            "Options": [
+                "(a) What is the current status of the revocation proceedings for EP-C?",
+                "(b) Why should company D file opposition against EP-C?"
+            ]
+        },
+        "Answer": "(a) Revocation is not pending because debit order by fax is invalid. (b) D should file opposition before 9 March 2023 since (1) revocation is not guaranteed, (2) EP-C may remain in force in Germany if renewal fees are paid, and (3) opposition gives ex tunc revocation unlike mere lapse.",
+        "Explanation": "Filing opposition ensures legal certainty and retroactive effect. Even if C lets the patent lapse, infringement liability can still arise. Faxed payment orders are not accepted (ADA2022 7.1.3).",
+        "Legal basis": "Art. 105a(1) EPC, ADA2022 7.1.3, Art. 99(1) EPC, Rule 134(1) EPC, Art. 68 EPC"
+    },
+    {
+        "Question": {
+            "heading": "European patent EP-E was assigned from company E to F, recorded in November 2022. EP-E was revoked by decision of 19 December 2022. On 28 February 2023, notice of appeal was filed and the appeal fee paid, but in the name of company E.",
+            "Options": [
+                "(a) What is the current status regarding the admissibility of the appeal?",
+                "(b) How can you improve the situation?"
+            ]
+        },
+        "Answer": "(a) The appeal is likely to be rejected as inadmissible because company E was not a party to the proceedings. (b) The name of the appellant can be corrected under Rule 139 EPC by showing the original intent was to file the appeal in the name of company F.",
+        "Explanation": "Company F was adversely affected and had instructed the filing. Correction must be requested quickly and with supporting evidence (e.g. instruction email).",
+        "Legal basis": "Art. 107 EPC, Rule 139 EPC, Rule 101(1) EPC, G 1/12"
+    },
+    {
+        "Question": {
+            "heading": "Portuguese applicant G filed PCT-G on 2 December 2022 in English at INPI. After an invitation to file an abstract, G submitted the abstract late on 3 March 2023. INPI declared the application withdrawn.",
+            "Options": [
+                "(a) Why was PCT-G declared withdrawn? What is the consequence if nothing is done?",
+                "(b) What steps must applicant G take to revive the application before the EPO?"
+            ]
+        },
+        "Answer": "(a) PCT-G was withdrawn for failure to file an abstract within 2 months. If nothing is done, PCT-G loses effect in all designated states. (b) To revive before the EPO, G must request re-establishment, pay the fee, prove all due care, and ask the IB to send documents to the EPO.",
+        "Explanation": "The abstract is a formal requirement. The EPO may excuse the missed time limit through re-establishment (Art. 122 EPC). Further processing is ruled out. All steps must be completed before 8 May 2023.",
+        "Legal basis": "Art. 14(1)(b) PCT, Rule 26.2 PCT, Art. 24(1)(ii) PCT, Art. 48(2)(a) PCT, Rule 136 EPC, Rule 82bis.2 PCT"
+    },
+    {
+        "Question": {
+            "heading": "EP-H was granted with a claim to product P. Opposition was filed citing EP-J (Art. 54(3) EPC) disclosing the same product but used as detergent. EP-H describes product P and its use as fertilizer.",
+            "Options": [
+                "(a) How should EP-H be amended to provide the maximum scope of protection?",
+                "(b) How would your answer to (a) change if product P were for use as a medicament?"
+            ]
+        },
+        "Answer": "(a) Replace the product claim with a use claim for P as fertilizer and add a method claim for producing P. Both are novel over EP-J and satisfy Art. 123 EPC. (b) Use claim would not be patentable for medicament; use must be reformulated as purpose-related product claim: 'P for use as a medicament'.",
+        "Explanation": "EP-J discloses P but not its use as fertilizer or medicament. Use and method claims are novel. Medicament use requires a purpose-related claim due to Art. 53(c) EPC.",
+        "Legal basis": "Art. 54(3) EPC, Art. 123(2) and (3) EPC, Art. 53(c) EPC, Art. 54(4) EPC, G 2/88, Guidelines H-V 7.2, G-VI 7.1"
+    },
+    {
+        "Question": {
+            "heading": "You are advising Whiter, a Swedish manufacturer of nappies, regarding various EP applications (EP-WA, EP-WB, EP-WC, EP-WDIV), existing patents (EP-Z), and competitive risks with Zuma. Applications relate to nappies detecting urine with electrodes, acoustic/transmitting signals, measuring glucose or pH, and odour neutralisation.",
+            "Options": [
+                "1) Analyse the patent situation for:\n(a) CU-Em\n(b) CU-Em-sound\n(c) CU-EG\n(d) CU-EP\n(e) CU-Em-transmit\n(f) Nappies with substance X",
+                "2) As the situation currently stands:\n(a) Is Zuma free to produce and sell nappies with substance X?\n(b) Are we free to produce and sell nappies with:\n- CU-E(Au)-sound\n- CU-E(Au)-transmit\n- CU-EG\n- CU-EP?",
+                "3) What can we do to improve our rights and position?"
+            ]
+        },
+        "Answer": "1) (a) EP-Z does not validly claim priority and includes an invalid disclaimer. EP-Y becomes full prior art. The claim is invalid due to added matter and lack of inventive step. (b) EP-WA is novel and inventive; renewal fees must be checked. It may proceed to grant. (c) EP-WB is limited to CU-EG and is novel and inventive. Text is approved, grant is expected. (d) EP-WDIV incorrectly claims priority from EP-WA and is invalid. CU-EP is not protected. (e) EP-WC covers CU-Em-transmit and is novel and inventive. Grant is possible. (f) EP-WC describes but does not claim substance X. No protection exists. 2) (a) Yes, Zuma is free as there is no protection on substance X. (b) In Europe, Whiter is not free to sell CU-E(Au)-sound or CU-E(Au)-transmit due to EP-Z claim. Whiter is free to sell CU-EG and CU-EP. In US and China, Whiter is free to sell all products. 3) Refile divisional (EP-WDIV2) from EP-WB to protect CU-EP. File opposition against EP-Z for added matter and inventive step. File PCT for substance X (claiming priority from EP-WC) and another PCT for CU-Em-transmit. Prosecute all in EP, US, and China.",
+        "Explanation": "EP-Z's disclaimer violates Art. 123(2) EPC and lacks inventive step. Whiter must secure rights via properly filed divisionals and PCT applications. Opposition against EP-Z could restore freedom to operate. Time limits for filing are key to preserve priority and international rights.",
         "Legal basis": ""
     },
     {
         "Question": {
-            "heading": "Your client C has two pending European patent applications: EP-C1 and EP-C2. The search and examination fees for both applications were paid on filing. As regards EP-C1, you received last week an invitation pursuant to Rule 58 EPC to file one or more claims. EP-C2 was filed using EPO Form 1001, with the applicant waiving his right under Rule 70(2) EPC. The European search report was transmitted last month. It cited a novelty-destroying document. Following a strategic reorientation, your client C is no longer interested in the two applications. He asks you whether the search and/or examination fees can be refunded and at which rate. What do you have to do to obtain the refunds?",
-            "Options": []
+            "heading": "On 5 January 2024, applicant D filed international application PCT-3 at the Spanish Patent and Trademark Office (SPTO). The SPTO invited applicant D to furnish a translation. Applicant D wants to file amended claims and correct an obvious mistake during the international phase.",
+            "Options": [
+                "(a) In which language was PCT-3 filed and what steps does applicant D have to take for the ISA to start the search?",
+                "(b) Applicant D wants to file amended claims and correct an obvious mistake in the description at the lowest possible cost during the international phase. In what language, when and where do the respective documents have to be filed?"
+            ]
         },
-        "Answer": {
-            "a": "(7 marks) The question about EP-C1 was well answered. Regarding EP-C2, many candidates did not realize that the search report was issued with a first communication under Art. 94(3) EPC, not with a written opinion. Although some candidates realized that the examining division was responsible, they still suggested to check in the register if the examination already started."
-        },
-        "Explanation": "",
-        "Legal basis": ""
+        "Answer": "(a) PCT-3 was filed in Spanish. A translation into English, French or German must be filed with the ISA (EPO) by 5 March 2024 and the late furnishing fee paid. (b) Amended claims must be filed at the IB in Spanish within the Art. 19 PCT period. Rectified description must be filed in both Spanish and the translation language at the EPO/ISA within 26 months.",
+        "Explanation": "Spanish is not accepted by the EPO as ISA. Translation must be furnished under Rule 12.3(c) PCT. Corrections under Rule 91.1(b)(ii) PCT must be submitted in both the original and translation languages.",
+        "Legal basis": "Rule 12.3(c) PCT, Rule 12.3(e) PCT, Rule 46.1–46.3 PCT, Rule 91.1(b)(ii) PCT, Rule 91.2 PCT"
     },
     {
         "Question": {
-            "heading": "On 8 June 2020 applicant D filed European patent application EP-D1 claiming priority from US patent application US-D filed on 7 June 2019. EP-D1 describes and claims a bolt made of metal. The contents of EP-D1 and US-D are identical. The European search report for EP-D1 cites European patent application EP-D0 filed by applicant D in February 2019 and published in August 2020. EP-D0 relates to the same technical field and discloses the same bolt but made of aluminium. EP-D0 does not mention any other metal than aluminium. (a) Is EP-D0 novelty destroying for the subject-matter of the claim of EP-D1? (b) If yes, can the claim of EP-D1 be amended to make its subject-matter novel? (c) What would be the answer to (a) and (b) if EP-D0 had been early published in April 2020?",
-            "Options": []
+            "heading": "Company C filed EP-2 in Nov 2021 and missed several deadlines. On 12 December 2023, the EPO issued a loss of rights communication. Today, company C became aware of it due to a monitoring error.",
+            "Options": [
+                "Is it still possible for company C to prosecute EP-2? If so, what steps have to be taken and by when?"
+            ]
         },
-        "Answer": {
-            "a": "(8 marks) This question was generally well answered. Most candidates correctly identified EP-D0 as prior art under Article 54(3) EPC and were able to explain whether or not the claims lacked novelty. The possible amendment to make the claim novel was correctly suggested by many candidates. For the case where EP-D0 had been published early, many candidates correctly identified the legal effect and re-evaluated the novelty of the claim accordingly."
-        },
-        "Explanation": "",
-        "Legal basis": ""
+        "Answer": "Yes, re-establishment into the period for further processing is possible until 6 May 2024. Three re-establishment requests and fees must be filed. The omitted acts (examination fee, designation fee, reply to the search opinion) must be completed with further processing surcharges. Third-year renewal fee will fall due after the re-establishment decision.",
+        "Explanation": "Each omitted act is independent. Cause of non-compliance was removed today, and re-establishment deadline is within 2 months and within 1 year of the missed time limit.",
+        "Legal basis": "Art. 122 EPC, Rule 136(1)-(2) EPC, Art. 121 EPC, Rule 135 EPC, Art. 94(1)-(2) EPC, Rule 39(2) EPC, Rule 70a(3) EPC"
     },
     {
         "Question": {
-            "heading": "Applicant E, resident and national of Portugal, filed an international application PCT-E on 3 January 2021 at the EPO. The EPO was chosen as the International Searching Authority (ISA) in the request. Last month, applicant E received a notification from the receiving Office dated 29 January 2021, inviting him to furnish a translation. Situation A: PCT-E was filed in Portuguese. (1) What is the receiving Office? (2) What translation must be filed and by when? Situation B: PCT-E was filed in English, with the exception of the drawings, which contained text in Portuguese. (3) What is the receiving Office? (4) What translation must be filed and by when?",
-            "Options": []
+            "heading": "On 16 January 2024, A (resident in Mexico) and B (resident in Spain) jointly filed an opposition against EP-1 in Spanish. Opposition fee was paid. Notice was signed by both. The opposition period ended 4 March 2024. B filed an English translation on 4 March 2024.",
+            "Options": [
+                "What procedural steps need to be taken to remedy the deficiencies and for substantive examination of the joint opposition to start?"
+            ]
         },
-        "Answer": {
-            "a": "(10 marks) The situation-based question was well answered. Most candidates correctly identified the EPO as the receiving Office in both situations. They also understood the translation requirements: in situation A, a full translation of the application into an accepted language by the EPO; in situation B, a translation of the text in the drawings. Candidates were generally aware of the applicable time limits as per Rule 20.6 PCT."
-        },
-        "Explanation": "",
-        "Legal basis": ""
+        "Answer": "A must appoint a professional representative and the representative must sign or approve the notice of opposition by 2 April 2024. The translation was filed in time. However, the accompanying letter must also be signed by the representative to retain the original date.",
+        "Explanation": "As a non-resident, A needs representation (Art. 133(2) EPC). Valid signature and representation are required for admissibility. Translation was timely but must be validated by signature from the common representative.",
+        "Legal basis": "Art. 133(2) EPC, Rule 77(2) EPC, Rule 151(1) EPC, Rule 6(2) EPC, Rule 50(3) EPC, Guidelines A-VIII, 1.4; D-IV, 1.2.2.2(iv)"
     },
     {
         "Question": {
-            "heading": "What is the current patent situation in respect of: • SPRINGY leashes in general (S)? • A SPRINGY leash with an OH-NO fastener (S+O)? • A SPRINGY leash with an OH-NO fastener and a COMEBACK cable (S+O+C)? • A SPRINGY leash with the YELP modification (S+Y)? • A SPRINGY leash with the YELP modification and the AHHH modification (S+Y+A)? • A SPRINGY leash with the YELP modification and a sound barrier (S+Y+B)?",
-            "Options": []
+            "heading": "Company E owns EP-4, with independent claims to A and D, and dependent claims to A+B and A+C. Opposition was filed against claim 1 (A) only. New prior art EP-D2 and EP-D3 (Art. 54(3) EPC) were submitted after the opposition period.",
+            "Options": [
+                "Advise company E on how to obtain a valid patent conferring the maximum possible scope of protection."
+            ]
         },
-        "Answer": {
-            "a": "(9 marks) Most candidates realized that EP-A2 was not filed in the language prescribed, however fewer realized legal consequences and accordingly the necessity to revive EP1 so that a new divisional can be filed. Many candidates erroneously suggested to merely file a translation for EP-A2."
-        },
-        "Explanation": "",
-        "Legal basis": ""
+        "Answer": "EP-D2 will likely be admitted and shows claim 1 lacks novelty. EP-D3 won’t be admitted as it concerns unopposed claim 4. Amend the claims to A+B, A+C, and D. After opposition proceedings, file a limitation request to delete claim D and obtain a valid patent.",
+        "Explanation": "Late-filed EP-D3 not admitted (not within extent of opposition). Claim to D is invalid but can't be removed during opposition. A valid limitation procedure post-opposition is needed to remove D and preserve validity.",
+        "Legal basis": "Art. 114(2) EPC, Rule 76(2)(c) EPC, G9/91, Art. 101(3)(a) EPC, Art. 105a(1)-(2) EPC, Art. 100(a), Art. 52(1), Art. 54(3) EPC"
     },
     {
         "Question": {
-            "heading": "Can we save our patent P-EP and why? Give a reasoned analysis.",
-            "Options": []
+            "heading": "Applicant H (national and resident of Morocco) filed EP-7 in French in March 2020. The grant was published on 21 February 2024.",
+            "Options": [
+                "(a) What steps must be taken and by when to obtain protection in the UK and Poland?",
+                "(b) What steps must be taken and by when to obtain unitary patent protection?"
+            ]
         },
-        "Answer": {
-            "a": "(8 marks) This question was reasonably well answered. Most of the candidates realized that the EPO is not bound by the decision of any receiving office under the “unintentional criterion”. Many candidates also correctly indicated the steps required to ensure that the restoration of the right of priority is effective in the European phase. The required payment of a fee for requesting restoration was sometimes forgotten."
-        },
-        "Explanation": "",
-        "Legal basis": ""
+        "Answer": "(a) For Poland: file translation into Polish and appoint representative by 21 May 2024; renewal fee due by 22 April 2024. For UK: renewal fee due by 31 May 2024; no validation steps required. (b) For unitary patent: file request in French with English translation of spec by 21 March 2024. Renewal fee due within 3 months of registration notice.",
+        "Explanation": "Validation deadlines are country-specific. Poland requires translation and representative. UK allows direct protection due to the London Agreement. UP request must follow UPR Rule 6 deadlines.",
+        "Legal basis": "Art. 65(1) EPC, National Law Tables IV & VI, Art. 86(2) EPC, Rule 6(1)-(2) UPR, Rule 13(4)-(5) UPR"
     },
     {
         "Question": {
-            "heading": "What improvements can we make to the current patent situation?",
-            "Options": []
+            "heading": "You are advising Xeracno, a Swiss company working on spider silk. EP-P1, EP-P2, EP-P3 were filed by Prosilk. EP-AA+ and PCT-TM+ were filed by Xeracno. Various innovations relate to CO2 concentrations, species (AA, AF), and nitrogen protoxide (N2O).",
+            "Options": [
+                "1. Outline the patent situation as it currently stands for the claims of the following:\n(a) EP-P2\n(b) EP-P3\n(c) EP-AA+\n(d) PCT-TM+",
+                "2. What can Xeracno do to improve its patent portfolio in order to prevent Prosilk from harvesting spider silk in Germany and Bosnia-Herzegovina and selling silk in Europe?",
+                "3. In view of patent EP-P2, can Prosilk prevent Xeracno from freely:\n(a) harvesting spider silk in Spiez, Switzerland?\n(b) harvesting spider silk in Turkey?\n(c) harvesting spider silk in Colorado (USA)?\n(d) importing the spider silk harvested in Turkey or Colorado into Switzerland and selling it there?",
+                "4. In view of pending patent application EP-P3, can Xeracno expect Prosilk to prevent them from freely:\n(a) harvesting spider silk in Spiez, Switzerland?\n(b) harvesting spider silk in Turkey?\n(c) harvesting spider silk in Colorado (USA)?\n(d) importing the spider silk harvested in Turkey or Colorado into Switzerland and selling it there?"
+            ]
         },
-        "Answer": {
-            "a": "(7 marks) The question about EP-C1 was well answered. Regarding EP-C2, many candidates did not realize that the search report was issued with a first communication under Art. 94(3) EPC, not with a written opinion. Although some candidates realized that the examining division was responsible, they still suggested to check in the register if the examination already started."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "After our improvements: • Which products will we be able to stop WUFF from making and selling? • Which products will WUFF be able to stop us from making and selling?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "(10 marks) The situation-based question was well answered. Most candidates correctly identified the EPO as the receiving Office in both situations. They also understood the translation requirements: in situation A, a full translation of the application into an accepted language by the EPO; in situation B, a translation of the text in the drawings. Candidates were generally aware of the applicable time limits as per Rule 20.6 PCT."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "European patent application EP-F was filed in January 2017 by applicant F. The EPO issued a communication under Article 94(3) EPC dated 1 September 2020 and which sets a time limit of four months. Thereafter no acts, including the payment of fees, were performed with respect to EP-F. Since applicant F did not reply to the communication, the EPO issued a communication dated 4 March 2021 notifying a loss of rights under Rule 112(1) EPC. Despite exercising all due care required by the circumstances, applicant F only became aware of the notification of loss of rights on 3 February 2022. Which steps need to be performed to ensure that the prosecution of EP-F continues? By when do these steps have to be performed?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Most of the candidates realized that the time limit to reply to the communication under Article 94(3) EPC and the time limit for applying for further processing already expired and a request for re-establishment of rights in respect of the time limit for further processing has to be made to further prosecute the application. Few candidates recognized the need to pay the renewal fees for the 5th and 6th year that became due on the date of notification of the decision re-establishing the rights and that the provisions of Rule 51(4)(a) EPC applied."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "On 22 February 2019 applicant B filed a European patent application EP-B in English with 15 claims. The European Patent Bulletin mentioned the publication of the European search report in August 2020. In the examination phase, applicant B filed an amended set of 16 claims. On 12 November 2021 the Examining Division issued a communication informing applicant B that it intended to grant a patent based on EP-B with these 16 claims. Since this communication, no acts have been performed by or on behalf of applicant B. Today you receive a phone call from applicant B asking you to correct before the EPO a spelling mistake in one of these 16 claims, the correction of which is obvious. Furthermore, applicant B wants the European patent based on EP-B to be granted as soon as possible and to take effect in the Netherlands. What steps have to be taken and by when?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Most of the candidates proposed requesting a correction of the spelling mistake. Fewer realized that a request for correction under Rule 139 EPC triggers the procedure under Rule 71(6) EPC. Some of the candidates still requested to waive the right to receive a further communication under Rule 71(3) EPC (waiver option) without expressing the applicant’s agreement to the text to be granted. However, the EPO does not process these waivers any more. Some candidates suggested to approve the text as proposed for grant with the first communication under Rule 71(3) EPC and thereafter to request the correction of the spelling mistake while EP-B is still pending. This approach would lead to a further delay of the conclusion of the grant procedure of EP-B contrary to the wish of the applicant. Full points were also attributed to candidates who suggested expressing the applicant’s agreement to the text to be granted immediately after receiving the second communication under Rule 71(3) EPC, if the translations of the corrected claims and the fee for grant and publishing had already been filed and paid respectively in reply to the first communication under Rule 71(3) EPC. Many candidates overlooked paying the renewal fee for the fourth year. The necessary steps to be taken to have the European patent application take effect in the Netherlands were less well answered."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Chinese company C filed an international application PCT-C on 26 May 2020 with the Chinese Patent Office (CNIPA) as receiving Office. PCT-C was filed in English without claiming priority. The only claim of PCT-C pertains to subject-matter C1, and its description discloses subject-matter C1 and subject-matter C2. Subject-matter C1 and subject-matter C2 are not linked by a single general inventive concept. The international search report (ISR) was established by CNIPA on subject-matter C1. 1. Company C would like to have a supplementary international search report (SISR) established by the EPO. (a) What should be done to request the SISR for subject-matter C1? (b) Can the SISR cover subject-matter C2? 2. After the SISR is established by the EPO on subject-matter C1, PCT-C enters the European phase as Euro-PCT-C. Company C would like to obtain protection in Europe for subject-matter C2 instead. Can Euro-PCT-C be examined for subject-matter C2?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "This question was generally well answered. Most of the candidates realized that no supplementary international search report can be established for C2, as its basis is the set of claims as filed, and that C2 can be the subject of a supplementary European search and can be examined under the provision of Rule 164(2) EPC."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Applicant D filed European patent application EP-D1 in January 2019. EP-D1 discloses a new raw material D1 and a method for obtaining it. EP-D1 was withdrawn in April 2019. In March 2019, applicant D filed European patent application EP-D2 disclosing a method for producing a new product D2 starting from the raw material D1. EP-D2 does not teach how to obtain the raw material D1. Instead, the description of EP-D2 merely refers to the relevant part of EP-D1. In February 2020, applicant D filed European patent application EP-D3 claiming priority from EP-D2. EP-D3 claims the same product D2 as disclosed in EP-D2. EP-D3 discloses the same method for producing D2, but from raw material D3. Raw material D3 has been available to the public since 2019. Applicant D becomes aware of European patent application EP-D4, which was filed in January 2020 by a different applicant and published in July 2021. EP-D4 discloses product D2 and a method for producing D2 from raw material D3, the method being identical to the one disclosed in EP-D3. (a) Does EP-D2 sufficiently disclose product D2? (b) Is the subject-matter of the claim to product D2 in EP-D3 novel?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "(6 marks): Several candidates came to the right conclusion that EP-D3 was not entitled to the priority date of EP-D2. However, many of them did not realize and/or provide the correct legal basis why the disclosure of EP-D2 does not enable the skilled person to carry out the method for producing product D2 starting from raw material D1. Even fewer candidates explicitly stated that D2 is sufficiently disclosed in EP-D4."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "On 2 June 2020 company E filed European patent application EP-E claiming a composition comprising 5-40% of compound E1. EP-E claims the priority of a previous patent application JP-E filed with the Japan Patent Office by company E on 30 May 2019. JP-E discloses a composition comprising 10-20% of the compound E1. The examiner cited an article disclosing a composition comprising 40% of the compound E1 and published in December 2017. When analysing the technical teaching of the article, the skilled person would immediately recognise that the disclosure is erroneous and that the only possible correction would be a composition comprising 15% of the compound E1. Is the article novelty-destroying for the subject-matter claimed in EP-E?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "(5 marks): Due to different publication dates for the article given in the English, German and French versions of the paper, the Examination Board decided to award full marks to all candidates for question 5."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "European patent EP-A was granted with independent claim 1 directed to apparatus A1 and independent claim 2 directed to apparatus A2. Consider the following situations independently: Situation 1: An admissible opposition was filed based on document D1. D1 is prior art according to Article 54(3) EPC and discloses apparatus A1 only. The sole opponent withdrew the opposition the day after the opposition period expired. (a) How will the opposition proceedings continue? (b) What can the patent proprietor do to address the lack of novelty? Situation 2: An admissible opposition was rejected. The sole opponent filed an appeal together with a document D1. D1 is prior art according to Article 54(3) EPC and discloses apparatus A1 only. The opposition was subsequently withdrawn. (c) How will the appeal proceedings continue? (d) What steps can be taken before the EPO to address the lack of novelty?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "(8 marks): Many candidates realized the asymmetry between opposition and appeal proceedings in relation to the continuation of the opposition proceedings ex officio. However, few candidates realized that the opposition and appeal proceedings are not pending any more in situation 2, and that limitation is possible under Article 105a(2) EPC to address the lack of novelty in view of D1. Few candidates realized that the withdrawal of the opposition by the sole opponent-appellant is interpreted as withdrawal of the appeal, and that the correct legal basis for this conclusion is G8/93."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Outline the patent situation as it currently stands for: (a) the FEED machine with a feeding duct at the bottom of the mill (b) the FEED machine with two feeding ducts at the bottom of the mill (c) the CLEAN feeding process (d) the SPRAY water spray device (e) the FEED machine with the SPRAY water spray device",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Most of the candidates realized that OPT-EP1 is the first filing for the FEED machine with one and two ducts, and that TOR-EP could be prior art due to the drawings/report being shared. OPT-PCT does not validly claim priority from OPT-EP2 for FEED due to first filing issues. Claims to FEED in OPT-PCT may lack novelty in Europe. The CLEAN process was not yet filed and SPRAY is disclosed in prior art (Barcelona fair/TOR-EP-old). Only OPT-PCT claims the FEED+SPRAY combination, with no existing prior art for it."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "How would you advise us to respond to the opposition against OPT-EP1?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Any person can file an opposition. The claim to FEED-1 is not novel in view of the video. Limit claims to FEED-2 (two ducts), and argue inventive step using the surprising effect (uniformity). Do not discuss CLEAN in the reply to avoid self-disclosure. The cleaning effect is not derivable from the patent as granted and cannot be used for inventive step."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "What could we do to improve our situation?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "(a) FEED-1: Start entitlement proceedings in Italy, notify EPO and pay renewals during stay. (b) FEED-2: Keep FEED-2 claims in OPT-PCT for outside EP. (c) CLEAN: File patent application before discussing it. (d) SPRAY: To intervene in the TOR-EP-old appeal, institute national litigation in Italy and act within 3 months. (e) FEED+SPRAY: Not unitary in EP2; abandon EP2 and enter EP phase with OPT-PCT with amended claims."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "After the improvements, what products and methods could we stop TOR from making or using, and in which countries?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Once TOR-EP is assigned and granted, OPT could stop TOR from making or using FEED machines with one or two ducts in EP countries. OPT-EP1 could also stop use of FEED-2. CLEAN process would be protectable once filed and grant proceeds. In non-EP countries, OPT-PCT could stop use of FEED-2 and CLEAN. OPT could block use of FEED+SPRAY where OPT-PCT enters national phase."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Applicant A filed a European patent application EP-A, which describes and claims (1) a first invention comprising two alternative solutions to a technical problem consisting of features B+C and B+D respectively, and (2) a second invention consisting of features E+F. The first and second inventions are not linked by a single general inventive concept. Only the first invention was searched, and relevant prior art was found only for B+C. In the light of the technical problem, it is directly and unambiguously apparent that feature B is indispensable for the function of the first invention. Applicant A filed divisional applications DIV1 and DIV2, both based directly on EP-A. DIV1 as filed claims and describes only feature D. DIV2 as filed claims and describes only the combination B+D+F, wherein F is presented as an optional feature. Subsequently, the examining division issued a written decision dated 3 January 2023, refusing EP-A on the ground that a claim directed to B+C lacked novelty. Today, DIV1 and DIV2 are pending. (a) Can valid patents be obtained for DIV1 and DIV2 and what should be done? (b) Can applicant A still prosecute invention E+F and what should be done?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "No valid patent can be obtained for DIV1. A claim without B extends beyond the content of the parent application, Guidelines H-V, 3.1, because the same principles as for assessing added subject-matter under Art. 123(2) EPC are to be applied in the assessment of Art. 76(1) EPC, G 1/05. On the other hand, B cannot be reinstated in DIV1, because it is not originally disclosed in DIV1, Art. 123(2) EPC. For DIV2, a valid patent can be obtained. Parent application EP-A was pending when DIV2 was filed, R. 36(1) EPC. As it stands, the claim of DIV2 with feature F extends beyond the content of the parent application, Art. 76(1) EPC, because EP-A does not disclose F in combination with B+D. Hence, feature F needs to be removed from DIV2 to satisfy Art. 76(1) EPC. According to G 1/05, DIV2 can be amended even if EP-A was no longer pending. Feature F is optional. Therefore, removing feature F does not violate Art. 123(2) EPC. Since there is no relevant prior art for B+D, B+D is new and inventive, Art. 52(1), 54 and 56 EPC.",
-            "b": "An application which has been refused by the first instance is still pending until the expiry of the period for filing an appeal, G 1/09. Hence, EP-A is pending until 03.01.2023 + 10 days (Rule 126(2) EPC) + 2 months (Art. 108 EPC) = 13.03.2023 (Mon). To prosecute invention E+F, applicant A should thus file a divisional application claiming and describing E+F based on EP-A until 13.03.23, Rule 36(1) EPC."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "On 5 May 2022, applicant B resident in France filed an international patent application PCT-B with the EPO as receiving Office. Applicant B intended to claim priority from the US application US-B filed by applicant B on 9 July 2021. While the priority claim in the request of PCT-B stated the correct filing date of US-B, it included a typographical error in one digit of the application number of US-B. The request contained a certified copy of US-B. The description of PCT-B includes a statement that priority is claimed from US-B indicating the correct application number of US-B. Otherwise the description, the claims and the drawings are identical to those of US-B. In May 2022, applicant B received an invitation issued by the EPO as receiving Office to correct the priority claimed in the request of PCT-B. Unfortunately, applicant B overlooked this invitation and did not reply to it. The EPO acting as International Searching Authority transmitted the international search report to applicant B on 12 July 2022. (a) Is the priority claim considered to have been made for the purposes of the procedure under the PCT? (b) What is the last day to file a demand for international preliminary examination? (c) Is it still possible to rectify the priority claim in the international phase?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "The priority claim is considered to have been made under the PCT, because the inconsistency between the application number in the priority claim and the certified copy falls under Rule 26bis.2(c)(ii) and (iii) PCT, and the application was filed within the priority period.",
-            "b": "The demand may be made until the later of: (i) three months from 12.07.2022 = 12.10.2022; (ii) 22 months from 09.07.2021 = 09.05.2023.",
-            "c": "Yes, under Rule 91.1 PCT. The request for rectification must be submitted to the EPO acting as receiving Office before 11.09.2023. The mistake must be specified and proven obvious based on the correct data in the description, claims, and certified copy of US-B."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Company C filed European patent application EP-C on 14 September 2018. The mention of the grant of EP-C was published on 8 June 2022. Company D is concerned about infringing EP-C with its products sold in Germany since July 2022. Company D is preparing notice of opposition against EP-C and is confident that it will get the patent revoked. Today, company D consults the European Patent Register and notices that the representative of company C sent a fax to the EPO containing both a request that EP-C be revoked and an order to debit the revocation fee from its deposit account. Company D also noticed that company C has not yet paid any renewal fees to the German Patent and Trade Mark Office. (a) What is the current status of the revocation proceedings for EP-C? (b) Why should company D file opposition against EP-C?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "The revocation request was filed by fax, but the debiting order was invalid by fax per ADA 2022 7.1.3. Thus, revocation proceedings are not pending under Art. 105a(1) EPC.",
-            "b": "Company D should file opposition because (1) revocation proceedings are not pending, (2) EP-C is still in force in Germany due to renewal fee grace period, and (3) opposition ensures an ex tunc effect (Art. 68 EPC), protecting D from infringement liability for past sales."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "EP-E was assigned from company E to F. The transfer was recorded in November 2022. EP-E was revoked on 19 December 2022. In February 2023, you were instructed by company F to file an appeal. On 28 February 2023, the notice of appeal was mistakenly filed in the name of company E. (a) What is the current status regarding the admissibility of the appeal? (b) How can you improve the situation?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "The time limit for filing the notice of appeal ended on 19.12.2022 +10 days (Rule 126(2) EPC) + 2 months (Art. 108 EPC) = 28.02.2023, so the notice of appeal was filed in time. However, company E was no longer a party to the proceedings, so the appeal is likely to be rejected as inadmissible under Rule 101(1) EPC.",
-            "b": "The error in the appellant's identity can be corrected under Rule 139 EPC, provided it reflects the original intention. Submit a correction request with evidence (e.g. email from company F). If granted, company F becomes the appellant and the appeal is admissible under Art. 107 EPC."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "On 2 December 2022, applicant G filed PCT-G in English with the Portuguese Patent Office. On 9 December 2022, INPI invited G to file an abstract. G filed the abstract late on 3 March 2023. G received a notification that PCT-G is withdrawn. (a) Why was PCT-G declared withdrawn? What will be the consequence if nothing is done? (b) What procedural steps must G carry out to revive PCT-G before the EPO?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "PCT-G was declared withdrawn because the abstract was not filed within the 2-month time limit set by INPI under Rule 26.2 PCT. If nothing is done, PCT-G will cease to have the effect of a regular national application in designated states, per Art. 24(1)(ii) PCT.",
-            "b": "To revive PCT-G before the EPO, G must: (1) request the IB to send documents to the EPO (Art. 20 PCT), (2) pay the filing fee under Rule 159(1)(c) EPC, (3) file a request for re-establishment of rights, pay the fee, and show all due care (Art. 122 EPC, Rule 136 EPC), by 08.05.2023 (extended deadline)."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "EP-H describes product P, a method resulting in P, and use of P as a fertiliser. It was granted with a single claim to product P. An opposition cites EP-J disclosing the same product P under Article 54(3) EPC, obtained differently and used as a detergent. (a) How should EP-H be amended to provide maximum protection? (b) How would your answer change if P was described for use as a medicament instead of a fertiliser?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Amend EP-H by replacing the product claim with a use claim: 'Use of product P as a fertilizer'. This is new over EP-J, meets Art. 123(2) EPC as it was disclosed, and does not extend protection under Art. 123(3) EPC. Add a method claim as well, which is also new and does not extend protection.",
-            "b": "The use claim 'use of product P as a medicament' is excluded from patentability under Art. 53(c) EPC. Reformulate it as a purpose-related product claim: 'product P for use as a medicament'. This satisfies Art. 54(4), 123(2), and 123(3) EPC."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Analyse the patent situation for the following subject-matter: (a) CU-Em (b) CU-Em-sound (c) CU-EG (d) CU-EP (e) CU-Em-transmit (f) nappies in which the absorbent comprises substance X.",
-            "Options": []
-        },
-        "Answer": {
-            "a": "The claim in EP-Z to CU-Em is invalid. The disclaimer (electrodes not made of silver) is an undisclosed disclaimer that does not meet the criteria of G 1/03 and constitutes added matter. The priority claim is invalid, and EP-Y is full prior art destroying inventive step.",
-            "b": "EP-WA discloses CU-Em-sound. The subject-matter is novel and inventive. Check if renewal fees have been paid. The application can proceed to grant.",
-            "c": "CU-EG is claimed in EP-WB. Novel and inventive. The Rule 71(3) EPC communication has been responded to. Grant expected.",
-            "d": "CU-EP was mistakenly filed in EP-WDIV based on EP-WA (wrong parent). Since EP-WA does not disclose CU-EP, EP-WDIV is invalid.",
-            "e": "CU-Em-transmit is disclosed in EP-WC. It is novel and inventive. EP-WC may proceed to grant.",
-            "f": "The subject-matter (nappies with substance X) is disclosed in EP-WC but not claimed. It is novel and inventive. No protection currently exists."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "As the situation currently stands: (a) Is Zuma free to produce and sell nappies that neutralise urine odours and in which the absorbent comprises substance X? (b) Are we free to produce and sell: CU-E(Au)-sound, CU-E(Au)-transmit, CU-EG, CU-EP?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Yes. No patent currently protects the nappies with substance X.",
-            "b": "CU-E(Au)-sound and CU-E(Au)-transmit fall under the scope of EP-Z, which is in force in Europe, even if invalid. So not free in Europe. CU-EG and CU-EP use conductive plastic, which is not a metal, so they fall outside the scope of EP-Z. Therefore, free to produce in Europe. In US and China, there is no patent protection, so free to produce all nappies."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "What can we do to improve our rights and position?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Refile a divisional application EP-WDIV2 from EP-WB for CU-EP (correct parent). File as soon as possible. Claim is novel and inventive.",
-            "b": "File opposition against EP-Z before 17 May 2023 based on added matter and lack of inventive step. If revoked, CU-E(Au) products can be freely made.",
-            "c": "File PCT for nappies with substance X, claiming priority from EP-WC. Do so by 8 May 2023. Seek protection in US, EP, China.",
-            "d": "File PCT for CU-Em-transmit from EP-WC before 8 May 2023. Seek protection in US, EP, China. This will allow Whiter to stop Zuma globally."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Applicant D filed PCT-3 at SPTO. (a) In which language was it filed and what steps are needed for the ISA to start the search? (b) How can applicant D amend claims and correct an obvious mistake during the international phase at the lowest cost?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "PCT-3 was filed in Spanish, the only language accepted by SPTO. To allow the EPO (ISA) to start the search, applicant D must file a translation into English, French, or German. This must be done by the later of: (i) one month from the date of the SPTO invitation (17 February 2024 → 19 February 2024), or (ii) two months from the date of receipt (5 March 2024). A late furnishing fee must be paid.",
-            "b": "Amended claims must be filed at the IB within 2 months of the ISR or within 16 months from the priority date, in Spanish (language of publication). Corrections to the description under Rule 91.1 PCT must be filed in both Spanish and the translation language, at the EPO/ISA, within 26 months from the priority date."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Company C filed EP-2 and failed to act after a negative search opinion. (a) Is it still possible to prosecute EP-2? What steps must be taken and by when?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Yes, via re-establishment of rights. The deadline for further processing (12 February 2024) has passed. Company C has until 6 May 2024 (2 months from discovery on 5 March 2024) to file three requests for re-establishment (one for each missed act: exam fee, designation fee, reply to search opinion), pay all relevant fees (including 50% surcharges), and prove all due care. The third-year renewal fee will become due on the date of the re-establishment decision and can be paid within 4 months."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Opposition period for EP-1 expired yesterday. A (in Mexico) and B (in Spain), both Spanish nationals, filed a joint opposition on 16 January 2024 in Spanish. Signed by both. B filed English translation yesterday. What procedural steps are required for examination to start?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "A must appoint a professional representative since they reside outside an EPC state. The EPO issued an invitation to do so under Rule 77(2) EPC. Once appointed, the representative must sign or approve the notice of opposition. The deadline for doing this is 2 April 2024. The translation in English was filed in time. However, the accompanying letter was not signed by the common representative, so it must be re-signed. Once this is done, the opposition will be considered properly filed."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "EP-4 granted with claims to A, A+B, A+C, and D. Opposition filed only against claim 1 (A). F later filed EP-D2 and EP-D3 disclosing A and D, both Art. 54(3) EPC. How can E obtain a valid patent with maximum protection?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "EP-D2 is prima facie relevant and will be admitted. EP-D3 will not be admitted as claim 4 (D) was not opposed. Claim 1 lacks novelty over EP-D2. File amended claims replacing claim 1 with independent claims to A+B and A+C. The claim to D will remain in the patent but is not valid. After opposition, E should file a request for limitation under Art. 105a EPC to delete claim 4."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Applicant H (Morocco) filed EP-7 in French in March 2020. Grant published 21 February 2024. What must be done and by when to: (a) obtain protection in the UK and Poland? (b) obtain unitary patent protection?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "For Poland: File a Polish translation by 21 May 2024, appoint a national representative, and pay the special fee upon invitation. Pay the renewal fee by 22 April 2024. For the UK: No validation steps needed due to the London Agreement. Renewal fee can be paid until 31 May 2024.",
-            "b": "File a request for unitary effect with the EPO in French by 21 March 2024. Include applicant and representative details and an English translation of the specification. The fifth-year renewal fee must be paid within three months from notification of registration of the unitary effect."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "Outline the patent situation for: (a) EP-P2 (b) EP-P3 (c) EP-AA+ (d) PCT-TM+.",
-            "Options": []
-        },
-        "Answer": {
-            "a": "EP-P2 claims a method of harvesting spider silk using 3–13% CO2. It has partial priority from EP-P1 for AA spiders (3–9%) and later date for broader claims. EP-P1 is Art. 54(3) EPC prior art for the portion not entitled to priority. The claim is patentable and valid as granted.",
-            "b": "EP-P3 claims 3–26% CO2. Priority from EP-P2 is only valid for non-AA spiders and CO2 ranges 9–13%. For AA (3–9%) and the 16% example, the priority claim fails, so EP-P1 and EP-P2 become Art. 54(3) EPC prior art. The claim lacks novelty and should not be granted.",
-            "c": "EP-AA+ claims use of AA spiders with 3–26% CO2 and 1–2% N2O. Novel and inventive over prior art. EP-P1, P2, and P3 do not disclose N2O. Both claims are patentable.",
-            "d": "PCT-TM+ claims a method of feeding spiders tiger mosquitos and a product-by-process claim on the silk. Claim 1 is novel and inventive. Claim 2 lacks novelty as the silk is not structurally different. Claim 1 is patentable; claim 2 should be refused."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "What can Xeracno do to improve its patent portfolio to stop Prosilk from harvesting spider silk in Germany and Bosnia-Herzegovina and selling it in Europe?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "Request re-establishment of rights to enter European phase for PCT-TM+ before 6 May 2024. Complete the omitted acts and pay the required fees. Request extension to Bosnia-Herzegovina. This would allow claim 1 (feeding tiger mosquitos) to cover Germany and Bosnia. Claim 2 will not help in Europe, but enforcement can be done using Art. 64(2) EPC in Switzerland (for imported silk made using the patented method abroad)."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "In view of EP-P2, can Prosilk stop Xeracno from: (a) harvesting in Spiez, Switzerland? (b) harvesting in Turkey? (c) harvesting in Colorado, USA? (d) importing and selling in Switzerland?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "No. Spiez uses 16% CO2, which is outside EP-P2’s 3–13% claim range. Not covered.",
-            "b": "No. Turkey farm uses 8% CO2, but no evidence of EP-P2 validation in Turkey or fee payment.",
-            "c": "No. EP-P2 does not cover USA.",
-            "d": "No. Although CO2 level in Turkey/USA is within EP-P2’s scope, no patent rights exist to block imports into Switzerland using Art. 64(2) EPC."
-        },
-        "Explanation": "",
-        "Legal basis": ""
-    },
-    {
-        "Question": {
-            "heading": "In view of pending EP-P3, can Prosilk stop Xeracno from: (a) harvesting in Spiez, Switzerland? (b) harvesting in Turkey? (c) harvesting in Colorado, USA? (d) importing and selling in Switzerland?",
-            "Options": []
-        },
-        "Answer": {
-            "a": "No. 16% CO2 and AA spiders fall within EP-P1 scope. EP-P3’s claim lacks novelty and will not be granted.",
-            "b": "No. AA + 8% CO2 falls in prior art (EP-P1). Again, EP-P3 lacks novelty.",
-            "c": "No. Even if EP-P3 were granted, it cannot be enforced in the US.",
-            "d": "No. Since EP-P3 won’t be granted, there is no right to enforce under Art. 64(2) EPC."
-        },
-        "Explanation": "",
+        "Answer": "1. (a) EP-P2 is validly granted with partial priority for AA[3-9]. It is novel and inventive. (b) EP-P3's claim is not novel due to EP-P1 and EP-P2 being Art. 54(3) documents. EP-P3 should not proceed to grant. (c) EP-AA+ is novel and inventive due to N2O. (d) PCT-TM+ claim 1 is novel and inventive; claim 2 (product-by-process) lacks novelty.\n\n2. Xeracno should request re-establishment of rights for Euro-PCT phase entry of PCT-TM+. Add Bosnia-Herzegovina as an extension state. This would block Prosilk's planned activity in Bosnia. Cannot prevent current use in Germany.\n\n3. (a) EP-P2 is valid in CH, but 16% CO2 is outside the claim, so Xeracno is free. (b) 8% CO2 is within scope, but no validation/renewal in Turkey, so Xeracno is free. (c) EP-P2 not valid in the US, Xeracno is free. (d) EP-P2 can prevent importing product directly obtained by the claimed method into Switzerland.\n\n4. (a) EP-P3 cannot cover AA[16]; Prosilk cannot prevent Spiez activity. (b) EP-P3 does not cover AA[3-9]; Prosilk cannot block Turkey activity. (c) EP-P3 has no US effect. (d) EP-P3 cannot provide protection for 8% CO2, so Prosilk cannot block imports into CH.",
+        "Explanation": "EP-P3's priority is only partially valid under G1/15. EP-P1 and EP-P2 become Art. 54(3) prior art where priority is invalid. EP-AA+ and PCT-TM+ are novel/inventive. Restoration for PCT-TM+ must be timely with all omitted acts completed.",
         "Legal basis": ""
     }
 ]
