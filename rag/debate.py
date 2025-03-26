@@ -16,6 +16,7 @@ debater2 = OllamaLLM(model="mistral")
 def extract_json(text):
     start = text.find("{")
     end = text.find("}")
+    print(text[start:end+1])
     return ast.literal_eval(text[start:end+1])
 
 class State(TypedDict):
@@ -27,46 +28,38 @@ class State(TypedDict):
 
 def Orchestrator(state: State):
     print(state)
-    if state['turn'] == 1:
+    if state['turn'] == 0:
         prompt = f"""
-        You are an orchestrator for a debate between two debaters. 
-        The initial question is: {state['intial_question']}. 
-        Your task is to lead the debate with two debaters.
+        Vous êtes un orchestrateur pour un débat entre deux participants.
+        La question initiale est : {state['intial_question']}.
+        Votre rôle est de guider le débat.
         """
         orchestrator.invoke(prompt)
-        return {"agreement": False}
+        return {"agreement": False, "turn": state['turn'] + 1}
     
     if state['turn'] == MAX_TURN and state['agreement'] == False:
         prompt = f"""
-        The debate has reached its maximum turn limit of {MAX_TURN}. 
-        Please summarize the debate and provide a final evaluation of the arguments presented by both debaters.
+        Le débat a atteint le nombre maximal de tours ({MAX_TURN}).
+        Résumez le débat et évaluez les arguments.
         """
-        return {"agreement": False}
+        return {"agreement": False, "turn": state['turn'] + 1}
     
     if state['agreement'] == True:
         prompt = f"""
-        The debate has reached an agreement. 
-        Please summarize the agreement and provide any final thoughts or conclusions.
+        Un accord a été trouvé.
+        Résumez-le et concluez.
         """
         orchestrator.invoke(prompt)
-        return {"agreement": True}
+        return {"agreement": True, "turn": state['turn'] + 1}
     
     prompt = f"""
-    You are an orchestrator for a debate between two debaters. 
-    The current round is {state['turn']}. 
-    Debater 1 has responded with: {state['debater1_response']}. 
-    Debater 2 has responded with: {state['debater2_response']}. 
-    Your task is to evaluate the responses and determine if there is any agreement between the two debaters. 
-    If there is agreement, please summarize it by providing me this json format:
+    Tour actuel : {state['turn']}.
+    Réponse du Débatteur 1 : {state['debater1_response']}.
+    Réponse du Débatteur 2 : {state['debater2_response']}.
+    Évaluez s'il y a un accord. Renvoyez :
     {{
         "turn": {state['turn']},
-        "agreement": true,
-        "summary": "..."
-    }}
-    If there is no agreement, please provide me this json format:
-    {{
-        "turn": {state['turn']},
-        "agreement": false,
+        "agreement": True/False,
         "summary": "..."
     }}
     """
@@ -76,48 +69,46 @@ def Orchestrator(state: State):
 def Debater1(state: State):
     if state['turn'] == 1:
         prompt = f"""
-        You are Debater 1 in a debate. 
-        The initial question is: {state['intial_question']}. 
-        Give your opinion about the question in the following format:
+        Vous êtes le Débatteur 1.
+        Question : {state['intial_question']}.
+        Donnez votre avis en JSON :
         {{
             "response": "..."
         }}
         """
     else:
         prompt = f"""
-        You are Debater 1 in a debate. 
-        You said this in the previous turn: {state['debater1_response']}. 
-        Your task is to provide a response to Debater 2's argument: {state['debater2_response']}. 
-        Please provide your response in the following format:
+        Vous êtes le Débatteur 1.
+        Votre dernier argument : {state['debater1_response']}.
+        Répondez à : {state['debater2_response']}.
+        Format :
         {{
             "response": "..."
         }}
         """
-
     response = extract_json(debater1.invoke(prompt))
     return {"debater1_response": response["response"]}
 
 def Debater2(state: State):
     if state['turn'] == 1:
         prompt = f"""
-        You are Debater 2 in a debate. 
-        The initial question is: {state['intial_question']}. 
-        Give your opinion about the question in the following format:
+        Vous êtes le Débatteur 2.
+        Question : {state['intial_question']}.
+        Donnez votre avis en JSON :
         {{
             "response": "..."
         }}
         """
     else:
         prompt = f"""
-        You are Debater 2 in a debate. 
-        You said this in the previous turn: {state['debater2_response']}. 
-        Your task is to provide a response to Debater 1's argument: {state['debater1_response']}. 
-        Please provide your response in the following format:
+        Vous êtes le Débatteur 2.
+        Votre dernier argument : {state['debater2_response']}.
+        Répondez à : {state['debater1_response']}.
+        Format :
         {{
             "response": "..."
         }}
         """
-
     response = extract_json(debater2.invoke(prompt))
     return {"debater2_response": response["response"]}
 
@@ -146,8 +137,8 @@ graph = graph_builder.compile()
 
 
 # Run the graph
-graph.invoke({"turn":1,
-              "intial_question": "Is AI a threat to humanity?",
+graph.invoke({"turn":0,
+              "intial_question": "L'IA est-elle une menace pour l'humanité ?",
               "agreement":False,
               "debater1_response":"", 
               "debater2_response":""})
