@@ -3,7 +3,7 @@ from langchain_ollama.llms import OllamaLLM
 from langgraph.graph import START,END, StateGraph
 from typing_extensions import TypedDict
 import ast
-MAX_TURN = 5
+MAX_TURN = 10
 
 #Define agents
 orchestrator =  OllamaLLM(model="mistral")
@@ -36,35 +36,20 @@ def Orchestrator(state: State):
         """
         orchestrator.invoke(prompt)
         return {"agreement": False, "turn": state['turn'] + 1}
-    
-    if state['turn'] == MAX_TURN and state['agreement'] == False:
+    else:  
         prompt = f"""
-        Le débat a atteint le nombre maximal de tours ({MAX_TURN}).
-        Résumez le débat et évaluez les arguments.
+        Tour actuel : {state['turn']}.
+        Réponse du Débatteur 1 : {state['debater1_response']}.
+        Réponse du Débatteur 2 : {state['debater2_response']}.
+        Évaluez s'il y a un accord. Renvoyez :
+        {{
+            "turn": {state['turn']},
+            "agreement": True/False,
+            "summary": "..."
+        }}
         """
-        return {"agreement": False, "turn": state['turn'] + 1}
-    
-    if state['agreement'] == True:
-        prompt = f"""
-        Un accord a été trouvé.
-        Résumez-le et concluez.
-        """
-        orchestrator.invoke(prompt)
-        return {"agreement": True, "turn": state['turn'] + 1}
-    
-    prompt = f"""
-    Tour actuel : {state['turn']}.
-    Réponse du Débatteur 1 : {state['debater1_response']}.
-    Réponse du Débatteur 2 : {state['debater2_response']}.
-    Évaluez s'il y a un accord. Renvoyez :
-    {{
-        "turn": {state['turn']},
-        "agreement": True/False,
-        "summary": "..."
-    }}
-    """
-    response = extract_json(orchestrator.invoke(prompt))
-    return {"agreement": response["agreement"], "turn": state["turn"]+1}
+        response = extract_json(orchestrator.invoke(prompt))
+        return {"agreement": response["agreement"], "turn": state["turn"]+1}
 
 def Debater1(state: State):
     if state['turn'] == 1:
@@ -113,14 +98,35 @@ def Debater2(state: State):
     return {"debater2_response": response["response"]}
 
 def end(state: State):
-    if state['agreement'] == True:
+    if state['agreement'] == True or (state['turn'] == MAX_TURN and state['agreement'] == False):
         return "last_action"
     else:
         return ["debater1","debater2"]
     
 def last_action(state: State):
     print("last action")
-    print(state)
+    #print(state)
+    if state['turn'] == MAX_TURN and state['agreement'] == False:
+        prompt = f"""
+        voici les reponses des débatteurs :
+        Débatteur 1 : {state['debater1_response']}.
+        Débatteur 2 : {state['debater2_response']}.
+        Vous êtes l'orchestrateur.
+        Le débat a atteint le nombre maximal de tours ({MAX_TURN}).
+        Résumez le débat et évaluez les arguments puis tirez une conclusion.
+        """
+    if state['agreement'] == True:
+        prompt = f"""
+        Voici les réponses des débatteurs :
+        Débatteur 1 : {state['debater1_response']}.
+        Débatteur 2 : {state['debater2_response']}.
+        Vous êtes l'orchestrateur.
+        Le débat a abouti à un accord.
+        Résumez le débat et évaluez les arguments puis tirez une conclusion.
+        """
+    response = orchestrator.invoke(prompt)
+    print(response)
+    return {"agreement": True, "turn": state['turn']}
 
 graph_builder = StateGraph(State)
 graph_builder.add_node("Orchestrator", Orchestrator)
@@ -136,14 +142,14 @@ graph_builder.add_conditional_edges("Orchestrator", end,["debater1","debater2","
 graph = graph_builder.compile()
 
 
-# Run the graph
-graph.invoke({"turn":0,
-              "intial_question": "L'IA est-elle une menace pour l'humanité ?",
-              "agreement":False,
-              "debater1_response":"", 
-              "debater2_response":""})
-
-img = graph.get_graph().draw_mermaid_png()
-with open("graph.png", "wb") as f:
-    f.write(img)
-print("Image enregistrée sous 'graph.png'")
+if __name__ == "__main__":
+    # Run the graph
+    graph.invoke({"turn":0,
+                  "intial_question": "La mort est-elle un mal ?", # You can change this question
+                  "agreement":False,
+                  "debater1_response":"", 
+                  "debater2_response":""})
+    img = graph.get_graph().draw_mermaid_png()
+    with open("graph.png", "wb") as f:
+        f.write(img)
+    print("Image enregistrée sous 'graph.png'")
