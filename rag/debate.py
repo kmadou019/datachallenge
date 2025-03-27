@@ -2,16 +2,27 @@
 from langchain_ollama.llms import OllamaLLM
 from langgraph.graph import START,END, StateGraph
 from typing_extensions import TypedDict
+import logging
 import ast
-MAX_TURN = 10
+MAX_TURN = 5
 
 #Define agents
-orchestrator =  OllamaLLM(model="mistral")
-debater1 = OllamaLLM(model="mistral")
-#debater1 = OllamaLLM(model="mistral")
-debater2 = OllamaLLM(model="mistral")
-#debater2 = OllamaLLM(model="phi4")
+name_orchestrator = "llama3.3"
+name_debater1 = "mistral"
+name_debater2 = "phi4"
+# Initialize the LLMs
+orchestrator =  OllamaLLM(model=name_orchestrator)
+debater1 = OllamaLLM(model=name_debater1)
+debater2 = OllamaLLM(model=name_debater2)
+#Intialize the log file
+log_file = "debate_log.txt"
+logger = logging.getLogger(__name__)
+handler = logging.FileHandler(log_file, mode="w")
+logger.setLevel(logging.DEBUG)
 
+handler.setLevel(logging.INFO)
+handler.addFilter(lambda record: record.levelno == logging.INFO)
+logger.addHandler(handler)
 
 def extract_json(text):
     start = text.find("{")
@@ -27,8 +38,10 @@ class State(TypedDict):
     debater2_response: str
 
 def Orchestrator(state: State):
-    print(state)
     if state['turn'] == 0:
+        logger.info(f"Tour {state['turn']}:")
+        logger.info("Initial question: " + state['intial_question'])
+        logger.info("\n")
         prompt = f"""
         Vous êtes un orchestrateur pour un débat entre deux participants.
         La question initiale est : {state['intial_question']}.
@@ -49,6 +62,10 @@ def Orchestrator(state: State):
         }}
         """
         response = extract_json(orchestrator.invoke(prompt))
+        logger.info(f"Resumé du débat par l'orchestrateur ({name_orchestrator}) : {response['summary']}")
+        logger.info("\n")
+        logger.info(f"Tour {state['turn']}:")
+        logger.info("\n")
         return {"agreement": response["agreement"], "turn": state["turn"]+1}
 
 def Debater1(state: State):
@@ -71,7 +88,10 @@ def Debater1(state: State):
             "response": "..."
         }}
         """
+    
     response = extract_json(debater1.invoke(prompt))
+    logger.info(f"Réponse du Débatteur 1 ({name_debater1}) : {response['response']}")
+    logger.info("\n")
     return {"debater1_response": response["response"]}
 
 def Debater2(state: State):
@@ -95,6 +115,8 @@ def Debater2(state: State):
         }}
         """
     response = extract_json(debater2.invoke(prompt))
+    logger.info(f"Réponse du Débatteur 2 ({name_debater2}) : {response['response']}")
+    logger.info("\n")
     return {"debater2_response": response["response"]}
 
 def end(state: State):
@@ -104,8 +126,6 @@ def end(state: State):
         return ["debater1","debater2"]
     
 def last_action(state: State):
-    print("last action")
-    #print(state)
     if state['turn'] == MAX_TURN and state['agreement'] == False:
         prompt = f"""
         voici les reponses des débatteurs :
@@ -125,7 +145,8 @@ def last_action(state: State):
         Résumez le débat et évaluez les arguments puis tirez une conclusion.
         """
     response = orchestrator.invoke(prompt)
-    print(response)
+    logger.info(f"Résumé final du débat par l'orchestrateur ({name_orchestrator}) : {response}")
+    logger.info("\n")
     return {"agreement": True, "turn": state['turn']}
 
 graph_builder = StateGraph(State)
