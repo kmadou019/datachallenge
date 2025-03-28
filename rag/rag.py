@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from codecarbon import track_emissions
 from fastapi import FastAPI, Query, Response
 from pydantic import BaseModel
 from typing import List
@@ -104,7 +105,13 @@ Based only on the text below, do the following:
 Context:
 {context_text}
 """
-
+    
+@track_emissions(
+    measure_power_secs=30,
+    api_call_interval=4,
+    experiment_id="2bcbcbb8-850d-4692-af0d-76f6f36d79b2",
+    save_to_api=True,
+)
 @app.get("/search")
 def search(query: str = Query(..., description="Your keyword(s)"),
            k: int = 5,
