@@ -36,25 +36,26 @@ class State(TypedDict):
     agreement: bool
     debater1_response: str
     debater2_response: str
-
 def Orchestrator(state: State):
     if state['turn'] == 0:
         logger.info(f"Tour {state['turn']}:")
-        logger.info("Initial question: " + state['intial_question'])
+        logger.info("Question initiale: " + state['initial_question'])
         logger.info("\n")
         prompt = f"""
-        Vous êtes un orchestrateur pour un débat entre deux participants.
-        La question initiale est : {state['intial_question']}.
-        Votre rôle est de guider le débat.
+        Vous êtes un orchestrateur supervisant un débat entre deux évaluateurs d'une réponse utilisateur.
+        La question posée est : {state['initial_question']}.
+        La réponse correcte est : {state['real_answer']}.
+        La réponse de l'utilisateur est : {state['user_answer']}.
+        Votre rôle est de guider le débat et de permettre aux évaluateurs de comparer leurs arguments.
         """
         orchestrator.invoke(prompt)
         return {"agreement": False, "turn": state['turn'] + 1}
-    else:  
+    else:
         prompt = f"""
         Tour actuel : {state['turn']}.
-        Réponse du Débatteur 1 : {state['debater1_response']}.
-        Réponse du Débatteur 2 : {state['debater2_response']}.
-        Évaluez s'il y a un accord. Renvoyez :
+        Avis de l'Évaluateur 1 : {state['debater1_response']}.
+        Avis de l'Évaluateur 2 : {state['debater2_response']}.
+        Évaluez s'il y a un consensus sur l'exactitude de la réponse de l'utilisateur. Renvoyez :
         {{
             "turn": {state['turn']},
             "agreement": True/False,
@@ -62,92 +63,91 @@ def Orchestrator(state: State):
         }}
         """
         response = extract_json(orchestrator.invoke(prompt))
-        logger.info(f"Resumé du débat par l'orchestrateur ({name_orchestrator}) : {response['summary']}")
-        logger.info("\n")
-        logger.info(f"Tour {state['turn']}:")
+        logger.info(f"Résumé du débat par l'orchestrateur ({name_orchestrator}) : {response['summary']}")
         logger.info("\n")
         return {"agreement": response["agreement"], "turn": state["turn"]+1}
 
 def Debater1(state: State):
     if state['turn'] == 1:
         prompt = f"""
-        Vous êtes le Débatteur 1.
-        Question : {state['intial_question']}.
-        Donnez votre avis en JSON :
+        Vous êtes l'Évaluateur 1.
+        Question : {state['initial_question']}.
+        Réponse correcte : {state['real_answer']}.
+        Réponse de l'utilisateur : {state['user_answer']}.
+        Donnez votre avis sur l'exactitude de la réponse de l'utilisateur en JSON :
         {{
             "response": "..."
         }}
         """
     else:
         prompt = f"""
-        Vous êtes le Débatteur 1.
+        Vous êtes l'Évaluateur 1.
         Votre dernier argument : {state['debater1_response']}.
-        Répondez à : {state['debater2_response']}.
-        Format :
+        Répondez aux arguments de l'Évaluateur 2 : {state['debater2_response']}.
+        Donnez votre réponse en JSON :
         {{
             "response": "..."
         }}
         """
-    
     response = extract_json(debater1.invoke(prompt))
-    logger.info(f"Réponse du Débatteur 1 ({name_debater1}) : {response['response']}")
-    logger.info("\n")
+    logger.info(f"Réponse de l'Évaluateur 1 ({name_debater1}) : {response['response']}")
     return {"debater1_response": response["response"]}
 
 def Debater2(state: State):
     if state['turn'] == 1:
         prompt = f"""
-        Vous êtes le Débatteur 2.
-        Question : {state['intial_question']}.
-        Donnez votre avis en JSON :
+        Vous êtes l'Évaluateur 2.
+        Question : {state['initial_question']}.
+        Réponse correcte : {state['real_answer']}.
+        Réponse de l'utilisateur : {state['user_answer']}.
+        Donnez votre avis sur l'exactitude de la réponse de l'utilisateur en JSON :
         {{
             "response": "..."
         }}
         """
     else:
         prompt = f"""
-        Vous êtes le Débatteur 2.
+        Vous êtes l'Évaluateur 2.
         Votre dernier argument : {state['debater2_response']}.
-        Répondez à : {state['debater1_response']}.
-        Format :
+        Répondez aux arguments de l'Évaluateur 1 : {state['debater1_response']}.
+        Donnez votre réponse en JSON :
         {{
             "response": "..."
         }}
         """
     response = extract_json(debater2.invoke(prompt))
-    logger.info(f"Réponse du Débatteur 2 ({name_debater2}) : {response['response']}")
-    logger.info("\n")
+    logger.info(f"Réponse de l'Évaluateur 2 ({name_debater2}) : {response['response']}")
     return {"debater2_response": response["response"]}
 
 def end(state: State):
     if state['agreement'] == True or (state['turn'] == MAX_TURN and state['agreement'] == False):
         return "last_action"
     else:
-        return ["debater1","debater2"]
-    
+        return ["debater1", "debater2"]
+
 def last_action(state: State):
     if state['turn'] == MAX_TURN and state['agreement'] == False:
         prompt = f"""
-        voici les reponses des débatteurs :
-        Débatteur 1 : {state['debater1_response']}.
-        Débatteur 2 : {state['debater2_response']}.
+        Voici les avis finaux des évaluateurs :
+        Évaluateur 1 : {state['debater1_response']}.
+        Évaluateur 2 : {state['debater2_response']}.
         Vous êtes l'orchestrateur.
         Le débat a atteint le nombre maximal de tours ({MAX_TURN}).
-        Résumez le débat et évaluez les arguments puis tirez une conclusion.
+        Résumez le débat et donnez une conclusion sur l'exactitude de la réponse de l'utilisateur.
         """
     if state['agreement'] == True:
         prompt = f"""
-        Voici les réponses des débatteurs :
-        Débatteur 1 : {state['debater1_response']}.
-        Débatteur 2 : {state['debater2_response']}.
+        Voici les avis finaux des évaluateurs :
+        Évaluateur 1 : {state['debater1_response']}.
+        Évaluateur 2 : {state['debater2_response']}.
         Vous êtes l'orchestrateur.
-        Le débat a abouti à un accord.
-        Résumez le débat et évaluez les arguments puis tirez une conclusion.
+        Un consensus a été atteint.
+        Résumez le débat et donnez une conclusion finale sur l'exactitude de la réponse de l'utilisateur.
         """
     response = orchestrator.invoke(prompt)
     logger.info(f"Résumé final du débat par l'orchestrateur ({name_orchestrator}) : {response}")
-    logger.info("\n")
     return {"agreement": True, "turn": state['turn']}
+
 
 graph_builder = StateGraph(State)
 graph_builder.add_node("Orchestrator", Orchestrator)
