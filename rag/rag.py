@@ -9,10 +9,18 @@ import uvicorn
 import numpy as np
 import requests
 from fpdf import FPDF
+from starlette.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+# CORS middleware setup to allow requests from frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], 
+    allow_credentials=True,
+    allow_methods=["*"], 
+    allow_headers=["*"], 
+)
 
-# Load and preprocess the data
 with open("../datasets/data_mcq.json") as f:
     mcq_data = json.load(f)
 
@@ -43,19 +51,21 @@ def match_location(query: str, result: dict) -> str:
     else:
         return "other"
 
-# Normalize
+# Normalizing
 documents = []
 for q in mcq_data:
+    # type "MCQ"
     documents.append(Question(type="MCQ", text=format_text_for_embedding(q), full=q))
 for q in open_data:
+    # type "Open"
     documents.append(Question(type="Open", text=format_text_for_embedding(q), full=q))
 
-# Embed
+# Embeddings
 model = SentenceTransformer("all-MiniLM-L6-v2")
 embeddings = model.encode([doc.text for doc in documents])
 embeddings = np.array(embeddings).astype("float32")
 
-# FAISS index
+# FAISS indexing
 dimension = embeddings.shape[1]
 index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
@@ -79,7 +89,7 @@ Explain the legal background and correct interpretation using only the informati
 Context:
 {context_text}
 """
-    else:  # default to exam mode
+    else:
         return f"""
 Given the legal query: '{query}'
 
@@ -99,25 +109,53 @@ Context:
 def search(query: str = Query(..., description="Your keyword(s)"),
            k: int = 5,
            mode: str = Query("exam", enum=["exam", "summary", "explanation"]),
+           question_type: str = Query(None, description="Use 'open' for open questions or 'qcm' for multiple choice questions"),
            export_pdf: bool = False):
 
+    # Dynamically load the dataset based on the question_type parameter
+    if question_type:
+        if question_type.lower() == "qcm":
+            with open("../datasets/data_mcq.json") as f:
+                selected_data = json.load(f)
+        elif question_type.lower() == "open":
+            with open("../datasets/data_open.json") as f:
+                selected_data = json.load(f)
+        else:
+            selected_data = mcq_data + open_data
+    else:
+        selected_data = mcq_data + open_data
+
+    selected_documents = []
+    for q in selected_data:
+        if "Options" in q["Question"]:
+            selected_documents.append(Question(type="MCQ", text=format_text_for_embedding(q), full=q))
+        else:
+            selected_documents.append(Question(type="Open", text=format_text_for_embedding(q), full=q))
+
+    selected_embeddings = model.encode([doc.text for doc in selected_documents])
+    selected_embeddings = np.array(selected_embeddings).astype("float32")
+
+    dimension = selected_embeddings.shape[1]
+    selected_index = faiss.IndexFlatL2(dimension)
+    selected_index.add(selected_embeddings)
+
     query_vector = model.encode([query]).astype("float32")
-    distances, indices = index.search(query_vector, k)
+    distances, indices = selected_index.search(query_vector, k)
+
     results = []
     context_parts = []
-    for i in indices[0]:
-        doc = documents[i].full
-        location = match_location(query, doc)
-        doc["match_location"] = location
-        results.append(doc)
-        context_parts.append(doc["Question"]["heading"])
-        options = doc["Question"].get("Options", [])
+    for idx in indices[0]:
+        doc_entry = selected_documents[idx]
+        location = match_location(query, doc_entry.full)
+        doc_entry.full["match_location"] = location
+        results.append(doc_entry.full)
+        context_parts.append(doc_entry.full["Question"]["heading"])
+        options = doc_entry.full["Question"].get("Options", [])
         if options:
             context_parts.append("Options: " + "; ".join(options))
 
     context_text = "\n".join(context_parts)
 
-    # Call Ollama (Mistral 7B)
     prompt = build_prompt(context_text, query, mode)
 
     response = requests.post(
@@ -144,8 +182,43 @@ def search(query: str = Query(..., description="Your keyword(s)"),
     return {
         "query": query,
         "mode": mode,
+        "question_type": question_type,
         "results": results,
         "generated_answer": generation
+    }
+class EvaluationRequest(BaseModel):
+    question: str
+    real_answer: str
+    user_answer: str
+
+@app.post("/evaluate")
+def evaluate_open_question(evaluation: EvaluationRequest):
+    prompt = f"""
+Given the open question, its correct answer, and the user's answer, evaluate the user's response for correctness.
+
+Open Question:
+{evaluation.question}
+
+Correct Answer:
+{evaluation.real_answer}
+
+User's Answer:
+{evaluation.user_answer}
+
+Please provide an evaluation stating whether the user's answer is correct, partially correct, or incorrect, and explain your reasoning.
+"""
+    response = requests.post(
+        "http://localhost:11434/api/generate",
+        json={
+            "model": "mistral",
+            "prompt": prompt,
+            "stream": False
+        }
+    )
+    evaluation_result = response.json().get("response", "[No response from LLM]")
+
+    return {
+        "evaluation": evaluation_result
     }
 
 if __name__ == "__main__":
