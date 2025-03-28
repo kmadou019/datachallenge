@@ -11,6 +11,7 @@ import numpy as np
 import requests
 from fpdf import FPDF
 from starlette.middleware.cors import CORSMiddleware
+from debate import graph
 
 app = FastAPI()
 # CORS middleware setup to allow requests from frontend
@@ -200,29 +201,14 @@ class EvaluationRequest(BaseModel):
 
 @app.post("/evaluate")
 def evaluate_open_question(evaluation: EvaluationRequest):
-    prompt = f"""
-Given the open question, its correct answer, and the user's answer, evaluate the user's response for correctness.
-
-Open Question:
-{evaluation.question}
-
-Correct Answer:
-{evaluation.real_answer}
-
-User's Answer:
-{evaluation.user_answer}
-
-Please provide an evaluation stating whether the user's answer is correct, partially correct, or incorrect, and explain your reasoning.
-"""
-    response = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "mistral",
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-    evaluation_result = response.json().get("response", "[No response from LLM]")
+   
+    evaluation_result = graph.invoke({"turn":0,
+              "initial_question": evaluation.question,
+              "real_answer": evaluation.real_answer,
+              "user_answer": evaluation.user_answer,
+              "agreement":False,
+              "debater1_response":"", 
+              "debater2_response":""})
 
     return {
         "evaluation": evaluation_result
