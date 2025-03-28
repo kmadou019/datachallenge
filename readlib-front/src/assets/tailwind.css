@@ -1,0 +1,218 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+  font-family: 'poppins';
+  src: url('@/assets/fonts/Poppins-Regular.ttf');
+}
+
+body {
+  font-family: poppins;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #334155;
+  line-height: 1.25rem;
+}
+
+/*css*/
+.label-text {
+  color: #647ca4;
+}
+.sideMenu {
+  color: #9398a8;
+  background-color: #fcfdff;
+}
+
+.nav-element:hover {
+  background-color: rgba(47, 93, 180, 0.1);
+}
+
+.btn {
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.15rem;
+}
+
+.btn-primary {
+  color: #fff;
+  fill: #fff;
+  box-shadow: 0 25px 50px -12px rgba(41, 98, 255, 0.2);
+}
+
+.btn-sm {
+  border-radius: 0.45rem;
+}
+.btn-ghost {
+  color: #647ca4;
+  fill: #647ca4;
+}
+.btn-ghost:hover {
+  color: #1c3f68;
+  fill: #1c3f68;
+  background-color: rgba(41, 98, 255, 0.1);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(5, 23, 71, 0.1);
+  border-color: white;
+  border-width: 16px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #cbd5e1;
+}
+
+.btn-disabled {
+  color: white;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+/* pixaviz */
+.pixa-card {
+  background-color: #ffffff;
+  border-width: 1px;
+  border-color: #f1f5f9;
+  border-radius: 0.7rem;
+}
+.pixa-card-price {
+  background-color:rgb(241 245 249);
+  border-width: 1px;
+  border-color: #f1f5f9;
+  border-radius: 0.7rem;
+}
+
+.pixa-title {
+  font-size: large;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #1c3f68;
+}
+
+.pixa-text-tag {
+  font-size: 0.86rem;
+}
+
+.pixa-input {
+  display: block;
+  border-width: 1px;
+  height: 2.5rem;
+  border-radius: 0.35rem;
+  outline-width: 0px;
+  font-size: small;
+  border-color: #e2e8f0;
+  background-color: #ffffff;
+  box-shadow: 0 25px 50px -12px rgba(41, 98, 255, 0.2);
+  transition:
+    color 0.5s,
+    background-color border-color 0.5s;
+}
+
+.pixa-input-nofloat {
+  display: block;
+  border-width: 1px;
+  height: 2.5rem;
+  border-radius: 0.35rem;
+  outline-width: 0px;
+  font-size: small;
+  border-color: #e2e8f0;
+  background-color: #ffffff;
+}
+
+.pixa-textarea-nofloat {
+  display: block;
+  border-width: 1px;
+  border-radius: 0.35rem;
+  outline-width: 0px;
+  font-size: small;
+  border-color: #e2e8f0;
+  background-color: #ffffff;
+}
+
+.pixa-textarea-nofloat:focus {
+  border-color: #1c3f68;
+}
+
+.pixa-input-nofloat:focus {
+  display: block;
+  border-width: 1px;
+  border-color: #1c3f68;
+}
+
+.pixa-input:focus {
+  display: block;
+  border-width: 1px;
+  border-color: #1c3f68;
+  box-shadow: 0 25px 50px -12px rgba(41, 98, 255, 0.2);
+}
+
+.pixa-btn-float {
+  background-color: white;
+  border-width: 1px;
+  fill: #9398a8;
+  border-color: #e2e8f0;
+  box-shadow: 0 25px 50px -12px rgba(41, 98, 255, 0.2);
+}
+
+.pixa-btn-float:hover {
+  background-color: white;
+  fill: #1c3f68;
+  border-width: 1px;
+  border-color: #1c3f68;
+}
+
+.pixa-btn-nofloat {
+  background-color: white;
+  border-width: 1px;
+  fill: #9398a8;
+  border-color: #e2e8f0;
+}
+
+.pixa-btn-nofloat:hover {
+  background-color: white;
+  fill: #1c3f68;
+  border-width: 1px;
+  border-color: #1c3f68;
+}
+
+.pixa-btn {
+  height: 2.5rem;
+  border-radius: 0.35rem;
+}
+
+.glass-effect {
+  background: rgba(255, 255, 255, 0);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(12.8px);
+  -webkit-backdrop-filter: blur(12.8px);
+}
+
