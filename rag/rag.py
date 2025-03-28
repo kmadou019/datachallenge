@@ -12,16 +12,15 @@ from fpdf import FPDF
 from starlette.middleware.cors import CORSMiddleware
 
 app = FastAPI()
-# CORS middleware setup
+# CORS middleware setup to allow requests from frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins. You can restrict this to specific domains.
+    allow_origins=["*"], 
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all HTTP methods
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["*"], 
+    allow_headers=["*"], 
 )
 
-# Load and preprocess the data
 with open("../datasets/data_mcq.json") as f:
     mcq_data = json.load(f)
 
@@ -52,21 +51,21 @@ def match_location(query: str, result: dict) -> str:
     else:
         return "other"
 
-# Normalize and build a combined list of documents
+# Normalizing
 documents = []
 for q in mcq_data:
-    # For MCQ questions, we assign the type "MCQ"
+    # type "MCQ"
     documents.append(Question(type="MCQ", text=format_text_for_embedding(q), full=q))
 for q in open_data:
-    # For Open questions, we assign the type "Open"
+    # type "Open"
     documents.append(Question(type="Open", text=format_text_for_embedding(q), full=q))
 
-# Embed using a Sentence Transformer model
+# Embeddings
 model = SentenceTransformer("all-MiniLM-L6-v2")
 embeddings = model.encode([doc.text for doc in documents])
 embeddings = np.array(embeddings).astype("float32")
 
-# FAISS index
+# FAISS indexing
 dimension = embeddings.shape[1]
 index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
@@ -90,7 +89,7 @@ Explain the legal background and correct interpretation using only the informati
 Context:
 {context_text}
 """
-    else:  # default to exam mode
+    else:
         return f"""
 Given the legal query: '{query}'
 
@@ -122,30 +121,24 @@ def search(query: str = Query(..., description="Your keyword(s)"),
             with open("../datasets/data_open.json") as f:
                 selected_data = json.load(f)
         else:
-            # If an invalid type is provided, default to combined data
             selected_data = mcq_data + open_data
     else:
         selected_data = mcq_data + open_data
 
-    # Build documents for the selected dataset
     selected_documents = []
     for q in selected_data:
-        # Use the presence of Options to decide the type; otherwise assume Open
         if "Options" in q["Question"]:
             selected_documents.append(Question(type="MCQ", text=format_text_for_embedding(q), full=q))
         else:
             selected_documents.append(Question(type="Open", text=format_text_for_embedding(q), full=q))
 
-    # Embed the texts for the selected documents
     selected_embeddings = model.encode([doc.text for doc in selected_documents])
     selected_embeddings = np.array(selected_embeddings).astype("float32")
 
-    # Build a FAISS index for the selected dataset
     dimension = selected_embeddings.shape[1]
     selected_index = faiss.IndexFlatL2(dimension)
     selected_index.add(selected_embeddings)
 
-    # Get the query embedding and search the index
     query_vector = model.encode([query]).astype("float32")
     distances, indices = selected_index.search(query_vector, k)
 
@@ -153,7 +146,6 @@ def search(query: str = Query(..., description="Your keyword(s)"),
     context_parts = []
     for idx in indices[0]:
         doc_entry = selected_documents[idx]
-        # Determine the location of the match in the question (heading, options, or other)
         location = match_location(query, doc_entry.full)
         doc_entry.full["match_location"] = location
         results.append(doc_entry.full)
@@ -164,10 +156,8 @@ def search(query: str = Query(..., description="Your keyword(s)"),
 
     context_text = "\n".join(context_parts)
 
-    # Build the prompt for the legal query using the selected context
     prompt = build_prompt(context_text, query, mode)
 
-    # Call your external API (Ollama / Mistral 7B)
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
@@ -178,7 +168,6 @@ def search(query: str = Query(..., description="Your keyword(s)"),
     )
     generation = response.json().get("response", "[No response from Mistral]")
 
-    # Optionally export the results as a PDF
     if export_pdf:
         pdf = FPDF()
         pdf.add_page()
@@ -197,7 +186,6 @@ def search(query: str = Query(..., description="Your keyword(s)"),
         "results": results,
         "generated_answer": generation
     }
-# New model for evaluation requests with the complete details provided by the client
 class EvaluationRequest(BaseModel):
     question: str
     real_answer: str
@@ -205,14 +193,6 @@ class EvaluationRequest(BaseModel):
 
 @app.post("/evaluate")
 def evaluate_open_question(evaluation: EvaluationRequest):
-    """
-    Evaluation endpoint for open questions.
-    Expects a JSON payload with:
-      - question: the open question text
-      - real_answer: the correct answer provided by the question creator
-      - user_answer: the user's answer
-    It builds a prompt that compares both answers and sends it to the LLM for evaluation.
-    """
     prompt = f"""
 Given the open question, its correct answer, and the user's answer, evaluate the user's response for correctness.
 
@@ -227,7 +207,6 @@ User's Answer:
 
 Please provide an evaluation stating whether the user's answer is correct, partially correct, or incorrect, and explain your reasoning.
 """
-    # Call your external LLM API to evaluate the answer
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
