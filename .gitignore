@@ -2,4 +2,6 @@
 *.mp4
 .xlsx
 .gitignore
+db/
 mon_env/
+__pycache__/
