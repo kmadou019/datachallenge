@@ -7,9 +7,9 @@ import ast
 MAX_TURN = 5
 
 #Define agents
-name_orchestrator = "llama3.3"
+name_orchestrator = "llama2"
 name_debater1 = "mistral"
-name_debater2 = "phi4"
+name_debater2 = "phi3"
 # Initialize the LLMs
 orchestrator =  OllamaLLM(model=name_orchestrator)
 debater1 = OllamaLLM(model=name_debater1)
