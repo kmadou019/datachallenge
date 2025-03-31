@@ -315,3 +315,5 @@ wheel==0.42.0
 xdg==5
 xkit==0.0.0
 zipp==1.0.0
+weasyprint
+jinja2
