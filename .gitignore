@@ -3,3 +3,5 @@
 .xlsx
 .gitignore
 mon_env/
+__pycache__/
+*.pyc
