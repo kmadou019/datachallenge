@@ -105,7 +105,6 @@ Based only on the text below, do the following:
 Context:
 {context_text}
 """
-    
 @track_emissions(
     measure_power_secs=30,
     api_call_interval=4,
@@ -227,6 +226,52 @@ Please provide an evaluation stating whether the user's answer is correct, parti
     return {
         "evaluation": evaluation_result
     }
+
+# --- New Endpoint for Legal Query ---
+class LegalQueryRequest(BaseModel):
+    question: str
+
+@app.post("/legal_query")
+def legal_query(request: LegalQueryRequest):
+    query = request.question
+
+    # Compute embedding and search in the pre-built index
+    query_vector = model.encode([query]).astype("float32")
+    distances, indices = index.search(query_vector, 1)
+    best_distance = distances[0][0]
+
+    # Set a similarity threshold (this value may need tuning)
+    SIMILARITY_THRESHOLD = 0.6
+
+    if best_distance < SIMILARITY_THRESHOLD:
+        # Found a similar question in the database
+        similar_question = documents[indices[0][0]].full
+        return {
+            "found_similar": True,
+            "similar_question": similar_question,
+            "message": "A similar legal question was found in the database."
+        }
+    else:
+        # No sufficiently similar question found; generate an explanation via Mistral.
+        prompt = f"""
+Given the legal query: '{query}'
+
+Provide a detailed explanation of the legal issue, including the legal basis for your conclusion. Do not invent laws or facts.
+"""
+        response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": "mistral",
+                "prompt": prompt,
+                "stream": False
+            }
+        )
+        generation = response.json().get("response", "[No response from Mistral]")
+        return {
+            "found_similar": False,
+            "generated_explanation": generation,
+            "message": "No similar question was found in the database, so an explanation was generated."
+        }
 
 if __name__ == "__main__":
     uvicorn.run("embeddings:app", host="0.0.0.0", port=8000, reload=True)

@@ -32,10 +32,14 @@ def extract_json(text):
 
 class State(TypedDict):
     turn: int
-    intial_question: str
+    initial_question: str
+    real_answer: str
+    user_answer: str
     agreement: bool
     debater1_response: str
     debater2_response: str
+    final_evaluation: str
+
 def Orchestrator(state: State):
     if state['turn'] == 0:
         logger.info(f"Tour {state['turn']}:")
@@ -82,7 +86,7 @@ def Debater1(state: State):
     else:
         prompt = f"""
         Vous êtes l'Évaluateur 1.
-        Votre dernier argument : {state['debater1_response']}.
+        Votre dernier argument était : {state['debater1_response']}.
         Répondez aux arguments de l'Évaluateur 2 : {state['debater2_response']}.
         Donnez votre réponse en JSON :
         {{
@@ -108,7 +112,7 @@ def Debater2(state: State):
     else:
         prompt = f"""
         Vous êtes l'Évaluateur 2.
-        Votre dernier argument : {state['debater2_response']}.
+        Votre dernier argument était : {state['debater2_response']}.
         Répondez aux arguments de l'Évaluateur 1 : {state['debater1_response']}.
         Donnez votre réponse en JSON :
         {{
@@ -134,6 +138,9 @@ def last_action(state: State):
         Vous êtes l'orchestrateur.
         Le débat a atteint le nombre maximal de tours ({MAX_TURN}).
         Résumez le débat et donnez une conclusion sur l'exactitude de la réponse de l'utilisateur.
+        Donnez votre réponse comme si vous étiez un évaluateur qui parlait à un étudiant (ei: Your answer is correct/incorrect because ...).
+        Donne ta reponse sous le format :
+        "..."
         """
     if state['agreement'] == True:
         prompt = f"""
@@ -143,10 +150,14 @@ def last_action(state: State):
         Vous êtes l'orchestrateur.
         Un consensus a été atteint.
         Résumez le débat et donnez une conclusion finale sur l'exactitude de la réponse de l'utilisateur.
+        Donnez votre réponse comme si vous étiez un évaluateur qui parlait à un étudiant (ei: Your answer is correct/incorrect because ...).
+        Donne ta reponse sous le format :
+        "..."
         """
-    response = orchestrator.invoke(prompt)
-    logger.info(f"Résumé final du débat par l'orchestrateur ({name_orchestrator}) : {response}")
-    return {"agreement": True, "turn": state['turn']}
+    final_evaluation = orchestrator.invoke(prompt)
+    logger.info(f"Résumé final du débat par l'orchestrateur ({name_orchestrator}) : {final_evaluation}")
+    return {"agreement": True, "turn": state['turn'], "final_evaluation": final_evaluation}
+
 
 
 graph_builder = StateGraph(State)
@@ -166,8 +177,10 @@ graph = graph_builder.compile()
 if __name__ == "__main__":
     # Run the graph
     graph.invoke({"turn":0,
-                  "intial_question": "La mort est-elle un mal ?", # You can change this question
+                  "initial_question": "", # You can change this question
                   "agreement":False,
+                    "real_answer": "La mort est un mal car elle met fin à la vie et aux expériences humaines.",
+                    "user_answer": "La mort est un mal car elle met fin à la vie et aux expériences humaines.",
                   "debater1_response":"", 
                   "debater2_response":""})
     img = graph.get_graph().draw_mermaid_png()
