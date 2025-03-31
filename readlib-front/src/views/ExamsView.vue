@@ -57,7 +57,13 @@
                   {{ item.evaluation || 'Evaluating answer...' }}
                 </p>
               </div>
-            </div>
+              <div v-if="item.answered" class="mt-4">
+                <p class="text-sm text-green-600">
+                  <strong>The Evaluation emitted:</strong>
+                  {{ item.emission ? item.emission + ' kg eqCO₂' : 'Evaluating answer...' }}
+                </p>
+              </div> </div>
+              
   
             <!-- QCM Questions UI -->
             <div v-else>
@@ -98,7 +104,8 @@
   const useExams = useExamsStore();
   const loading = ref(true);
   const localQuestions = ref([]);
-  
+  const pdfDownloaded = ref(false)
+
   // Use the "question_type" property returned from the backend to determine exam type
   const isOpen = computed(() => useExams.questions.question_type === 'open');
   
@@ -111,7 +118,8 @@
         selectedIndex: null,
         answered: false,
         openAnswer: '',
-        evaluation: ''
+        evaluation: '',
+        emission: null
       }));
       loading.value = false;
     }
@@ -229,12 +237,14 @@
   
     // Call the evaluateAnswer function from the store (assumed to be defined)
     useExams.evaluateAnswer(payload)
-      .then(evaluation => {
-        localQuestions.value[questionIndex].evaluation = evaluation;
-      })
-      .catch(() => {
-        localQuestions.value[questionIndex].evaluation = 'Error evaluating answer';
-      });
+    useExams.evaluateAnswer(payload)
+  .then(({ evaluation, emission }) => {
+    localQuestions.value[questionIndex].evaluation = evaluation;
+    localQuestions.value[questionIndex].emission = emission;
+  })
+  .catch(() => {
+    localQuestions.value[questionIndex].evaluation = 'Error evaluating answer';
+  });
   }
   </script>
   
