@@ -9,19 +9,25 @@ import json
 import uvicorn
 import numpy as np
 import requests
-from fpdf import FPDF
 from starlette.middleware.cors import CORSMiddleware
+from weasyprint import HTML
+from jinja2 import Template
+from codecarbon import EmissionsTracker
+
+tracker = EmissionsTracker()
 
 app = FastAPI()
-# CORS middleware setup to allow requests from frontend
+
+# CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"], 
-    allow_headers=["*"], 
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
+# Load datasets
 with open("../datasets/data_mcq.json") as f:
     mcq_data = json.load(f)
 
@@ -52,21 +58,17 @@ def match_location(query: str, result: dict) -> str:
     else:
         return "other"
 
-# Normalizing
+# Prepare documents
 documents = []
 for q in mcq_data:
-    # type "MCQ"
     documents.append(Question(type="MCQ", text=format_text_for_embedding(q), full=q))
 for q in open_data:
-    # type "Open"
     documents.append(Question(type="Open", text=format_text_for_embedding(q), full=q))
 
-# Embeddings
+# Embedding + FAISS
 model = SentenceTransformer("all-MiniLM-L6-v2")
 embeddings = model.encode([doc.text for doc in documents])
 embeddings = np.array(embeddings).astype("float32")
-
-# FAISS indexing
 dimension = embeddings.shape[1]
 index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
@@ -105,6 +107,7 @@ Based only on the text below, do the following:
 Context:
 {context_text}
 """
+
 @track_emissions(
     measure_power_secs=30,
     api_call_interval=4,
@@ -112,13 +115,12 @@ Context:
     save_to_api=True,
 )
 @app.get("/search")
-def search(query: str = Query(..., description="Your keyword(s)"),
+def search(query: str = Query(...),
            k: int = 5,
            mode: str = Query("exam", enum=["exam", "summary", "explanation"]),
-           question_type: str = Query(None, description="Use 'open' for open questions or 'qcm' for multiple choice questions"),
+           question_type: str = Query(None),
            export_pdf: bool = False):
 
-    # Dynamically load the dataset based on the question_type parameter
     if question_type:
         if question_type.lower() == "qcm":
             with open("../datasets/data_mcq.json") as f:
@@ -140,7 +142,6 @@ def search(query: str = Query(..., description="Your keyword(s)"),
 
     selected_embeddings = model.encode([doc.text for doc in selected_documents])
     selected_embeddings = np.array(selected_embeddings).astype("float32")
-
     dimension = selected_embeddings.shape[1]
     selected_index = faiss.IndexFlatL2(dimension)
     selected_index.add(selected_embeddings)
@@ -163,7 +164,7 @@ def search(query: str = Query(..., description="Your keyword(s)"),
     context_text = "\n".join(context_parts)
 
     prompt = build_prompt(context_text, query, mode)
-
+    tracker.start()
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
@@ -175,14 +176,81 @@ def search(query: str = Query(..., description="Your keyword(s)"),
     generation = response.json().get("response", "[No response from Mistral]")
 
     if export_pdf:
-        pdf = FPDF()
-        pdf.add_page()
-        pdf.set_auto_page_break(auto=True, margin=15)
-        pdf.set_font("Arial", size=12)
-        pdf.multi_cell(0, 10, f"Query: {query}\n\nGenerated Answer:\n{generation}")
-        pdf_output = "output.pdf"
-        pdf.output(pdf_output)
-        with open(pdf_output, "rb") as f:
+        template = Template("""
+        <html>
+        <head>
+            <style>
+                body { font-family: Arial, sans-serif; padding: 20px; }
+                h1, h2 { color: #2c3e50; }
+                .question { margin-bottom: 20px; }
+                .options { margin-left: 20px; }
+                .generated { border-top: 1px solid #ccc; padding-top: 10px; margin-top: 30px; }
+                .meta { font-size: 0.9em; color: #555; }
+                .appendix { border-top: 2px dashed #ccc; padding-top: 20px; margin-top: 40px; }
+                .qa { margin-bottom: 20px; }
+            </style>
+        </head>
+        <body>
+            <h1>Legal Query</h1>
+            <p class="meta"><strong>Query:</strong> {{ query }}<br>
+            <strong>Mode:</strong> {{ mode }}<br>
+            {% if question_type %}<strong>Question Type:</strong> {{ question_type }}<br>{% endif %}</p>
+
+            <h2>Retrieved Questions</h2>
+            {% for q in results %}
+            <div class="question">
+                <p><strong>{{ loop.index }}. ({{ "MCQ" if "Options" in q.Question else "Open" }})</strong>
+                [Matched in: {{ q.match_location }}]</p>
+                <p>{{ q.Question.heading }}</p>
+                {% if q.Question.Options %}
+                <div class="options">
+                    <ul>
+                    {% for opt in q.Question.Options %}
+                        <li>{{ opt }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+
+            <div class="generated">
+                <h2>Generated Answer</h2>
+                <p>{{ generation }}</p>
+            </div>
+
+            <div class="appendix">
+                <h2>Appendix: Answers, Legal Basis, and Explanation</h2>
+                {% for q in results %}
+                <div class="qa">
+                    <p><strong>{{ loop.index }}. {{ q.Question.heading }}</strong></p>
+                    {% if q.Question.Answer %}
+                        <p><strong>Answer:</strong> {{ q.Question.Answer }}</p>
+                    {% endif %}
+                    {% if q.Question.LegalBasis %}
+                        <p><strong>Legal Basis:</strong> {{ q.Question.LegalBasis }}</p>
+                    {% endif %}
+                    {% if q.Question.Explanation %}
+                        <p><strong>Explanation:</strong> {{ q.Question.Explanation }}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </body>
+        </html>
+        """)
+
+        html_content = template.render(
+            query=query,
+            mode=mode,
+            question_type=question_type,
+            results=results,
+            generation=generation
+        )
+
+        pdf_file = "output.pdf"
+        HTML(string=html_content).write_pdf(pdf_file)
+        with open(pdf_file, "rb") as f:
             return Response(content=f.read(), media_type="application/pdf")
 
     return {
@@ -192,6 +260,7 @@ def search(query: str = Query(..., description="Your keyword(s)"),
         "results": results,
         "generated_answer": generation
     }
+
 class EvaluationRequest(BaseModel):
     question: str
     real_answer: str
@@ -221,30 +290,25 @@ Please provide an evaluation stating whether the user's answer is correct, parti
             "stream": False
         }
     )
+    emission = tracker.stop()
     evaluation_result = response.json().get("response", "[No response from LLM]")
-
     return {
-        "evaluation": evaluation_result
+        "evaluation": evaluation_result,
+        "emission": round(emission, 6)
     }
 
-# --- New Endpoint for Legal Query ---
 class LegalQueryRequest(BaseModel):
     question: str
 
 @app.post("/legal_query")
 def legal_query(request: LegalQueryRequest):
     query = request.question
-
-    # Compute embedding and search in the pre-built index
     query_vector = model.encode([query]).astype("float32")
     distances, indices = index.search(query_vector, 1)
     best_distance = distances[0][0]
-
-    # Set a similarity threshold (this value may need tuning)
     SIMILARITY_THRESHOLD = 0.6
 
     if best_distance < SIMILARITY_THRESHOLD:
-        # Found a similar question in the database
         similar_question = documents[indices[0][0]].full
         return {
             "found_similar": True,
@@ -252,7 +316,6 @@ def legal_query(request: LegalQueryRequest):
             "message": "A similar legal question was found in the database."
         }
     else:
-        # No sufficiently similar question found; generate an explanation via Mistral.
         prompt = f"""
 Given the legal query: '{query}'
 
@@ -274,4 +337,4 @@ Provide a detailed explanation of the legal issue, including the legal basis for
         }
 
 if __name__ == "__main__":
-    uvicorn.run("embeddings:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("rag:app", host="0.0.0.0", port=8000, reload=True)
