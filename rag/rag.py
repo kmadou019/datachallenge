@@ -11,7 +11,9 @@ import numpy as np
 import requests
 from fpdf import FPDF
 from starlette.middleware.cors import CORSMiddleware
+from codecarbon import EmissionsTracker
 
+tracker = EmissionsTracker()
 app = FastAPI()
 # CORS middleware setup to allow requests from frontend
 app.add_middleware(
@@ -213,6 +215,7 @@ User's Answer:
 
 Please provide an evaluation stating whether the user's answer is correct, partially correct, or incorrect, and explain your reasoning.
 """
+    tracker.start()
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
@@ -221,10 +224,12 @@ Please provide an evaluation stating whether the user's answer is correct, parti
             "stream": False
         }
     )
+    emission = tracker.stop()
     evaluation_result = response.json().get("response", "[No response from LLM]")
 
     return {
-        "evaluation": evaluation_result
+        "evaluation": evaluation_result,
+        "emission": round(emission, 6)
     }
 
 # --- New Endpoint for Legal Query ---
