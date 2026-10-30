@@ -4,4 +4,10 @@
 .gitignore
 mon_env/
 __pycache__/
+*.pycnode_modules/
+.env
+.DS_Store
+__pycache__/
 *.pyc
+credentials.json
+*_log.txt

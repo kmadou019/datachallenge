@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
-source ../../subjective-comment-clf/mon_env/bin/activate
-/home/daisy/konema/Documents/ollama/bin/ollama serve & >/dev/null
+# Start the local Ollama server, then run the LLM debate.
+ollama serve > /dev/null 2>&1 &
 ./run_debate.py
